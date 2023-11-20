@@ -1,6 +1,6 @@
 # Fundamentos de la gestión de proyectos
 
-## modulo_1
+## modulo_1 Iniciar una carrera en gestion de proyectos
 
 ## modulo_2
 
