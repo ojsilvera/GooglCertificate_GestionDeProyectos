@@ -309,8 +309,18 @@ sus equipos y con los interesados para recopilar información y hacer un plan.
     Los interesados son personas que tienen interés y se ven afectadas por la finalización y el éxito del proyecto, como
     el líder de una organización.
 
-La priorizacion establece el orden en el que se desarrollaran las tareas, teniendo en cuenta multiples factores, nivel de
-urgencia por tiempo de vencimiento, nivel de prioridad por que sin esa tarea otras se veran afectadas en su cumplimiento, etc.
+*La priorizacion*establece el orden en el que se desarrollaran las tareas, teniendo en cuenta multiples factores, nivel de
+urgencia por tiempo de vencimiento, nivel de prioridad por que sin esa tarea otras se veran afectadas en su cumplimiento,
+etc. Cuando priorizas de manera eficaz las tareas importantes, preparas a tu equipo y a ti mismo para un mejor resultado
+del proyecto. Ahora hablemos de la delegación.
+
+Los gerentes de proyectos usan *la delegación* para agregar valor a sus equipos y organizaciones al asignar tareas a las
+personas que mejor pueden completar el trabajo.
+
+*La comunicación efectiva.* Los gerentes de proyectos agregan valor a través de una comunicación efectiva, tanto con su
+equipo como con los principales interesados. Esto se refiere a ser transparente, lo que significa ser sincero acerca de
+los planes e ideas y facilitar el acceso a la información. Los gerentes de proyectos se mantienen en contacto regular con
+su equipo sobre el progreso del trabajo y ayudan a identificar áreas donde un compañero de equipo puede necesitar apoyo.
 
 #### El valor de un gerente de proyectos
 
