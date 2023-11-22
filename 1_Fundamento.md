@@ -297,8 +297,12 @@ cables a nivel interpersonal y organizativo en cada paso del camino.
 
 Los gerentes de proyectos suelen seguir un proceso que implica planificar y organizar, administrar tareas, presupuestar
 y controlar costos para que el proyecto se pueda completar dentro del plazo aprobado. Los gerentes de proyectos tienen
-un rol fundamental en sus organizaciones. Los gerentes de proyectos agregan valor a sus equipos y organizaciones de formas
-clave que incluyen la priorización, delegación y comunicación efectiva.
+un rol fundamental en sus organizaciones.
+
+#### El valor de un gerente de proyectos
+
+Los gerentes de proyectos agregan valor a sus equipos y organizaciones de formas clave que incluyen la priorización,
+delegación y comunicación efectiva.
 
 *la priorización*. Los gerentes de proyectos agregan valor a sus equipos y organizaciones por medio de la priorización
 efectiva de las tareas necesarias para completar un proyecto. Son expertos en ayudar a los miembros del equipo a identi-
@@ -322,7 +326,114 @@ equipo como con los principales interesados. Esto se refiere a ser transparente,
 los planes e ideas y facilitar el acceso a la información. Los gerentes de proyectos se mantienen en contacto regular con
 su equipo sobre el progreso del trabajo y ayudan a identificar áreas donde un compañero de equipo puede necesitar apoyo.
 
-#### El valor de un gerente de proyectos
+#### Cómo afectan los gerentes de proyectos a las organizaciones
+
+Has aprendido que los gerentes de proyectos pueden priorizar, delegar y comunicarse con eficacia para aportar valor a sus
+proyectos. Estas formas incluyen:
+
+* *Centrarse en el cliente*
+
+    Los clientes son siempre un elemento clave para el éxito de cualquier negocio. El campo de la gestión de proyectos no
+    es excepción.
+
+    En la gestión de proyectos, la palabra “cliente” se refiere a una persona u organización que define los requisitos del
+    proyecto y establece pautas importantes, como el presupuesto y los plazos. En los proyectos, los clientes pueden ser
+    internos o externos. Los clientes internos son los interesados que forman parte de tu organización, como la gerencia,
+    los miembros del equipo del proyecto, los gerentes de recursos y otros departamentos de la organización. Los clientes
+    externos son ajenos a tu organización, como los contratistas, proveedores y consumidores.
+
+    Para ejecutar un proyecto con éxito, éste debe cumplir con los estándares del cliente. Para cumplir con los estándares
+    del cliente, debes asegurarte de entender con claridad sus expectativas. El cliente está en el centro de un proyecto
+    exitoso.
+
+    Los gerentes de proyectos pueden agregar mucho valor al proyecto si entablan relaciones con los clientes y se toman
+    el tiempo para asegurarse de que se escuche al cliente y que esté satisfecho con el resultado.
+
+    Hacer preguntas al cliente
+
+        En primer lugar, siéntate con el cliente y pregúntale qué problema está tratando de resolver. Podrías preguntarle
+        si tienen una visión específica del resultado final que les gustaría obtener. A veces, los clientes dependen de
+        los gerentes de proyectos para encontrar la solución a su problema. Tu trabajo consiste en hacer preguntas
+        como:
+
+        ¿Cuál es el problema que le gustaría que lo ayudáramos a resolver? Respuesta de ejemplo: El cliente quiere ayuda
+        para desarrollar un nuevo proceso que permita a su empresa ser más eficiente.
+
+        ¿Cómo afecta el problema a su organización? Respuesta de ejemplo: El cliente afirma que está perdiendo clientes
+        debido a la ineficiencia de sus procesos actuales, ya que a veces los clientes reciben sus pedidos con retraso.
+
+        ¿Qué lo impulsó a pedir ayuda en este momento? Respuesta de ejemplo: El cliente dice que se puede reducir la
+        financiación de su departamento si no mejora la eficiencia.
+
+        ¿Qué esperanzas tiene con respecto al resultado de este proyecto? Respuesta de ejemplo: El cliente afirma que su
+        objetivo final es aumentar la velocidad a la que preparan los pedidos sin sacrificar la calidad.
+
+    Tomarse el tiempo para profundizar un poco más en el “por qué” detrás del proyecto puede ayudar a un gerente de pro-
+    yectos a brindar un mejor apoyo y comprender más al cliente. Cuanto más entiendas los objetivos del cliente, más pro-
+    babilidades tendrás de producir lo que el cliente busca.
+
+* *Formar un equipo excelente*
+
+    El equipo es el mayor activo de un proyecto. Un gerente de proyectos exitoso lo sabe y se toma el tiempo para compren-
+    der las motivaciones, fortalezas y debilidades de cada persona. Los gerentes de proyectos agregan valor al proyecto
+    al identificar el equipo adecuado para el proyecto y permitir que el equipo tenga éxito y tome decisiones.
+
+    Cuando trabajas para formar un equipo excelente, tienes que tener en cuenta las destrezas necesarias para el proyecto,
+    así como los recursos disponibles.
+
+    Comprender los requisitos del cliente ayuda a dar forma a las destrezas que debe tener el equipo.
+
+    Como gerente de proyectos, debes atraer a personas con las destrezas adecuadas y asegurarte de que cada miembro
+    del equipo sepa que es valorado y apreciado, y que confías en ellos.
+
+    Para demostrar cómo te sientes con respecto al valor del equipo, puedes permitirles aportar información y hacer pre-
+    guntas, y atender sus necesidades lo antes posible.
+
+* *Fomentar las relaciones y la comunicación*
+
+    Como gerente de proyectos, mantener la satisfacción del cliente y formar un equipo excelente son dos formas en las
+    que puedes agregar valor a un proyecto.
+
+    Ambas destrezas se basan en las relaciones y la comunicación. Los gerentes de proyectos que aportan más valor son los
+    que se toman el tiempo para entablar relaciones, comunicarse y tratar a los demás con consideración y respeto.
+
+    Los gerentes de proyectos pueden marcar la pauta de un proyecto y entablar relaciones dentro de sus equipos y con los
+    interesados.
+
+    Tomarte el tiempo para hablar diariamente con tu equipo, ver cómo les va y preguntar si hay algo en lo que necesitan
+    ayuda puede ser fundamental para que se sientan valorados y escuchados.
+
+* *Gestionar el proyecto*
+
+    Cuando formas equipos, a cada persona se le asignan tareas específicas del proyecto. Una vez finalizada la tarea, la
+    persona responsable de esa tarea entrega esa parte del proyecto a la siguiente persona.
+
+    Los miembros de tu equipo no siempre ven el panorama completo ni cómo afectan a los demás en un proyecto.
+
+    Un gerente de proyectos exitoso observa el impacto de cada proceso dentro del proyecto y lo comunica al equipo. Esto
+    garantiza que todos los que trabajan en el proyecto comprendan el objetivo de su tarea, así como el objetivo general
+    del producto terminado.
+
+    Por ejemplo, si un diseñador gráfico que trabaja en materiales de marketing para tu proyecto no entiende el objetivo
+    general del cliente de atraer a los educadores, es posible que no pueda captar completamente la visión de la campaña.
+
+    Ayudar a este miembro del equipo a comprender el panorama general le permitirá adaptar sus tareas para satisfacer las
+    necesidades del objetivo final del proyecto.
+
+    Gestionar un proyecto puede ser complicado, pero si te tomas el tiempo de entablar relaciones y mantener líneas de
+    comunicación abiertas, aumentarás las posibilidades de éxito del proyecto, así como la satisfacción del cliente y de
+    los miembros de tu equipo.
+
+* *Superar los obstáculos*
+
+    Un gerente de proyectos agrega valor a un proyecto cuando supera obstáculos, permite a su equipo crear nuevas formas
+    de hacer las cosas y fomenta el intercambio de ideas. Como gerente de proyectos, tienes que ser un ejemplo de ingenio
+    y colaboración, y animar a tu equipo a hacer lo mismo.
+
+    ¿Cómo puedes superar los obstáculos en un proyecto? Puedes ofrecer apoyo al equipo a medida que prueben nuevos enfoques
+    para buscar soluciones, y puedes abogar por recursos adicionales para el equipo. Si a tu equipo le resulta difícil
+    obtener una respuesta de otra organización, puedes ponerte en contacto con esa organización tú mismo para mantener al
+    equipo encaminado y dentro de los plazos programados.
 
 ### Más información sobre las funciones y responsabilidades del gerente de proyectos
 
