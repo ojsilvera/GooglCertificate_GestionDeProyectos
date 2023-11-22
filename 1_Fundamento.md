@@ -26,7 +26,7 @@ esperados, dentro del plazo y el presupuesto previstos.
 Akgun aspectos basifos de la gestion de proyectos incluye: planificación y organización, gestión de tareas, elaboración
 de presupuestos y control de costos, entre otros.
 
-### ¿Qué hace un gerente de proyectos?*
+#### ¿Qué hace un gerente de proyectos?*
 
 Los gerentes de proyectos suelen seguir un proceso que implica planificar y organizar, gestionar tareas, elaborar presu-
 puestos y controlar costos y otros factores Todo lo que hacen apunta a que el proyecto se lleve a cabo dentro del plazo
@@ -39,6 +39,8 @@ Un gerente de proyectos puede añadir valor de muchas maneras diferentes. Ya sea
 clientes o modifica uno actual para que se adapte mejor a las necesidades del cliente. No importa cuál sea la tarea, los
 proyectos exitosos siempre añaden valor. Es el trabajo del gerente de proyectos asegurarse de que el proyecto sea valio-
 so y exitoso.
+
+#### Destrezas transferibles de la gestión de proyectos
 
 *Las responsabilidades diarias de un gerente de proyectos incluyen alguna forma de:*
 
@@ -55,9 +57,9 @@ sobre cómo avanza el proyecto.
 ponsabilidad común que tienen que entender los gerentes para avanzar dentro del presupuesto. Es un trabajo a tiempo com-
 pleto porque el plan que creaste y que gestionas puede cambiar, y esto causar un aumento de costos inesperado.
 
-### Destrezas transferibles de la gestión de proyectos
+#### Pasos para convertirte en gerente de proyectos
 
-### Conocer cuáles son las carreras relativas a la gestión de proyectos
+#### Conocer cuáles son las carreras relativas a la gestión de proyectos
 
 ## modulo_2
 
