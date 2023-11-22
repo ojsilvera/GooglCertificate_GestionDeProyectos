@@ -437,6 +437,40 @@ proyectos. Estas formas incluyen:
 
 ### Más información sobre las funciones y responsabilidades del gerente de proyectos
 
+#### Responsabilidades basicas
+
+La planificación y organización. Una responsabilidad que corresponde al área de planificación y organización es aprovechar
+las herramientas de productividad y la creación de procesos. Durante la planificación y ejecución de un proyecto, es po-
+sible que tengas que utilizar ciertas herramientas y desarrollar procesos para mejorar el intercambio de información en
+todo el equipo; es posible que también debas crear planes, plazos, horarios, y otras formas de documentación para realizar
+un seguimiento del progreso del proyecto, y usualmente deberás mantener al día esos documentos a lo largo de la totalidad
+del proyecto.
+
+la elaboración de presupuestos, el control de costos, etc. Mientras el proyecto está en marcha, cambios en el plan y el
+presupuesto es inevitable que aparezcan. Créeme. Esto requerirá que controles y administres el presupuesto, rastrees problemas
+y riesgos a medida que surgen, y mitigues esos problemas y riesgos para gestionar la calidad. Una forma de hacer esto es
+eliminar las barreras imprevistas que surgen. Cuando decimos obstáculos, queremos decir cosas que pueden impedir el progreso
+del proyecto.
+
+El rol de gerente de proyectos es gestionar tareas. Una tarea del proyecto es una actividad que se debe cumplir dentro de
+un período de tiempo establecido por ti, tu equipo o los interesados. El seguimiento de tareas es una buena manera de ayudar
+a gestionar la carga de trabajo del equipo y asegurarse de que se hagan las cosas. El seguimiento de las tareas es también
+una excelente herramienta para mostrar el progreso a quienes no forman parte del equipo inmediato, como los interesados.
+
+#### Responsabilidades que utilizan destrezas interpersonales
+
+* Enseñanza y tutoría
+  
+  Cuando te tomas el tiempo para explicar completamente las expectativas, eliminas las repeticiones, la confusión y la
+  frustración. Ser un mentor y enseñar a otros las lecciones que tú has aprendido como gerente de proyectos, le permite
+  al equipo tomar mejores decisiones y aprovechar tu experiencia. La tutoría también implica apoyar a cada persona del
+  equipo a cumplir con las expectativas y ayudarlos a superar su propia idea de potencial personal.
+
+* Establecer relaciones
+* Controlar el cambio
+* Empoderar al equipo
+* Comunicar el estado y las inquietudes
+
 ### Adquirir las destrezas básicas de un gerente de proyectos exitoso
 
 ## modulo_3
