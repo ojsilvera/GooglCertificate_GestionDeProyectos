@@ -59,6 +59,10 @@ pleto porque el plan que creaste y que gestionas puede cambiar, y esto causar un
 
 #### Pasos para convertirte en gerente de proyectos
 
+Toma responsabilidad de tu vida, planea, ejecuta, monitorea, evalua y replanea, repite el ciclo en cada aspaecto de tu vida,
+los gerentes de proyectos no dejan nada al azar, siempre, planean, ejecutan, monitorean, evaluan y reestrcuturan su plan
+inicial.
+
 #### Conocer cuáles son las carreras relativas a la gestión de proyectos
 
 ## modulo_2
