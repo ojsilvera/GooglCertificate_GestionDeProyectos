@@ -163,6 +163,131 @@ Algunos puestos de gestión operativa son:
     Director de operaciones. Es responsable de supervisar las funciones administrativas y operativas cotidianas de una
     empresa.
 
+*Puestos del área Agile.*
+
+Algunos de los puestos que puedes encontrar relacionados con este enfoque:
+
+    Scrum Master. Coordina y guía al equipo de Scrum. Posee conocimientos sobre el marco de trabajo de Agile y Scrum, y
+    es capaz de capacitar a otras personas en los valores y principios de Scrum.
+
+    Encargado del producto. Contribuye con la dirección del desarrollo y el progreso de los productos.
+
+#### Cómo usar palabras de moda para buscar trabajo
+
+las palabras de moda: palabras o frases que son populares durante un periodo o en un sector en particular. En el mercado
+laboral actual, son comunes las palabras o frases de moda como «basado en datos», «espíritu de equipo» y «con iniciativa».
+
+Es posible que veas que aparecen términos como estos en tus búsquedas:
+
+    *Coordinación*, es decir conseguir que las personas y los equipos trabajen juntos. Es posible que veas que se mencionan
+    responsabilidades en las descripciones de los puestos, como «coordinación de esfuerzos para lograr la entrega del proyecto»
+    o «coordinar los recursos internos para garantizar la finalización exitosa del proyecto». Ser gerente de proyectos es,
+    en esencia, gestionar la coordinación de los recursos para lograr el objetivo final. La coordinación es una de las
+    principales destrezas que debe tener un gerente de proyectos, por lo que buscar este término puede ayudar a que encuentres
+    los puestos apropiados.
+
+    *Organización*, es decir la capacidad de mantenerte concentrado en diferentes tareas. Es posible que encuentres frases
+    como «destrezas sólidas de organización, incluida la atención al detalle y la capacidad de realizar múltiples tareas»
+    o algo tan simple como «altamente organizado». La organización es clave para ser un muy buen gerente de proyectos.
+
+    *Liderazgo*, es decir poder dirigir a un grupo de personas. Es posible que veas frases como «fuertes cualidades de
+    liderazgo» o «capacidad para liderar» en las descripciones de puestos. Un gerente de proyectos debe demostrar su capa-
+    cidad de liderazgo de varias maneras, entre ellas con la planificación eficaz, la coordinación eficiente de tareas,
+    la motivación de los integrantes del equipo y la toma de decisiones clave. Estás trabajando en muchas de las destrezas
+    necesarias para convertirte en un gran líder en este programa.
+
+Palabras de moda comunes de la gestión de proyectos
+
+Incluir palabras de moda y destrezas en tu búsqueda de empleo puede ayudarte a encontrar trabajos que sean ideales para
+ti y tu conjunto de destrezas. Una vez que hayas encontrado un puesto que te interese, usar las palabras de moda y las
+destrezas relevantes para el puesto también puede facilitar que los reclutadores y gerentes de contratación te identifiquen
+como un candidato calificado que posee los conocimientos requeridos.
+
+Algunas palabras de moda y destrezas comunes relacionadas con la gestión de proyectos que podrías incluir en tu currículum
+son:
+
+    Analítico
+
+    Firme
+
+    Evaluación de resultados
+
+    Evaluación del progreso
+
+    Detallismo
+
+    Resolución de conflictos
+
+    Enfoque de colaboración
+
+    Coordinación
+
+    Comunicación
+
+    Desarrollo
+
+    Evaluación
+
+    Ejecución de planes
+
+    Análisis financiero
+
+    Evaluación de impacto
+
+    Captación del interés de los líderes
+
+    Gestión de reuniones
+
+    Gestión de las expectativas del cliente
+
+    Gestión de conflictos
+
+    Gestión de relaciones con los interesados
+
+    Gestión de proveedores
+
+    Capacidad de cumplir con plazos
+
+    Monitoreo
+
+    Capacidad para manejar múltiples tareas
+
+    Planificación
+
+    Capacidad para priorizar
+
+    Resolución de problemas
+
+    Desarrollo de procesos
+
+    Mejora de procesos
+
+    Coordinación de proyectos
+
+    Implementación de proyectos
+
+    Inicialización de proyectos
+
+    Planificación de proyectos
+
+    Informes de proyectos
+
+    Control de calidad
+
+    Evaluación de riesgos
+
+    Gestión de riesgos
+
+    Desarrollo de soluciones
+
+    Planificación estratégica
+
+    Destrezas interpersonales sólidas
+
+    Excelente comunicación verbal
+
+    Excelente comunicación escrita
+
 ## modulo_2
 
 ## modulo_3
