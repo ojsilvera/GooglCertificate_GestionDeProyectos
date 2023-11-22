@@ -26,7 +26,7 @@ esperados, dentro del plazo y el presupuesto previstos.
 Akgun aspectos basifos de la gestion de proyectos incluye: planificación y organización, gestión de tareas, elaboración
 de presupuestos y control de costos, entre otros.
 
-#### ¿Qué hace un gerente de proyectos?*
+#### ¿Qué hace un gerente de proyectos?
 
 Los gerentes de proyectos suelen seguir un proceso que implica planificar y organizar, gestionar tareas, elaborar presu-
 puestos y controlar costos y otros factores Todo lo que hacen apunta a que el proyecto se lleve a cabo dentro del plazo
