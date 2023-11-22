@@ -288,7 +288,35 @@ son:
 
     Excelente comunicación escrita
 
-## modulo_2
+## modulo_2 Convertirse en un gerente de proyectos eficaz
+
+### Exploración de cómo un gerente de proyectos agrega valor
+
+Los gerentes de proyectos dirigen proyectos de principio a fin y son guías para su equipo, gracias a sus destrezas impe-
+cables a nivel interpersonal y organizativo en cada paso del camino.
+
+Los gerentes de proyectos suelen seguir un proceso que implica planificar y organizar, administrar tareas, presupuestar
+y controlar costos para que el proyecto se pueda completar dentro del plazo aprobado. Los gerentes de proyectos tienen
+un rol fundamental en sus organizaciones. Los gerentes de proyectos agregan valor a sus equipos y organizaciones de formas
+clave que incluyen la priorización, delegación y comunicación efectiva.
+
+*la priorización*. Los gerentes de proyectos agregan valor a sus equipos y organizaciones por medio de la priorización
+efectiva de las tareas necesarias para completar un proyecto. Son expertos en ayudar a los miembros del equipo a identi-
+ficar y dividir las tareas grandes en pasos más pequeños. Habrá ocasiones en las que un gerente de proyectos posiblemente
+no sepa qué tarea priorizar. Para determinar cuáles son las más importantes para el éxito del proyecto, se conectarán con
+sus equipos y con los interesados para recopilar información y hacer un plan.
+
+    Los interesados son personas que tienen interés y se ven afectadas por la finalización y el éxito del proyecto, como
+    el líder de una organización.
+
+La priorizacion establece el orden en el que se desarrollaran las tareas, teniendo en cuenta multiples factores, nivel de
+urgencia por tiempo de vencimiento, nivel de prioridad por que sin esa tarea otras se veran afectadas en su cumplimiento, etc.
+
+#### El valor de un gerente de proyectos
+
+### Más información sobre las funciones y responsabilidades del gerente de proyectos
+
+### Adquirir las destrezas básicas de un gerente de proyectos exitoso
 
 ## modulo_3
 
