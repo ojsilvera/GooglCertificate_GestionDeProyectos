@@ -754,28 +754,28 @@ logren los resultados esperados.
 La mayoría de los ciclos de vida de los proyectos tienen cuatro fases principales, cada una con su conjunto propio de
 tareas e inquietudes. Las principales fases de un proyecto son:
 
-* Iniciar el proyecto
+* *Iniciar el proyecto*
 
     Es el punto de partida para todo el proceso del proyecto. En esta fase, definirás los objetivos y los entregables del
     proyecto, identificarás el presupuesto y los recursos necesarios, las personas involucradas y cualquier otro detalle que
     pueda impedir la correcta finalización del proyecto. Documentarás toda esta información en un lugar para mostrar el valor
     del proyecto, y con suerte conseguirás la aprobación para continuar. Una vez aprobado el proyecto, puedes comenzar.
 
-* Elaborar un plan
+* *Elaborar un plan*
 
     Elaborarás un plan sobre cómo se alcanzarán los objetivos del proyecto. Para ser efectivo, el plan necesita incluir:
     un presupuesto, un desglose de todas las tareas que deben realizarse, formas de comunicar los roles y las responsa-
     bilidades del equipo, un cronograma, recursos y qué hacer en caso de problemas o cambios en el proyecto, entre otros
     datos.
 
-* Ejecutar y completar las tareas
+* *Ejecutar y completar las tareas*
 
     Es importante señalar que el equipo del proyecto debe completar las tareas. Como gerente de proyectos, tu rol es un
     poco diferente. Si bien puedes encargarte de completar ciertas tareas en el proyecto, tu trabajo principal como gerente
     de proyectos es supervisar el progreso y mantener al equipo motivado. También eliminarás los obstáculos que puedan
     surgir para que las tareas se ejecuten bien y a tiempo.
 
-* Cerrar el proyecto.
+* *Cerrar el proyecto*
 
     Cuando se hayan completado todas las tareas, se contabilicen todos los recursos y el proyecto haya llegado a su fin,
     es hora de cerrar el proyecto. ¿Por qué es importante el cierre? Un motivo importante es que el equipo pueda celebrar
