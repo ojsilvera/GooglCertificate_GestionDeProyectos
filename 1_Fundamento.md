@@ -529,8 +529,101 @@ finanzas. Así que trabajarás con esos equipos para asegurarte de que todos est
 
 #### Trabajar con equipos multidisciplinarios
 
+Los miembros de un equipo multidisciplinario se denominan “profesionales en T”. Son expertos en cómo colaborar e innovar
+con personas que desempeñan diferentes funciones laborales y están en diferentes departamentos, pero también hacen aportes
+en sus propias áreas de especialización. Cada miembro de un equipo multidisciplinario tiene su propia perspectiva y expe-
+riencia únicas, y trae consigo diferentes ideas y estrategias al proyecto.
+
+* *Aclarar los objetivos*
+
+    Al trabajar con equipos multidisciplinarios, es importante asegurarse de que cada miembro del equipo comprenda su función
+    cómo se apoyan mutuamente y los objetivos comunes del proyecto.
+
+    Es vital establecer objetivos claros para el equipo y asegurarse de que el equipo los entienda.
+
+    Debes ser directo y conciso, y evitar detalles y explicaciones extraños.
+
+    Al comunicar los objetivos de la tarea o del proyecto, asegúrate de definir los elementos clave, como el presupuesto,
+    los plazos, los requisitos de calidad o los recursos importantes.
+
+    Para asegurarte de que los miembros del equipo entienden los objetivos de las tareas y del proyecto, aclara la infor-
+    mación y anímalos a hacer preguntas.
+
+    De ti depende hablar continuamente con el equipo para asegurarte de que todos avanzan hacia sus objetivos, se mantienen
+    encaminados y realizan un trabajo de calidad.
+
+    Los equipos multidisciplinarios pueden trabajar en diferentes departamentos, estar en ubicaciones físicas distintas y
+    tener un liderazgo diferente, pero todos los miembros del equipo trabajan junto con el gerente de proyectos para hacer
+    avanzar el proyecto actual.
+
+* *Conseguir los miembros del equipo que tengan las destrezas adecuadas*
+
+    Es fundamental asegurarte de tener miembros del equipo con las destrezas adecuadas para cada una de las funciones del
+    proyecto. Como gerente de proyectos, debes asegurarte de que el equipo tenga a los integrantes adecuados y que cuenten
+    con las destrezas necesarias para que el proyecto tenga éxito.
+
+* *Medir el progreso*
+
+    Mostrar al equipo cuánto ha logrado hacer ayuda a mantenerlo motivado. Toma el tiempo necesario para medir y comunicar
+    el progreso del proyecto a todo el equipo multidisciplinario. Esto ayuda a que todos vean el panorama completo y reco-
+    nozcan su impacto en el proyecto.
+
+    Puedes medir el progreso de muchas maneras, como cumplir los hitos clave, completar tareas del proyecto y cumplir los
+    objetivos del proyecto a tiempo y dentro del presupuesto. Comunícate regularmente con los miembros de tu equipo para
+    mantenerte al tanto de su progreso.
+
+    Pregúntales si creen que terminarán a tiempo. Si no, pregúntales cómo puedes ayudarlos a tener éxito.
+
+    Es posible que tu proyecto compita con otras prioridades, por lo que comunicarte de forma clara y frecuente con tu
+    equipo (y viceversa) te ayuda a identificar cualquier problema o inquietud potencial antes de que surja.
+
+* *Reconocer esfuerzos*
+
+    Cuando trabajas con equipos multidisciplinarios, hay ciertas destrezas que tienen más reconocimiento que otras.
+
+    Como gerente de proyectos, es tu trabajo asegurarte de que cada miembro del equipo multidisciplinario reconozca el
+    valor de sus esfuerzos en cada paso del camino.
+
+    Aprender qué hace que los miembros del equipo se sientan respaldados, dar y recibir opiniones, y tener en cuenta los
+    antecedentes, los identificadores personales y el estilo de trabajo de cada persona puede ayudarte a mediar en algunas
+    de las diferencias que pueden aparecer entre los miembros del equipo.
 
 ### Adquirir las destrezas básicas de un gerente de proyectos exitoso
+
+#### Las destrezas básicas de un gerente de proyectos
+
+hay cuatro habilidades específicas que creemos que pueden llevarte al éxito. Estas son facilitar la toma de decisiones,
+comunicación y escalamiento, flexibilidad, y sólidas habilidades organizativas.
+
+*La toma de decisiones.* Facilitar la toma de decisiones en el equipo, o recopilar decisiones del líder apropiado, es crucial
+para mantener los proyectos encaminados y lograr sus objetivos. Muchas de las decisiones diarias de un proyecto es probable
+que dependan de acuerdos y conversaciones entre tú y tu equipo. Te asegurarás de que los proyectos avancen sin retrasos
+al recopilar información de tus compañeros de equipo y utilizar esas ideas para que el equipo tome decisiones informadas.
+
+También te asegurarás de que esas decisiones lleguen a los compañeros de trabajo necesarios, ya sea el equipo inmediato o
+los líderes de la empresa.
+
+*Comunicar y escalar.* Como gerente de proyectos, usarás tus destrezas de comunicación en casi todo lo que haces. Esto
+podría ser documentar planes, enviar correos sobre el estado del proyecto, o realizar una reunión para escalar riesgos o
+problemas a los interesados.
+
+*la flexibilidad.* Como gerente de proyectos, saber cómo ser flexible cuando se necesitan cambios es clave. Los planes
+cambiarán en todos los casos, incluso con una cuidadosa planificación inicial.
+
+*Habilidades organizativas.* Como ya aprendiste antes, el rol del gerente de proyectos implica usar una variedad de pro-
+cesos para encaminar el proyecto. Contar con sólidas habilidades organizativas significa tener la capacidad de organizar
+estos procesos y los elementos centrales de un proyecto para garantizar que nada se pasa por alto, algo que, créeme, puede
+suceder y de hecho sucede. Para evitarlo, puedes rastrear las tareas diarias en una hoja de cálculo o enviar frecuentes
+actualizaciones de estado y recordatorios. Hay muchas maneras de mantenerte organizado y perfeccionar tus habilidades
+organizativas,
+
+#### Competencias clave: Flexibilidad y manejo de la ambigüedad
+
+#### Mitos comunes sobre los gerentes de proyectos
+
+#### VídeoLiderazgo y dinámica de equipo
+
+#### Características de un gerente de proyectos exitoso
 
 ## modulo_3
 
