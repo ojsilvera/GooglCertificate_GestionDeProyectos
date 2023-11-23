@@ -26,7 +26,7 @@ esperados, dentro del plazo y el presupuesto previstos.
 Akgun aspectos basifos de la gestion de proyectos incluye: planificación y organización, gestión de tareas, elaboración
 de presupuestos y control de costos, entre otros.
 
-#### ¿Qué hace un gerente de proyectos?
+### ¿Qué hace un gerente de proyectos?
 
 Los gerentes de proyectos suelen seguir un proceso que implica planificar y organizar, gestionar tareas, elaborar presu-
 puestos y controlar costos y otros factores Todo lo que hacen apunta a que el proyecto se lleve a cabo dentro del plazo
@@ -40,7 +40,7 @@ clientes o modifica uno actual para que se adapte mejor a las necesidades del cl
 proyectos exitosos siempre añaden valor. Es el trabajo del gerente de proyectos asegurarse de que el proyecto sea valio-
 so y exitoso.
 
-#### Destrezas transferibles de la gestión de proyectos
+### Destrezas transferibles de la gestión de proyectos
 
 *Las responsabilidades diarias de un gerente de proyectos incluyen alguna forma de:*
 
@@ -57,13 +57,13 @@ sobre cómo avanza el proyecto.
 ponsabilidad común que tienen que entender los gerentes para avanzar dentro del presupuesto. Es un trabajo a tiempo com-
 pleto porque el plan que creaste y que gestionas puede cambiar, y esto causar un aumento de costos inesperado.
 
-#### Pasos para convertirte en gerente de proyectos
+### Pasos para convertirte en gerente de proyectos
 
 Toma responsabilidad de tu vida, planea, ejecuta, monitorea, evalua y replanea, repite el ciclo en cada aspaecto de tu vida,
 los gerentes de proyectos no dejan nada al azar, siempre, planean, ejecutan, monitorean, evaluan y reestrcuturan su plan
 inicial.
 
-#### Conocer cuáles son las carreras relativas a la gestión de proyectos
+### Conocer cuáles son las carreras relativas a la gestión de proyectos
 
 Es posible encontrar el rol como gerende de proyectos, este es aplicado a muchas industrias y campos, tales como:
 construccion, salud, gas y petroleos, energia, TI, etc.
@@ -83,7 +83,7 @@ Asistente de operaciones
 
 Todos estos posibles cagos obtienen su nucleo en la gestion de proyectos.
 
-##### Categorías de puestos y funciones comunes en la gestión de proyectos
+#### Categorías de puestos y funciones comunes en la gestión de proyectos
 
 *Puestos de gestión de proyectos de nivel introductorio.*
 
@@ -172,7 +172,7 @@ Algunos de los puestos que puedes encontrar relacionados con este enfoque:
 
     Encargado del producto. Contribuye con la dirección del desarrollo y el progreso de los productos.
 
-#### Cómo usar palabras de moda para buscar trabajo
+### Cómo usar palabras de moda para buscar trabajo
 
 las palabras de moda: palabras o frases que son populares durante un periodo o en un sector en particular. En el mercado
 laboral actual, son comunes las palabras o frases de moda como «basado en datos», «espíritu de equipo» y «con iniciativa».
@@ -733,6 +733,18 @@ zas incluyen la comunicación, la negociación, la mediación de conflictos y la
 
 #### Características de un gerente de proyectos exitoso
 
-## modulo_3
+## modulo_3 El ciclo de vida de la gestion de proyectos
+
+### Comprensión del ciclo de vida del proyecto
+
+#### Introducción: El ciclo de vida y las metodologías de la gestión de proyectos
+
+#### Exploración de las fases del ciclo de vida del proyecto
+
+#### Caso práctico: La importancia de cada fase del proyecto
+
+### Análisis de las diferentes fases del proyecto
+
+### Comparación de metodologías y enfoques de gestión de proyectos
 
 ## modulo_4
