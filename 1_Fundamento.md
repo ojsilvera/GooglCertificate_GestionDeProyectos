@@ -961,4 +961,50 @@ de vida del proyecto, podrás asegurarte de lo siguiente:
 
 ### Comparación de metodologías y enfoques de gestión de proyectos
 
+#### Introducción a las metodologías de gestión de proyectos
+
+no todos los proyectos son iguales. Los diferentes tipos de proyectos se beneficiarán de la aplicación de diferentes
+enfoques o metodologías de gestión de proyectos.
+
+    Una metodología de gestión de proyectos es un conjunto de principios rectores y procesos para dirigir un proyecto a
+    lo largo de su ciclo de vida.
+
+Las metodologías de gestión de proyectos guían a los gerentes a lo largo de un proyecto con los pasos a seguir, las
+tareas a completar y los principios para gestionar el proyecto en general.
+
+Hablaremos sobre dos tipos diferentes, lineal e iterativa.
+
+*Lineal* significa que la fase o tarea anterior debe completarse antes de comenzar la siguiente. Un enfoque lineal fun-
+cionaría bien para un proyecto como la construcción. Tienen un objetivo claro y al ser secuencial es pcoc probable que el
+cliente o alguno de los interesados realice cambios intermedios sin afectar el ciclo del proyecto hasta el punto de reiniciarlo
+por completo.
+
+Al usar este enfoque lineal en la gestión de proyectos, se debe completar cada paso en orden y acorde a los resultados
+específicos acordados, y ser capaz de entregar lo que el cliente solicitó.
+
+Los proyectos lineales no requieren muchos cambios durante el desarrollo y el proceso secuencial es claro. Si te comprometes
+con el plan, es probable que completes las tareas acorde al cronograma y a los demás criterios.
+
+en la metodología *iterativa*, un enfoque más flexible donde algunas de las fases de las tareas se superponen u ocurren
+al mismo tiempo que se trabaja en otras. Al mismo tiempo, eres capaz de tomar decisiones y empezar a trabajar en otras
+partes del proyecto,  Debido al enfoque iterativo, los planes siguen siendo flexibles y eres capaz de hacer ajustes a medida
+que avanzas.
+
+Los proyectos iterativos permiten más flexibilidad y se anticipan a los cambios. Tienes las posibilidad de probar partes
+del proyecto para asegurarte de que funcionen antes de entregar el resultado final, y puedes entregar partes del proyecto
+a medida que se completan, en lugar de esperar que se desarrolle el proyecto en su totalidad.
+
+Cada proyecto, se beneficia de un enfoque diferente sobre cómo se llevarán a cabo las tareas, para cumplir con los objetivos
+del proyecto de la mejor manera.
+
+#### Introducción a las metodologías Waterfall y Agile
+
+#### Comparación entre las metodologías Waterfall y Agile
+
+#### Introducción a Lean y Six Sigma
+
+#### Metodologías Lean y Six Sigma
+
+#### Enfoques comunes de gestión de proyectos y cómo seleccionar uno
+
 ## modulo_4
