@@ -834,6 +834,10 @@ adecuadas ante la posibilidad de un retraso en el proyecto. Esto significa que d
 otra persona involucrada en el proyecto mediante reuniones, comunicaciones escritas como notas, correos electrónicos o he-
 rramientas de chat internas, y otros documentos de trabajo como informes de tareas.
 
+Los gerentes de proyectos deben compartir información con el equipo a través de reuniones, correos electrónicos, notas y
+otros medios. Cuando se trata de comunicación, es preferible que sobre y no que falte. En esta fase, los gerentes de proyectos
+también administran el avance del proyecto y hacen los ajustes necesarios.
+
 *Cierre de proyecto.*
 
 A medida que avance el proyecto, se harán ajustes en el cronograma, el presupuesto y la asignación de recursos, comunicando
@@ -861,6 +865,13 @@ proyecto.
 
 Tambien Ahora es el momento de recopilar toda la documentación del proyecto que se creó o recopiló durante el proceso,
 incluidos todos los planes y reflexiones, y compartir los resultados finales del proyecto con los interesados.
+
+tómate un tiempo para celebrar el esfuerzo de tu equipo en el proyecto. Celebrar ayuda a las personas a sentirse bien por
+el trabajo realizado y pensar en el trabajo como inspirador y gratificante, porque realmente lo es. Algunas ideas para
+pequeñas celebraciones son enviar un correo electrónico a toda la empresa o al equipo, agradeciendo al equipo y reconociendo
+los esfuerzos individuales. Para grandes proyectos, incluso puedes considerar una fiesta de la empresa para celebrar el
+éxito del equipo y del proyecto. Para finalizar, junto con el equipo pueden dejar atrás formalmente el proyecto para poder
+llevar a cabo nuevos proyectos en el futuro.
 
 #### Resumen de las fases del proyecto
 
