@@ -697,7 +697,39 @@ expectativas. Confía en que tu equipo se encargará de los detalles de cada tar
 cuando surja un problema. A través de la comunicación directa y tu enfoque estratégico para resolver problemas, puedes
 ofrecer soluciones y ayudar a superar los obstáculos que afectan al equipo. Aquí es donde agregas valor.
 
-#### VídeoLiderazgo y dinámica de equipo
+#### Liderazgo y dinámica de equipo
+
+Destrezas interpersonales fundamentales que usarás para generar relaciones con tus compañeros de equipo y los interesados.
+
+Usar tus habilidades interpersonales es clave para generar relaciones con la gente involucrada en tu proyecto. Al desarrollar
+estas relaciones, conocerás las necesidades e inquietudes del equipo. Esto te ayudará a determinar las prioridades del
+proyecto y a motivar al equipo durante todo el proceso.
+
+Contar con destrezas interpersonales sólidas es una parte importante de ser un buen líder. Incluso si nunca has ocupado
+un puesto de liderazgo formal, tener estas destrezas te será de utilidad cuando debas guiar a un equipo. Esto se conoce
+como influir sin imponer autoridad, y se refiere a la capacidad de un gerente de proyectos de guiar a los compañeros de
+equipo para completar el trabajo asignado sin actuar como un superior directo.
+
+Hay algunas destrezas interpersonales importantes que puedes usar para orientar los resultados del proyecto. Estas destre-
+zas incluyen la comunicación, la negociación, la mediación de conflictos y la percepción de motivaciones.
+
+    La comunicación. En el contexto de liderar un equipo, la comunicación puede incluir consultar a tus compañeros de equipo
+    para entender cómo están progresando en una tarea y ofrecerles comentarios claros sobre la calidad de su trabajo.
+
+    La negociación. La negociación puede incluir trabajar con un compañero de equipo para comprometerse en una nueva fecha
+    límite cuando te diga que no podrá completar su trabajo a tiempo. usar destrezas de negociación a menudo con tu equipo
+    y los interesados para equilibrar sus necesidades y lo que sea mejor para el proyecto.
+
+    La mediación de conflictos. Como mencionamos, los planes del proyecto pueden cambiar y surgirán problemas. Esto a veces
+    puede llevar a tensiones y conflictos dentro del equipo. La mediación de conflictos es una excelente destreza para
+    practicar y desarrollar a fin de asegurarte de que el proyecto no sufra por los conflictos. Esto podría implicar coordinar
+    una reunión con dos miembros del equipo que estén teniendo diferencias sobre la mejor manera de manejar una tarea
+    compartida.
+
+    Comprender sus motivaciones. Esto significa conocer a los miembros del equipo y averiguar qué los impulsa a hacer su
+    mejor trabajo. Comprender las motivaciones también puede incluir aprender cómo el equipo prefiere recibir los comentarios,
+    y cómo les gusta recibir reconocimiento cuando hacen un trabajo excelente. Usarás esa información individualizada para
+    motivar y animar a cada miembro del equipo.
 
 #### Características de un gerente de proyectos exitoso
 
