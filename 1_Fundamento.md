@@ -611,6 +611,31 @@ problemas a los interesados.
 *la flexibilidad.* Como gerente de proyectos, saber cómo ser flexible cuando se necesitan cambios es clave. Los planes
 cambiarán en todos los casos, incluso con una cuidadosa planificación inicial.
 
+    Planificación flexible
+
+    El cambio es inevitable, y cuanto más flexible seas como gerente de proyectos, más éxito tendrás a lo largo de tu
+    carrera. Estas estrategias de planificación flexibles pueden ayudarte a gestionar tu proyecto en momentos de imprevi-
+    sibilidad:
+
+        Evaluar las restricciones externas. Al planificar el proyecto, ten en cuenta los eventos externos, como los días
+        festivos nacionales, las vacaciones de los miembros del equipo y las licencias por enfermedad. Dejar tiempo extra
+        en el cronograma por adelantado para estos eventos inevitables puede ayudar a minimizar el impacto en el proyecto.
+
+        Planificar cómo enfrentar los riesgos y desafíos. Si tienes en cuenta los riesgos que pueden surgir, es posible
+        que puedas encontrar soluciones para ellos por adelantado. Por ejemplo, ¿qué pasa si alguien del equipo se enferma
+        o decide renunciar? ¿Eres capaz de sustituirlos dentro de la empresa? Si no, ¿puedes utilizar a un contratista
+        independiente? Elabora una lista de personas que podrían unirse al equipo si alguno de los miembros deja de estar
+        disponible. También puedes evaluar los riesgos si observas los datos históricos. Revisa tus proyectos anteriores
+        y examina los desafíos a los que te has enfrentado. Luego evalúa si podrían aparecer desafíos similares en este
+        proyecto y prepárate en consecuencia. Hablaremos en profundidad de la gestión de riesgos más adelante en este
+        programa.
+
+        Calcular la “flotación” de la programación. La flotación, u holgura, se refiere a la cantidad de tiempo que puedes
+        esperar para comenzar una tarea antes de que afecte al cronograma y amenace el resultado del proyecto. Identificar
+        la flotación en el cronograma puede ayudarte con la gestión de recursos y la programación, y a mantener el proyecto
+        encaminado. Aprenderás más sobre cómo calcular la flotación en un curso posterior, cuando hablemos de cómo crear
+        una ruta crítica para las tareas del proyecto.
+
 *Habilidades organizativas.* Como ya aprendiste antes, el rol del gerente de proyectos implica usar una variedad de pro-
 cesos para encaminar el proyecto. Contar con sólidas habilidades organizativas significa tener la capacidad de organizar
 estos procesos y los elementos centrales de un proyecto para garantizar que nada se pasa por alto, algo que, créeme, puede
