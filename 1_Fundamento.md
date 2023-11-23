@@ -735,16 +735,16 @@ zas incluyen la comunicación, la negociación, la mediación de conflictos y la
 
 ## modulo_3 El ciclo de vida de la gestion de proyectos
 
+### Comprensión del ciclo de vida del proyecto
+
+#### Introducción: El ciclo de vida y las metodologías de la gestión de proyectos
+
 Presentaremos los dos enfoques principales para la gestión de proyectos, Waterfall y Agile. También hablaremos sobre las
 fases y el ciclo de vida de la gestión de proyectos, y aprenderás sobre los diferentes estilos, escenarios y factores que
 pueden impactar en un proyecto y en sus tareas en una fase determinada. Cuando terminemos, podrás explicar y seguir el
 ciclo de vida de un proyecto, definir y esbozar las fases de un proyecto y las tareas de cada una, comparar las diferentes
 metodologías de gestión de proyectos para determinar cuál es más eficaz para un proyecto y, por último, organizar la
 ejecución de un proyecto, de acuerdo con diferentes programas de metodologías de gestión.
-
-### Comprensión del ciclo de vida del proyecto
-
-#### Introducción: El ciclo de vida y las metodologías de la gestión de proyectos
 
 #### Exploración de las fases del ciclo de vida del proyecto
 
