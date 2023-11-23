@@ -875,6 +875,90 @@ llevar a cabo nuevos proyectos en el futuro.
 
 #### Resumen de las fases del proyecto
 
+El ciclo de vida del proyecto es el camino que sigue un proyecto de principio a fin. Cada fase del proyecto sirve de base
+para la fase siguiente y ayuda a crear la estructura del proyecto. En resumen, las fases principales del ciclo de vida
+del proyecto son: iniciar el proyecto, definir un plan, ejecutar y finalizar las tareas y cerrar el proyecto.
+
+*Iniciar el proyecto.*
+
+En esta fase, haz preguntas que te ayuden a sentar las bases del proyecto, como las siguientes:
+
+    * ¿Quiénes son los interesados?
+
+    * ¿Cuáles son los objetivos del cliente?
+
+    * ¿Cuál es el propósito y la misión del proyecto?
+
+    * ¿Cuáles son los objetivos medibles del equipo?
+
+    * ¿Qué intenta mejorar el proyecto?
+
+    * ¿Cuándo se debe terminar este proyecto?
+
+    * ¿Qué competencias y recursos requerirá el proyecto?
+
+    * ¿Cuánto costará el proyecto?
+
+    * ¿Qué beneficios traerá?
+
+*Elaborar un plan.*
+
+En esta fase, haz un plan para llevar tu proyecto de principio a fin.
+
+    * Crea un plan detallado del proyecto.
+
+    * ¿Cuáles son los principales hitos?
+
+    * ¿Qué tareas o resultados entregables conforman cada hito?
+
+    * Crea un cronograma para poder administrar correctamente los recursos, el presupuesto, los materiales y el tiempo.
+
+    * En esta fase deberás crear un presupuesto desglosado.
+
+*Ejecutar el proyecto.*
+
+En esta fase, pon en acción el trabajo arduo de las dos primeras fases.
+
+    * Supervisa al equipo del proyecto mientras realiza las tareas.
+
+    * Elimina cualquier obstáculo que ralentice las tareas o impida al equipo realizarlas.
+
+    * Ayuda al equipo a mantenerse al tanto del cronograma y de los resultados entregables esperados.
+
+    * Busca soluciones a las debilidades del proceso y analiza si hay puntos en los que tu equipo necesite formación
+      adicional para alcanzar los objetivos del proyecto.
+
+    * Adáptate a los cambios en el proyecto a medida que surjan.
+
+*Cerrar el proyecto.*
+
+En esta fase, debes dar un cierre al proyecto.
+
+    * Comprueba si tu equipo ha completado todos los resultados solicitados.
+
+    * Libera a tu equipo para que pueda dedicarse a otros proyectos dentro de la empresa.
+
+    * ¡Tómate algo de tiempo con tu equipo para celebrar los éxitos!
+
+    * Pasa todos los entregables restantes y obtén la aprobación de los interesados.
+
+    * Documenta las lecciones que tú y tu equipo aprendieron durante el proyecto.
+
+    * Reflexiona sobre las formas de mejorar en el futuro.
+
+*En conclusion.*
+
+Cada fase del ciclo de vida del proyecto tiene su propia importancia y razón de ser. Si sigues todas las fases del ciclo
+de vida del proyecto, podrás asegurarte de lo siguiente:
+
+    * Capturar las expectativas de tu cliente
+
+    * Definir un plan para que tu proyecto tenga éxito
+
+    * Ejecutar las tareas del proyecto y solucionar cualquier problema que surja
+
+    * Cerrar el proyecto e interiorizar las lecciones aprendidas
+
 ### Comparación de metodologías y enfoques de gestión de proyectos
 
 ## modulo_4
