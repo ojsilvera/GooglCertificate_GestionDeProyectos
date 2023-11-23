@@ -595,10 +595,11 @@ riencia únicas, y trae consigo diferentes ideas y estrategias al proyecto.
 hay cuatro habilidades específicas que creemos que pueden llevarte al éxito. Estas son facilitar la toma de decisiones,
 comunicación y escalamiento, flexibilidad, y sólidas habilidades organizativas.
 
-*La toma de decisiones.* Facilitar la toma de decisiones en el equipo, o recopilar decisiones del líder apropiado, es crucial
-para mantener los proyectos encaminados y lograr sus objetivos. Muchas de las decisiones diarias de un proyecto es probable
-que dependan de acuerdos y conversaciones entre tú y tu equipo. Te asegurarás de que los proyectos avancen sin retrasos
-al recopilar información de tus compañeros de equipo y utilizar esas ideas para que el equipo tome decisiones informadas.
+*facilitar La toma de decisiones.* Facilitar la toma de decisiones en el equipo, o recopilar decisiones del líder apropiado,
+es crucial para mantener los proyectos encaminados y lograr sus objetivos. Muchas de las decisiones diarias de un proyecto
+es probable que dependan de acuerdos y conversaciones entre tú y tu equipo. Te asegurarás de que los proyectos avancen sin
+retrasos al recopilar información de tus compañeros de equipo y utilizar esas ideas para que el equipo tome decisiones
+informadas.
 
 También te asegurarás de que esas decisiones lleguen a los compañeros de trabajo necesarios, ya sea el equipo inmediato o
 los líderes de la empresa.
@@ -619,7 +620,57 @@ organizativas,
 
 #### Competencias clave: Flexibilidad y manejo de la ambigüedad
 
+La ambigüedad puede representar un desafío importante en la gestión de proyectos. Los gerentes de proyectos a menudo se
+enfrentan a ambigüedades en cuanto a objetivos, requisitos, cronogramas, visión u otras áreas relacionadas con el proyecto.
+
+El equipo esperará que demuestres tu liderazgo en momentos de ambigüedad y cambio, y la flexibilidad es especialmente
+importante en estos casos. Estas son algunas formas diferentes de ayudar al equipo a lidiar con la ambigüedad:
+
+    - Mantén la calma. En tiempos de incertidumbre, manejar la ambigüedad con dignidad y aplomo ayudará a inspirar a los
+    miembros del equipo a hacer lo mismo.
+
+    - Expresa empatía. Como gerente de proyectos, es importante tratar de entender lo que piensa y siente tu equipo, espe-
+    cialmente en momentos de ambigüedad. Haz saber a los miembros del equipo que te preocupan los desafíos a los que se
+    enfrentan y que estás ahí para respaldarlos.
+
+    - Comunica con claridad lo que sabes. Define los aspectos del proyecto que están confirmados y que no cambiarán. Esto
+    ayuda al equipo a tener una mejor idea de lo que pueden esperar, independientemente de cualquier aspecto del proyecto
+    que aún se desconozca o esté cambiando.
+
+    - Toma decisiones y respétalas. Intenta no dudar de tus decisiones frente al equipo, ya que esto puede generar una mayor
+    incertidumbre. Si necesitas cambiar de rumbo, explica con claridad al equipo por qué has elegido hacerlo.
+
+    - Confía en la experiencia de tu equipo. Aumenta la claridad al hacer que todos los miembros del equipo analicen lo que
+    ya saben o creen que es cierto sobre los componentes del proyecto, como lo que implican ciertas tareas o recursos ne-
+    cesarios, en función de sus áreas de especialización. Luego, habla sobre lo que aún no se sabe y haz una lluvia de
+    ideas sobre formas de recopilar más información.
+
 #### Mitos comunes sobre los gerentes de proyectos
+
+*Mito: Tienes que ser un experto en el campo del proyecto y tener muchos conocimientos técnicos sobre el proyecto.*
+
+Tu trabajo consiste en gestionar la comunicación, la documentación y la organización necesarias para que el proyecto llegue
+con éxito a la línea de meta. Los gerentes de proyectos contratan a los expertos y ayudan a armar todas las piezas del
+proyecto. No es necesario que los gerentes de proyectos sean expertos en todos los campos.
+
+*Mito: Solo las personas con mucha experiencia dentro de una organización pueden gestionar proyectos con éxito.*
+
+Para gestionar con éxito proyectos en cualquier organización, es necesario adquirir las destrezas, los conocimientos, las
+herramientas y las técnicas necesarias y saber aplicarlos. No es necesario que hayas trabajado con anterioridad en esa
+organización. Para ser un gerente de proyectos exitoso en cualquier organización, independientemente de si has trabajado
+allí con anterioridad, es esencial dominar las destrezas, herramientas y técnicas de gestión de proyectos.
+
+*Mito: Debes conocer todos los detalles del proyecto en todo momento.*
+
+Los detalles importan en la ejecución del proyecto, pero como gerente de proyectos también debes centrarte en el panorama
+general y la estrategia del proyecto. ¿Cuál es el objetivo final? ¿Tu equipo y tú tienen una dirección clara? Si todo el
+equipo entiende sus objetivos y cuenta con lo necesario para tener éxito en sus tareas, puede trabajar en los detalles
+individuales y proporcionarte espacio para supervisar los objetivos generales del proyecto.
+
+Tu función como gerente de proyectos consiste en comunicarte con los interesados, aclarar los objetivos y establecer
+expectativas. Confía en que tu equipo se encargará de los detalles de cada tarea del proyecto y se comunicará contigo
+cuando surja un problema. A través de la comunicación directa y tu enfoque estratégico para resolver problemas, puedes
+ofrecer soluciones y ayudar a superar los obstáculos que afectan al equipo. Aquí es donde agregas valor.
 
 #### VídeoLiderazgo y dinámica de equipo
 
