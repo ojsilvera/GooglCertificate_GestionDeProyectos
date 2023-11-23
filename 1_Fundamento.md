@@ -785,9 +785,46 @@ tareas e inquietudes. Las principales fases de un proyecto son:
     con cualquier persona ajena al equipo que se haya interesado en el objetivo del proyecto. Puedes dar a conocer las
     tareas que se completaron y los logros obtenidos.
 
-#### Caso práctico: La importancia de cada fase del proyecto
-
 ### Análisis de las diferentes fases del proyecto
+
+#### Fases en acción: Iniciación y planificación
+
+Ahora que hemos abarcado el ciclo de vida del proyecto, vamos a explorar algunas de las diferentes tareas que forman parte
+de cada fase del ciclo de vida:
+
+*El primer paso del ciclo de vida del proyecto es iniciar el proyecto.*
+
+Durante la iniciación, organizarás toda la información que tienes disponible acerca de tu proyecto. De esta manera, cuando
+estés listo para continuar, estarás preparado para la siguiente fase en la que puedes elaborar el plan. Definir los objetivos
+del proyecto deja en claro los detalles para que, junto con tu equipo, puedan completar con éxito el proyecto.
+
+En esta fase tendrás que investigar un poco para generar ideas que te ayuden a alcanzar tus metas. También necesitarás
+averiguar qué recursos están disponibles. Estos pueden incluir personas, equipos, programas de software, proveedores, es-
+pacio físico o ubicaciones, entre otros. Todo lo que necesites para completar el proyecto se considera un recurso. Como
+gerente de proyectos, documentarás todos estos detalles en la propuesta del proyecto y luego obtendrás la aprobación de
+un responsable o un grupo de responsables de la toma de decisiones en tu empresa para poder continuar con los planes del
+proyecto. En algunos casos, es posible que seas el responsable de la toma de decisiones. En este caso, debes asegurarte
+de considerar los mismos factores de la fase iniciación del proyecto antes de pasar a la siguiente etapa.
+
+*Elaborar un plan.*
+
+En esta fase, crearás un presupuesto y establecerás el cronograma del proyecto. Definirás el equipo del proyecto y los
+roles y responsabilidades de cada persona, la clave de la gestión de proyectos, la planificación deliberada es fundamental
+para el éxito. Una parte clave de la gestión de proyectos es planificar el riesgo y los cambios. Un gerente de proyectos
+con experiencia sabe que los planes siempre cambian. Esta capacidad de adaptación se trata de pensar y planificar el futuro.
+
+La programación de los retrasos, los cambios de presupuesto, los requisitos de tecnología y software, las cuestiones legales,
+el control de calidad y el acceso a los recursos son solo algunos de los tipos más comunes de riesgos y cambios que un gerente
+de proyectos debe considerar. Por lo tanto, es importante tener en cuenta que la planificación es clave para reducir esos
+riesgos.
+
+Cuando tengas un plan, le comunicarás toda esta información a tu equipo. De esa forma, cada miembro sabrá qué tareas debe
+realizar y qué debe hacer si tiene preguntas o surgen problemas. También le comunicarás tu plan a otros interesados en el
+éxito del proyecto, para que conozcan tus planes y el progreso a medida que el proyecto continúa avanzando.
+
+#### Fases en acción: Ejecución y cierre
+
+#### Resumen de las fases del proyecto
 
 ### Comparación de metodologías y enfoques de gestión de proyectos
 
