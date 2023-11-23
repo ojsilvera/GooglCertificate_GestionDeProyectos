@@ -824,6 +824,44 @@ realizar y qué debe hacer si tiene preguntas o surgen problemas. También le co
 
 #### Fases en acción: Ejecución y cierre
 
+*Ejecucion de los planes.*
+
+Ahora es el momento de poner en práctica tus planes. Recuerda que tu trabajo no es llevar a cabo todas las tareas. Tu trabajo
+principal como gerente de proyectos es gestionar el progreso del proyecto en su totalidad. Esto significa que supervisarás
+los esfuerzos del equipo y te asegurarás de que todos entiendan lo que se espera de ellos, qué tareas deben realizarse, y
+cómo y cuándo se deben completar. También es tu trabajo ayudar a eliminar cualquier obstáculo y alertar a las personas
+adecuadas ante la posibilidad de un retraso en el proyecto. Esto significa que deberás comunicarte con el equipo y cualquier
+otra persona involucrada en el proyecto mediante reuniones, comunicaciones escritas como notas, correos electrónicos o he-
+rramientas de chat internas, y otros documentos de trabajo como informes de tareas.
+
+*Cierre de proyecto.*
+
+A medida que avance el proyecto, se harán ajustes en el cronograma, el presupuesto y la asignación de recursos, comunicando
+claramente las actualizaciones durante el proceso. Cuando se completen todas las tareas y se cumpla el objetivo del proyecto,
+es hora del cierre.
+
+Por lo general, esta fase se pasa por alto porque es fácil suponer que una vez que se cumple el objetivo del proyecto,
+todos pueden seguir adelante. Pero no, todavía queda mucho por hacer. Primero, verifica que se hayan completado todas las
+tareas, incluido cualquier trabajo que se agregó durante el proceso. Asegúrate de que se hayan pagado todas las facturas
+pendientes, se devuelvan los recursos y se contabilicen, y se haya presentado la documentación del proyecto. Luego, y esto
+es muy importante, obtén la confirmación por parte de los destinatarios de que están de acuerdo con el resultado final del
+proyecto.
+
+Es fundamental para el éxito del proyecto que la persona que te pidió que administraras el proyecto esté satisfecha con el
+resultado final.
+
+Una vez que tengas la confirmación de que el proyecto cumple con los objetivos, tómate un tiempo para reflexionar sobre
+lo que salió bien y tal vez lo que no salió tan bien. Esta reflexión se suele llamar retrospectiva y es una oportunidad
+para observar las mejores prácticas y aprender a gestionar tu proyecto de manera más eficaz en el futuro, incluso si todo
+salió bien.
+
+Las notas de tu retrospectiva también son valiosas para las personas u organización que reciben el resultado final del
+proyecto. Ya que pueden usar esa información para informar decisiones sobre su negocio la próxima vez que consideren un
+proyecto.
+
+Tambien Ahora es el momento de recopilar toda la documentación del proyecto que se creó o recopiló durante el proceso,
+incluidos todos los planes y reflexiones, y compartir los resultados finales del proyecto con los interesados.
+
 #### Resumen de las fases del proyecto
 
 ### Comparación de metodologías y enfoques de gestión de proyectos
