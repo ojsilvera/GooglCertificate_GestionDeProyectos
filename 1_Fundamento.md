@@ -459,17 +459,55 @@ una excelente herramienta para mostrar el progreso a quienes no forman parte del
 
 #### Responsabilidades que utilizan destrezas interpersonales
 
-* Enseñanza y tutoría
+* *Enseñanza y tutoría*
   
   Cuando te tomas el tiempo para explicar completamente las expectativas, eliminas las repeticiones, la confusión y la
   frustración. Ser un mentor y enseñar a otros las lecciones que tú has aprendido como gerente de proyectos, le permite
   al equipo tomar mejores decisiones y aprovechar tu experiencia. La tutoría también implica apoyar a cada persona del
   equipo a cumplir con las expectativas y ayudarlos a superar su propia idea de potencial personal.
 
-* Establecer relaciones
-* Controlar el cambio
-* Empoderar al equipo
-* Comunicar el estado y las inquietudes
+* *Establecer relaciones*
+  
+  Dedica tiempo a consultar y escuchar a la gente, ¡Las relaciones lo son todo! Al ocuparte de conocer a los miembros de
+  tu equipo, se dan cuenta de que te preocupas por ellos como personas, no solo como empleados. Tomarte el tiempo necesario
+  para establecer relaciones con tus clientes, proveedores y otros interesados es igualmente importante.
+
+  Dedica tiempo a consultar y escuchar a la gente. Presta atención a las ideas que te ofrecen sobre su estilo de trabajo,
+  ya que sus acciones pueden decirte cómo interactuar con ellos de la manera más efectiva.
+
+  Pregúntales sobre sus vidas más allá del proyecto y realiza un seguimiento de esas conversaciones más adelante para
+  mostrar tu interés en ellos. Cuando fomentas estas relaciones, todos se comprometen más con el éxito del proyecto.
+
+* *Controlar el cambio*
+  
+  Los proyectos cambian a medida que vas comprendiendo las expectativas y las necesidades de los interesados.
+  
+  Como gerente de proyectos, debes ser flexible y ajustarte a las necesidades de los interesados. Sin embargo, también es
+  importante proteger a tu equipo de cambios y repeticiones constantes.
+  
+  Una buena forma de hacerlo es documentar las expectativas iniciales del proyecto e identificar claramente los cambios
+  que se solicitan. También es útil comprender el impacto de los cambios en el presupuesto y el cronograma, y asegurarte
+  de que los interesados comprendan ese impacto. Como gerente de proyectos, eres responsable de proteger al equipo.
+
+* *Empoderar al equipo*
+
+   Todos disfrutamos ser escuchados y apreciados en nuestras profesiones. Dar a tu equipo la capacidad de trabajar direc-
+   tamente con los interesados y sus equipos les permite saber que confías en ellos y crees en sus destrezas.
+
+   Una de las mejores cosas de empoderar al equipo es que obtienes ideas frescas y empleados apasionados dispuestos a
+   ayudarte a encontrar soluciones a los problemas. Otra forma de empoderar al equipo es delegarles responsabilidades,
+   permitirles tomar algunas decisiones del proyecto y utilizar sus aportes en la planificación y ejecución del proyecto.
+
+   La tutoría eficaz a menudo conduce a equipos más empoderados.
+
+* *Comunicar el estado y las inquietudes*
+
+    Como gerente de proyectos, la comunicación lo es todo. Con una comunicación efectiva, puedes trabajar junto con tu
+    equipo para encontrar soluciones a los desafíos. El gerente de proyectos marca la pauta del proyecto. Mantener una
+    política de puertas abiertas y generar confianza dentro de tu equipo y entre los interesados, todo ello sin dejar de
+    ser positivo, contribuye al éxito del proyecto.
+
+#### El rol de un gerente de proyectos dentro de un equipo
 
 ### Adquirir las destrezas básicas de un gerente de proyectos exitoso
 
