@@ -509,6 +509,27 @@ una excelente herramienta para mostrar el progreso a quienes no forman parte del
 
 #### El rol de un gerente de proyectos dentro de un equipo
 
+Un gerente de proyectos no suele ser el jefe directo de las personas que trabajan en el equipo de un proyecto. Aquí, de-
+cimos que el gerente de proyectos gestiona las tareas de un proyecto. Todos los miembros del equipo tendrán roles y
+responsabilidades. Y se unirán para asegurarse de que todos hagan su parte a fin de que avance el proyecto. Cada uno será
+un experto en su parte del proyecto, pero nadie será un experto en todos los aspectos del proyecto.
+
+Al gestionar tareas, tu equipo te rendirá cuentas porque les darás propiedad sobre partes específicas del proyecto.
+Además, deberás asegurarte de que los problemas y los riesgos se rastreen y sean visibles y de establecer vías de elevación.
+
+*Vías de elevación significa que sabes cómo comunicar los riesgos a las personas adecuadas y en el momento adecuado.*
+
+Comprender y ayudar a tu equipo a adoptar los tipos de gestión de proyectos y flujos de trabajo adecuados. Como gerente
+de proyectos, es probable que tengas la mejor idea de qué estilo es mejor para el trabajo. Es tu tarea asegurarte de que
+el equipo respete ese estilo y los demás sistemas establecidos.
+
+Colaborar con otros equipos de la organización para cumplir con el proyecto, alcance, cronograma y presupuesto. Es decir,
+un proyecto puede afectar no solo a tu equipo, sino a otros en la organización, como por ejemplo el de marketing o el de
+finanzas. Así que trabajarás con esos equipos para asegurarte de que todos estén contentos con los resultados del proyecto.
+
+#### Trabajar con equipos multidisciplinarios
+
+
 ### Adquirir las destrezas básicas de un gerente de proyectos exitoso
 
 ## modulo_3
