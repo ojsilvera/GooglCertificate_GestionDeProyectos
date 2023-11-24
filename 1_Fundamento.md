@@ -746,6 +746,8 @@ ciclo de vida de un proyecto, definir y esbozar las fases de un proyecto y las t
 metodologías de gestión de proyectos para determinar cuál es más eficaz para un proyecto y, por último, organizar la
 ejecución de un proyecto, de acuerdo con diferentes programas de metodologías de gestión.
 
+![Ciclo de vida de un proyecto](image.png)
+
 #### Exploración de las fases del ciclo de vida del proyecto
 
 El ciclo de vida es una excelente manera de guiar tu proyecto en la dirección correcta para que mantenga el rumbo y se
@@ -1214,8 +1216,6 @@ Estos son los siete principios clave de Six Sigma:
 ## modulo_4 Estructura y cultura de la organizacion
 
 ### Entender la estructura de una organización
-
-#### Introducción: Estructura y cultura de una organización
 
 #### Descripción general de las estructuras clásica y matricial
 
