@@ -1219,6 +1219,48 @@ Estos son los siete principios clave de Six Sigma:
 
 #### Descripción general de las estructuras clásica y matricial
 
+El concepto de estructura de la organización y el papel del gerente de proyectos en una estructura determinada, no será
+el mismo en cualquier equipo u organización, porque cada empresa puede tener una estructura diferente, pero esta visión
+general puede servir de base en cualquier organizacion.
+
+*¿qué es la estructura organizativa?*
+
+La estructura de la organización es la forma en que se organiza o estructura una empresa u organización. La estructura
+también nos dice cómo se dividen y coordinan las tareas y cómo los diferentes miembros de la organización se relacionan
+unos con otros.
+
+la estructura de la organización brinda una idea de quién responde a quién, Pero la estructura de la organización es mucho
+más que eso, servire como un mapa para saber dónde encajas, con quién debes comunicarte y con qué frecuencia.
+
+*jerarquías organizativas.*
+
+La estructura de una organización se representa mediante un diagrama de jerarquía, también conocido como «organigrama». Los
+diagramas de jerarquía muestran la relación entre personas y grupos dentro de la organización y detallan a quién responde
+ada persona o grupo. Existen diferentes tipos de estructuras organizativas, las más populares: la clásica y la matricial.
+
+*Estructura clásica.*
+
+La organización clásica suele incluir lo que se conoce como estructuras «funcionales» o de «jerarquía descendente». La es-
+tructura clásica sigue una cadena de mando tradicional, en la que el director ejecutivo, también conocido como CEO, está
+a la cabeza, junto con otros ejecutivos, seguidos por los directores o gerentes, luego sus subalternos directos y así
+sucesivamente.
+
+Cada uno de estos directores o gerentes suele supervisar equipos dentro de su función en la organización, como Marketing,
+Ventas, o Recursos Humanos. Puedes ver este tipo de estructura en acción si observas una rama de las Fuerzas Armadas. En
+el Ejército, por ejemplo. Podrías entrar en el Ejército como soldado raso, bajo las órdenes de un sargento que supervisa
+a varias personas de tu escuadrón. Ese sargento, en última instancia, está bajo el mando de un teniente, y así sucesivamente.
+
+Sí tu organización tiene una estructura de este tipo, tú como gerente de proyectos podrías comunicarte regularmente con
+tu gerente, tu superior inmediato, y también con los colegas que trabajan en los mismos tipos de proyectos que tú.
+
+*Estructura matricial.*
+
+Puedes pensar en una estructura matricial como una grilla en la que aun tendrás gente por encima, pero también tendrás
+gente en departamentos adyacentes que querrán tener novedades sobre el avance de tu trabajo. Puede que estas personas no
+sean tus jefes directos, pero eres responsable de comunicarte con ellas, ya que pueden introducir cambios en tu trabajo.
+
+la estructura matricial tiene superiores directos a quienes responder e interesados de otros departamentos o programas.
+
 #### El papel de un gerente de proyectos dentro de diferentes estructuras organizativas
 
 #### Cómo impacta la estructura de la organización en la gestión de proyectos
