@@ -1211,4 +1211,10 @@ Estos son los siete principios clave de Six Sigma:
 
     * Abordar las actividades de mejora de forma sistemática.
 
-## modulo_4
+## modulo_4 Estructura y cultura de la organizacion
+
+### Entender la estructura de una organización
+
+### Comprender el impacto de la cultura de la organización
+
+### Comprender la gestión de cambios
