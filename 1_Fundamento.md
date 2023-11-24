@@ -1076,8 +1076,139 @@ es el nivel alto de incertidumbre y riesgo involucrado en el proyecto.
 
 #### Introducción a Lean y Six Sigma
 
+*Lean Six Sigma.*
+
+Esta fusion de metodologias aplica lean y six sigma, esto es ampliamente utilizada en proyectos que tienen como objetivo
+ahorrar dinero, mejorar la calidad y avanzar rápidamente en los procesos. También se centra en el trabajo en equipo que
+promueve un ambiente de trabajo positivo. Se basa en la idea de que si tu equipo se siente valorado, aumenta la motivación
+y la productividad y todo el proceso funciona mejor.
+
+Hay cinco fases en el enfoque Lean Six Sigma. *Definir, medir, analizar, mejorar y controlar*, comúnmente conocido como DMAIC.
+DMAIC es una estrategia para mejorar los procesos, lo que implica intentar averiguar donde están los problemas en el proceso
+actual y corregirlos para que todo funcione mejor. El objetivo de cada paso es garantizar los mejores resultados posibles
+para tu proyecto.
+
+Al igual que con Waterfall y Agile, hay detalles más específicos para usar DMAIC y el enfoque Lean Six Sigma. Pero lo bueno
+del proceso DMAIC es que se puede usar para resolver cualquier problema comercial.
+
+*La primera fase es definir* el objetivo del proyecto y lo que se necesita para alcanzarlo. Esta primera fase es muy similar
+a la fase de iniciación en la gestión de proyectos tradicional.
+
+*medir, Para mejorar los procesos, DMAIC se centra en los datos*. Aquí debes analizar el proceso actual y localizar con
+precisión dónde se encuentran los problemas y de qué manera afectan al proceso, Luego, estableces un plan sobre cómo
+obtendrás esos datos y con qué frecuencia debes medirlos. Esto puede implicar que la empresa genere informes semanales,
+mensuales y trimestrales. En otras situaciones, puedes tener empleados o clientes que completan encuestas o miran el
+inventario, expedientes de envío y seguimiento, Una vez que tengas los datos y las medidas, puedes pasar a la siguiente
+fase que es analizar.
+
+*Analizar.* Aquí, comenzarás a identificar brechas y problemas,  El análisis de datos es importante para los gerentes de
+proyectos, independientemente de qué método eliges, A partir de los datos, comprenderás de manera clara las causas y
+soluciones para pasar a la siguiente etapa.
+
+*Mejorar.* A menudo, los gerentes de proyectos quieren pasar directamente a esta fase, sin embargo, los proyectos reales
+de mejoras de procesos deben llevarse a cabo después de un análisis cuidadoso. Este es el punto donde presentas los
+resultados y te preparas para comenzar a realizar mejoras.
+
+*Controlar.* Has llevado el proceso y el proyecto a un buen lugar y ahora es momento de implementarlo y mantenerlo allí.
+Controlar se trata de aprender del trabajo que realizaste desde el principio para ubicar nuevos procesos y documentación
+en su lugar y continuar con la supervisión para que la empresa no vuelva a la antigua e ineficiente forma de hacer las
+cosas.
+
+Para resumir, puedes recordar DMAIC de esta manera: definir te muestra qué medir, medir te muestra qué analizar, analizar
+te muestra qué mejorar y mejorar te muestra qué controlar.
+
+*Usamos lean six sigma y DMAIC:*
+
+Lean Six Sigma y el enfoque DMAIC son ideales cuando el objetivo del proyecto incluye mejorar el proceso actual para arreglar
+problemas complejos o de alto riesgo, como mejorar las ventas, conversiones o eliminar un atasco, que es cuando se realiza
+una copia de seguridad durante un proceso.
+
+Seguir el proceso DMAIC previene la probabilidad de omitir pasos importantes y aumenta las posibilidades de un proyecto
+exitoso. Para que tu equipo descubra las mejores prácticas que el cliente puede usar en el futuro, este enfoque utiliza
+datos y se centra en el cliente o el usuario final a fin de resolver problemas enfocándose en el aprendizaje previo. De
+esta manera, puedes descubrir soluciones eficaces permanentes para problemas difíciles.
+
 #### Metodologías Lean y Six Sigma
 
-#### Enfoques comunes de gestión de proyectos y cómo seleccionar uno
+*Lean:*
+
+La metodología Lean suele denominarse Manufactura Lean porque se originó en la industria manufacturera. El principio fun-
+damental de la metodología Lean es eliminar el desperdicio dentro de una operación. Al optimizar los pasos del proceso y
+eliminar el desperdicio, solo se añade valor en cada fase de la producción.
+
+En la actualidad, la metodología Lean reconoce ocho tipos de desperdicio dentro de una actividad:
+
+    * Defectos.
+
+    * Procesamiento excesivo.
+
+    * sobreproducción.
+
+    * Espera.
+
+    * Inventario.
+
+    * Transporte.
+
+    * Movimiento.
+
+    * Recursos humanos desaprovechados.
+
+En la industria manufacturera, estos tipos de desperdicio suelen atribuirse a cuestiones como las siguientes:
+
+    * Falta de documentación adecuada
+
+    * Falta de estándares de proceso
+
+    * No entender las necesidades de los clientes
+
+    * Falta de comunicación efectiva
+
+    * Falta de control de los procesos
+
+    * Procesos con diseño ineficiente
+
+    * Errores de gestión
+
+Implementa la gestión de proyectos Lean si deseas utilizar menos recursos, reducir el desperdicio y agilizar los procesos
+para obtener los máximos beneficios.
+
+Puedes lograrlo utilizando los pilares de la herramienta de calidad Lean 5S.  los cinco pilares que se requieren para un
+proyecto bien organizado: seleccionar, ordenar, limpiar, estandarizar y sostener (en español, las iniciales forman «soles»).
+esto significa:
+
+    *Seleccionar:* Elimina todos los artículos que no sean necesarios para las operaciones de producción actuales y deja
+    solo lo esencial.
+
+    *Ordenar:* Organiza los artículos necesarios de modo que sean fáciles de usar. Etiqueta los artículos para que cual-
+    quiera pueda encontrarlos o guardarlos.
+
+    *Limpiar:* Mantén todo en su lugar. Limpia tu espacio de trabajo todos los días.
+
+    *Estandarizar:* Realiza el proceso siempre de la misma manera.
+
+    *Sostener:* Acostúmbrate a seguir los procedimientos correctos e inculca esta disciplina en tu equipo.
+
+*Six sigma:*
+
+Six Sigma es una metodología utilizada para reducir las variaciones y garantizar que se sigan los procesos de calidad en
+todo momento. El término «Six Sigma» (seis sigmas) tiene su origen en la estadística y generalmente significa que los
+artículos o procesos deben tener una calidad del 99.9996%.
+
+Estos son los siete principios clave de Six Sigma:
+
+    * Centrarse siempre en el cliente.
+
+    * Identificar y comprender cómo se hacer el trabajo (comprender cómo ocurre realmente).
+
+    * Hacer que los procesos fluyan sin problemas.
+
+    * Reducir el desperdicio y concentrarse en el valor.
+
+    * Eliminar la variación y, con ella, los defectos.
+
+    * Involucrar a los miembros del equipo y colaborar con ellos.
+
+    * Abordar las actividades de mejora de forma sistemática.
 
 ## modulo_4
