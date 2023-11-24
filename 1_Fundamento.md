@@ -1215,6 +1215,18 @@ Estos son los siete principios clave de Six Sigma:
 
 ### Entender la estructura de una organización
 
+#### Introducción: Estructura y cultura de una organización
+
+#### Descripción general de las estructuras clásica y matricial
+
+#### El papel de un gerente de proyectos dentro de diferentes estructuras organizativas
+
+#### Cómo impacta la estructura de la organización en la gestión de proyectos
+
+#### El papel de una oficina de gestión de proyectos
+
+#### Lan: Trabajar en una oficina de gestión de proyectos
+
 ### Comprender el impacto de la cultura de la organización
 
 ### Comprender la gestión de cambios
