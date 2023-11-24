@@ -999,7 +999,80 @@ del proyecto de la mejor manera.
 
 #### Introducción a las metodologías Waterfall y Agile
 
+Waterfall y Agile son dos de las metodologías de gestión de proyectos más populares.
+
+*Waterfall.*
+
+La metodología Waterfall se creó en los años 70 y se basa en el orden secuencial de las fases. Se completa una a la vez
+de manera lineal como una cascada que comienza en la cima de una montaña y termina en la base.
+
+Waterfall tiene un enfoque lineal. Al principio, Waterfall se usó en las disciplinas de la ingeniería física, como la
+fabricación y la construcción. Luego, el software se convirtió en un campo importante de la ingeniería, y Waterfall también
+se aplicó a esos proyectos.
+
+Todavía se usa mucho en los campos de la ingeniería, incluido el diseño y la aplicación de las funciones de un producto,
+también conocido como diseño de aplicaciones. Con el tiempo, otras industrias, como la planificación de eventos y el comercio
+minorista adaptaron las fases de Waterfall a sus proyectos.
+
+Ahora hay muchos estilos de Waterfall, y cada uno tiene su conjunto específico de pasos. Sin embargo, lo que tienen en
+común es que siguen un conjunto ordenado de pasos que se vinculan directamente a expectativas, recursos y objetivos claramente
+definidos que probablemente no cambien.
+
+Las fases del ciclo de vida de un proyecto de Waterfall siguen el mismo flujo estándar del ciclo de vida del proyecto Iniciar,
+planificar, ejecutar, que incluye gestionar y completar las tareas, y cerrarlas.
+
+*¿Cuándo deberías usar un enfoque Waterfall para la gestión de proyectos?*
+
+Deberias elejir waterfall cuando:
+
+    * Cuando las fases del proyecto estén claramente definidas.
+
+    * cuando hay tareas que se deben completar antes de comenzar otras.
+
+    * cuando los cambios en el proyecto son muy costosos de implementar una vez que ha comenzado.
+
+El método tradicional no permitirá que el cliente cambie, Un enfoque tradicional bien pensado para gestionar un proyecto
+puede ayudarte a alcanzar el resultado deseado con la menor cantidad de obstáculos posibles durante la ejecución del proyecto.
+En un mundo ideal, seguir este enfoque te ayudará a identificar a las personas y las tareas adecuadas, planificar en consecuencia
+para evitar contratiempos en el camino, crear espacio para documentar los planes y el progreso, y permitirte alcanzar ese
+objetivo.
+
+El método Waterfall dispone de algunas prácticas de gestión de riesgos para ayudar a evitar y enfrentar los cambios del
+proyecto.
+
+*Agile,*
+
+Otro enfoque popular de la gestión de proyectos. El término Agile (ágil) significa ser capaz de moverse rápida y fácilmente.
+También se refiere a la flexibilidad, lo que significa estar dispuesto y ser capaz de cambiar y adaptarse. Los proyectos
+que utilizan un enfoque Agile suelen tener muchas tareas en las que se trabaja al mismo tiempo o en varias etapas de fi-
+nalización, lo que lo convierte en un enfoque iterativo.
+
+Los conceptos que dieron forma a la metodología Agile surgieron en los años 90 como respuesta a la creciente demanda de
+una entrega más rápida de productos, principalmente aplicaciones de software, en ese momento. Pero no se llamó oficialmente
+Agile hasta 2001.
+
+Las fases de un proyecto Agile también siguen las etapas del ciclo de vida del proyecto que se describieron previamente,
+en términos generales. Sin embargo, en lugar de tener que seguir un orden o esperar a que termine una fase antes de comenzar
+la siguiente, las fases del proyecto Agile se superponen, y las tareas se completan en iteraciones, que en Scrum se llaman
+sprints.
+
+los sprints son periodos cortos, por lo general de una a cuatro semanas, durante los cuales un equipo trabaja en conjunto
+para concentrarse en completar tareas específicas.
+
+Es importante entender que Agile es una mentalidad más que una serie de pasos o fases. Se trata de crear un equipo eficaz
+y colaborativo que busque comentarios periódicos del cliente para poder ofrecer el mejor valor lo más rápido posible y
+adaptarse a medida que surjan cambios.
+
+Los proyectos que se adaptan mejor al enfoque Agile son aquellos en los que el cliente tiene una idea de lo que quiere,
+pero no tiene una imagen concreta en mente, o tienen un conjunto de cualidades que les gustaría ver en el resultado final,
+pero no están tan preocupados por cómo se ve exactamente. Otro indicador de que un proyecto se puede beneficiar de Agile
+es el nivel alto de incertidumbre y riesgo involucrado en el proyecto.
+
 #### Comparación entre las metodologías Waterfall y Agile
+
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
 
 #### Introducción a Lean y Six Sigma
 
