@@ -1263,6 +1263,11 @@ la estructura matricial tiene superiores directos a quienes responder e interesa
 
 #### El papel de un gerente de proyectos dentro de diferentes estructuras organizativas
 
+Tanto en las organizaciones clásicas como en las matriciales, los gerentes de proyectos deben definir claramente las fun-
+iones y responsabilidades para poder trabajar de manera eficaz. Sin embargo, en la mayoría de las organizaciones matriciales,
+algunos gerentes de proyectos o directores de departamento pueden tener el mismo nivel de autoridad que los gerentes fun-
+cionales y operar de forma más directa.
+
 #### Cómo impacta la estructura de la organización en la gestión de proyectos
 
 #### El papel de una oficina de gestión de proyectos
