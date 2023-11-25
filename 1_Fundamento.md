@@ -1380,4 +1380,14 @@ zación.
 
 ### Comprender el impacto de la cultura de la organización
 
+#### Introducción a la cultura de una organización
+
+#### Aprender sobre la cultura de una organización
+
+#### Gestión de proyectos en la vida y en la organización
+
+#### Caso práctico: Equilibrio entre la cultura empresarial y los objetivos estratégicos
+
 ### Comprender la gestión de cambios
+
+### En busca de tu nueva carrera profesional
