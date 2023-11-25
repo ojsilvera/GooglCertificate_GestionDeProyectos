@@ -1270,6 +1270,41 @@ cionales y operar de forma más directa.
 
 #### Cómo impacta la estructura de la organización en la gestión de proyectos
 
+La estructura de una organización proporciona el marco para la responsabilidad y la comunicación. Como gerente de proyectos,
+es vital que comprendas a quién reportas en cada proyecto y, lo que es más importante, a quién reportan los miembros de tu
+equipo.
+
+Conocer la estructura organizacional también te dice cómo y dónde obtener los recursos que necesitarás para poder realizar
+el proyecto de manera eficiente.
+
+Cuando comprendas la estructura de la organización, podrás identificar cómo afecta la manera en que administras el proyecto.
+
+Una forma en que la estructura organizacional puede afectar la manera en que administras un proyecto es por la cantidad
+de autoridad que la empresa te otorga como gerente de proyectos. La autoridad tiene que ver con tu capacidad para tomar
+las decisiones relativas al proyecto que impactan en la organización. En algunos casos, es posible que tengas la autoridad
+para hacer cosas como seleccionar los proveedores que brindan bienes o servicios para el proyecto. Otras veces, es posible
+que tengas un grupo de proveedores ya seleccionado para ti. Tu nivel de autoridad y responsabilidad variará de un proyecto
+a otro.
+
+Otra forma en que las estructuras organizacionales pueden afectar la gestión de proyectos es a través de la disponibilidad
+de recursos.
+
+Gestionar un proyecto es mucho más fácil cuando sabes cómo acceder a las personas, los equipos y el presupuesto que necesitas.
+
+Las diferentes estructuras pueden afectar la manera en gestionas un proyecto:
+
+*En una estructura clásica:*
+
+es posible que tengas menos autoridad y un alcance más limitado. Es posible que debas recibir la aprobación de los gerentes,
+directores y jefes de departamento apropiados para avanzar y completar ciertas tareas. En este caso, es probable que dichas
+personas tengan a su cargo a las personas de tu equipo y los recursos que necesitas.
+
+Como un gerente de proyectos que trabaja en una estructura clásica, puede ser que dependas de los gerentes de tu organización
+para la aprobación de los recursos. En otras palabras, la cantidad de personas que trabajan en tu proyecto o el presupuesto
+asignado a tu proyecto depende de la decisión de los líderes de tu departamento o función.
+
+En una estructura clásica, es posible que tengas que pasar por una cadena de aprobaciones y pedir más recursos si los necesitas.
+
 #### El papel de una oficina de gestión de proyectos
 
 #### Lan: Trabajar en una oficina de gestión de proyectos
