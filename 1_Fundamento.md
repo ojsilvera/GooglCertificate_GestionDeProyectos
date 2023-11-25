@@ -1328,6 +1328,50 @@ proyectos, generalmente tienes más autonomía para tomar decisiones y reunir re
 
 #### El papel de una oficina de gestión de proyectos
 
+*¿Qué es una PMO?*
+
+**Una Oficina de gestión de proyectos, o PMO,** es un grupo dentro de una organización que define y establece los estándares
+y procesos de gestión de proyectos en toda la organización. A menudo, actúa como un centro coordinado para todos los pro-
+yectos de la organización y contribuye a que estos funcionen de forma más fluida y eficaz.
+
+Los gerentes de proyectos de una organización pueden operar dentro de la propia PMO o dentro de otros departamentos.
+
+*¿Cuáles son las funciones de una PMO?*
+
+Las PMO brindan:
+
+* Orientaciónm, apoyo a los gerentes de proyectos de su organización, Planificación estratégica y dirección.
+
+Esta es la función más importante de una PMO. Implica definir los criterios del proyecto, seleccionar los proyectos de
+acuerdo con los objetivos empresariales de la organización y, luego, presentar los argumentos comerciales de esos proyectos
+ante los directivos.
+
+* Comparten prácticas recomendadas
+
+Las PMO ayudan a implementar las mejores prácticas y procesos dentro de la organización. También comparten las lecciones
+aprendidas de proyectos previos exitosos. Además, ayudan a garantizar la coherencia entre los proyectos de la organización
+al proporcionar orientación sobre procesos, herramientas e indicadores.
+
+* Comunican el estado de los proyectos, creación de documentación, archivos y herramientas del proyecto
+
+Las PMO comunican el estado de los proyectos a los interesados y miembros de los equipos, proporcionan plantillas, herra-
+mientas y software a los miembros del equipo para ayudarlos a gestionar los proyectos. También desempeñan un papel impor-
+tante a la hora de llevar un registro de los proyectos de la organización. Una vez que se cierra un proyecto, archivan
+todos los documentos creados durante el proyecto para consultarlos en el futuro y capturar las lecciones aprendidas.
+
+* Gestión de recursos
+
+Las PMO suelen ser responsables de administrar y asignar recursos, como personas y equipos, entre todos los proyectos de
+la organización en función del presupuesto, las prioridades, los cronogramas y otros factores. También ayudan a definir
+las funciones y responsabilidades necesarias en un proyecto determinado. Las PMO proporcionan capacitación, tutoría y
+entrenamiento a todos los empleados, pero, sobre todo, a los gerentes de proyectos.
+
+* Cultura común del proyecto
+
+Mediante la capacitación de los empleados respecto a los enfoques óptimos y las prácticas recomendadas, las PMO ayudan a
+definir prácticas comunes en relación con la cultura del proyecto. Esto ayuda a mantener prácticas de gestión de proyectos
+coherentes y eficientes en toda la organización.
+
 #### Lan: Trabajar en una oficina de gestión de proyectos
 
 ### Comprender el impacto de la cultura de la organización
