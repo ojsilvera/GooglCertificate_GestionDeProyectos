@@ -1378,8 +1378,6 @@ y creación de documentación, archivos y herramientas para los proyectos. Las P
 de un gran número de proyectos y a que todos los empleados trabajen en la misma dirección hacia los objetivos de la organi-
 zación.
 
-#### Lan: Trabajar en una oficina de gestión de proyectos
-
 ### Comprender el impacto de la cultura de la organización
 
 ### Comprender la gestión de cambios
