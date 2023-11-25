@@ -1303,7 +1303,28 @@ Como un gerente de proyectos que trabaja en una estructura clásica, puede ser q
 para la aprobación de los recursos. En otras palabras, la cantidad de personas que trabajan en tu proyecto o el presupuesto
 asignado a tu proyecto depende de la decisión de los líderes de tu departamento o función.
 
-En una estructura clásica, es posible que tengas que pasar por una cadena de aprobaciones y pedir más recursos si los necesitas.
+En una estructura clásica, es posible que tengas que pasar por una cadena de aprobaciones y pedir más recursos si los nece-
+sitas, Esa es la estructura clásica; una disposición tradicional de arriba hacia abajo de empleados y autoridad.
+
+*En una estructura matricial.*
+La principal diferencia con una estructura matricial es que los empleados a menudo tienen dos o más gerentes o líderes con
+los que necesitarán trabajar y a quienes deberán reportar. Los miembros de tu equipo tendrán a su gerente funcional y a ti,
+el gerente de proyectos.
+
+Si los miembros están trabajando en múltiples proyectos, pueden tener aún más gerentes. Esto puede afectar tu autoridad
+como gerente de proyectos, ya que necesitarás cooperar con más de un líder en la organización.
+
+Es posible que debas compartir recursos y negociar prioridades. La clave es asegurarse de saber quiénes son tus partes
+interesadas y quién controla qué, ya que la cadena de mando no siempre está tan claramente definida como en la estructura
+clásica.
+
+Debido a que no siempre hay una cadena de mando clara en una estructura matricial, debes asegurarte de haber identificado
+y reportado a las personas a las que debas informar y de las que debas obtener aprobación mucho antes de iniciar el proyecto.
+Sin embargo, una vez que esto se haya establecido, tu proyecto dentro de una estructura matricial debería poder ejecutarse
+de manera eficiente.
+
+Las estructuras matriciales enfatizan un fuerte enfoque en el proyecto por el equipo y la organización. Como gerente de
+proyectos, generalmente tienes más autonomía para tomar decisiones y reunir recursos según sea necesario.
 
 #### El papel de una oficina de gestión de proyectos
 
