@@ -1372,7 +1372,7 @@ Mediante la capacitación de los empleados respecto a los enfoques óptimos y la
 definir prácticas comunes en relación con la cultura del proyecto. Esto ayuda a mantener prácticas de gestión de proyectos
 coherentes y eficientes en toda la organización.
 
-**En resumen,**los propósitos clave de una PMO son los siguientes: planificación estratégica y dirección, implementación
+**En resumen:**los propósitos clave de una PMO son los siguientes: planificación estratégica y dirección, implementación
 de prácticas recomendadas de gestión de proyectos, definición de una cultura común para los proyectos, gestión de recursos,
 y creación de documentación, archivos y herramientas para los proyectos. Las PMO ayudan a sus organizaciones en la gestión
 de un gran número de proyectos y a que todos los empleados trabajen en la misma dirección hacia los objetivos de la organi-
