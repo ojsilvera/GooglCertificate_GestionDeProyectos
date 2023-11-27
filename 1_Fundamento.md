@@ -1387,6 +1387,25 @@ valoran, cómo trabajan a diario, cómo se relacionan entre sí y lo que se espe
 cultura de una organización. Algunas hacen hincapié en el trabajo en equipo y la innovación, mientras que otras se centran
 en la atención al detalle y los logros.
 
+La cultura de una organización consiste tanto en los valores que comparten los empleados, como los valores de la organización,
+su misión, su historia, etc. La cultura de una organización es, en cierto sentido, su personalidad. Comprender la cultura
+de una organización ayudará a desenvolverte eficazmente en equipo para lograr el objetivo del proyecto.
+
+La cultura también impacta en cómo planificas tu proyecto. Tendrás que familiarizarte con la cultura de una organización
+para minimizar los conflictos y llevar adelante el proyecto con todo el apoyo y la armonía posibles. La misión de una or-
+ganización y sus valores pueden dar pistas sobre su cultura.
+
+Al demostrar cómo el proyecto apoya la misión de la empresa o cómo se alinea con sus valores, obtendra más apoyo de los
+ejecutivos y los interesados a la hora de conseguir las aprobaciones y los recursos que necesitas.
+
+Las siguientes preguntas ayudará a identificar los valores clave para la empresa y cómo puedes abordar la toma de decisiones
+
+    ¿El equipo directivo prioriza la velocidad sobre la perfección?
+    ¿Cómo se toman las decisiones dentro de la organización?
+    ¿Se examina minuciosamente cada alternativa para cada decisión?
+
+Tambien permitiran conocer qué valoran los directivos a la hora de hacer negocios.
+
 #### Aprender sobre la cultura de una organización
 
 #### Gestión de proyectos en la vida y en la organización
