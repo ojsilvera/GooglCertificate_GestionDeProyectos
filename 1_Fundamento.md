@@ -1382,6 +1382,11 @@ zación.
 
 #### Introducción a la cultura de una organización
 
+¿Qué sabes sobre cultura? y ¿cómo defines cultura?, La cultura de una organización contextualiza y guía lo que sus miembros
+valoran, cómo trabajan a diario, cómo se relacionan entre sí y lo que se espera de ellos. Hay muchas formas de definir la
+cultura de una organización. Algunas hacen hincapié en el trabajo en equipo y la innovación, mientras que otras se centran
+en la atención al detalle y los logros.
+
 #### Aprender sobre la cultura de una organización
 
 #### Gestión de proyectos en la vida y en la organización
