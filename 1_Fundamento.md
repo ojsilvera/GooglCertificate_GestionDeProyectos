@@ -1406,6 +1406,21 @@ Las siguientes preguntas ayudará a identificar los valores clave para la empres
 
 Tambien permitiran conocer qué valoran los directivos a la hora de hacer negocios.
 
+Para entender mejor la cultura de una organización, ten en cuenta estas preguntas
+
+    ¿Cómo prefiere comunicarse la gente?
+    ¿A través de reuniones programadas, por correo electrónico o por teléfono?
+    ¿Cómo se toman las decisiones: por mayoría o jerárquicamente?
+    ¿Qué tipos de rituales existen cuando viene alguien nuevo a la oficina?
+    ¿Lo llevan a almorzar, le dan un recorrido por el edificio o lo presentan al personal?
+    ¿Cómo se ejecutan normalmente los proyectos? ¿Prefieren un estilo de gestión clásico, matricial o de algún otro tipo?
+    ¿qué tipo de prácticas, comportamientos y valores reflejan los miembros de la organización?
+    ¿Se espera que trabajen horas extras o durante el fin de semana?
+    ¿Hay eventos sociales organizados por la empresa?
+
+Averiguar qué valora la empresa, te dirá mucho sobre su cultura y cómo manejar la comunicación, gestionar las expectativas
+e identificar conflictos potenciales mientras trabajas en el proyecto.
+
 #### Aprender sobre la cultura de una organización
 
 #### Gestión de proyectos en la vida y en la organización
