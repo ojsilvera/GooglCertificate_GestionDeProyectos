@@ -1423,6 +1423,23 @@ e identificar conflictos potenciales mientras trabajas en el proyecto.
 
 #### Aprender sobre la cultura de una organización
 
+La cultura se come a la estrategia en el desayuno», La cultura de una organización es fundamental para su estado general,
+para las personas que trabajan allí y para sus clientes.
+
+*La importancia de la cultura de una organización.*
+
+*Identidad:*La cultura de una organización define su identidad. La identidad describe esencialmente la forma en que la
+empresa lleva a cabo sus actividades, tanto interna como externamente. Los valores y la cultura de una organización van
+ de la mano; sus valores forman parte de su identidad.
+
+*Personas:* Una organización con una cultura sólida y positiva logra conservar a los mejores empleados. Las personas que
+se sienten valoradas, comprometidas y desafiadas tienen más probabilidades de dar lo mejor de sí mismas y quieren impulsar
+el éxito. La cultura de una organización puede ayudar a mantener a los empleados talentosos en una empresa, y también puede
+atraer a grandes personas. En cambio, una cultura tóxica puede tener el efecto contrario.
+
+*Procesos:* La cultura de una organización puede tener un impacto directo en sus procesos y, en última instancia, en su
+productividad. Se inculca en toda la empresa, desde sus empleados hasta la forma en que hacen su trabajo.
+
 #### Gestión de proyectos en la vida y en la organización
 
 #### Caso práctico: Equilibrio entre la cultura empresarial y los objetivos estratégicos
