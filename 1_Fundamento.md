@@ -1426,7 +1426,7 @@ e identificar conflictos potenciales mientras trabajas en el proyecto.
 La cultura se come a la estrategia en el desayuno», La cultura de una organización es fundamental para su estado general,
 para las personas que trabajan allí y para sus clientes.
 
-*La importancia de la cultura de una organización.*
+* La importancia de la cultura de una organización.
 
 *Identidad:*La cultura de una organización define su identidad. La identidad describe esencialmente la forma en que la
 empresa lleva a cabo sus actividades, tanto interna como externamente. Los valores y la cultura de una organización van
@@ -1439,6 +1439,87 @@ atraer a grandes personas. En cambio, una cultura tóxica puede tener el efecto 
 
 *Procesos:* La cultura de una organización puede tener un impacto directo en sus procesos y, en última instancia, en su
 productividad. Se inculca en toda la empresa, desde sus empleados hasta la forma en que hacen su trabajo.
+
+* Comprender la cultura de una organización
+
+Como gerente de proyectos, es importante que entiendas la cultura de tu empresa, especialmente porque podría afectar a los
+proyectos en los que trabajas. La comunicación, la toma de decisiones, los rituales, los estilos de gestión previos y los
+valores son algunos de los aspectos de la cultura de una organización que están directamente relacionados con la forma en
+que gestionarás los proyectos.
+
+Estas son algunas formas de obtener más información sobre la cultura de una empresa y cómo se aplica a ti como gerente de
+proyectos:
+
+    - Hacer preguntas
+    
+    Puedes aprender sobre la cultura de una organización haciendo preguntas a la gerencia y a tus compañeros. Puede ser
+    útil formular estas preguntas en la fase de entrevista para comprender mejor la cultura de la empresa antes de aceptar
+    un puesto. Por ejemplo, podrías hacer preguntas sobre los siguientes aspectos:
+
+    Atmósfera de trabajo_
+
+        ¿Cuál es el código de vestimenta de la empresa?
+
+        ¿Cómo suelen compartir las personas el crédito por los logros?
+
+        ¿Se alienta a las personas a asumir riesgos? ¿Qué sucede cuando fracasan?
+
+        ¿Cómo apoyan y motivan los gerentes a su equipo?
+
+        ¿Cómo interactúan las personas de este rol con los clientes y los usuarios?
+
+        ¿Cuándo y cómo los miembros del equipo se hacen comentarios unos a otros?
+
+        ¿Qué tradiciones laborales tiene la organización?
+
+        ¿De qué formas celebra el éxito la empresa?
+
+    Políticas:
+
+        ¿Cuáles son las políticas relativas a las licencias por enfermedad y las vacaciones?
+
+        ¿Ofrece la empresa flexibilidad a sus empleados (por ejemplo, trabajar desde casa u horarios de trabajo flexibles)?
+
+        ¿Qué políticas existen para ayudar a los empleados a compartir su identidad en el lugar de trabajo?
+
+    Procesos
+
+        ¿Cuál es el proceso de incorporación de la empresa?
+
+        ¿Cómo miden los empleados el impacto de su trabajo?
+
+    Toma nota de los rituales de la empresa
+
+        Los rituales pueden ser poderosos impulsores de la cultura. Involucran a las personas y ayudan a inculcar un sentido
+        de propósito y experiencia compartidos.
+
+        ¿Cómo se celebran los cumpleaños y los días festivos?
+
+        ¿Los empleados suelen almorzar siempre a la misma hora y en el mismo lugar?
+
+        Observa las interacciones entre los empleados: observar cómo interactúan los empleados puede ayudarte a adaptar
+        tu estilo de interacción a las normas de la empresa.
+
+        ¿Las interacciones con los empleados tienden a ser formales o informales?
+
+        ¿Se invita a empleados de diferentes funciones a aportar ideas?
+
+* Comprende tu impacto
+
+Como gerente de proyectos, te conviertes en *agente del cambio*. Recuerda que un agente del cambio es una persona dentro
+de una organización que la ayuda a transformarse centrándose en mejorar la eficacia e impulsar el desarrollo. Cuando empieces
+en un nuevo puesto, reúnete con la gerencia para comprender mejor qué se espera de ti y cómo puedes aprovechar al máximo
+la oportunidad.
+
+* Mejora tus destrezas de comunicación
+
+Las destrezas de comunicación interpersonal son una parte importante de la gestión de proyectos. La forma en que una orga-
+nización se comunica está directamente vinculada a su cultura. Lo más probable es que interactúes con distintos departamentos
+y niveles de gestión durante la ejecución de cada proyecto. Para comunicarte de forma eficaz, necesitarás entender cómo
+navegar por los diferentes canales de la empresa. Cuando empieces en un nuevo rol, haz preguntas sobre las prácticas de
+comunicación, como las siguientes: ¿Se acostumbra firmar los correos electrónicos en nombre del equipo en lugar de hacerlo
+a título individual? ¿Las presentaciones deben incluir a todos los miembros del equipo o las debe presentar únicamente el
+gerente del proyecto? Esto puede ayudarte a cumplir con lo que se espera de ti.
 
 #### Gestión de proyectos en la vida y en la organización
 
