@@ -1622,6 +1622,27 @@ algunos ejemplos de herramientas que puedes usar en tu próximo proyecto:
 
 #### Participar en la gestión de cambios
 
+La gestión de cambios es una actividad importante y un proyecto en sí misma.
+
+Si eres empático con los desafíos de la gestión de cambios, puedes contribuir sutilmente con el proceso. En este caso,
+participar en la gestión de cambios podría implicar hablar con los empleados a lo largo del proyecto sobre cómo el sistema
+brindará una mejor experiencia a sus clientes. Puedes contribuir con el proceso proporcionando a los empleados información
+para que se sientan preparados para adaptarse a los cambios una vez que el sistema esté listo para usarse.
+
+Estas preguntas pueden ayudar a medir el proceso de gestion de cambios y preparar escenarios que mitiguen efectos adversos
+
+    ¿cómo reaccionará la organización al cambio?
+    ¿Qué factores podrían influir en el cambio?
+    ¿Cuál es el mejor medio de comunicación?
+    ¿Qué prácticas de gestión de cambios conducirán a una implementación exitosa del proyecto?
+
+Las respuestas a estas preguntas te ayudarán a prepararte para los distintos escenarios posibles y crear soluciones para
+respaldar la adopción de tu proyecto. También te ayudarán a afrontar posibles desafíos en el camino y liderar tu proyecto
+a través de un proceso exitoso de gestión de cambios. Sé que esta es mucha información, pero estás haciendo un gran trabajo.
+
 #### Gobierno corporativo y dirección de proyectos
+
+El gobierno corporativo es el framework de gestión dentro del cual se toman las decisiones y se determinan la responsabilidad
+y la rendición de cuentas. En términos sencillos, el gobierno corporativo consiste en entender quién está a cargo.
 
 ### En busca de tu nueva carrera profesional
