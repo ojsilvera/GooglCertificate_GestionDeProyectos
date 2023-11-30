@@ -1523,6 +1523,8 @@ gerente del proyecto? Esto puede ayudarte a cumplir con lo que se espera de ti.
 
 #### Gestión de proyectos en la vida y en la organización
 
+"Amar, cuando llegas al trabajo cada día, pregunta, ¿cuáles son los tres principales desafíos que quieres resolver hoy?"
+
 #### Caso práctico: Equilibrio entre la cultura empresarial y los objetivos estratégicos
 
 ### Comprender la gestión de cambios
