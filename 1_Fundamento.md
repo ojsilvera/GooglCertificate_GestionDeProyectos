@@ -1597,6 +1597,29 @@ pueden mantenerse al tanto de los próximos cambios.
       Puedes incluir todas estas decisiones en tu plan para que cualquier posible cambio tenga menos probabilidades de
       afectar tu cronograma.
 
+*Habla sobre los próximos cambios.* Debe haber una comunicación regular entre los interesados afectados, el equipo de gestión
+de cambios y el equipo del proyecto. Puedes ponerte en contacto durante el proyecto para hablar sobre cómo marchan las
+cosas y cómo los cambios proporcionarán una mejor experiencia a los usuarios finales de los entregables del proyecto.
+
+*Sigue un proceso coherente.*Seguir un proceso claro de gestión de cambios ayuda a mantener la coherencia cada vez que
+se produce un cambio. El proceso de gestión de cambios debe definirse y documentarse al principio del proyecto para indicar
+cómo se manejarán los cambios en el proyecto. Es posible que tu organización también tenga un plan general de gestión de
+cambios que puedas adoptar en tu proyecto. El plan podría incluir, por ejemplo, cuándo debe promoverse el cambio, cuándo
+debe brindarse la capacitación necesaria, cuándo será el lanzamiento y los pasos correspondientes para cada fase del proceso.
+
+*Practica la empatía.* El cambio es inevitable. Sin embargo, muchas veces, nos resistimos a él. Si eres empático con los
+desafíos y la ansiedad asociados con el cambio, puedes contribuir de manera sutil con el proceso.
+
+*Usa herramientas.* Puede ser muy útil incorporar herramientas que contribuyan con la adopción de un cambio. Estos son
+algunos ejemplos de herramientas que puedes usar en tu próximo proyecto:
+
+    Mecanismos de retroalimentación, como las encuestas, que pueden plasmar la opinión de los interesados.
+    
+    Diagramas de flujo  que permitan visualizar el proceso de desarrollo del proyecto.
+
+    Definición de un mapa cultural  que ilustre la cultura de la empresa y cómo los valores, las normas y el comportamiento
+    de los empleados de la empresa pueden verse afectados por el cambio.
+
 #### Participar en la gestión de cambios
 
 #### Gobierno corporativo y dirección de proyectos
