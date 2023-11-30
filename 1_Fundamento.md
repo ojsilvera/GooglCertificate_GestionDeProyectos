@@ -1529,6 +1529,41 @@ gerente del proyecto? Esto puede ayudarte a cumplir con lo que se espera de ti.
 
 #### Introducción a la gestión de cambios
 
+En la gestión de proyectos, el proceso de entregar el proyecto terminado y conseguir que la gente lo adopte se conoce como
+gestión de cambios. Si comprendes la gestión de cambios, puedes asegurarte de que el proyecto se termine correctamente y
+que la organización acepte y adopte las recomendaciones del proyecto.
+
+A la hora de evaluar el éxito de tu proyecto, es importante tener en mente los cambios que las personas deberán implementar
+como resultado. Si piensas en estos cambios de antemano, tendrás más probabilidades de que el proyecto sea aceptado y
+adoptado.
+
+La gestión de cambios en la gestión de proyectos se centra en tres conceptos y buenas prácticas centrales.
+
+El primer concepto central es crear un sentido de propiedad y urgencia en torno al proyecto. Propiedad significa conseguir
+que los demás sientan que deben hacerse responsables de realizar correctamente sus tareas. La urgencia radica en lograr
+que entiendan que el proyecto es importante e identificar qué medidas deben adoptarse para hacer avanzar el proyecto. Cuando
+el equipo siente propiedad y urgencia en torno a un proyecto, aumenta el interés, la motivación y el compromiso con el
+resultado.
+
+El segundo concepto concepto central es encontrar la combinación correcta de destrezas y personalidades cuando seleccionas
+a las personas que trabajarán en tu equipo. Busca personas cuyos conocimientos y destrezas se complementen mutuamente. Si
+alguien más selecciona a tu equipo, ve si eres capaz de elegir a quién se asigna cada tarea. Si eso no es posible, será
+especialmente importante para ti encontrar formas de conectarte con los miembros de tu equipo. Esto generará entusiasmo
+acerca del proyecto para que puedan abogar por el cambio cuando sea necesario. Una forma efectiva de motivar a tu equipo
+es comunicar claramente la visión y el enfoque para el proyecto. Luego, podrás compartir cómo imaginas a todos trabajando
+juntos como equipo para que esto suceda. Comunicar esta idea claramente permite que otros compartan tu visión y se sientan
+responsables de hacerla realidad.
+
+El último de los conceptos centrales es siempre importante: la comunicación efectiva. Y debe quedar muy en claro: la comu-
+nicación es clave. Tener una comunicación eficaz con tu equipo significa ser transparente y sincero en relación con tus
+planes e ideas y compartir la información necesaria. Asegúrate de que tu equipo, junto con el resto de la organización, se
+mantenga al corriente del avance del proyecto. Así, todos se sentirán incluidos en el proyecto y se sentirán parte de él.
+
+Cuando el proyecto esté terminado, podrías toparte con cierta resistencia o algunos obstáculos. Recuerda: el cambio no
+sucede de la noche a la mañana, así que no te rindas. Si te topas con cierta resistencia, puedes contribuir a que el proceso
+avance ayudando a las personas a adaptarse, recompensando sus esfuerzos y recordándoles el valor general que el proyecto
+proporciona a largo plazo.
+
 #### El papel de un gerente de proyectos en la gestión de cambios
 
 #### Participar en la gestión de cambios
