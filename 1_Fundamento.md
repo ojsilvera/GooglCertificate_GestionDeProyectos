@@ -1566,6 +1566,37 @@ proporciona a largo plazo.
 
 #### El papel de un gerente de proyectos en la gestión de cambios
 
+Como gerente de proyectos, la gestión de cambios es una etapa necesaria para el éxito de tu proyecto. Tanto la gestión de
+cambios como la gestión de proyectos tienen como objetivo aumentar las probabilidades de éxito del proyecto.
+
+Ambas incorporan herramientas y procesos para lograr ese objetivo. La forma más eficaz de lograr el objetivo de un proyecto
+es integrar la gestión de proyectos y la gestión de cambios, y es tu responsabilidad como gerente de proyectos hacerlo.
+
+Cuando evalúes la gestión de cambios en relación con tu proyecto, empieza por hacerte las siguientes preguntas:
+
+    ¿Cómo reaccionará la organización ante el cambio?
+
+    ¿Qué personas podrían influir en el cambio?
+
+    ¿Cuál es el mejor medio de comunicación?
+
+    ¿Qué prácticas de gestión de cambios conducirán a la implementación exitosa de mi proyecto?
+
+Las respuestas a estas preguntas te ayudarán a prepararte para distintos escenarios posibles y te permitirán diseñar solu-
+ciones que favorezcan la adopción de tu proyecto.
+
+*Buenas practicas para la gestion de cambios:*
+
+*Sé proactivo.* Con una planificación proactiva e inclusiva de la gestión de cambios, los posibles interesados afectados
+pueden mantenerse al tanto de los próximos cambios.
+
+    * Incorpora la gestión de cambios entre los pasos de la gestión de proyectos.
+
+    * Además, cuando estés cerca del final del proyecto, puedes planificar los pasos necesarios para presentar los entre-
+      gables a los interesados. Puede tratarse de demostraciones, foros de preguntas y respuestas o videos de marketing.
+      Puedes incluir todas estas decisiones en tu plan para que cualquier posible cambio tenga menos probabilidades de
+      afectar tu cronograma.
+
 #### Participar en la gestión de cambios
 
 #### Gobierno corporativo y dirección de proyectos
