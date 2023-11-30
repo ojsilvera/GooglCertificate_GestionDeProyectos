@@ -1645,4 +1645,12 @@ a través de un proceso exitoso de gestión de cambios. Sé que esta es mucha in
 El gobierno corporativo es el framework de gestión dentro del cual se toman las decisiones y se determinan la responsabilidad
 y la rendición de cuentas. En términos sencillos, el gobierno corporativo consiste en entender quién está a cargo.
 
+*Dirección corporativa*:
+
+El gobierno corporativo en cada organizacion posee su propio conjunto de estándares y prácticas, que dirigen y controlan
+sus acciones, es el framework mediante el cual una organización logra sus metas y objetivos, es una forma de encontrar un
+equilibrio entre los requisitos de distintas entidades, como los interesados, la dirección y los clientes, afecta todas las
+partes de una organización, incluidos los planes de acción, los controles internos y externos, y las mediciones del ren-
+dimiento.
+
 ### En busca de tu nueva carrera profesional
