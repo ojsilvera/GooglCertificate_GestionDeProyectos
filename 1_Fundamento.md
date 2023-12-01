@@ -1653,4 +1653,9 @@ equilibrio entre los requisitos de distintas entidades, como los interesados, la
 partes de una organización, incluidos los planes de acción, los controles internos y externos, y las mediciones del ren-
 dimiento.
 
+Otro ejemplo de dirección dentro de una organización es la creación y el uso de comités de conducción. Los comités de
+conducción definen las prioridades de una organización y gestionan el curso general de sus actividades. El comité de con-
+ducción actúa esencialmente como un consejo asesor que ayuda al gerente de proyectos y a la empresa a tomar y aprobar
+decisiones estratégicas que afectan tanto a la empresa como al proyecto.
+
 ### En busca de tu nueva carrera profesional
