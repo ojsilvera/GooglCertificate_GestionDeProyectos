@@ -1658,4 +1658,46 @@ conducción definen las prioridades de una organización y gestionan el curso ge
 ducción actúa esencialmente como un consejo asesor que ayuda al gerente de proyectos y a la empresa a tomar y aprobar
 decisiones estratégicas que afectan tanto a la empresa como al proyecto.
 
+*Dirección de proyectos:*
+
+Como gerente de proyectos, serás responsable de la dirección del proyecto. La dirección de proyectos es el marco que define
+cómo se toman las decisiones en el proyecto. Una correcta dirección de proyectos ayuda a que un proyecto avance sin problemas,
+a tiempo y dentro del presupuesto. La dirección de proyectos implica todos los elementos clave que hacen que un proyecto
+tenga éxito. Indica qué actividades realiza una organización y quién es el responsable de esas actividades. Abarca las
+políticas, los reglamentos, las funciones, los procesos, los procedimientos y las responsabilidades.
+
+*Intersección entre el gobierno corporativo y la dirección de proyecto:*
+
+La dirección de proyectos debe adaptarse a las necesidades específicas de la organización. Estas necesidades influirán en
+la forma en que implementas y supervisas el framework de dirección en tu proyecto. La dirección de proyectos hace referencia
+a aquellas áreas del gobierno corporativo que están específicamente relacionadas con las actividades del proyecto.
+
+Una dirección de proyectos eficaz garantiza que los proyectos de una organización estén alineados con los objetivos más
+amplios de la organización, se entreguen de manera eficiente y sean sostenibles.
+
+Esto incluye lo siguiente:
+
+    Tener en cuenta los intereses a corto y largo plazo de la organización.
+
+    Tomar decisiones informadas sobre qué proyectos emprender y evitar ciertos proyectos si no tienes los recursos suficientes.
+
+    Proporcionar información oportuna, relevante y fiable al directorio y a otros interesados importantes.
+
+    Contar con el aporte y la aceptación de los altos directivos, ya que son los responsables de la toma de decisiones.
+
+    Durante la fase de iniciación, priorizar objetivos claros, alcanzables y sostenibles para evitar la confusión y el
+    conflicto.
+
+    Durante la fase de planificación, asignar la propiedad y la responsabilidad a un equipo experimentado para entregar,
+    supervisar y controlar el proceso.
+
+    Durante la fase de ejecución, aprender de los errores y adaptarse a conocimientos nuevos o mejorados.
+
+Al mismo tiempo, el gobierno corporativo puede contribuir con la dirección de proyectos, ya que proporciona supervisión
+sobre el cumplimiento y la mitigación de riesgos, además de ofrecer orientación a los gerentes de proyectos.
+
+Un buen gobierno corporativo también puede ayudar a los gerentes de proyectos a obtener recursos, resolver problemas,
+evitar retrasos en la toma de decisiones, lograr la aceptación de los interesados y mejorar la visibilidad de los proyectos
+a nivel ejecutivo.
+
 ### En busca de tu nueva carrera profesional
