@@ -1,9 +1,9 @@
 # Iniciación del proyecto: Cómo iniciar un proyecto exitoso
 
-## modulo_2_1
+## Fundamentos
 
-## modulo_2_2
+## Define Objetivos, Alcanse y criterios
 
-## modulo_2_3
+## Trabajar eficazmente con los interesados
 
-## modulo_2_4
+## Recursos y herramientas
