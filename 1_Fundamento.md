@@ -1699,5 +1699,3 @@ sobre el cumplimiento y la mitigación de riesgos, además de ofrecer orientaci�
 Un buen gobierno corporativo también puede ayudar a los gerentes de proyectos a obtener recursos, resolver problemas,
 evitar retrasos en la toma de decisiones, lograr la aceptación de los interesados y mejorar la visibilidad de los proyectos
 a nivel ejecutivo.
-
-### En busca de tu nueva carrera profesional
