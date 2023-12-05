@@ -51,6 +51,52 @@ desde el principio.
 
 #### Componentes clave de la iniciación del proyecto
 
+Hay varios componentes clave de la iniciación que necesitas tener en cuenta para que tu proyecto sea exitoso: metas u objetivos,
+alcance, entregables, criterios de éxito, interesados y recursos.
+
+*Primero debes considerar los objetivos del proyecto*, es decir, el objetivo es lo que se te ha pedido que hagas y lo que
+estás tratando de lograr. Todos los proyectos deben tener metas claras que, a menudo, serán decisión de los líderes supe-
+riores de la empresa.
+
+*segundp, el alcance del proyecto.* Este es el proceso de definir el trabajo que debe suceder para completar el proyecto,
+También debes pensar en los entregables del proyecto. Hay productos y servicios que crearás para tu cliente o patrocinador
+del proyecto.
+
+*tercero, Los entregables* pueden ser cualquier cosa, desde características del producto y funcionalidades hasta documentación,
+procesos y más, cualquier cosa que permita alcanzar el objetivo de tu proyecto. Los entregables se envían para ayudarte a
+alcanzar los objetivos de tu proyecto. Además, es importante tener en cuenta que los entregables pueden ser tangibles o
+intangibles, un ejemplo de un entregable tangible podría ser enviar un capítulo de un manuscrito. Si el objetivo es publicar
+un libro de texto o si el objetivo de tu proyecto es finalizar la implementación de un nuevo software de punto de venta
+en una tienda minorista, programar las sesiones de capacitación para el personal podría ser un producto intangible.
+
+*Cuarto, los criterios de éxito* de los estándares en función de los cuales mides el éxito de un proyecto en relación a
+cumplir sus objetivos.
+
+*Quinto los interesados,* ya que son clave para tomar decisiones informadas en cada paso del proyecto, incluida la fase de
+iniciación. Hay personas que tienen interés y se ven afectadas por la finalización y el éxito de un proyecto. Como resul-
+tado, a menudo son fundamentales para determinar los objetivos, los entregables y los criterios de éxito del proyecto, desde
+proponer la idea hasta delinear las expectativas de sus resultados. A medida que avanzas en la fase de iniciación, debes
+asegurarte de comprender las necesidades de los interesados en el proyecto con anticipación. También es tu función asegurarte
+de que los interesados estén de acuerdo con los objetivos y la misión general del proyecto antes de pasar a la siguiente
+fase.
+
+*Sexto, recursos,* ya que, generalmente, se refieren al presupuesto, personas, materiales y demás elementos que tendrás
+a tu disposición. Es muy importante pensar detenidamente en estas piezas desde el principio. Nadie quiere empezar un pro-
+yecto solo para darse cuenta a mitad de camino de que no tienen suficiente dinero o suficiente gente para completar el
+trabajo, porque sería un desastre.
+
+una vez que hayas establecido los objetivos, el alcance, los entregables, los criterios de éxito, interesados y recursos,
+es hora de crear un estatuto del proyecto.
+
+*Un estatuto del proyecto* es un documento que contiene todos los detalles del proyecto. Los estatutos del proyecto definen
+claramente el proyecto y sus objetivos y describen lo que se necesita para lograrlos. Un estatuto de proyecto te permite
+organizarte, establecer un marco para saber qué se debe hacer y comunicar esos detalles a los demás. Una vez redactado el
+estatuto, revisarás el documento con los principales interesados para obtener su aprobación para pasar a la etapa de
+planificación.
+
+Para recapitular rápidamente, recopila información sobre tus objetivos, el alcance, los entregables, los criterios de éxito,
+los interesados y recursos, y documenta esa información en el estatuto del proyecto.
+
 #### Realizar un análisis de costo-beneficio
 
 ## Define Objetivos, Alcanse y criterios
