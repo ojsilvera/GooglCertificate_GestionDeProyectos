@@ -202,6 +202,14 @@ proyecto
 
 ## Define Objetivos, Alcanse y criterios
 
+### Identificar los objetivos del proyecto
+
+### Definir el alcance del proyecto
+
+### Medir el éxito de un proyecto
+
+### Repaso: Definición de los objetivos, el alcance y los criterios de éxito del proyecto
+
 ## Trabajar eficazmente con los interesados
 
 ## Recursos y herramientas
