@@ -115,6 +115,79 @@ costos en dólares. *retorno de la inversión (ROI).*
     Al utilizar datos objetivos, puede ayudar a reducir los sesgos y evitar que el interés propio de los interesados influya
     en las decisiones.
 
+    Presentar un caso comercial sólido para los interesados y el liderazgo, y garantizar que tu organización persiga los
+    proyectos más rentables o útiles
+
+    Las organizaciones utilizan análisis de costo-beneficio para reducir el desperdicio e invertir sus recursos de manera
+     responsable.
+
+*Preguntas orientadoras para un análisis de costo-beneficio:*
+
+Cuando persigues un proyecto, los beneficios deben superar los costos. Para determinar los beneficios de un proyecto, pue-
+des preguntar:
+
+    ¿Qué valor creará este proyecto?
+
+    ¿Cuánto dinero podría ahorrar este proyecto a nuestra organización?
+
+    ¿Cuánto dinero aportará de los clientes existentes?
+
+    ¿Cuánto tiempo ahorrará?
+
+    ¿Cómo mejorará la experiencia del cliente?
+
+Para determinar los costos de un proyecto, considere preguntas como:
+
+    ¿Cuánto tiempo tendrán que dedicar las personas a este proyecto?
+
+    ¿Cuáles son los costos únicos?
+
+    ¿Existen costos continuos?
+
+    ¿Qué pasa con los costos a largo plazo?
+
+Preguntas sobre *beneficios intangibles.* Se trata de ganancias que no son cuantificables, como por
+ejemplo:
+
+    Satisfacción del cliente ¿El proyecto aumentará la retención de clientes y hará que gasten más en los productos o
+    servicios de la empresa?
+
+    Satisfacción del empleado ¿Es probable que el proyecto mejore la moral de los empleados y reduzca la rotación?
+
+    Productividad del empleado ¿Reducirá el proyecto las horas extraordinarias de los empleados, ahorrándole dinero a la
+    empresa?
+
+    Percepción de la marca ¿Es probable que el proyecto mejore la percepción y el reconocimiento de la marca de la empresa,
+    atrayendo a más clientes o proporcionando una ventaja competitiva?
+
+Preguntas para considerar *los costos intangibles.* Estos son costos que no son cuantificables, por ejemplo:
+
+     ¿podría el proyecto poner en riesgo la retención de clientes, la satisfacción de los empleados o la percepción de la
+     marca?
+
+Al asignar valores a los costos y beneficios tangibles o intangibles, puedes hacer referencia a proyectos anteriores si-
+milares, realizar investigaciones de la industria o consultar con expertos.
+
+*Calcular costos y beneficios:*
+
+El proceso de cálculo de costos y beneficios también se denomina cálculo de retorno de la inversión o ROI. Hay muchas
+formas de determinar el ROI de un proyecto, pero la forma más sencilla es comparar los costos iniciales y continuos con
+sus beneficios a lo largo del tiempo.
+
+Una formula aplicada del ROI seria:
+
+    ROI = (G-C) / C
+
+    G = representa las ganancias financieras que esperas del proyecto.
+    C representa los costos iniciales y continuos de tu inversión en el proyecto.
+
+Por ejemplo, imagina que tu proyecto cuesta $ 6.000 por adelantado más $ 25 por mes durante 12 meses. Esto equivale a $ 300
+por año, pero estimas que el proyecto generará $ 10.000 en ingresos durante el transcurso de ese año. Usando la fórmula
+anterior, calculas el ROI como: ($10.000 - $6.300) / $6.300 = 0,58 * 100% = 58%
+
+El ROI >= 0,58, o 58%. Consideras que se trata de un gran retorno de la inversión, por lo que decides continuar con el
+proyecto
+
 ## Define Objetivos, Alcanse y criterios
 
 ## Trabajar eficazmente con los interesados
