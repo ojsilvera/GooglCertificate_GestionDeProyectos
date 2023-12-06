@@ -103,6 +103,18 @@ los interesados y recursos, y documenta esa información en el estatuto del proy
 
 #### Realizar un análisis de costo-beneficio
 
+Análisis de costo-beneficio es el proceso de sumar el valor esperado de un proyecto (los beneficios) y compararlo con los
+costos en dólares. *retorno de la inversión (ROI).*
+
+*Beneficios de un análisis de costo-beneficio:*
+
+    Un análisis de costo-beneficio puede minimizar los riesgos y maximizar las ganancias para proyectos y organizaciones.
+
+    Ayuda a comunicarte claramente con los interesados y los ejecutivos y mantener tu proyecto en marcha.
+
+    Al utilizar datos objetivos, puede ayudar a reducir los sesgos y evitar que el interés propio de los interesados influya
+    en las decisiones.
+
 ## Define Objetivos, Alcanse y criterios
 
 ## Trabajar eficazmente con los interesados
