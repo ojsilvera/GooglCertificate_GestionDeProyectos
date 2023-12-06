@@ -99,8 +99,6 @@ los interesados y recursos, y documenta esa información en el estatuto del proy
 
 #### Cuestionario práctico: Reflexión: Iniciación del proyecto y componentes clave
 
-![Alt text](2023-12-06-13-11-48.png)
-
 ![Alt text](2023-12-06-13-11-04.png)
 
 ![Alt text](2023-12-06-13-11-15.png)
@@ -112,6 +110,8 @@ los interesados y recursos, y documenta esa información en el estatuto del proy
 ![Alt text](2023-12-06-13-11-34.png)
 
 ![Alt text](2023-12-06-13-11-41.png)
+
+![Alt text](2023-12-06-13-11-48.png)
 
 #### Realizar un análisis de costo-beneficio
 
