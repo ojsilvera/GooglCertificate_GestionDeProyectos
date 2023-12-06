@@ -204,6 +204,28 @@ proyecto
 
 ### Identificar los objetivos del proyecto
 
+#### Introducción: Definición de los objetivos, el alcance y los criterios de éxito del proyecto
+
+#### Determinar los objetivos y entregables del proyecto
+
+#### Cómo definir objetivos SMART
+
+#### Objetivos SMART: Hacer que los objetivos sean significativos
+
+#### Navegar las autoevaluaciones/de pares
+
+#### Lo que debes saber sobre las tareas calificadas por pares
+
+#### Taller: Definir y determinar los objetivos del proyecto SMART
+
+#### Revisar el trabajo de tus compañeros: Definir y determinar los objetivos del proyecto SMART
+
+#### Introducción a OKR
+
+#### Creación de OKR para tu proyecto
+
+#### Eemplo de crear los OKR para tu proyecto
+
 ### Definir el alcance del proyecto
 
 ### Medir el éxito de un proyecto
