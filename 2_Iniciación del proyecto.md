@@ -204,9 +204,53 @@ proyecto
 
 ### Identificar los objetivos del proyecto
 
-#### Introducción: Definición de los objetivos, el alcance y los criterios de éxito del proyecto
-
 #### Determinar los objetivos y entregables del proyecto
+
+Para preparar un proyecto éxitoso y facilitar el trabajo, se recomienda descubrir lo que se debe hacer antes de siquiera
+empezar. Es Necesario definir exactamente cuáles son los objetivos y entregables y de esta manera comunicar a los miembros
+de tu equipo las actividades a realizar.
+
+Es necesario una visión clara lo que se intenta lograr, cómo se va a lograr y cómo saber cuándo se ha logrado, el primer
+paso es definir el objetivo del proyecto para empezar a descubrir qué debe lograr tu equipo del proyecto. El objetivo del
+proyecto es el producto final deseado del proyecto. Es lo que han solicitado que se consiga.
+
+Ejemplo de, tu objetivo podría ser mejorar el tiempo de respuesta para aumentar 20 por ciento los clientes por correo electrónico.
+Las metas u objetivos son importantes porque brindan una hoja de ruta hacia la consecusion exitosa del proyecto. Sin un
+objetivo claro en mente, ¿cómo saber hacia dónde ir o cómo llegar? Una de las mayores diferencias entre lo que constituye
+un buen objetivo y uno no tan bueno es cuán bien está definido.
+
+Es decir, cuán claro y específico es el objetivo. Si el objetivo es el fin ultimo, ¿está seguro de que sabrás cuando hayas
+llegado? Los ejemplos antes mencionados, mejorar el tiempo de respuesta para aumentar 20 por ciento los clientes por correo
+electrónico y aumentar los ingresos un cinco por ciento son dos objetivos bien definidos porque establecen lo que estás
+intentando lograr. Las puntuaciones también establecen como lograr la tarea encomendada. En este caso, es por correo elec-
+trónico y a través de una nueva oferta de servicios. Estos objetivos aclaran el objetivo aún más al sostener que mejoran
+un 20 por ciento y aumentan un cinco por ciento.
+
+*Los objetivos bien definidos son tanto específicos como medibles*, Dan un sentido claro de lo que estás intentando lograr.
+Entre mas grande los objetivos, mas detalles conllevan. Al comenzar un proyecto, tómate el tiempo para verificar que tus
+objetivos sean medibles y que estén bien definidos. Para verificar cuan medibles y definidos son los objetivos, es posible
+que se requiera más información de los interesados.
+
+Con los interesados se debe compartir la visión del proyecto, Preguntar cómo se alinea con los objetivos y la misión más
+amplios de la empresa, esto permite delinear aun mas los objetivos del proyecto y la manera de medirlos, Al finalizar
+esa conversación, tú y tus interesados deben aceptar apoyar los objetivos del proyecto para evitar tener problemas más
+adelante.
+
+Una vez que tengas las metas definidas, es hora de examinar *los entregables del proyecto*. Los entregables del proyecto
+son los productos o servicios que se crean para el cliente, o patrocinador del proyecto. En otras palabras, un entregable
+es lo que se produce o presenta al final de una tarea, evento o proceso. Adopte el objetivo de mejorar el tiempo de respu-
+esta del cliente. Pero un entregable para ese objetivo podría ser la creación de plantillas de correo electrónico para
+responder a preguntas típicas. Todos son ejemplos de entregables de proyectos. Uno bastante común es un informe. Cuando se
+alcanza un objetivo, puedes ver los resultados documentados en el cuadro, gráfico o la presentación.
+
+Los entregables nos ayudan a cuantificar y darse cuenta del impacto del proyecto. Al igual que se necesitan objetivos bien
+definidos, necesitas entregables bien definidos prácticamente por las mismas razones. Los entregables generalmente se deciden
+por adelantado con los interesados o clientes involucrados en el proyecto. Ellos responsabilizan a todos y son normalmente
+una gran parte del logro del objetivo.
+
+Establecer los entregables es una tarea interna del gerente de proyectos y poner en claro como estos se alinean con los
+objetivos del proyecto y mision de la empreasa, ademas de asegurarse de que todos esten enteresados y compartan lo que ello
+significa para el proyecto.
 
 #### Cómo definir objetivos SMART
 
