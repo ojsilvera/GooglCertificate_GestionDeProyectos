@@ -97,6 +97,10 @@ planificación.
 Para recapitular rápidamente, recopila información sobre tus objetivos, el alcance, los entregables, los criterios de éxito,
 los interesados y recursos, y documenta esa información en el estatuto del proyecto.
 
+#### Cuestionario práctico: Reflexión: Iniciación del proyecto y componentes clave
+
+![Alt text](image-3.png)
+
 #### Realizar un análisis de costo-beneficio
 
 ## Define Objetivos, Alcanse y criterios
