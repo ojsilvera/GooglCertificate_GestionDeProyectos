@@ -254,6 +254,103 @@ significa para el proyecto.
 
 #### Cómo definir objetivos SMART
 
+Dado que tus entregables dependen de tus objetivos, lo mejor para ti es definir esos objetivos lo mejor posible. Es
+prudente aplicar un método sencillo para hacerlo este metodo para definir objetivos es SMART.
+
+Los objetivos deben ser específicos y medibles, el método SMART para evaluar objetivos consta de tres consideraciones
+más para el éxito. Ser alcanzable, ser relevante y tener plazos determinados. Combínados dan origen a Objetivos SMART.
+
+en sistesis, en la metodologia SMART los objetivos deben cumplir las siguientes caracteristicas:
+
+    deben ser específicos.
+    deben ser medibles.
+    deben ser alcanzables.
+    deben ser relevante.
+    deben tener plazos determinados.
+
+*Los objetivos específicos deben responder al menos dos de las siguientes preguntas:*
+
+    ¿Qué quiero lograr?
+    ¿Por qué es esto un objetivo?
+    ¿Tiene una razón, propósito o beneficio específico?
+    ¿Quién está involucrado?
+    ¿Quién es el beneficiario, Empleados, clientes, la comunidad en general?
+    ¿Dónde debe cumplirse el objetivo y hasta qué punto?
+    ¿cuáles son los requisitos y limitaciones?
+
+A continuación, queremos definir objetivos que sean medibles, lo que significa que podemos determinar que se cumplieron
+objetivamente. Medir no es solo una forma de que las personas sigan el progreso, sino también una herramienta para
+ayudar a las personas a mantenerse motivadas. Puedes saber que el objetivo es medible preguntando cuánto y cómo sabré
+cuando se haya logrado?
+
+A veces, el éxito de un objetivo puede medirse con un simple sí o no, por ejemplo, ¿Aprendiste a tocar la guitarra, sí
+o no? Necesitarás medir la mayoría de tus objetivos con métricas.
+
+Métricas, se utiliza para medir algo como números o cifras. Por ejemplo, si tu objetivo era correr una carrera de cinco
+kilómetros, entonces la distancia en kilómetros es tu métrica. En Office Green, El objetivo del proyecto es aumentar los
+ingresos en un 5%. En este caso, los ingresos son la métrica.
+
+Por último, considera puntos de referencia para asegurarte de que estás eligiendo métricas precisas. Por ejemplo,
+si tu objetivo general es aumentar los ingresos, puedes ver los datos del año pasado como un punto de referencia para
+decidir cuánto aumentar los ingresos este año. Si los ingresos del año pasado aumentaron un tres por ciento, entonces
+un aumento del cinco por ciento en una economía en auge sería un objetivo razonable para este año.
+
+El objetivo es específico y medible, pero es alcanzable?. ¿Se puede alcanzar razonablemente en función de las métricas?
+Normalmente, los objetivos son un poco desafiantes para fomentar el crecimiento, de lo contrario, ¿cuál es el sentido
+del objetivo si nada va a cambiar? Sin embargo, se recomienda que no sea demasiado extremo o nunca se alcanzará. Has
+fallado incluso antes de comenzar. Se debe encontrar un equilibrio entre los dos extremos.
+
+Por ejemplo, tomemos el objetivo de correr los 5 km. tenien en cuenta que corres habitualmente 2,5 kilómetros tres veces
+por semana. Un objetivo alcanzable será pasar de correr 2,5 kilómetros a correr cinco kilómetros en cuatro semanas. Un
+objetivo inalcanzable podría ser ganar el primer puesto en los 5 kilómetros. Es decir, podría suceder pero no es
+probable, especialmente si nunca antes corriste una carrera, pero ¿cómo puedes saber si un objetivo es alcanzable, si
+no es familiar? Una pista para ayudarte a descubrir si tu objetivo es alcanzable es preguntar:
+
+    ¿cómo puede lograrse?
+
+Desglosa el objetivo en partes más pequeñas y ve si eso tiene sentido. Pasar de 2,5 kilómetros a cinco kilómetros en
+cuatro semanas significa aumentar tu distancia poco más de medio kilómetro cada semana. No es tan malo, utiliza el
+mismo proceso al establecer el alcance del proyecto.
+
+Ahora, es relevante?, ¿tiene sentido intentar alcanzar este objetivo? Determinar cómo se alinea el objetivo con otros
+objetivos, prioridades y valores, es primordial para establecer la relevancia del objetivo. Preguntar:
+
+    El objetivo parece valioso?.
+    ¿El esfuerzo implica equilibrar los beneficios?
+    ¿Coincide con las otras necesidades y prioridades de la organización?
+
+Todos, desde el cliente, el equipo del proyecto, y las personas que finalmente usarán el producto deben sentir que vale
+la pena apoyar el objetivo.
+
+También considera tiempo. Tanto la cantidad de tiempo que llevará el proyecto, como los contextos económicos y sociales
+más amplios pueden tener grandes impactos. preguntar para establecer tiempos:
+
+    Puede que haya un presupuesto para completar el proyecto ahora, pero ¿la empresa podrá sostener el proyecto en el
+    tiempo?
+    ¿Existe una audiencia que seguirá usando el producto o servicio una vez entregado?
+
+Una vez que tengas las respuestas a estas preguntas, debes tener un objetivo claro que colabore en la dirección del
+proyecto. Si aún no hay seguridad acerca de los objetivos del proyecto, sigue investigando.
+
+Está bien hacer preguntas si tienes dudas, comunicar las inquietudes a los principales interesados del proyecto y al
+supervisor directo u otros colegas, por lo que es posible sentirte seguro de avanzar en el plan.
+
+El último elemento de la lista de verificación es asegurarse de que tenga plazos determinados. Con plazos determinados
+significa que el objetivo tenga un plazo. Los plazos ofrecen una forma de verificar el progreso, de lo contrario, es
+posible que nunca se alcance el objetivo o ni siquiera se incie. El tiempo y las métricas suelen ir de la mano, porque
+el tiempo también se puede utilizar como métrica.
+
+Que una meta tenga plazos determinados, brinda una manera de desglosar cuánto se debe lograr con el tiempo. Por ejemplo,
+si es necesario aumentar los ingresos para fin de año, es recomendable desglosar cuanto se debe aumentar cada trimestre,
+mes y semana y eso es todo.
+
+Específico, medible, alcanzable, relevante y con plazos determinados y un método casi infalible para crear una
+evaluación de los objetivos del proyecto
+
+como nota acalratoria:
+
+    Es mejortrabaja sabiamente, no duramente.
+
 #### Objetivos SMART: Hacer que los objetivos sean significativos
 
 #### Navegar las autoevaluaciones/de pares
