@@ -353,12 +353,14 @@ como nota acalratoria:
 
 #### Introducción a OKR
 
-Objetivos y resultados clave u OKR, Como el método SMART, los OKR ayudan a establecer y aclarar metas u objetivos para
-una organización, departamento, proyecto o persona.
+*OKR significa objetivos y resultados clave.* Combinan un objetivo y una métrica para determinar un resultado medible.
 
-OKR significa objetivos y resultados clave. Combinan un objetivo y una métrica para determinar un resultado medible. Los
-objetivos definen lo que debe lograrse y describen el producto final deseado. Los resultados clave definen cómo medirás
-el resultado de tu objetivo.
+Objetivos: define lo que se debe lograrse; describe un resultado deseado. Resultados clave: los resultados medibles que
+definen objetivamente cuándo se ha cumplido el objetivo
+
+Los OKR para toda la empresa se utilizan para definir un objetivo final para toda la organización, mientras que los OKR
+a nivel de equipo, departamento y proyecto describen los resultados enfocados que cada grupo deberá lograr para apoyar a
+la organización.
 
 Los OKR llevan los objetivos SMART un paso más allá al combinar un objetivo y métricas más detalladas para determinar
 un resultado medible. No solo establecen claramente cuál es el objetivo, proporcionan detalles específicos que te
@@ -403,6 +405,94 @@ Los OKR a nivel de equipo o departamento apoyan los OKR más amplios de la empre
 equipo. Los departamentos pueden desarrollar OKR de manera más específica para su función laboral.
 
 #### Creación de OKR para tu proyecto
+
+*Define tus objetivos:*
+
+Los objetivos del proyecto deben ser aspiracionales, alineados con las metas organizacionales, orientados a la acción,
+concretos y significativos. Considera la visión que tu y los interesados tienen para tu proyecto y determina lo que deseas
+que el equipo del proyecto logre en 3 a 6 meses.
+
+Ejemplos:
+
+    Crear el software de seguridad de datos más seguro
+
+    Mejorar continuamente el análisis web y las conversiones.
+
+    Brindar un servicio de alto rendimiento
+
+    Crear una aplicación disponible universalmente
+
+    Aumentar el alcance del mercado
+
+    Lograr las mejores ventas entre los competidores de la región
+
+Los objetivos sólidos cumplen los siguientes criterios:
+
+    Aspiracionales
+
+    Alineados con los objetivos de la organización
+
+    Orientados a la acción
+
+    Concretos
+
+    Significativos
+
+Para ayudar a dar forma a cada objetivo, pregúntate a ti mismo y a tu equipo:
+
+    ¿El objetivo ayuda a lograr los objetivos generales del proyecto?
+
+    ¿El objetivo se alinea con los OKR de la empresa y del departamento?
+
+    ¿El objetivo es inspirador y motivador?
+
+    ¿Conseguir el objetivo tendrá un impacto significativo?
+
+*Desarrollar resultados clave:*
+
+A continuación, agrega entre 2 y 3 resultados clave para cada objetivo. Los resultados clave deben estar sujetos a plazos
+determinados. Se pueden usar para indicar la cantidad de progreso que debe lograrse en un período más corto o para definir
+si cumpliste tu objetivo al final del proyecto. También deberían desafiarte a ti y a tu equipo a esforzarse para lograr
+más.
+
+Ejemplos:
+
+    X % de nuevos registros en el primer trimestre posterior al lanzamiento
+
+    Aumentar la inversión de los anunciantes en un X %.
+
+    La adopción de nuevas funciones es de al menos un X %
+
+    Los clientes informan un máximo de 2 errores críticos por Sprint
+
+    Mantener la tasa de cancelación de suscripción al boletín en un X %
+
+Los resultados clave sólidos cumplen los siguientes criterios:
+
+    Están orientados a los resultados, no a una tarea
+
+    Son medibles y verificables
+
+    Son específicos y con plazos determinados
+
+    Son agresivos pero realistas
+
+Para ayudar a dar forma a tus resultados clave, pregúntate a ti mismo y a tu equipo lo siguiente:
+
+    ¿Qué significa el éxito?
+
+    ¿Qué métricas probarían que hemos logrado el objetivo con éxito?
+
+*Prácticas recomendadas en el desarrollo de los OKR:*
+
+Estas son algunas de las prácticas recomendadas que deben tenerse en cuenta al escribir los OKR:
+
+    Piensa en tus objetivos como motivadores e inspiradores y tus resultados clave como tácticos y específicos. El objetivo
+    describe lo que quieres hacer y los resultados clave describen cómo sabrás que lo hiciste.
+
+    Como regla general, intenta desarrollar entre 2 y 3 resultados clave para cada objetivo.
+
+    Asegúrate de documentar tus OKR y vincularlos a tu plan de proyecto.
 
 #### Eemplo de crear los OKR para tu proyecto
 
