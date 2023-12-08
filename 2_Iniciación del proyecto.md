@@ -351,17 +351,56 @@ como nota acalratoria:
 
     Es mejortrabaja sabiamente, no duramente.
 
-#### Objetivos SMART: Hacer que los objetivos sean significativos
-
-#### Navegar las autoevaluaciones/de pares
-
-#### Lo que debes saber sobre las tareas calificadas por pares
-
-#### Taller: Definir y determinar los objetivos del proyecto SMART
-
-#### Revisar el trabajo de tus compañeros: Definir y determinar los objetivos del proyecto SMART
-
 #### Introducción a OKR
+
+Objetivos y resultados clave u OKR, Como el método SMART, los OKR ayudan a establecer y aclarar metas u objetivos para
+una organización, departamento, proyecto o persona.
+
+OKR significa objetivos y resultados clave. Combinan un objetivo y una métrica para determinar un resultado medible. Los
+objetivos definen lo que debe lograrse y describen el producto final deseado. Los resultados clave definen cómo medirás
+el resultado de tu objetivo.
+
+Los OKR llevan los objetivos SMART un paso más allá al combinar un objetivo y métricas más detalladas para determinar
+un resultado medible. No solo establecen claramente cuál es el objetivo, proporcionan detalles específicos que te
+permiten medir el éxito del objetivo.
+
+Una forma de pensar en los OKR es que separan los diferentes componentes del objetivo SMART y los aclaran aún más, en
+lugar de agrupar todo en un solo enunciado.
+
+La O significa objetivo y define lo que se necesita lograr. Describe el resultado o producto final deseados, como un
+aumento en la retención de clientes, o una mejora en el proceso de incorporación de empleados.
+
+KR hace referencia a los resultados clave. Son los resultados medibles que definen cuándo se ha cumplido el objetivo. Por
+ejemplo, si tu objetivo es mejorar la retención de clientes, entonces el resultado clave podría ser tener
+una calificación del 90 por ciento de satisfacción del cliente al final del primer trimestre.
+
+Recuerda que uno de los criterios SMART es la cualidad de alcanzable, lo que significa que es factible lograr el
+objetivo. Sin embargo, los resultados clave deberían ser un poco más ambiciosos.
+
+En Google, usamos OKR para definir objetivos flexibles como una forma de desafiarnos a nosotros mismos a hacer algo que
+no hemos logrado antes. Si realmente logramos todos nuestros resultados clave, es posible que hayamos hecho nuestros OKR
+demasiado fáciles.
+
+Los objetivos definen lo que debe lograrse y describen el producto final deseado. Los resultados clave definen cómo
+sabemos si has logrado tu objetivo o no.
+
+¿Cómo funcionan los OKR en la práctica? ¿Cómo se usan para administrar un proyecto?
+
+Las organizaciones a menudo definen OKR en diferentes niveles, como el nivel de empresa, del departamento o del equipo y
+el nivel del proyecto.
+
+Los OKR a nivel de empresa se comparten comúnmente en toda una organización para que todos tengan claros los objetivos
+de la empresa. Por lo general, se actualizan anualmente para ayudar a conducir a la organización en la dirección que
+quiere ir. Estos OKR de alto nivel apoyan la misión de la organización.
+
+Los OKR a nivel de proyecto deben respaldar y estar alineados con los OKR a nivel de empresa. Algunos de estos resultados
+clave a nivel de empresa podrían convertirse en la base de proyectos. Los OKR a nivel de proyecto se definen durante la fase
+de iniciación para ayudar a definir objetivos medibles del proyecto. Hay seguimiento durante la etapa de planificación y
+ejecución para medir el éxito del proyecto. Los OKR a nivel de proyecto deben alinearse y apoyar a los OKR a nivel de
+empresa y de departamento.
+
+Los OKR a nivel de equipo o departamento apoyan los OKR más amplios de la empresa y ayudan a impulsar el rendimiento del
+equipo. Los departamentos pueden desarrollar OKR de manera más específica para su función laboral.
 
 #### Creación de OKR para tu proyecto
 
