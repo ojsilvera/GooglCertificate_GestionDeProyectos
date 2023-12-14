@@ -498,6 +498,11 @@ Estas son algunas de las prácticas recomendadas que deben tenerse en cuenta al 
 
 ### Definir el alcance del proyecto
 
+El alcance de tu proyecto incluye los límites de un proyecto. La forma en que lo definimos en Google es "un conocimiento
+acordado de lo que se incluye o excluye en un proyecto". El alcance ayuda a garantizar que tu proyecto esté claramente
+definido y trazado. Eso significa saber exactamente a quién se entregará el proyecto y quién usará el resultado final del
+proyecto. También necesitas tener una idea sólida de la complejidad del proyecto.
+
 ### Medir el éxito de un proyecto
 
 ### Repaso: Definición de los objetivos, el alcance y los criterios de éxito del proyecto
