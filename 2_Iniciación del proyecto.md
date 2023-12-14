@@ -503,6 +503,30 @@ acordado de lo que se incluye o excluye en un proyecto". El alcance ayuda a gara
 definido y trazado. Eso significa saber exactamente a quién se entregará el proyecto y quién usará el resultado final del
 proyecto. También necesitas tener una idea sólida de la complejidad del proyecto.
 
+¿Es sencillo con una lista de tareas manejable? ¿O requerirá investigación exhaustiva, varias rondas de aprobaciones y un
+proceso de producción a gran escala que tardará años en completarse? El alcance también incluye el cronograma del proyecto,
+el presupuesto y los recursos. Necesitas definirlos claramente para que puedas asegurarte de que estás trabajando dentro
+de esos límites y lo que es realmente posible para que el proyecto funcione.
+
+Un alcance mal definido o cambios importantes en tu alcance pueden provocar cambios en el presupuesto, el cronograma o
+incluso el resultado final del proyecto.
+
+Aquí hay algunas preguntas útiles más para añadir a la lista. ¿De dónde ha salido el proyecto? ¿Por qué es necesario? ¿Qué
+se espera que logre el proyecto? ¿Qué tiene en mente el patrocinador del proyecto? ¿Quién aprueba los resultados finales?
+Ahora estarás realmente preparado. En cuanto al tiempo, definir el alcance del proyecto debería llevarse a cabo durante
+la fase inicial de planificación. Se recomienza comenzar a descubrir el alcance desde el principio para que todos puedan
+aceptar el mismo conjunto de expectativas. Ayudará a mitigar los riesgos de grandes cambios más adelante. Sin embargo, siempre
+puedes ajustar el alcance a medida que avance la planificación, si es necesario.
+
+Se recomienda documentar todos los detalles para que cualquiera pueda consultarlos durante el ciclo de vida del proyecto.
+
+*En sintesis:*
+
+Un alcance claramente definido describe todos los detalles de un proyecto y regula lo que puede agregarse o eliminarse a
+medida que avanza. Si bien finalmente es responsabilidad del gerente de proyectos supervisar el proyecto y asegurarse de
+que todo el trabajo y los recursos entren en el alcance, puede alentarse a los miembros del equipo e interesados a hacer
+su parte centrándose en las tareas más importantes para alcanzar el objetivo del proyecto.
+
 ### Medir el éxito de un proyecto
 
 ### Repaso: Definición de los objetivos, el alcance y los criterios de éxito del proyecto
