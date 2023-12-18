@@ -527,7 +527,25 @@ medida que avanza. Si bien finalmente es responsabilidad del gerente de proyecto
 que todo el trabajo y los recursos entren en el alcance, puede alentarse a los miembros del equipo e interesados a hacer
 su parte centrándose en las tareas más importantes para alcanzar el objetivo del proyecto.
 
-*Recopilar información para definir el alcance:*
+#### Recopilar información para definir el alcance
+
+Imagina que mientras trabajas en un grupo de administración de un restaurante, tu gerente te llama y te pide que “modernices
+el espacio del comedor”, luego cuelga rápidamente el teléfono sin darte más indicaciones. En esta transferencia inicial
+del gerente, te falta mucha información. ¿Cómo sabes siquiera qué preguntar?
+
+Aqui algunos ejemplos de preguntas asociadas ocn el ejemplo anterior:
+
+![Alt text](image-3.png)
+
+*Conclusión clave:*
+
+Tomarse el tiempo para hacer preguntas y asegurarse de que comprendes el alcance del proyecto ayudará a reducir los gastos,
+el reproceso, la frustración y la confusión. Asegúrate de comprender quién, qué, cuándo, dónde, por qué y cómo se aplica
+al alcance. Si te falta algo de esa información, enfoca tus preguntas en esos elementos. La fase de iniciación del proyecto
+sienta las bases para el proyecto, por lo que es esencial asegurarse de comprender el alcance y las expectativas durante
+esta etapa.
+
+#### Seguimiento y mantenimiento del alcance de un proyecto
 
 ### Medir el éxito de un proyecto
 
