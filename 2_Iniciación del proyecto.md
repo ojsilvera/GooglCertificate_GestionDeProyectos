@@ -529,8 +529,6 @@ su parte centrándose en las tareas más importantes para alcanzar el objetivo d
 
 *Recopilar información para definir el alcance:*
 
-
-
 ### Medir el éxito de un proyecto
 
 ### Repaso: Definición de los objetivos, el alcance y los criterios de éxito del proyecto
