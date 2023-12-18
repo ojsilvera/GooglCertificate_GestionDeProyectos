@@ -547,6 +547,135 @@ esta etapa.
 
 #### Seguimiento y mantenimiento del alcance de un proyecto
 
+Un objetivo importante de la gestión de proyectos es estar atento al alcance del proyecto y saber qué tareas son realmente
+parte del plan y cuáles no lo son.
+
+Las tareas incluidas en el proyecto y que contribuyen al objetivo general del proyecto se consideran dentro del alcance.
+Las tareas que no están incluidas se denominan fuera del alcance.
+
+Es tu trabajo como gerente de proyectos definir y mantener límites firmes para tu proyecto para que tu equipo pueda seguir
+por el buen camino.
+
+Por ejemplo, si a los redactores o diseñadores del catálogo de Plant Pals, se les ocurrió la idea para ampliar el tipo
+de plantas que se ofrecen a los mejores clientes, tendrías que señalar que su sugerencia está fuera del alcance y llevaría
+tiempo adicional y aumentar los costos de su presupuesto.
+
+A medida que avanzas por el ciclo de vida del proyecto, te encontrarás desafíos inesperados o señalar nuevos detalles o
+ideas que podrían afectar el éxito de tu proyecto. Los cambios, el crecimiento y los factores descontrolados que afectan
+el alcance del proyecto en cualquier momento posterior al comienzo del proyecto se denominan "corrupción del alcance".
+
+La corrupción del alcance es un problema común, y no siempre es fácil de controlar. Es uno con el que luchamos en cada
+proyecto. Puede suceder en cualquier proyecto, en cualquier sector.
+
+Imagina que estás trabajando en una empresa tecnológica y tu proyecto implica trabajar con diseñadores e ingenieros para
+actualizar el diseño de los iconos de idiomas en una aplicación de teclado móvil para un teléfono inteligente.
+Mientras el equipo está realizando la actualización, se dan cuenta de que el icono de búsqueda y el icono de entrada de
+voz también necesitan una actualización del diseño. Son características muy pequeñas y, aunque técnicamente no está
+dentro del alcance, el equipo cree que requeriría un esfuerzo mínimo y proporcionan mucho valor. Así que siguen adelante
+y hacen las actualizaciones. Durante una revisión de los interesados, se ha señalado que hay un teclado en inglés, pero
+no hay teclados para otros idiomas y se sugiere diseñar teclados adicionales. En este punto, el alcance del proyecto
+está en peligro de expandirse desde una simple actualización de iconos hasta un despliegue complejo de varias
+distribuciones de teclado. Añadir los teclados sería afectar los cronogramas del equipo y provocar que se tarde más en
+terminar el proyecto. También afectaría los recursos, porque necesitarías contratar más personas o algunos de los
+miembros actuales del equipo tendrían que trabajar horas extras. Y aumentaría el presupuesto, ya que el equipo no previó
+los costos por horas extra o traducciones de teclado. Este es solo un ejemplo de corrupción del alcance. A veces es
+sutil ("Solo diseña uno o dos íconos más") o más obvia ("Oye, ¿puedes añadir el diseño de teclados para otros idiomas?")
+Al identificar la corrupción del alcance y ser proactivo, proteges a tu proyecto y al proyecto de tu equipo.
+
+Para ayudarte a combatir la corrupción del alcance, debes saber que hay dos fuentes principales de las que surge:
+externas e internas.
+
+*Las fuentes externas de corrupción* del alcance son más fáciles de reconocer.
+
+Por ejemplo, si estás trabajando en un proyecto con un cliente principal, el cliente podría solicitar cambios, el
+entorno empresarial a tu alrededor podría cambiar o la tecnología subyacente que estás usando podría cambiar.
+
+Si bien no puedes controlar todo lo que sucede, también existen algunas desventajas a tener en cuenta. En primer lugar,
+asegúrate de que los interesados tengan visibilidad del proyecto. Se recomienda que sepan los detalles de lo que se va
+a producir, qué recursos se necesitan, cuánto costará y cuánto tiempo llevará. Además, obtén claridad de los requisitos
+y solicita críticas constructivas sobre la propuesta de producto inicial.
+
+Es importante obtener esta información antes de firmar cualquier contrato. Asegúrate definir reglas básicas y expectativas
+para la participación de los interesados una vez que se ponga en marcha el proyecto. Llega a un acuerdo sobre cada uno de
+tus roles y responsabilidades durante las revisiones de ejecución y estado. Una vez que tengas claro el alcance del proyecto,
+idea un plan sobre cómo hacer frente a solicitudes fuera del alcance.
+
+Determinar quién puede realizar solicitudes formales de cambio y cómo se evaluarán, aceptarán y realizarán dichas
+solicitudes. Y, por último, asegúrate de tener estos acuerdos por escrito. De esta manera, siempre tendrás documentación
+para señalar si tú, un interesado o el cliente tienen un desacuerdo más adelante.
+
+Una de las principales causas de la corrupción externa del alcance es no ser claro sobre los requisitos antes de definir
+el alcance y obtener la aprobación formal para avanzar con el proyecto. Aquí es donde entran en juego los objetivos
+medibles y específicos y los entregables.
+
+Si los requisitos no son específicos y si no has llegado a un acuerdo sobre los procesos del proyecto, los entregables e
+hitos, entonces es casi garantizado que lidiarás con la corrupción del alcance una vez que comienza el proyecto.
+
+*Las fuentes internas de corrupción del alcance:*
+
+son más complicadas de detectar y más difíciles de controlar. Este tipo de corrupción proviene de miembros del equipo
+del proyecto que sugieren o incluso insisten en cambios o mejoras de procesos o productos.
+
+Es posible que un desarrollador de productos justifique una decisión sobre los motivos para mejorar el producto, aunque
+vaya a costar más o un líder de equipo podría decidir que un proceso determinado es más eficiente sin darse cuenta del
+impacto que el cambio en el proceso tendrá en otros miembros del equipo encargados de diferentes partes del proyecto.
+
+Lo que debes dejar en claro para tu equipo es que cualquier cambio fuera del alcance del proyecto se sale de la esencia,
+amenaza el cronograma y aumenta el riesgo.
+
+No hay pequeños impactos en el alcance del proyecto. Cada vez que un miembro del equipo asume una tarea no planificada,
+se pierde más que solo el tiempo invertido en esa tarea.
+
+Es responsabilidad como gerente de proyectos mantener los límites del proyecto. La mejor defensa es conocer completamente
+los detalles de tu proyecto para estar siempre preparado con la respuesta más adecuada para una nueva idea o solicitud.
+
+Recapitulemos. Monitorea el alcance de tu proyecto y protégelo a toda costa. Incluso el cambio más pequeño puede
+significar un mayor riesgo para el éxito de tu proyecto.
+
+#### Estrategias para controlar la corrupción del alcance
+
+*Prácticas recomendadas de gestión del alcance:*
+
+La corrupción del alcance es cuando el trabajo de un proyecto comienza a crecer más allá de lo que se acordó originalmente
+durante la fase de iniciación. La corrupción del alcance puede generar estrés en ti, en tu equipo y tu organización, y puede
+poner en riesgo tu proyecto. Los efectos de la corrupción del alcance pueden obstaculizar todos los aspectos del proyecto,
+desde el cronograma hasta el presupuesto, los recursos y, en última instancia, su éxito general.
+
+Las prácticas recomendadas para la gestión del alcance y el control de la corrupción del alcance:
+
+*Define los requisitos de tu proyecto.* Comunícate con los interesados o clientes para descubrir exactamente qué quieren
+del proyecto y documenta esos requisitos durante la fase de iniciación.
+
+*Establece un cronograma de proyecto claro*. La gestión del tiempo y las tareas son esenciales para apegarte al alcance
+de tu proyecto. Tu cronograma debe describir todos los requisitos de tu proyecto y las tareas que son necesarias para
+lograrlos.
+
+*Determina qué está fuera del alcance.* Asegúrate de que los interesados, los clientes y el equipo del proyecto comprendan
+cuándo los cambios propuestos están fuera de alcance. Llega a un acuerdo claro sobre los posibles impactos al proyecto y
+documenta el acuerdo.
+
+*Brindar alternativas.* Sugiere soluciones alternativas al cliente o los interesados. También puedes ayudarlos a considerar
+cómo los cambios propuestos podrían crear riesgos adicionales. Realiza un análisis de costo-beneficio, si es necesario.
+
+*Configura un proceso de control de cambios.* Durante el transcurso del proyecto, algunos cambios son inevitables. Determina
+el proceso de cómo se definirá, revisará y aprobará (o rechazará) cada cambio antes de agregarlo al plan de tu proyecto.
+Asegúrate de que tu equipo de proyecto esté al tanto de este proceso.
+
+*Aprende a decir que no.* A veces tendrás que decir que no a los cambios propuestos. Decir que no a los interesados o a un
+cliente clave puede resultar incómodo, pero puede ser necesario para proteger el alcance de tu proyecto y su calidad general.
+Si te piden que asumas tareas adicionales, explica cómo interferirán con el presupuesto, el cronograma o los recursos definidos
+en los requisitos iniciales del proyecto.
+
+*Recoge los costos del trabajo fuera del alcance.* Si se requiere trabajo fuera del alcance, asegúrate de documentar todos
+los costos incurridos. Eso incluye los costos de trabajo afectados indirectamente por el aumento del alcance. Asegúrate
+de indicar para qué son los cargos.
+
+*Conclusion:*
+
+Solo puedes evitar la corrupción del alcance si todos los involucrados en el proyecto comprenden y están de acuerdo con
+las responsabilidades, los límites y los plazos. Evitar la corrupción del alcance también requiere una comunicación clara,
+gestión de expectativas y un camino bien definido hacia el resultado deseado.
+
 ### Medir el éxito de un proyecto
 
 ### Repaso: Definición de los objetivos, el alcance y los criterios de éxito del proyecto
