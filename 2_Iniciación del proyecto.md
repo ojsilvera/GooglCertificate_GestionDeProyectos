@@ -527,6 +527,10 @@ medida que avanza. Si bien finalmente es responsabilidad del gerente de proyecto
 que todo el trabajo y los recursos entren en el alcance, puede alentarse a los miembros del equipo e interesados a hacer
 su parte centrándose en las tareas más importantes para alcanzar el objetivo del proyecto.
 
+*Recopilar información para definir el alcance:*
+
+
+
 ### Medir el éxito de un proyecto
 
 ### Repaso: Definición de los objetivos, el alcance y los criterios de éxito del proyecto
