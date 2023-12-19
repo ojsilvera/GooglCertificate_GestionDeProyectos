@@ -750,6 +750,11 @@ ciertas necesidades, deseos o solicitudes que puedan terminar cambiando el alcan
 cambia el alcance después de haber empezado el proyecto. Y esto puede ser un verdadero desafío para manejarlo si no lo vi-
 gilas desde el principio.
 
+Para administrar el alcance se recomienda asegurarse de documentar todo al principio y compartirlo con todos los interesados
+y miembros del equipo, y asegurarse de que todos estén de acuerdo sobre ese alcance. Hay ocasiones en las que puede que
+el alcance deba cambiar y está bien. Pero tienes que poder asegurarte de que también puedes cambiar el cronograma, los
+recursos o incluso el presupuesto para adaptarse a ese cambio de alcance.
+
 ### Medir el éxito de un proyecto
 
 ### Repaso: Definición de los objetivos, el alcance y los criterios de éxito del proyecto
