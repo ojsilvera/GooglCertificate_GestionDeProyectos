@@ -676,6 +676,70 @@ Solo puedes evitar la corrupción del alcance si todos los involucrados en el pr
 las responsabilidades, los límites y los plazos. Evitar la corrupción del alcance también requiere una comunicación clara,
 gestión de expectativas y un camino bien definido hacia el resultado deseado.
 
+#### Gestionar cambios en el alcance de un proyecto
+
+Gestionar el alcance va de la mano con definir objetivos. Por ejemplo, redefinir el alcance puede cambiar el objetivo y
+una revisión del objetivo puede cambiar el alcance. El concepto de alcance del proyecto es importante en todo el proyecto.
+
+Si bien cada proyecto tendrá sus propios objetivos, el objetivo general para el gerente de proyectos es entregar el proyec-
+to según los acuerdos de alcance. Esto incluye entregar el proyecto dentro del plazo establecido y el presupuesto aprobado.
+
+Al avanzar el proyecto, continuamente se necesario hacer concesiones y sopesar las compensaciones a medida que se presentan
+nuevos desafíos, cambios y factores. Cada vez que un miembro del equipo asume una tarea no planificada, se pierde más que
+solo el tiempo dedicado a trabajar en esa tarea.
+
+Para decidir si un cambio de alcance es aceptable y qué impacto tendrá, los gerentes de proyectos generalmente se refieren al
+modelo de restricción triple.
+
+*El modelo de restricción triple:*
+
+es la combinación de las tres restricciones más significativas de cualquier proyecto: alcance, tiempo y costo.
+
+    *El tiempo* se refiere al cronograma y los plazos del proyecto.
+
+    *El costo* incluye el presupuesto y también abarca los recursos y las personas que trabajarán en el proyecto.
+
+Tanto el tiempo como el presupuesto deben gestionarse con cuidado junto con el alcance. Los tres están vinculados; no se
+puede cambiar uno sin tener un impacto en los demás.
+
+Por ejemplo, una disminución en el costo significa un cambio en el tiempo o alcance. Un aumento de tiempo significa un cambio en
+el alcance, el costo o ambos. Es clave comprender cómo cambiar uno afecta a las otras dos limitaciones. Es importante considerar
+qué intercambios estás dispuesto a hacer a medida que avanza el proyecto. Para hacerlo con éxito, es necesario comprender las
+prioridades del proyecto, qué es lo más importante respecto del alcance, el tiempo y el costo.
+
+Si debe cumplirse una fecha límite específica, debes limitar los cambios de alcance que puedan hacer que el proyecto supere la
+fecha límite.
+
+Si el producto debe verse o funcionar de cierta manera, entonces los requisitos son una prioridad y podrías justificar cambios
+en el costo o el tiempo para cumplir con los requisitos del alcance. Pero solo porque es posible hacer un cambio, no significa que
+necesariamente se deba hacer el cambio. Y a pesar de que se han definido los límites de alcance, tiempo y costos, se puede realizar
+cambios si existe una buena razón para hacerlo.
+
+el gerente de projectos no tendrá que decidir estos cambios por su cuenta. Si deben tomarse decisiones de alcance, es probable
+que el gerente de proyectos deba consultar con el patrocinador y los interesados para obtener sus aprobaciones.
+
+En la primera situación, se ha realizado una solicitud para mejorar las características del producto Plant Pals. El director de
+Producto de Office Green quiere usar macetas que indiquen cuándo deben regarse las plantas. Hacer cambios en el producto es un
+cambio de alcance. Sabes que no puedes cambiar el presupuesto, pero puedes ampliar el cronograma. Entonces, puedes aceptar las
+solicitudes de cambio de alcance y ampliar el cronograma, siempre que el presupuesto no aumente.
+
+Aquí hay otra situación posible. Se ha realizado una solicitud para reducir el presupuesto sin realizar cambios en el alcance. El
+resultado final de Plant Pals aún debe verse y funcionar como se acordó originalmente. Si vas a reducir el presupuesto y mantener
+el alcance, puede que debas ampliar el cronograma.
+
+Aquí hay otra situación. Hay una solicitud para ajustar la línea de tiempo y terminar temprano, pero no se puede aumentar el
+presupuesto. Para esto, se deben realizar cambios en el alcance, como limitar las opciones de envío. Hacer esto le dará más tiempo
+a tu proyecto, porque tendrás un contrato de envío menos que negociar. El resultado final no será exactamente lo que se acordó en
+principio, pero significa sacarlo antes según lo solicitado y dentro del presupuesto.
+
+Probemos una más. En esta última situación, el director de Producto te informa que debe cumplirse la fecha límite del proyecto, es
+lo más importante. En este caso, tus interesados están dispuestos a aumentar el presupuesto y realizar los cambios necesarios en
+los requisitos del alcance para cumplir con la fecha límite. Al final, se trata de priorizar qué elemento del triángulo importa
+más en el proyecto.
+
+Al comprender el modelo de restricción triple, tendrás las herramientas para evaluar los cambios de alcance. Entender cómo los
+cambios se evaluarán, aceptarán y realizarán es clave para la gestión del alcance.
+
 ### Medir el éxito de un proyecto
 
 ### Repaso: Definición de los objetivos, el alcance y los criterios de éxito del proyecto
