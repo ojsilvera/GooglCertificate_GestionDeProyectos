@@ -740,6 +740,16 @@ más en el proyecto.
 Al comprender el modelo de restricción triple, tendrás las herramientas para evaluar los cambios de alcance. Entender cómo los
 cambios se evaluarán, aceptarán y realizarán es clave para la gestión del alcance.
 
+#### La importancia de mantenerse dentro del alcance
+
+el alcance es importante porque tener un alcance bien definido al comienzo de un proyecto ayudará a garantizar que los miembros
+de tu equipo y los interesados estén alineados y en la misma frecuencia desde el principio, y puedes evitar cualquier pro-
+blema que pudiera surgir y que tal vez no hayas tenido en cuenta. Algunos desafíos de mantenerse dentro del alcance podrían
+ser lo que llamamos "corrupción del alcance" y esto puede pasar, por ejemplo, si tienes algunos interesados que tienen
+ciertas necesidades, deseos o solicitudes que puedan terminar cambiando el alcance. La corrupción del alcance es cuando
+cambia el alcance después de haber empezado el proyecto. Y esto puede ser un verdadero desafío para manejarlo si no lo vi-
+gilas desde el principio.
+
 ### Medir el éxito de un proyecto
 
 ### Repaso: Definición de los objetivos, el alcance y los criterios de éxito del proyecto
