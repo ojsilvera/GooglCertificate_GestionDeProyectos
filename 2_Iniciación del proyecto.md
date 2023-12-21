@@ -773,6 +773,14 @@ En la mayoría de los proyectos, un lanzamiento en sí no es una medida signific
 lanzamiento lo que realmente cuenta. Los lanzamientos son solo un medio hacia un fin; es importante mirar más allá del
 lanzamiento para garantizar que el lanzamiento logre sus objetivos generales.
 
+Mirando más allá del lanzamiento hacia el aterrizaje, es más probable que llegues a donde intentas llegar. Dado que el
+aterrizaje es un concepto y no una definición finita, es importante definir cómo se ve un aterrizaje exitoso para un pro-
+yecto en particular. Una forma de medir y ayudarte a garantizar el éxito del proyecto. Se llama criterios de éxito y, si
+logras seguirlos durante el ciclo de vida del proyecto, finalmente tendrás un aterrizaje suave.
+
+Los criterios de éxito incluyen todos los detalles específicos de tus objetivos y entregables y pueden ser una guía para
+saber si has logrado lo que te propusiste. Los criterios de éxito definirán estándares sobre cómo se juzgará tu proyecto.
+
 #### Lectura: No te olvides de aterrizar: Medir el éxito del proyecto
 
 #### Definir criterios de éxito
