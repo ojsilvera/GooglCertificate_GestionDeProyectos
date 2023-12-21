@@ -759,6 +759,20 @@ recursos o incluso el presupuesto para adaptarse a ese cambio de alcance.
 
 #### Lanzar y aterrizar un proyecto
 
+Entregar el resultado final de tu proyecto al cliente o usuario es el aterrizaje del proyecto. Terminas de desarrollar o
+crear un proyecto, se completan las tareas y los entregables están hechos. Has alcanzado tu objetivo. El proyecto es exi-
+toso y se considera completo en ese sentido, pero ¿funciona bien? ¿Logró el resultado deseado? El factor decisivo real del
+éxito del proyecto es cuando se pone el producto final a prueba.
+
+El aterrizaje es cuando realmente mides el éxito de tu proyecto con los criterios de éxito definidos al inicio del proyecto.
+
+Tu éxito debe continuar más allá de entregar el proyecto final. Debes poder medir si el proyecto funciona según lo previsto
+una vez que se pone en práctica.
+
+En la mayoría de los proyectos, un lanzamiento en sí no es una medida significativa de éxito. Es lo que viene después del
+lanzamiento lo que realmente cuenta. Los lanzamientos son solo un medio hacia un fin; es importante mirar más allá del
+lanzamiento para garantizar que el lanzamiento logre sus objetivos generales.
+
 #### Lectura: No te olvides de aterrizar: Medir el éxito del proyecto
 
 #### Definir criterios de éxito
@@ -766,8 +780,6 @@ recursos o incluso el presupuesto para adaptarse a ese cambio de alcance.
 #### Seguimiento y comunicación de criterios de éxito
 
 #### Usar OKR para evaluar el progreso
-
-### Repaso: Definición de los objetivos, el alcance y los criterios de éxito del proyecto
 
 ## Trabajar eficazmente con los interesados
 
