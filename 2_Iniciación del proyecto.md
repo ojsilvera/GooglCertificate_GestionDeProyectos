@@ -757,6 +757,16 @@ recursos o incluso el presupuesto para adaptarse a ese cambio de alcance.
 
 ### Medir el éxito de un proyecto
 
+#### Lanzar y aterrizar un proyecto
+
+#### Lectura: No te olvides de aterrizar: Medir el éxito del proyecto
+
+#### Definir criterios de éxito
+
+#### Seguimiento y comunicación de criterios de éxito
+
+#### Usar OKR para evaluar el progreso
+
 ### Repaso: Definición de los objetivos, el alcance y los criterios de éxito del proyecto
 
 ## Trabajar eficazmente con los interesados
