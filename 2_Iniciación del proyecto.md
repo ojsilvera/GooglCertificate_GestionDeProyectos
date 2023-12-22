@@ -954,6 +954,14 @@ OKR es una técnica que puede ayudar a los equipos de proyecto a definir, comuni
 Llevar a cabo controles periódicos y realizar un seguimiento activo del progreso con tu equipo puede ayudar a garantizar
 que se cumplan los objetivos y que cualquier problema se resuelva lo antes posible.
 
+*Comparte tus OKR con tu equipo.* Una vez que hayas creado los OKR para tu proyecto, es importante comunicárselos al equipo
+para que todos sepan cómo enfocar y alinear sus esfuerzos. Puedes hacerlo compartiendo un documento digital, presentándolos
+en una reunión o agregándolos a un sitio web interno. Los OKR pueden ayudar al equipo de proyecto a cumplir con los objetivos,
+monitorear cuáles se están quedando cortos y estar continuamente motivado para cumplir con los objetivos del proyecto.
+
+Asignar propietarios. Asigna un propietario a cada resultado clave para que todos sepan quién es responsable de qué. Esto
+ayuda a agregar claridad y aumenta la responsabilidad.
+
 ## Trabajar eficazmente con los interesados
 
 ## Recursos y herramientas
