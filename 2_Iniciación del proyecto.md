@@ -1577,4 +1577,19 @@ de USD 10.000 para el proyecto. Si en el proyecto se requieren USD 10.000 para m
 instalar esos materiales, entonces no tendrás suficiente dinero para completar el proyecto. Aclara los recursos que necesites
 y confirma su disponibilidad con los líderes por adelantado para evitar retrasos o problemas en futuras etapas del proyecto.
 
+*Corrupción del alcance (síndrome del lavadero).*
+
+El alcance brinda un marco general de lo que está y no está incluido en el trabajo y los entregables del proyecto. Definir
+el alcance en la fase de iniciación ayuda a identificar los recursos necesarios, el costo asociado con esos recursos y el
+cronograma requerido para completar el trabajo. A veces, los proyectos fallan porque el alcance del proyecto aumenta y no
+se capturan los impactos en el alcance.
+
+Por ejemplo, imagina que recibes un proyecto que originalmente incluye tres entregables. Durante el transcurso del proyec-
+to, un interesado solicita que se incluyan dos entregables adicionales, pero no se realizan cambios en el cronograma, el
+presupuesto o los miembros del equipo para reflejar el impacto de este mayor número de entregables. Como gerente del pro-
+yecto, cuando los entregables cambian, debes asegurarte de capturar el impacto potencial de esos cambios en el cronograma,
+el presupuesto y la calidad. Por eso es tan importante asegurarse de que todo esté documentado en la fase de iniciación.
+Cuenta con un plan sobre cómo manejar la corrupción del alcance, en caso de que ocurra, y aclara quién tiene la autoridad
+para aprobar los cambios en el alcance.
+
 ## Recursos y herramientas
