@@ -1143,7 +1143,6 @@ adversos son formas sencillas de hacer que el equipo esté motivado.
 En resumen, el tamaño del equipo, las habilidades, la disponibilidad y la motivación son los componentes básicos para for-
 mar un equipo ideal.
 
-
 #### Definición de las funciones del proyecto
 
 #### Funciones esenciales del proyecto
