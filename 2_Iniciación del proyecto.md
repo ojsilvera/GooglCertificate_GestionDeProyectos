@@ -1532,4 +1532,49 @@ descubres que no cuentas con las personas adecuadas para asignarles responsabili
 
 ### Cómo trabajar eficazmente con los interesados
 
+#### Por qué fracasan los proyectos: Pasos en falso en la iniciación
+
+*Expectativas poco claras.*
+
+    Es posible que recuerdes las preguntas que debes responder en la fase de iniciación del proyecto, que incluyen:
+
+    ¿Cuál es el objetivo final?
+
+    ¿Cuáles son los entregables y el cronograma esperados?
+
+    ¿Cuál es el presupuesto?
+
+    ¿Quiénes son los interesados?
+
+No tomarse el tiempo al comienzo de un proyecto para hacer estas preguntas esenciales, documentar decisiones y comprender
+el verdaero alcance del proyecto puede llevar al fracaso. Después de todo, sin indicaciones, nunca puedes llegar a tu
+destino.
+
+*Expectativas poco realistas.*
+
+A todos nos gusta impresionar a nuestros gerentes, pero a veces, sin querer, aceptamos expectativas poco realistas y pre-
+paramos nuestros proyectos para el fracaso desde el principio.
+
+Por ejemplo, si se espera que un proyecto tome dos semanas debido al nivel de detalle y esfuerzo requerido pero intentamos
+completarlo en una semana, no tendremos los recursos disponibles para cumplir con el cronograma consolidado. Esto proba-
+blemente generará problemas de calidad.
+
+Es importante comprender los requisitos de un proyecto antes de estar de acuerdo con los plazos. Como mejor práctica, no
+te comprometas con plazos al iniciar el proyecto para evitar establecer expectativas poco realistas. Tendrás más informa-
+ción y podrás gestionar mejor las expectativas en la fase de planificación.
+
+*Falta de recursos.*
+
+Los recursos incluyen a los miembros del equipo, el presupuesto y los materiales. Desafortunadamente, sin una planificación
+adecuada, los recursos pueden sobrecargarse o agotarse rápidamente. A veces, los gerentes de proyectos no tienen en cuenta
+el hecho de que los miembros del equipo están haciendo malabares con múltiples tareas, y es posible que no puedan dedicar
+el tiempo necesario a completar todas las tareas asignadas correctamente y a tiempo. O bien, los gerentes de proyectos
+podrían no darse cuenta de que se requiere un conjunto de habilidades específicas para completar ciertas tareas. Asegurarse
+de que los miembros correctos del equipo estén disponibles en el momento adecuado es crucial.
+
+Otro error común es hacer cálculos erróneos de los gastos del proyecto. Por ejemplo, imagina que cuentas con un presupuesto
+de USD 10.000 para el proyecto. Si en el proyecto se requieren USD 10.000 para materiales y también es necesario enviar e
+instalar esos materiales, entonces no tendrás suficiente dinero para completar el proyecto. Aclara los recursos que necesites
+y confirma su disponibilidad con los líderes por adelantado para evitar retrasos o problemas en futuras etapas del proyecto.
+
 ## Recursos y herramientas
