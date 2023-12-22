@@ -869,7 +869,78 @@ respuestas cuando participan.
 También utiliza tus herramientas de gestión de proyectos para comprobar las métricas de eficiencia, como qué porcentaje
 de tareas se completan o si el proyecto avanza dentro de los plazos previstos.
 
+Es inteligente medir el éxito con tu equipo mientras un proyecto o el producto está en curso. Por ejemplo, puedes realizar
+una revisión del proyecto una vez al mes, hacer que los miembros completen listas de verificación de tareas antes de ciertos
+plazos o realizar sesiones de comentarios en vivo con sus usuarios o clientes.
+
+Hay muchas formas diferentes de medir el éxito. La clave es elegir los métodos que mejor se adapten a tus criterios de éxito.
+Junto con cada criterio de éxito en tu lista, es buena idea también incluir los métodos de cómo se medirá el éxito, con qué
+frecuencia se mide y quién es responsable de medirlo. Comparte el documento de criterios de éxito con tus interesados y
+pregunta si están de acuerdo con cómo se determinará el éxito del proyecto.
+
+También es una buena idea que los interesados apropiados aprueben los criterios de éxito. De esta forma, todos tendrán
+claro quién es el responsable de cada tarea y todos comprenderán a fondo lo que implica el camino hacia el éxito.
+
+Mantén esta documentación visible durante la duración del proyecto y comunícala claramente con tu equipo en todo momento.
+Ellos son los que intentarán cumplir con los diferentes requisitos, así que no les ocultes lo que se supone que deben hacer
+o cómo se supone que deben hacerlo. Si se hace correctamente, definir tus criterios de éxito debería crear mayor alineación
+en el equipo y brindar a todos una mejor visibilidad sobre cómo lograr el éxito.
+
+La claridad de las métricas de éxito también ayuda a los equipos a priorizar los esfuerzos con mayor impacto para sus usuarios.
+
 #### Seguimiento y comunicación de criterios de éxito
+
+Recuerda que los objetivos SMART son eSpecíficos, Medibles, Alcanzables, Relevantes y con plazos determinados y ayudan a
+mantener un proyecto encaminado hacia el éxito.
+
+También podemos determinar el éxito de un proyecto por la calidad del producto, la capacidad de satisfacer las necesidades
+de sus clientes y la necesidad de satisfacer las expectativas de sus interesados.
+
+*Criterios basados en calidad de producto:*
+
+El producto, o resultado final, de un proyecto tiene su propio conjunto de atributos que definen el éxito. Los atributos
+del producto que son necesarios para el éxito del producto incluyen integridad y calidad de las características, costo
+unitario, facilidad de uso, etc.
+
+La medida en que un producto esté completo contribuirá al éxito del producto. Esto puede aplicarse a cualquier proyecto
+en el que se entregue un producto o un resultado tangible al final. Para mantenernos encaminados hacia el éxito, podemos
+crear una lista de requisitos del producto para asegurarnos de que no te pierdas nada.
+
+Para medir el éxito de un producto, considera incluir estas métricas en tu lista de verificación:
+
+    Realiza un seguimiento de si implementaste los requisitos de prioridad del producto
+
+    Realiza un seguimiento y evalúa la cantidad de problemas técnicos o defectos del producto
+
+    Mide el porcentaje de funciones que ofreciste o lanzaste al final del proyecto
+
+*Criterios basados en Qué es importante para los clientes o los interesados:*
+
+Tener en cuenta las expectativas adicionales de los interesados y los clientes en cuanto a características y objetivos.
+Estos objetivos estratégicos se relacionan con el caso comercial y la razón por la que iniciaste el proyecto en primer
+lugar. A menudo, puedes medir el cumplimiento de los objetivos estratégicos mediante métricas de usuarios o clientes. Las
+métricas a considerar incluyen:
+
+    Evaluar la participación del usuario con el producto
+
+    Medir la satisfacción de los interesados y los clientes a través de encuestas
+
+    Seguimiento de la adopción del producto por parte del usuario mediante el uso de datos de ventas
+
+*Documentar, alinear y comunicar el éxito:*
+
+Comprender dónde estamos y hacia dónde vamos ayuda al equipo del proyecto a determinar si van por buen camino. Como apren-
+diste en el video sobre este tema, debes tener claridad de los interesados sobre los requisitos y expectativas del proyecto.
+
+Hay muchas personas involucradas en cualquier proyecto y el éxito será diferente para cada uno de ellos. Se recomienda que
+haga preguntas, por ejemplo:
+
+    ¿Quién dice en última instancia si el proyecto tiene éxito o no?
+    ¿Qué criterios se medirán para determinar el éxito?
+    ¿En qué se basa el éxito de este proyecto?
+
+Es una buena práctica hacer que los interesados clave o el comité directivo revisen y aprueben sus criterios de éxito. Esto
+se convierte en un acuerdo mutuo sobre cómo todas las partes definen el éxito del proyecto.
 
 #### Usar OKR para evaluar el progreso
 
