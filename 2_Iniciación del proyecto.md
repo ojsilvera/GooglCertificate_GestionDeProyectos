@@ -987,6 +987,27 @@ cada uno de tus OKR para evaluar cuán bien lo hizo el equipo para lograr sus ob
 
 ### Explorar las funciones y responsabilidades del equipo del proyecto
 
+#### Introduccion
+
+Los interesados son personas que tienen interés y se ven afectadas por la finalización y el éxito del proyecto. cada per-
+sona involucrada tiene una función establecida y responsabilidades fijas para ayudar a hacer que el proyecto sea una rea-
+lidad. Esas funciones incluyen a los patrocinadores de proyectos, clientes, miembros del equipo y al gerente del proyecto.
+
+*Los gráficos RACI,* Estas son herramientas que ayudan a aclarar las funciones y responsabilidades, y evitan la confusión
+sobre quién se hace cargo de qué tareas.
+
+#### Accesibilidad para los gerentes de proyectos
+
+#### Cómo elegir el equipo para un proyecto
+
+#### Repaso: Los componentes del equipo ideal para el proyecto
+
+#### Definición de las funciones del proyecto
+
+#### Funciones esenciales del proyecto
+
+#### John: La importancia del equipo de un proyecto
+
 ### Evaluar a los interesados
 
 ### Asignar las funciones y responsabilidades del equipo del proyecto
