@@ -1314,6 +1314,30 @@ sentido reunirse con ellos una vez por semana.
 
 ![Alt text](image-4.png)
 
+*Preguntas sugeridas para los interesados:*
+
+    ¿Cuáles son tus prioridades/objetivos más importantes?
+
+    ¿De qué manera esta iniciativa o este proyecto te respaldarán y respaldarán tus prioridades más importantes?
+
+    ¿Qué función te gustaría desempeñar dentro de esta iniciativa o proyecto?
+
+    He aquí cómo planeo mantener a la gente informada; ¿funciona esto para ti?
+
+    ¿Qué puedo aclarar para ti?
+
+    ¿Cuáles son tus expectativas? ¿Qué te gustaría que el proyecto logre?
+
+    ¿Qué sería el éxito para ti?
+
+    ¿A quién más me recomiendas contactar en relación con esta iniciativa?
+
+    ¿Qué información o conocimientos tienes que para mí representarían un desafío encontrarlos?
+
+    ¿Dónde me ves recibiendo apoyo para esta iniciativa? ¿Enfrentando resistencia?
+
+    ¿Qué otros pensamientos o preguntas tienes?
+
 #### Priorizar a los interesados y generar aceptación
 
 *Completar un análisis de los interesados.*
