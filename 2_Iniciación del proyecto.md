@@ -983,7 +983,6 @@ los altos directivos. Por ejemplo, puede ser útil realizar controles mensuales 
 las personas como su equipo tengan una idea de dónde se encuentran. Por lo general, al final del trimestre, calificarás
 cada uno de tus OKR para evaluar cuán bien lo hizo el equipo para lograr sus objetivos.
 
-
 ## Trabajar eficazmente con los interesados
 
 ## Recursos y herramientas
