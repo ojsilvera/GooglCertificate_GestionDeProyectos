@@ -1312,7 +1312,34 @@ proveedor o problemas con el sitio web. Por otro lado, sí debes dedicarte a inf
 lizaciones frecuentes. El equipo de Ventas deberá conocer los cambios en los precios y la disponibilidad, por lo que tiene
 sentido reunirse con ellos una vez por semana.
 
+![Alt text](image-4.png)
+
 #### Priorizar a los interesados y generar aceptación
+
+*Completar un análisis de los interesados.*
+
+Los interesados son una parte esencial de cualquier proyecto. La capacidad de un gerente de proyectos de equilibrar los
+requisitos de los interesados, generar aceptación en ellos y comprender cuándo y cómo involucrarlos es clave para que el
+proyecto sea exitoso.
+
+Revisemos los pasos clave en el análisis de los interesados:
+
+    Prepara una lista de todos los interesados en los que impacta el proyecto. Al hacer esta lista, pregúntate lo
+    siguiente: ¿Quién está comprometido con el proyecto? ¿A quién afecta este proyecto? ¿Quién contribuye a
+    este proyecto?
+
+    Define el nivel de interés e influencia de cada interesado: con este paso, es más fácil determinar quiénes son los
+    interesados clave. Cuanto mayor sea el nivel de interés e influencia, más importante será priorizar sus necesidades
+    durante el proyecto.
+
+    Evalúa la capacidad de los interesados de participar y encuentra formas de involucrarlos. Varios tipos de proyectos
+    producirán varios tipos de interesados: algunos serán partes interesadas activas con más opiniones y puntos de contacto,
+    y otros serán partes interesadas pasivas,quienes solo prefieren recibir actualizaciones de alto nivel y no estar invo-
+    lucradas en el día a día. Dicho esto, el hecho de que un interesado no participe tan a menudo como otros no significa
+    que no sea importante. Hay muchos factores que entrarán en juego al momento de determinar la capacidad de un interesado
+    de participar en un proyecto, como la distancia física del proyecto y su carga de trabajo existente.
+
+![Alt text](image-5.png)
 
 ### Asignar las funciones y responsabilidades del equipo del proyecto
 
