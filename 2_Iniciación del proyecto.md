@@ -998,6 +998,35 @@ sobre quién se hace cargo de qué tareas.
 
 #### Accesibilidad para los gerentes de proyectos
 
+La accesibilidad debería ser integrada en todas las funciones de una empresa, ya sea un diseñador de productos, comunicador,
+desarrollador o un gerente de proyectos.
+
+Es el mundo que nos rodea lo que debemos lograr que sea más accesible para todos. La accesibilidad se puede definir de
+varias maneras diferentes. Podroa significar eliminar activamente los obstáculos que pudieran prevenir que las personas con
+discapacidades puedan acceder a la tecnología, información o experiencias, y mejorar las condiciones para que todo el mundo
+tenga iguales posibilidades de disfrutar de la vida y tener éxito.
+
+Una discapacidad suele definirse como una condición física o mental que limita sustancialmente una actividad vital importante,
+como caminar, hablar, ver, oír o aprender. Más de mil millones de personas en el mundo tienen una discapacidad: 1000 millones.
+Eso es más que la población de los Estados Unidos, Canadá, Francia, Italia, Japón, México y Brasil combinadas. La discapacidad
+es diversa e interseccional.
+Alguien puede nacer con una condición o adquirirla más adelante en la vida. Una discapacidad puede afectarnos a todos de alguna
+manera, directa o indirectamente, y en cualquier momento, de forma permanente, como la sordera, o temporal, como una pierna
+fracturada, o situacional, como intentar usar un control remoto para prender la TV en la oscuridad. Al crear soluciones para
+personas con discapacidad, no solo estás atendiendo las necesidades del público con discapacidades permanentes, sino que también
+estás generando beneficios secundarios para todos los que puedan estar con o sin una discapacidad a lo largo del tiempo.
+
+Establecer la expectativa de que estarás interactuando con otras personas, y aprender y trabajar de manera diferente es una
+fortaleza clave de trabajar con la accesibilidad en mente. Preguntar a los demás qué necesitan de ti para aprender y comunicarse,
+y también compartir lo que necesitas si tienes una discapacidad es importante para trabajar bien juntos como equipo.
+
+En la gestión de proyectos, tú, los miembros de tu equipo de proyecto, o personas que han invertido mucho en tu proyecto podrían
+tener una discapacidad, visible o invisible. Como gerente de proyectos, eres responsable de asegurarte de que un grupo de
+personas pueden trabajar juntas para lograr un objetivo común utilizando herramientas y sistemas compartidos.
+
+Para tener éxito, tienes que asegurarte de que la infraestructura y la cultura que creas se ajuste a todos. Conocer esto es un
+elemento clave de la gestión de proyectos.
+
 #### Cómo elegir el equipo para un proyecto
 
 #### Repaso: Los componentes del equipo ideal para el proyecto
