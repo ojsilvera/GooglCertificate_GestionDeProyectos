@@ -1145,11 +1145,97 @@ mar un equipo ideal.
 
 #### Definición de las funciones del proyecto
 
+Contar con el equipo ideal es imprescindible, debido a las partes móviles en un proyecto. Eso significa que lo que realmente
+se necesita es tener seguridad y confiar en que las personas que te rodean tienen las habilidades y la motivación para
+hacer bien el trabajo.
+
+Para tener confianza en tu equipo, hay que conocer la función de cada persona desde el principio. Establecer claramente
+las responsabilidades de cada función ayuda a todos a saber qué tareas del proyecto son su responsabilidad.
+
+Lo más probable es que no puedas completar este proyecto por ti mismo, incluso si eres el mejor gerente de proyectos del
+mundo.
+
+Antes de pasar a las funciones específicas de un proyecto, queremos aclarar que algunas funciones no son fijas. A veces,
+los miembros del equipo necesitan adaptarse y asumir más de una función a la vez. Esto suele suceder si la empresa es
+pequeña o los recursos son limitados.
+
+Por ejemplo, en una compañía pequeña, tú podrías ser el gerente de proyectos, diseñador y comercializador. Independiente-
+mente de si son fijas o no, siempre habrá estas funciones en un proyecto. Patrocinadores de proyecto, miembros del equipo,
+clientes o usuarios, interesados y, por supuesto, el gerente del proyecto
+
+*El patrocinador* del proyecto es la persona responsable del proyecto y se asegura de que el proyecto aporte el valor
+acordado al negocio. Desempeñan un papel de liderazgo fundamental durante todo el proceso. En ocasiones, financian el
+proyecto. Probablemente el patrocinador se comunique directamente con los gerentes y los principales interesados.
+
+*Los miembros del equipo* son el corazón de la operación. Son las personas que realizan el trabajo diario y hacen realidad
+el proyecto.
+
+*Los clientes* son las personas que recibirán algún tipo de valor de un proyecto realizado con éxito. Dado que el proyecto
+tiene como objetivo entregar algo útil para los clientes, sus necesidades suelen definir los requisitos del proyecto. Puedes
+pensar en ellos como los compradores del proyecto. En algunas situaciones, tenemos tanto clientes como usuarios de un proyecto,
+y tenemos que diferenciar entre los dos.
+
+*Los usuarios* son las personas que utilizan el producto que el proyecto producirá. Para hacer que la distinción sea
+agradable y claro, podria verse de esta manera: una empresa de software ha creado un tipo de software que permite a lo
+equipos comunicarse entre sí a través de una aplicación de mensajería instantánea. El software es adquirido por la empresa
+ABC: ellos son el cliente. Pero los usuarios son todos los de la empresa ABC que utilizarán la aplicación de mensajería
+instantánea todos los días.
+
+*Los interesados* son todos los involucrados en el proyecto, los que tienen un interés personal en el éxito del proyecto.
+Los principales interesados son personas que esperan beneficiarse directamente de la finalización del proyecto, los inte-
+resados secundarios tienen un papel intermediario y se ven afectados indirectamente por el proyecto. Los interesados secu-
+ndarios pueden ser contratistas o miembros de una organización asociada, pero ya sean principales o secundarios, los
+interesados ayudan a los gerentes de proyectos a definir los objetivos y resultados del proyecto.
+
+*El gerente del proyecto:* la persona que planifica, organiza y supervisa el proyecto.
+
 #### Funciones esenciales del proyecto
 
-#### John: La importancia del equipo de un proyecto
+*El gerente del proyecto.*
+
+El gerente del proyecto es quien se asegura del éxito del equipo y, en última instancia, del proyecto en su conjunto. Un
+gerente de proyectos entiende que prestar mucha atención a la dinámica del equipo es esencial para completar un proyecto
+satisfactoriamente, y utiliza técnicas de formación de equipos, motivación, influencia, toma de decisiones y habilidades
+de entrenamiento para mantener la solidez del equipo.
+
+Los gerentes de proyectos integran todo el trabajo del proyecto al elaborar el plan de gestión del proyecto, dirigiendo
+el trabajo, documentando los informes, controlando los cambios y monitoreando la calidad.
+
+Además, los gerentes de proyectos son responsables de equilibrar el alcance, el cronograma y el costo de un proyecto al
+gestionar la interacción con los interesados. Al hacerlo, los gerentes de proyectos se apoyan en sus habilidades de comu-
+nicación, la conciencia política y cultural, negociación, creación de confianza y habilidades de gestión de conflictos.
+
+*Los interesados.*
+
+Los interesados suelen dividirse en dos grupos: los principales interesados, también conocidos como partes interesadas
+clave, estos se ven directamente afectados por el resultado del proyecto y los interesados secundarios, estos se ven afec-
+tados indirectamente por el resultado del proyecto.
+
+Los principales interesados suelen incluir a los miembros del equipo, líderes senior y clientes, un interesado secundario
+podría ser el punto de contacto del proyecto en el Departamento Legal.
+
+*Miembros del equipo del proyecto.*
+
+Los miembros del equipo del proyecto también se consideran los principales interesados, ya que desempeñan un papel crucial
+en la realización del trabajo. Los miembros del equipo variarán según el tipo, la complejidad y el tamaño del proyecto.
+
+Es importante tener en cuenta estas variables a medida que seleccionas al equipo del proyecto y comienzas a trabajar con los
+miembros. Recuerda que elegir compañeros de equipo con las habilidades técnicas y las destrezas interpersonales adecuadas
+será valioso como parte del trabajo para cumplir con los objetivos del proyecto. Si no puedes seleccionar al equipo del
+proyecto, no dejes de promover la diversidad y generar confianza para crear armonía dentro del equipo.
+
+*El patrocinador.*
+
+El patrocinador del proyecto es otro de los principales interesados. Un patrocinador inicia el proyecto y es responsable
+de presentar un caso de negocio para justificar su existencia, firmar la carta del proyecto y autorizar recursos para el
+gerente del proyecto. El patrocinador es muy importante para el proyecto, por lo que es fundamental comunicarse con él
+con frecuencia durante todas las fases del proyecto.
 
 ### Evaluar a los interesados
+
+#### Realizar un análisis de los interesados
+
+#### Priorizar a los interesados y generar aceptación
 
 ### Asignar las funciones y responsabilidades del equipo del proyecto
 
