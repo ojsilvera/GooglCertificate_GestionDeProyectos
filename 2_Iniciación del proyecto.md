@@ -788,6 +788,22 @@ al cliente o usuario. Sin embargo, no puedes basar el éxito del proyecto única
 Tu trabajo en un proyecto no estará completo hasta que lo “aterrices” al medir minuciosamente los resultados. Aquí es cuando
 serán útiles los criterios de éxito y las métricas que definiste inicialmente al establecer los objetivos SMART.
 
+Los equipos deben tener claro lo que están tratando de lograr, más allá de simplemente lanzar algo a los usuarios.
+
+¿Tu proyecto aumentará la retención?
+¿Tu proyecto acelerará una característica del producto?
+
+Dependiendo del producto y la situación, las respuestas serán diferentes, pero es importante que tu equipo se alinee y trabaje
+hacia el mismo objetivo medible.
+
+Un error común de muchos equipos de proyectos es "lanzar y olvidar" los resultados. Esto sucede cuando un gerente de proyectos
+entrega el proyecto al cliente y el cliente acepta la entrega del proyecto, pero el gerente de proyectos no evalúa si los
+entregables del proyecto satisfacen al cliente o al usuario.
+
+El aterrizaje de un proyecto no debería crear más obstáculos. Si se hace correctamente, un aterrizaje crea una mayor ali-
+neación dentro de los equipos sobre los resultados finales que todos desean y brinda a todos en el equipo una mejor visibi-
+lidad sobre cómo lograr el éxito.
+
 #### Definir criterios de éxito
 
 #### Seguimiento y comunicación de criterios de éxito
