@@ -985,4 +985,12 @@ cada uno de tus OKR para evaluar cuán bien lo hizo el equipo para lograr sus ob
 
 ## Trabajar eficazmente con los interesados
 
+### Explorar las funciones y responsabilidades del equipo del proyecto
+
+### Evaluar a los interesados
+
+### Asignar las funciones y responsabilidades del equipo del proyecto
+
+### Cómo trabajar eficazmente con los interesados
+
 ## Recursos y herramientas
