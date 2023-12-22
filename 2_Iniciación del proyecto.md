@@ -804,6 +804,10 @@ El aterrizaje de un proyecto no debería crear más obstáculos. Si se hace corr
 neación dentro de los equipos sobre los resultados finales que todos desean y brinda a todos en el equipo una mejor visibi-
 lidad sobre cómo lograr el éxito.
 
+Lanzar tu proyecto al cliente puede ser un gran momento para ti. Le entregaste el proyecto a tu cliente y ahora puedes dar
+un paso al costado y tomar un respiro. Pero asegúrate también de aterrizar tu proyecto. Revisa tus notas, habla con tu
+equipo, reúnete con el cliente y recuerda volver a las métricas y los entregables previstos para ayudarte a medir el éxito.
+
 #### Definir criterios de éxito
 
 #### Seguimiento y comunicación de criterios de éxito
