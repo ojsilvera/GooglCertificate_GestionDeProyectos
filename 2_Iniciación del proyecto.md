@@ -1082,6 +1082,30 @@ preguntas clave:
 
 #### Repaso: Los componentes del equipo ideal para el proyecto
 
+*¿Demasiado grande, demasiado pequeño o lo justo?*
+
+La cantidad dependerá en gran medida del tamaño del proyecto en sí. Los proyectos complejos con grandes divisiones de
+trabajo generalmente requerirán equipos de proyecto más grandes. Los proyectos simples con expectativas directas pueden
+requerir que haya pocas personas en el equipo del proyecto. Como gerente del proyecto, tu trabajo es ayudar a encontrar
+el equilibrio en función de lo que se necesita.
+
+*Las habilidades y destrezas adecuadas para ocupar una función.*
+
+En los equipos pequeños, una sola persona puede desempeñar varias funciones Para satisfacer las necesidades de proyectos
+más especializados, los gerentes de proyectos pueden requerir personas que tengan las habilidades técnicas necesarias.
+
+Las habilidades técnicas son las destrezas específicas de la tarea que debe realizarse. Las habilidades técnicas son muy
+valoradas, pero no son las únicas habilidades que son importantes para los equipos que trabajan bien.
+
+Las destrezas interpersonales, también conocidas como habilidades personales o habilidades blandas, como la paciencia y
+la mediación de conflictos, pueden ser útiles para los miembros del equipo. Al contar con esto, el equipo puede combinar
+su experiencia técnica con las habilidades de colaboración para cumplir con su trabajo. Cuando un equipo aplica sus des-
+trezas interpersonales, puede minimizar los problemas relacionados con el equipos.
+
+Las habilidades de resolución de problemas son algo que no le puede faltar a los miembros del equipo, especialmente cuando
+se trata de proyectos grandes y complejos. Como gerente del proyecto, no podrás resolver todos los problemas que surjan
+en tu equipo. En algún momento, tendrán que usar su propio juicio para resolver problemas y cumplir con su trabajo.
+
 #### Definición de las funciones del proyecto
 
 #### Funciones esenciales del proyecto
