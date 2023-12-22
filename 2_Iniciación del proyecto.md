@@ -1512,6 +1512,24 @@ siguientes:
 
 #### Sacar el máximo provecho de un gráfico RACI
 
+*Definición y estructura:*
+
+Determinar quién es Responsable, encArgado, Consultado e Informado en los proyectos te permite mantener el control de las
+funciones de los interesados en el proyecto.
+
+*Equilibrio de la carga de trabajo:*
+
+¿Hay demasiadas tareas asignadas a un solo interesado? Cuando completas el gráfico, es una buena idea volver y contar el
+número de R asignadas a cada interesado. Esto puede ayudarte a identificar la posible sobrecarga de trabajo de un miembro
+del equipo.
+
+El uso de un gráfico RACI para definir la responsabilidad de las tareas puede ayudar a mitigar los puntos únicos de falla
+(conocidos como creación de silos, donde el conocimiento y la responsabilidad de una tarea recae en una sola persona) y
+permitirte, como gerente de proyectos, delegar tareas y evitar el agotamiento. Mantener el equilibrio de la carga de trabajo
+es una parte crítica de la gestión de proyectos. Es fácil caer en el patrón de confiar en los que producen los mejores
+resultados para lograr que el proyecto avance. Sin embargo, esto no siempre es saludable para el proyecto o el equipo. Si
+descubres que no cuentas con las personas adecuadas para asignarles responsabilidades, da un paso atrás y evalúa al equipo.
+
 ### Cómo trabajar eficazmente con los interesados
 
 ## Recursos y herramientas
