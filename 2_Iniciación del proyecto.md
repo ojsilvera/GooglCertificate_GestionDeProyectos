@@ -1593,3 +1593,75 @@ Cuenta con un plan sobre cómo manejar la corrupción del alcance, en caso de qu
 para aprobar los cambios en el alcance.
 
 ## Recursos y herramientas
+
+### Comprender las necesidades de recursos del proyecto
+
+#### Recursos esenciales del proyecto
+
+Los recursos, Como gerente de proyectos, comprender tus necesidades de recursos es crucial para alcanzar tus objetivos.
+Por eso, durante la fase de iniciación, es importante que te preguntes qué nos falta adquirir para completar nuestro
+proyecto.
+
+Los recursos de un proyecto suelen incluir el presupuesto, las personas y los materiales. A medida que se establezcan los
+objetivos y el alcance del proyecto, se delinearan los diferentes recursos Necesarios para alcanzar esos objetivos.
+
+Es importante saber qué recursos necesitarás antes de que el proyecto se ponga en marcha. Esto hace que para todos los
+miembros de tu equipo sea fácil hacer sus tareas, y ese es tu trabajo como gerente de proyectos. No harás el trabajo
+directamente, pero apoyarás a las personas que lo hagan.
+
+Averiguar los recursos con antelación también ayuda a evitar la falta accidental de personal en el proyecto, lo que puede
+ralentizar seriamente el progreso del equipo y afectar la línea de tiempo general. Y lo que es peor, si no tienes cuidado
+con la planificación de los recursos, podrías acabar subestimando el presupuesto. Es decir, es posible que no tengas
+suficiente dinero para comprar los materiales necesarios, contratar a los proveedores o apoyar las solicitudes de horas
+extras.
+
+Planificar los recursos con antelación es una excelente manera de preparar a tu equipo para el éxito. Porque cuando tus
+compañeros de equipo tienen lo que necesitan para hacer su trabajo a tiempo y dentro del presupuesto, están mejor preparados
+para cumplir con los objetivos del proyecto.
+
+Algunos de los recursos con los que suelen trabajar los gerentes de proyectos:
+
+En primer lugar, hablemos de los presupuestos. Un presupuesto es un cálculo aproximado de la cantidad de dinero que costará
+completar un proyecto. Casi todos los proyectos tienen presupuestos porque necesitan financiación para los gastos, como
+la compra del software o de los materiales adecuados, la contratación de proveedores para completar los trabajos o la
+realización de tareas de marketing una vez que el proyecto esté terminado. Durante la fase de iniciación, se habla con los
+interesados y las personas que trabajan en el proyecto a fin de averiguar cuáles son las tareas necesarias para llevarlo a
+cabo. En esta fase, puedes hacer preguntas que te ayuden a descubrir los costos ocultos. Por ejemplo,
+
+    ¿hay algún impuesto sobre los productos que debas tener en cuenta?
+    ¿Qué sucede con las tarifas adicionales?
+
+Toda esta información te ayudará a elaborar un presupuesto, el cual podrás utilizar para obtener y comparar las propuestas
+de los proveedores. Calcula los próximos costos y haz un seguimiento de todo el dinero que entra y sale de tu proyecto.
+
+A menudo debes incluir el presupuesto y el estatuto del proyecto, que los interesados revisarán para su aprobación.
+
+Cuando hablamos de los recursos, también nos referimos al equipo de personas que ayudan a ejecutar las tareas de un pro-
+yecto. Por ejemplo, tú, como gerente de proyectos, eres un recurso. También lo es el director de marketing, que podría
+crear anuncios para este nuevo producto.
+
+Otros recursos pueden ser personas ajenas a tu empresa que tienen habilidades únicas y pueden realizar determinadas tareas
+que las personas de tu organización no pueden hacer personalmente.
+
+Luego están los materiales. Se trata de los elementos necesarios para llevar a cabo el proyecto. Por ejemplo, los materiales
+de un proyecto podrían incluir la madera necesaria para completar un proyecto de construcción.
+
+Los recursos de un proyecto incluyen el presupuesto, las personas y los materiales.
+
+*¿Cómo se organizan estos recursos?* Las herramientas sirven de ayuda para facilitar a un gerente de proyectos o a un equipo
+la gestión de los recursos y la organización del trabajo. Ayudan a realizar actividades, como el seguimiento de tareas, la
+gestión de presupuestos y la colaboración con los compañeros de equipo.
+
+Existen todo tipo de herramientas, incluidas las de productividad, como Google Docs, y las de software de gestión del trabajo,
+como Asana.
+
+Las herramientas son esenciales para el seguimiento del progreso, por lo que conviene tenerlas presentes en todas las fases
+del proyecto.
+
+#### Gestión de los recursos para realizar el trabajo
+
+### Desarrollo de la documentación para el inicio del proyecto
+
+### Evaluación de las herramientas para satisfacer las necesidades del proyecto
+
+### Repaso del curso: Iniciación del proyecto: Cómo iniciar un proyecto exitoso
