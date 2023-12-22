@@ -1106,6 +1106,44 @@ Las habilidades de resolución de problemas son algo que no le puede faltar a lo
 se trata de proyectos grandes y complejos. Como gerente del proyecto, no podrás resolver todos los problemas que surjan
 en tu equipo. En algún momento, tendrán que usar su propio juicio para resolver problemas y cumplir con su trabajo.
 
+Un conjunto de habilidades subestimadas para los miembros del equipo del proyecto son las habilidades de liderazgo.Contar
+con habilidades de liderazgo sólidas ayuda a los miembros del equipo a sortear los límites organizacionales y comunicarse
+de manera efectiva con los interesados para generar su aceptación.
+
+*¿Quién está disponible?*
+
+la disponibilidad del equipo es una gran preocupación constante. Esto se aplica, especialmente, en las organizaciones de
+estructura matricial, donde los miembros del equipo tienen múltiples jefes. No es poco frecuente sacar a un miembro del
+equipo de un proyecto y llevarlo a otro antes de que su proyecto finalice. En un mundo ideal, solo eliges a las personas
+que pueden permanecer en el proyecto durante todo su ciclo de vida. Aunque, también existe la posibilidad de que no puedas
+elegir a ciertos miembros del equipo, lo que se denomina asignación previa. En estos casos, es el patrocinador quien designa
+a los miembros del equipo para tu proyecto.
+
+Recuerda que debes valorar la diversidad desde el principio al conformar el equipo. En los equipos diversos, todos pueden
+contribuir con su experiencia profesional y personal única para que el proyecto sea aún más exitoso. La diversidad se
+aprovecha más cuando se reconoce y se destaca como un recurso. Muchas personas evitan hablar de sus diferencias, pero si
+fomentas este tipo de conversaciones, habrá una mayor comprensión y una mayor creatividad, y esto surge cuando las personas
+trabajan juntas a pesar de las diferencias. Para lograrlo, es importante dedicar tiempo al principio del proceso de formación
+del equipo para fomentar la confianza entre los miembros. Existe una mayor probabilidad de que los miembros del equipo que
+se entienden entre sí confíen más y que sientan más libertad de compartir diferentes puntos de vista o perspectivas opuestas.
+Esto también les permitirá ofrecer comentarios constructivos con más facilidad o ser más solidarios si hay desafíos en la
+inámica del equipo en algún momento.
+
+*¿Qué los motiva?*
+
+El nivel de motivación de los miembros del equipo y el impacto que puede tener en el proyecto, es de suma importancia. El
+hecho de que una persona esté preasignada a un proyecto no significa necesariamente que tenga poco interés en él, pero una
+persona que se ofreció como voluntaria de manera proactiva puede tener una motivación adicional para cumplir con su trabajo.
+
+Como gerente del proyecto, es tu responsabilidad hacer que los miembros del equipo se involucren y que estén motivados. En
+este punto es donde entra tu capacidad de liderazgo: en lograr mantener al equipo comprometido y listo para superar cual-
+quier obstáculo que pueda surgir. Vincularse de manera respetuosa y mantener una actitud positiva hacia el equipo en momentos
+adversos son formas sencillas de hacer que el equipo esté motivado.
+
+En resumen, el tamaño del equipo, las habilidades, la disponibilidad y la motivación son los componentes básicos para for-
+mar un equipo ideal.
+
+
 #### Definición de las funciones del proyecto
 
 #### Funciones esenciales del proyecto
