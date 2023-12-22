@@ -1235,6 +1235,83 @@ con frecuencia durante todas las fases del proyecto.
 
 #### Realizar un análisis de los interesados
 
+Los principales interesados son personas que se beneficiarán directamente del éxito del proyecto, mientras que los inte-
+resados secundarios son afectados indirectamente por el éxito del proyecto.
+
+Tener tantas personas diferentes en un proyecto puede volverse confuso, y es entonces cuando el análisis de los interesados
+resulta útil. Esta es una representación visual de todas las partes interesadas. Te ayuda a evitar sorpresas, formas las
+alianzas necesarias y asegurar que estás involucrando a las personas adecuadas en el momento oportuno. Cuando se hace bien,
+el análisis de los interesados te ayuda a ver todas las oportunidades de éxito y los riesgos potenciales, ilustra qué partes
+interesadas están asumiendo qué responsabilidades y puede ayudarte a incluir a las personas adecuadas en conversaciones
+importantes, lo que es clave para obtener el apoyo que necesitas durante todo el proyecto. Hay tres pasos clave para
+iniciar un análisis de los interesados.
+
+Primero, haz una lista de de los interesados a quienes impacta el proyecto, define el nivel de interés e influencia de
+cada interesado.y evalúa su capacidad de participación y encuentra formas de involucrarlos.
+
+La matriz energética es una cuadrícula de dos por dos que se usa para realizar un análisis de los interesados. Usamos la
+matriz energética para asignar el nivel de importancia de cada parte interesada para el proyecto, para medir su interés
+e influencia. La posición del interesado en la matriz generalmente determina su función activa en el proyecto. Cuanto mayor
+sea el interés y la influencia, más contribuye el interesado al éxito del proyecto. Sin su apoyo, es poco probable que el
+proyecto se realice. Estas personas son nuestras partes interesadas clave.
+
+Ya tienes una mejor idea de la posición de cada parte interesada en el equipo, así que puedes planificar la mejor manera
+de gestionar a todos. Hay cuatro técnicas diferentes que puedes usar para la gestión de las partes interesadas.
+
+El primer grupo de interesados son los actores clave o los principales interesados. Estas personas se ubican en la esquina
+superior derecha de la matriz. Para gestionar mejor a los principales interesados, querrás trabajar estrechamente con ellos
+para alcanzar los resultados deseados. Por supuesto, no todo el mundo es un actor clave, pero cada función, incluso los
+interesados secundarios, ocupan un lugar en la matiz.
+
+Ubicarás a los interesados con mayor influencia y menor interés en la esquina superior izquierda de la matriz. Para gestionar
+a estos interesados, vas a consultar con ellos y satisfacer sus necesidades. Sus opiniones y aportaciones son importantes
+para el proyecto. El director de Producto tiene una gran influencia, pero es posible que no esté involucrado en las acti-
+vidades del día a día, y, por lo tanto, tendrá un interés menor.
+
+Los interesados con menor influencia e interés alto están en la esquina inferior derecha de la matriz. A estos interesados
+querrás mostrarles consideración manteniéndolos actualizados sobre el proyecto. Es poco probable que necesiten opinar
+sobre lo que sucede, pero mantenerlos informados es importante. Por ejemplo, el equipo de éxito del cliente puede tener
+baja influencia, pero un alto interés, ya que trabajarán directamente con los clientes en el nuevo producto.
+
+Por último, tenemos interesados con poca influencia y poco interés. Se encuentran en la esquina inferior izquierda. Son las
+partes interesadas menos significativas, pero esto no quiere decir que no importen. Podría ser que, para este proyecto en
+particular, no sean vitales. Entonces, para este proyecto, deberás monitorearlos, manteniéndolos al tanto.
+
+Crear una matriz como esta es una forma efectiva de dar un seguimiento a con quién hay que comunicarse y cuándo. Esta matriz
+es un ejemplo de cómo podría hacerse en función del proyecto y de los interesados. También es posible que desees crear un
+comité directivo compuesto por interesados con alto nivel de influencia e interés. Estas personas serán el órgano de toma de
+decisiones de mayor jerarquía en cualquier proyecto. Tienen la autoridad para realizar cambios en el presupuesto y aprobar
+actualizaciones en el cronograma o el alcance.
+
+El gerente de proyectos no es miembro del comité, pero sí es responsable de aportar la información correcta del proyecto
+al comité directivo para que las decisiones se pueden tomar rápidamente.
+
+Cómo involucrar a los interesados a partir de este momento depende de su situación particular. Hay diferentes formas de
+involucrar a cada interesado, y debes actuar estratégicamente para brindar información útil y relevante a las personas
+adecuadas y en el momento oportuno. Vas a querer reunirte con algunos interesados todos los días y a otros solo les
+enviarás actualizaciones periódicas.
+
+La aceptación de los interesados es el proceso de involucrar a estas personas en la toma de decisiones para alcanzar un
+consenso más amplio sobre el futuro de la organización. Para lograr que los interesados acepten el proyecto, tendrás que
+prestar especial atención a los interesados con un alto impacto y asegurarte de que se sientan vinculados.
+
+Querrás explicarles la manera en que el proyecto les ayudará a lograr sus metas, y vas a querer contar con su apoyo más
+adelante si surge algún problema.
+
+Aquí hay algunas cosas importantes para tener en cuenta al comunicarse con los interesados. Si tienes un principal interesado,
+es probable que esa parte tenga un alto nivel de influencia y necesite una comunicación constante. Pero si estás en un
+proyecto más grande con varios interesados, no estarán tan involucrados en las tareas diarias. En el caso de los interesados
+que necesitan tiempo para tomar decisiones sobre el proyecto, dales mucha información desde el principio. Por ejemplo,
+organiza reuniones frecuentes y envía correos electrónicos con los avances al final del día. De esta manera, tienen
+suficiente tiempo para sopesar las opciones y tomar decisiones. Piensa en el nivel de detalle sobre el proyecto que cada
+interesado necesita. No vas a dedicarle tiempo a hablar en profundidad con interesados que solo necesitan un resumen del
+proyecto.
+
+Por ejemplo, el equipo de instalaciones que entrega el producto no necesita actualizaciones diarias sobre los precios del
+proveedor o problemas con el sitio web. Por otro lado, sí debes dedicarte a informar a miembros clave que necesitan actua-
+lizaciones frecuentes. El equipo de Ventas deberá conocer los cambios en los precios y la disponibilidad, por lo que tiene
+sentido reunirse con ellos una vez por semana.
+
 #### Priorizar a los interesados y generar aceptación
 
 ### Asignar las funciones y responsabilidades del equipo del proyecto
