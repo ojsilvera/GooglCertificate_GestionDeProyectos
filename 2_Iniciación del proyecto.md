@@ -962,6 +962,28 @@ monitorear cuáles se están quedando cortos y estar continuamente motivado para
 Asignar propietarios. Asigna un propietario a cada resultado clave para que todos sepan quién es responsable de qué. Esto
 ayuda a agregar claridad y aumenta la responsabilidad.
 
+Medir tus OKR es una parte importante de seguir y compartir su progreso. Un atajo para determinar el estado de un proyecto
+es puntuar o calificar tus OKR. Si bien los puntajes o las calificaciones no brindan una evaluación completa del éxito de
+un proyecto, son herramientas útiles para determinar cuán cerca estuviste de lograr tus objetivos. Luego, puedes compartir
+tus puntajes OKR con los interesados del proyecto y los miembros del equipo como parte de las actualizaciones generales
+del proyecto.
+
+*Determina cómo puntuarás tus OKR.* Los OKR se pueden puntuar de diferentes formas. Puedes puntuar en función de un por-
+centaje del objetivo cumplido, la consecución de determinados hitos o una escala del 1 al 10.
+
+Utilizar un método de puntuación de "semáforo", donde el rojo significa que no hiciste ningún progreso, el amarillo significa
+que hiciste algún progreso y el verde significa que completaste tu objetivo.
+
+El enfoque más simple para calificar los OKR es el método “sí/no”, donde “sí” significa que lograste tu objetivo y “no”
+significa que no lo lograste. Con este enfoque, un resultado clave como "Lanzar una nueva campaña de marketing de widgets"
+podría calificarse con 1 o 0 dependiendo de si se lanzó (1) o no (0).
+
+*Programar puntos de control.* Es importante comunicar periódicamente el estado de los OKR del proyecto a su equipo y a
+los altos directivos. Por ejemplo, puede ser útil realizar controles mensuales sobre el progreso de los OKR para que tanto
+las personas como su equipo tengan una idea de dónde se encuentran. Por lo general, al final del trimestre, calificarás
+cada uno de tus OKR para evaluar cuán bien lo hizo el equipo para lograr sus objetivos.
+
+
 ## Trabajar eficazmente con los interesados
 
 ## Recursos y herramientas
