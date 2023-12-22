@@ -944,6 +944,16 @@ se convierte en un acuerdo mutuo sobre cómo todas las partes definen el éxito 
 
 #### Usar OKR para evaluar el progreso
 
+los OKR (objetivos y resultados clave) combinan un objetivo y una métrica para determinar un resultado medible. Establecer
+OKR es una técnica que puede ayudar a los equipos de proyecto a definir, comunicar y medir criterios de éxito compartidos.
+
+    Objetivos: Define lo que se debe lograrse; describe un resultado deseado.
+
+    Resultados clave: Los resultados medibles que definen objetivamente cuándo se ha cumplido el objetivo.
+
+Llevar a cabo controles periódicos y realizar un seguimiento activo del progreso con tu equipo puede ayudar a garantizar
+que se cumplan los objetivos y que cualquier problema se resuelva lo antes posible.
+
 ## Trabajar eficazmente con los interesados
 
 ## Recursos y herramientas
