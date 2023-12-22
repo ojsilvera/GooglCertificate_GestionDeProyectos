@@ -827,6 +827,48 @@ equipo esté alineado y trabaje hacia un objetivo compartido.
 
 A veces forzar la conversación y aclarar cómo se ve el resultado final puedes sacar a la luz preguntas y áreas de desacuerdo.
 
+Revisa los objetivos y entregables de tu proyecto, revisa el alcance e identifica los aspectos medibles del proyecto. Estas
+serán algunas de las métricas utilizadas en los objetivos y entregables, junto con el presupuesto y los detalles de cronograma.
+
+Obtener claridad de los interesados sobre los requisitos y expectativas del proyecto. Esa es la clave. Hay mucha gente
+involucrada en cualquier proyecto; eso significa muchas ideas sobre cómo se ve el éxito para cada persona. Se recomienda
+que hagas preguntas, por ejemplo:
+
+¿Quién dice finalmente si el proyecto es exitoso o no?
+¿Qué criterios se medirán para determinar el éxito?
+¿En qué se basa el éxito de este proyecto?
+
+Una vez que hayas recopilado información aclaratoria, documéntala y compártela para que tú, tu equipo y los interesados
+puedan consultarlo luego.
+
+No basta con hacer una lista de criterios; se necesita un proceso para medir el éxito de principio a fin en todo el ciclo
+de vida del proyecto. De esta forma, puedes realizar ajustes y asegurarte de tener éxito cuando estés listo para aterrizar.
+Hay muchas métricas que puedes utilizar y, para algunos productos, será lógico utilizar más de uno. Las métricas que elijas
+deben estar alineadas con el objetivo de tu proyecto lo máximo posible.
+
+Por ejemplo, las "métricas de felicidad" miden las actitudes y la satisfacción de los usuarios o facilidad de uso perci-
+bida, y puedes medirlos mediante encuestas.
+
+considerar las métricas de participación y adopción del cliente, junto con métricas más comerciales que rastrean cosas
+como las ventas y el crecimiento. La adopción se refiere a cómo el cliente usa y adopta un producto o servicio sin problemas.
+
+El compromiso se refiere a la frecuencia o importancia de la interacción y participación del cliente a lo largo del tiempo.
+
+Las métricas de adopción pueden incluir lanzar un nuevo producto a un grupo de usuarios y que una gran cantidad lo utilicen
+o lo adopten. Las métricas de participación pueden incluir el aumento del uso diario de una función de diseño o de pedidos
+e interacciones con los clientes.
+
+Una vez que hayas definido las métricas que medirás, piensa en cómo rastreas estas métricas. Evalúa qué herramientas pueden
+ayudarte a recopilar los datos necesarios para asegurarte de mantenerte encaminado.
+
+Por ejemplo, si estás midiendo métricas comerciales como ingresos, considera rastrearlo en una hoja de cálculo o tablero,
+donde puedas detectar brechas y tendencias. Si estás midiendo la satisfacción del cliente, puedes pensar en una forma de
+incentivar a los clientes a participar en encuestas periódicas por correo electrónico y crear un sistema para medir sus
+respuestas cuando participan.
+
+También utiliza tus herramientas de gestión de proyectos para comprobar las métricas de eficiencia, como qué porcentaje
+de tareas se completan o si el proyecto avanza dentro de los plazos previstos.
+
 #### Seguimiento y comunicación de criterios de éxito
 
 #### Usar OKR para evaluar el progreso
