@@ -1029,6 +1029,57 @@ elemento clave de la gestión de proyectos.
 
 #### Cómo elegir el equipo para un proyecto
 
+Para decidir quién hace qué en un proyecto, tenemos que considerar y delinear nuestras necesidades. Elegir a las personas
+adecuadas para un equipo es una tarea enorme, y todo gerente de proyecto debe tomarla en serio. A fin de cuentas, son las
+personas que hacen el trabajo en el proyecto, así que queremos asegurarnos de que contamos con las personas adecuadas.
+
+Al identificar los recursos humanos, debemos considerar cuidadosamente las necesidades del proyecto y utilizar esa información
+para modelar nuestra toma de decisiones.
+
+Primero, un gerente de proyectos hará una lista de las funciones que necesitará en su equipo para completar cada tarea. Así
+como un gerente de proyectos es encargado de la iniciación, planificación, ejecución, y finalización de un proyecto, la persona
+en cada función es responsable de tareas específicas dentro del ciclo de vida del proyecto. Por ejemplo, un equipo de proyecto
+de construcción de viviendas podría incluir funciones en sus listas como un arquitecto, un administrador del sitio y múltiples
+trabajadores de la construcción.
+
+Una vez que las tareas estén establecidas claramente, el gerente del proyecto decide cuántas personas necesitará en su equipo.
+Esto puede variar mucho según el tamaño del proyecto. Para proyectos pequeños, es posible que un equipo solo deba incluir tres
+o cuatro personas para completar los entregables a tiempo, y para proyectos más grandes, un equipo puede incluir docenas.
+En Google, a veces tenemos a cientos de googlers trabajando en el mismo proyecto. Definir el tamaño adecuado del equipo es
+importante por varias razones. Por ejemplo, cuando hay mucha gente en un proyecto, la comunicación se dificulta a veces. Eso
+hace que sea más probable que alguien se pierda algún detalle importante. Pero si tu equipo es demasiado pequeño, puede que no
+haya suficientes personas para completar todas las tareas.
+
+Una vez que sepas cuántas personas necesitas en tu equipo, tienes que pensar en quién hace qué. Para decidir quién es la persona
+adecuada para cada función, un gerente de proyectos debe pensar detenidamente sobre las habilidades. Si estás gestionando la
+construcción de una casa, querrás confirmar que los trabajadores de la construcción que están haciendo el marco o instalando el
+panel de yeso tengan las habilidades necesarias para hacerlo correctamente. Depende del gerente del proyecto asegurarse de que
+todos los miembros del equipo tengan las habilidades adecuadas para cumplir con el trabajo, pero también es importante recordar
+que las habilidades se pueden aprender. Si alguien no tiene una habilidad determinada en un principio, también puede encajar muy
+bien en el equipo. Quizás esta persona aporta una actitud positiva y atención a los detalles: son razones perfectamente buenas
+para tenerla en tu equipo. Solo debes tener en cuenta que si un compañero de equipo no cuenta con las habilidades necesarias, es
+importante que se lo capacite a tiempo para no causar retrasos en el proyecto.
+
+Al elegir compañeros de equipo, un gerente de proyectos también debe tener en cuenta la disponibilidad de cada persona y saber si
+están motivados para realizar las tareas asignadas. Por ejemplo, es posible que conozcas un administrador de sitio fantástico que
+sería un gran recurso para el equipo, pero si ya forma parte de otro proyecto grande, es posible que no tenga tiempo para trabajar
+en el tuyo. O, incluso si tiene tiempo, puede que no sienta que este proyecto le dará la visibilidad que necesita para recibir un
+ascenso. *La motivación es un ingrediente clave para un gran trabajo*. Es una buena idea elegir personas que estén ansiosas por
+involucrarse, pero la verdad es que no siempre podemos elegir a nuestros recursos. A veces, otro gerente o líder de equipo podría
+asignar personas a funciones. De ser así, es un desafío para el gerente de proyecto entregar el mejor trabajo con los recursos
+dados.
+
+En la eleccion del equipo debes plantearte preguntas sobre cosas como la experiencia del personal, la disponibilidad, el espacio
+de trabajo, la carga de trabajo de los miembros del equipo en otros proyectos y más. No hay una fórmula exacta para formar el
+equipo adecuado, lo que lo vuelve un poco complicado. Cada situación es diferente y requiere un conjunto diferente de ha-
+bilidades, experiencia y perspectivas. Puede ser útil profundizar en cada tarea del proyecto. Siempre debes hacerte estas
+preguntas clave:
+
+    ¿Cuántas personas necesito en mi equipo en cada paso del camino?
+    ¿A qué miembros del equipo necesito y cuándo?
+    ¿Los expertos ya están ocupados en otros proyectos?
+    ¿Quién toma las decisiones finales sobre los recursos del proyecto?
+
 #### Repaso: Los componentes del equipo ideal para el proyecto
 
 #### Definición de las funciones del proyecto
