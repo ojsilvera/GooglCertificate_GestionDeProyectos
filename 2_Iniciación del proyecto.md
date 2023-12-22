@@ -1422,6 +1422,94 @@ causar una sobrecarga de información y la gente no sabe dónde enfocar su atenc
 
 #### Creación de un gráfico RACI
 
+Un gráfico RACI puede ser una forma muy efectiva de definir las funciones del proyecto, dar indicaciones a cada miembro
+del equipo e interesados, y garantizar que el trabajo se realice de manera eficiente. Tener un gráfico RACI disponible
+durante todo el proyecto es una ayuda visual muy útil.
+
+*Elementos de un gráfico RACI:*
+
+En un gráfico RACI, se crean funciones claras y se dan indicaciones a cada miembro del equipo e interesados. Durante tu
+carrera, es posible que oigas que un gráfico RACI también se denomina matriz de asignación de responsabilidades (RAM),
+diagrama RACI o matriz RACI. El objetivo final de esta tabla es aclarar la función de cada persona en el proyecto
+
+    Primero, desglosemos cada una de las funciones que se pueden asignar a las personas:
+
+    R: Responsable: quien hace el trabajo
+
+    A: Encargado: quien se asegura de que el trabajo se haya realizado
+
+    C: Consultado: quien brinda aportes o retroalimentación sobre el trabajo
+
+    I: Informado: quien necesita conocer el resultado
+
+![Alt text](image-7.png)
+
+*Responsable:*
+
+Las personas a las que se les asigna la función de “responsable” de una tarea son las que realmente están haciendo el
+trabajo para completar la tarea. Para cada tarea, se necesita al menos una parte responsable. Es una práctica recomendada
+intentar limitar el número de miembros del equipo a quienes se asigna la función de responsable de una tarea, pero en
+algunos casos, es posible que haya más de uno.
+
+Un par de preguntas que debes hacerte al determinar qué persona o personas deben ocupar la función de responsables de una
+tarea determinada son:
+
+    ¿En qué departamento recae el trabajo?
+
+    ¿Quién realizará el trabajo?
+
+Es útil evaluar a las personas del equipo para definir la función que mejor se ajusta a ellas. Recuerda que es posible
+que debas enumerar funciones en lugar de nombres en caso de que algunas personas asuman más de una función.
+
+*Encargado:*
+
+La persona “encargada” es quien debe asegurarse de que la tarea se realice. Es importante tener un solo encargado para
+cada tarea. Esto ayuda a aclarar la propiedad de la tarea. En última instancia, la persona encargada tiene la autoridad
+para aprobar el entregable de la parte responsable.
+
+Para definir a quién se debe designar como encargado, considera lo siguiente:
+
+    ¿Quién delegará la tarea que se debe completar?
+
+    ¿Quién revisará el trabajo para determinar si la tarea está completa?
+
+Puede darse la situación de que la parte responsable también sea encargada, pero siempre que sea posible, conviene separar
+estas funciones. Garantizar que la responsabilidad no sea compartida garantiza que no haya confusión sobre a quién pertenece
+la propiedad.
+
+*Consultado:*
+
+Los miembros del equipo o los interesados que se colocan en la función de “consultados” tienen información útil para ayudar
+a completar la tarea. No hay un número máximo o mínimo de personas a las que se les pueda asignar la función de “consulta-
+dos”, pero es importante que haya un motivo para designar a cada persona como tal.
+
+Estas son algunas maneras en que puedes identificar quién es apropiado para esta función:
+
+    ¿A quién afectará la tarea?
+
+    ¿Quién brindará aportes o retroalimentación para que la persona responsable ayude a completar el trabajo?
+
+    ¿Quiénes son los expertos en la materia para la tarea?
+
+Las personas consultadas estarán en comunicación frecuente y bidireccional con la parte responsable, por lo que es clave
+asegurarse de que las personas adecuadas cumplan esta función, a fin de que la tarea se realice de manera eficiente y
+correcta.
+
+*Informado:*
+
+Las personas que se identifican como las que necesitan ser “informadas” tienen que conocer las decisiones finales que se
+tomaron y cuando se completa una tarea. Es común tener muchas personas en esta categoría y que algunos miembros del equipo
+estén informados sobre la mayoría de las tareas. A los miembros del equipo o a los interesados no se les pedirá retroali-
+mentación, por lo que es clave asegurarse de que las personas que están en este grupo solo requieran actualizaciones sobre
+el estado y no necesitan brindar retroalimentación para complementar el esfuerzo.
+
+Las preguntas clave que debe hacerse para asegurarse de que ha elegido a las personas apropiadas para esta función son las
+siguientes:
+
+    ¿A quién le importa que finalice esta tarea?
+
+    ¿Quién se verá afectado por el resultado?
+
 #### Definir las funciones y responsabilidades en el gráfico RACI
 
 #### Lograr mantener la motivación en el programa
