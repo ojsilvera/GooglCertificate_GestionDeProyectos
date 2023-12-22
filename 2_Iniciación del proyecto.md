@@ -810,6 +810,23 @@ equipo, reúnete con el cliente y recuerda volver a las métricas y los entregab
 
 #### Definir criterios de éxito
 
+Al comienzo del proyecto, definiste objetivos y entregables que son medibles, es decir que puedes determinar si se cump-
+lieron.
+
+Del mismo modo, debes definir criterios de éxito que también puedan medirse para saber si se cumplieron. Los criterios de
+éxito te dirán si el proyecto en su conjunto tuvo éxito o no. Son los detalles específicos de tus objetivos y entregables
+que te dicen si has logrado lo que te propusiste.
+
+Son los estándares por los que se juzgará el proyecto una vez que se haya entregado a los interesados y clientes. Definir
+los criterios de éxito también aclara al equipo lo que están intentando lograr más allá de tan solo lanzar algo a los
+usuarios.
+
+¿Es aumentar la satisfacción del cliente con el servicio para que puedan seguir comprando más productos? ¿Mejorar una
+función existente para retener clientes? Según el proyecto, las respuestas serán diferentes. Pero es importante que un
+equipo esté alineado y trabaje hacia un objetivo compartido.
+
+A veces forzar la conversación y aclarar cómo se ve el resultado final puedes sacar a la luz preguntas y áreas de desacuerdo.
+
 #### Seguimiento y comunicación de criterios de éxito
 
 #### Usar OKR para evaluar el progreso
