@@ -783,6 +783,11 @@ saber si has logrado lo que te propusiste. Los criterios de éxito definirán es
 
 #### Lectura: No te olvides de aterrizar: Medir el éxito del proyecto
 
+En la gestión de proyectos, el "lanzamiento" de un proyecto significa que has entregado los resultados finales del proyecto
+al cliente o usuario. Sin embargo, no puedes basar el éxito del proyecto únicamente en cuándo el cliente acepta el proyecto.
+Tu trabajo en un proyecto no estará completo hasta que lo “aterrices” al medir minuciosamente los resultados. Aquí es cuando
+serán útiles los criterios de éxito y las métricas que definiste inicialmente al establecer los objetivos SMART.
+
 #### Definir criterios de éxito
 
 #### Seguimiento y comunicación de criterios de éxito
