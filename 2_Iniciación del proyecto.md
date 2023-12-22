@@ -1510,10 +1510,6 @@ siguientes:
 
     ¿Quién se verá afectado por el resultado?
 
-#### Definir las funciones y responsabilidades en el gráfico RACI
-
-#### Lograr mantener la motivación en el programa
-
 #### Sacar el máximo provecho de un gráfico RACI
 
 ### Cómo trabajar eficazmente con los interesados
