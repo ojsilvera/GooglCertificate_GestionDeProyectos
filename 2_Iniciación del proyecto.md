@@ -1367,6 +1367,67 @@ Revisemos los pasos clave en el análisis de los interesados:
 
 ### Asignar las funciones y responsabilidades del equipo del proyecto
 
+#### Elementos de un gráfico RACI
+
+El análisis de los interesados nos muestra cómo trabajar mejor con las partes interesadas y cuándo comunicarse con las
+diferentes personas involucradas en un proyecto.
+
+Un gráfico RACI ayuda a definir funciones y responsabilidades de los individuos o equipos para garantizar que el trabajo
+se haga de manera eficiente. Crea funciones claras y da una guía para cada miembro del equipo. Hay cuatro tipos de
+participación incluida en un gráfico RACI. Estos son: responsable, encargado, consultado e informado.
+
+“Responsable” se refiere a aquellos que trabajan para realizar la tarea.
+“Encargado” se refiere a aquellos que se aseguran de que el trabajo se haga.
+“Consultado” incluye a los que dan retroalimentación, como los expertos en la materia o tomadores de decisiones.
+“informado”, que incluye a aquellos que solo necesitan conocer las decisiones finales o que una tarea está completa.
+
+Aquí hay una imagen de cómo se desglosa en un gráfico.
+
+![Alt text](image-6.png)
+
+Al crear tu gráfico RACI, necesitas escribir cada tarea o entregable para el proyecto, y luego asignarle la función apropiada
+a cada interesado. Para hacer esto:
+
+primero piensa en quién está involucrado en el proyecto. Escribe las funciones o los nombres de las personas en una fila
+en la parte superior del gráfico. Consejo profesional: usa funciones en lugar de nombres si hay personas que realizan más
+de una función. anota las tareas o entregables en una columna a la izquierda. Intenta no ser demasiado específico.
+
+El gráfico debe ser sencillo y fácil de leer. Después de eso, revisa cada tarea y entregable y pregunta:
+¿Quién es responsable de hacer esto? ¿Quién es el encargado si esto no se hace? ¿Quién tendrá opiniones firmes que añadir,
+y, por lo tanto, debe ser consultado sobre cómo se hace esto? Y ¿quién debe ser informado sobre el progreso o las decisiones
+que se tomen sobre esto? Asigna las letras R, A, C e I basándote en las respuestas.
+
+Por ejemplo, como el gerente de proyecto en Office Green del lanzamiento de un nuevo servicio, una de tus tareas es crear
+diferentes puntos de precio para distintos paquetes y frecuencias de entrega. El jefe de Finanzas será el encargado porque
+el proyecto debe mantenerse dentro del presupuesto y generar dinero, pero el analista financiero es el responsable, ya que
+es la persona que trabaja para definir los precios óptimos. El director de Producto será consultado sobre el tema, pues
+es quien supervisa las ofertas de productos. Y, finalmente, los miembros del equipo, como los del equipo de Ventas, deben
+ser informados sobre el precio final.
+
+Es posible que haya varias funciones que tengan las categorías “informado” y “consultado”. Una cosa que siempre será cons-
+tante es que nunca habrá más de una persona designada como encargada. Esto evita confusiones, porque tener una sola persona
+como encargada claramente define la propiedad. Sin embargo, la misma persona que es encargada también puede ser responsable.
+
+Hay varios otros factores que pueden confundir las funciones. Por ejemplo, podría haber cargas de trabajo desproporcionadas,
+lo que significa que hay gente que podría estar haciendo más trabajo o menos trabajo que otros. O podría haber una jerarquía
+poco clara cuando las personas no saben a quién pedir ayuda si una tarea no se realiza, o cuando la propiedad de las decisiones
+no está clara la gente no está segura de quién toma la decisión definitiva en un proyecto.
+
+Otro problema podría ser el trabajo superpuesto. Esto ocurre cuando los equipos o individuos sienten que son responsables
+por un mismo trabajo. Cuando esto sucede, las cosas pueden resultar muy confusas. Y lo mismo ocurre con la comunicación
+excesiva.
+
+Si bien la comunicación suele ser algo bueno, demasiada comunicación puede hacer que las cosas sean más complicadas. Puede
+causar una sobrecarga de información y la gente no sabe dónde enfocar su atención, por lo que pueden perderse algo importante.
+
+#### Creación de un gráfico RACI
+
+#### Definir las funciones y responsabilidades en el gráfico RACI
+
+#### Lograr mantener la motivación en el programa
+
+#### Sacar el máximo provecho de un gráfico RACI
+
 ### Cómo trabajar eficazmente con los interesados
 
 ## Recursos y herramientas
