@@ -1731,7 +1731,59 @@ formal, como un correo electrónico, una presentación o un documento digital. A
 a descubrir tareas, plazos o costos que no habías tenido en cuenta. este proceso proporciona un registro histórico que
 puede revisarse al final del proyecto. Puedes aplicar las lecciones que has aprendido en el futuro.
 
-#### Propuestas y estatutos de proyectos 101
+#### Propuestas y estatutos de proyectos
+
+Dos tipos comunes de documentación que se pueden usar para hacer un seguimiento de los detalles y mantener informados a
+los interesados. Se trata de *la propuesta de proyecto y del estatuto de un proyecto*.
+
+*Una propuesta de proyecto* es una forma de documentación que se presenta al principio del proyecto. El objetivo de este
+documento es convencer a los interesados de que un proyecto debe comenzar. Y normalmente, un líder sénior de la organización
+crea la propuesta. Así que tal vez no tengas que preocuparte por crear la propuesta, pero tendrás que hacer un seguimiento
+del progreso de la propuesta. La propuesta de proyecto es un gran punto de partida que te ayudará a entender los objetivos
+y el impacto deseados. Una propuesta puede ser un documento formal, una presentación o, incluso, un simple correo elec-
+trónico para lograr que los demás estén de acuerdo con la idea.
+
+*el estatuto de un proyecto:* un documento formal que define claramente el proyecto y explica los detalles necesarios para
+alcanzar sus objetivos. El estatuto de un proyecto te ayuda a organizarte, a establecer un framework para lo que hay que
+hacer, y a comunicar esos detalles a los demás.
+
+Entonces, ¿en qué se diferencian estos documentos? La propuesta de proyecto se crea en una etapa más temprana del ciclo
+de vida del proyecto que el estatuto del proyecto. La propuesta pone en marcha la fase de iniciación al influir en la
+empresa y convencerla para que siga adelante con el proyecto.
+
+El estatuto del proyecto tiene un propósito similar y suele presentarse al final de la fase de iniciación. Sin embargo,
+su objetivo es definir con mayor claridad los detalles clave del proyecto. Otra diferencia entre estos dos documentos es
+que un estatuto suele servir como punto de referencia a lo largo del ciclo de vida de un proyecto. La propuesta solo se
+utiliza en las primeras etapas.
+
+El estatuto de un proyecto deja claro que los beneficios del proyecto son mayores que los costos. hay algunas preguntas
+que puedes hacerte cuando realices un análisis costo-beneficio, Entre estas se incluyen las siguientes:
+
+¿Qué valor creará este proyecto?
+¿Cuánto dinero podría ayudar a ahorrar este proyecto a mi organización?
+¿Cuánto tiempo tendrán que dedicar las personas a este proyecto?
+
+Se debe incluir respuestas a estas preguntas en tu estatuto. La inclusión de este tipo de información garantiza que tú y
+los interesados estén de acuerdo con el valor del proyecto. El estatuto también ayuda a garantizar que tú y los interesados
+estén de acuerdo con los detalles del proyecto.
+
+La aprobación del estatuto del proyecto significa que la dirección brinda su apoyo y es también un paso clave para asegurarse
+de que el proyecto se ajuste a las necesidades de la organización. Una vez que los interesados y el patrocinador del proyecto
+hayan revisado y aprobado el estatuto del proyecto, tendrás la autoridad para avanzar con el proyecto.
+
+Los estatutos de un proyecto pueden tener distintos formatos y contener información diferente según el proyecto y la orga-
+nización.
+
+La información de un estatuto también puede adaptarse a su público o a las necesidades de determinados interesados. Por
+ejemplo, si estás redactando el estatuto de un proyecto para un interesado que es ejecutivo de marketing, el estatuto podría
+incluir información sobre cómo será el impacto del proyecto en la marca de la organización. O bien, si el interesado es
+director de tecnología, el estatuto podría incluir información sobre el costo de los recursos de ingeniería necesarios para
+mantener el proyecto.
+
+Independientemente del formato o del público, la creación del estatuto de un proyecto es una práctica recomendada para
+garantizar que todos estén de acuerdo sobre cómo avanzar antes de entrar en la fase de planificación. El estatuto de un
+proyecto es un documento vivo. Esto significa que puede evolucionar a medida que avanza el proyecto. Como gerente de
+proyectos, revisarás y perfeccionarás el estatuto a lo largo del proceso.
 
 #### Estatutos del proyecto: Elementos y formatos
 
