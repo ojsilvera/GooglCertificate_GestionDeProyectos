@@ -1869,4 +1869,14 @@ pueden tener diferentes formatos, y hay muchas plantillas disponibles en línea 
 
 ### Evaluación de las herramientas para satisfacer las necesidades del proyecto
 
+#### Utilización de herramientas para una gestión eficaz de proyectos
+
+#### Presentación de nuevas herramientas a un equipo
+
+#### Exploración de los tipos de herramientas de gestión de proyectos
+
+#### Herramientas comunes de gestión de proyectos
+
+#### Demostración de tus conocimientos sobre las herramientas de gestión de proyectos
+
 ### Repaso del curso: Iniciación del proyecto: Cómo iniciar un proyecto exitoso
