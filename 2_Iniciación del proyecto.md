@@ -1871,7 +1871,66 @@ pueden tener diferentes formatos, y hay muchas plantillas disponibles en línea 
 
 #### Utilización de herramientas para una gestión eficaz de proyectos
 
+Como gerente de proyectos, las herramientas son algunos de los recursos más útiles que tienes a tu disposición. Son esen-
+ciales para hacer un seguimiento del progreso, por lo que es importante tenerlas en cuenta durante todo el proyecto.
+
+Las herramientas facilitan a un gerente de proyectos o a un equipo la gestión de los recursos y la organización del traba-
+jo. Son útiles porque pueden ayudarte a hacer un seguimiento de información detallada sobre todo tipo de tareas y facilitan
+la comunicación con muchas personas diferentes. la comunicación y el seguimiento eficaces constituyen una parte importante
+de las responsabilidades diarias de un gerente de proyectos.
+
+Piensa en lo difícil que sería tu trabajo sin la ayuda de herramientas de colaboración como el correo electrónico o los
+documentos digitales creados con Google Docs o Microsoft Word.
+
+Como gerente de proyectos principal, tienes montones de información sobre el plan de la empresa para proporcionar plantas
+aptas para la oficina a los mejores clientes. Pero, ¿qué pasaría si escribieras todos los detalles del proyecto en una pi-
+zarra en lugar de en un documento compartido en línea? Todos los miembros de tu equipo tendrían que pasar por tu escritorio
+para obtener la información más reciente, y no hay duda de que eso no representa el uso más eficiente del tiempo para nadie.
+Pero si almacenas esta información en documentos en línea de fácil acceso, ahorrarás a todos los miembros del equipo tiempo,
+energía y un gran dolor de cabeza.
+
+Las herramientas actuales han facilitado mucho el uso compartido de información con los compañeros de equipo. Y lo que es
+mejor, con las herramientas de gestión de proyectos, el uso compartido de información se da en ambas direcciones. Eso
+significa que los miembros del equipo también pueden ponerte al día fácilmente sobre sus avances sin necesidad de realizar
+reuniones o llamadas telefónicas adicionales.
+
+Cuando eliges la herramienta adecuada para un proyecto, haces que para tus compañeros de equipo sea simple comunicarte si
+una tarea está dentro del plazo previsto o está retrasada, lo que te permite ver rápidamente cómo cualquier cambio puede
+afectar al resto del proyecto. Las herramientas de gestión de proyectos aumentan la visibilidad y la transparencia para
+todos, incluidos los interesados.
+
+Puedes utilizar una gran variedad de herramientas para lograr muchas cosas diferentes, como el seguimiento del progreso
+de las tareas, los entregables y los hitos. Las herramientas también pueden ayudarte a gestionar un presupuesto, crear
+gráficos y diagramas útiles, gestionar contratos y licencias, y mantener informados a los interesados.
+
+Las herramientas pueden ser sencillas, como las hojas de cálculo o los documentos digitales, o más sofisticadas, como el
+software de planificación y gestión del trabajo. Es importante pensar en las necesidades del proyecto a la hora de elegir
+cuál utilizar.
+
+Algo ha tener en cuenta es que si eliges una herramienta más sofisticada, tus compañeros de equipo y los interesados
+necesitarán algún tiempo para familiarizarse con esta. En el caso de los proyectos pequeños, eso puede suponer más problemas
+de lo que merece la pena. Por eso, para los proyectos pequeños, una herramienta sencilla puede resultar más eficaz. Pero
+si un proyecto tiene un gran alcance, puede merecer la pena que el equipo aprenda y, en última instancia, trabaje con una
+herramienta de gestión de proyectos más sofisticada.
+
+También tienes que tener en cuenta que a veces no puedes elegir el tipo de herramientas que utilizarás. Si una organización
+ya ha decidido utilizar una herramienta específica, tendrás que trabajar con ella. Se trata de ser flexible.
+
 #### Presentación de nuevas herramientas a un equipo
+
+Como gerente de proyectos, es importante estar abierto a la implementación de nuevas herramientas que puedan ser benefi-
+ciosas para el resultado de un proyecto. A lo largo del ciclo de vida de tu proyecto, experimentarás cambios de muchas
+formas, y resulta fundamental que puedas manejarlos. Pero si decides implementar una herramienta con la que tu equipo no
+está familiarizado, especialmente si decides hacerlo a mitad de un proyecto, es posible que tu equipo tenga dudas. Las
+personas aceptan el cambio de forma diferente, sobre todo si el cambio va a afectar directamente su rutina y su forma de
+trabajar. En pocas palabras: el cambio puede provocar resistencia.
+
+Antes de presentar una nueva herramienta a tu equipo, debes estar seguro de que este cambio va a beneficiar realmente al
+proyecto y asegurarte de que los involucrados en el proyecto comprendan las ventajas de este cambio. Demostrar a tus com-
+pañeros de equipo y a los interesados que entiendes la herramienta y que has evaluado su competencia ayudará a generar
+confianza, especialmente si esta nueva herramienta sustituye a otra existente. Dedicar tiempo a presentar la nueva herra-
+mienta a los miembros de tu equipo también demostrará que tienes en mente los mejores intereses del equipo, no solo el
+éxito del proyecto.
 
 #### Exploración de los tipos de herramientas de gestión de proyectos
 
