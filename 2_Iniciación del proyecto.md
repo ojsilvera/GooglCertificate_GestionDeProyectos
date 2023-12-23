@@ -1787,7 +1787,85 @@ proyectos, revisarás y perfeccionarás el estatuto a lo largo del proceso.
 
 #### Estatutos del proyecto: Elementos y formatos
 
+El estatuto del proyecto define claramente el proyecto y describe los detalles necesarios para que el proyecto alcance sus
+objetivos. Un estatuto de proyecto bien documentado puede ser el arma secreta de un gerente de proyectos para alcanzar el
+éxito.
+
+El estatuto es la manera formal de capturar *los objetivos, valores, beneficios y detalles del proyecto*. Puedes considerar
+el estatuto como la brújula de tu proyecto, ya que lo utilizarás durante todo el ciclo de vida de este. Muchos interesados
+se fijarán en el estatuto del proyecto para asegurarse de que estés alineado con los objetivos estratégicos y preparado
+para alcanzar el objetivo final deseado. Dado que el estatuto del proyecto tiene tanta importancia, es importante incorporar
+la cantidad adecuada de detalles y omitir los elementos varios.
+
+Al igual que con cualquiera de los documentos del proyecto, es una buena idea colaborar con el equipo y los interesados
+desde el principio y con frecuencia. Elaborar el estatuto del proyecto en colaboración con ambos grupos puede ayudar a
+asegurarte de que el estatuto del proyecto aborde las preocupaciones más importantes de los interesados y mantenga a tu
+equipo alineado.
+
+Asegúrate de utilizar el caso de negocio, la razón por la que se inicia el proyecto, como guía para el estatuto del pro-
+yecto. Los estatutos del proyecto pueden variar de una organización a otra, así como de un proyecto a otro. Es fundamental
+que el gerente de proyectos identifique el mejor tipo de estatuto para el proyecto a fin de capturar la información per-
+tinente y preparar el proyecto para el éxito. Los estatutos del proyecto varían, pero suelen incluir alguna combinación
+de la siguiente información clave:
+
+    introducción/resumen del proyecto
+
+    metas/objetivos
+
+    caso de negocio/beneficios y costos
+
+    equipo del proyecto
+
+    alcance
+
+    criterios de éxito
+
+    requisitos principales o entregables clave
+
+    presupuesto
+
+    cronograma/línea de tiempo o hitos
+
+    limitaciones y suposiciones
+
+    riesgos
+
+    objetivos y resultados clave (OKR)
+
+    aprobaciones
+
 #### Elaboración de un estatuto para el proyecto
+
+Los estatutos de los proyectos son fundamentales para obtener la aprobación de los interesados y seguir adelante. También
+pueden tener diferentes formatos, y hay muchas plantillas disponibles en línea entre las que puedes elegir.
+
+    Utilizaremos una plantilla:
+
+    Nombre, Introducción y resumen del proyecto
+
+    metas y objetivos
+
+    caso de negocio, sustentado por un plan de beneficios y costos
+
+    equipo del proyecto
+
+    alcance y que no seria alcance en el presente projecto
+
+    criterios de éxito
+
+    requisitos principales o entregables clave
+
+    presupuesto
+
+    cronograma,línea de tiempo o hitos
+
+    limitaciones y suposiciones
+
+    riesgos
+
+    objetivos y resultados clave (OKR)
+
+    aprobaciones
 
 ### Evaluación de las herramientas para satisfacer las necesidades del proyecto
 
