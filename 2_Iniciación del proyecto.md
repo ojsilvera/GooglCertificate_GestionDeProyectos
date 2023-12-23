@@ -1702,6 +1702,35 @@ materiales potenciales para ejecutar un proyecto de manera exitosa con el person
 
 #### El valor de la documentación del proyecto
 
+Gran parte de la gestión de proyectos consiste en guiar la toma de decisiones. Aunque tú no seas el responsable de tomar
+las decisiones finales sobre los aspectos más importantes del proyecto, tu trabajo sigue siendo hacer un seguimiento de
+cada nueva decisión y usar esas decisiones para elaborar un plan.
+
+hay muchas decisiones importantes de las que hay que hacer un seguimiento. Esto incluye todo, desde la identificación de
+los objetivos y los entregables del proyecto hasta la elección de las personas adecuadas para incorporar a un equipo. Son
+demasiadas cosas para que una sola persona pueda hacer un seguimiento mental.
+
+se trata de información importante que todos los miembros del equipo deben conocer, no solo el gerente de proyectos. Si
+una decisión afecta las tareas de un miembro del equipo, tendrán que saberlo, Por eso la documentación constituye una parte
+tan importante de la función de un gerente de proyectos.
+
+Aunque tu equipo trabaje a fondo en áreas específicas del proyecto, es posible que tú seas la única persona del equipo que
+conozca y se comunique con todas las diferentes áreas del proyecto. Una documentación clara y coherente puede garantizar
+la transparencia y una comunicación clara.
+
+La documentación ayuda a sentar las bases del proyecto. Comunica las respuestas a preguntas clave. Por ejemplo, ¿qué pro-
+blema estás tratando de resolver? ¿Cuáles son los objetivos del proyecto? ¿Cuál es el alcance y los entregables, y quiénes
+son los interesados en el proyecto?, ¿qué recursos necesita el equipo para completar su trabajo? Toda esta información es
+crucial para cualquier persona que trabaje en un proyecto, independientemente de cuál sea su función.
+
+La documentación también ayuda a preservar las decisiones tomadas al principio del proyecto y puede servir como punto de
+referencia para los miembros del equipo que puedan incorporarse más adelante en el ciclo de vida del proyecto.
+
+Tu trabajo consiste en garantizar que esta información sea fácilmente accesible a través de algún tipo de documentación
+formal, como un correo electrónico, una presentación o un documento digital. Además, documentar las decisiones puede ayudarte
+a descubrir tareas, plazos o costos que no habías tenido en cuenta. este proceso proporciona un registro histórico que
+puede revisarse al final del proyecto. Puedes aplicar las lecciones que has aprendido en el futuro.
+
 #### Propuestas y estatutos de proyectos 101
 
 #### Estatutos del proyecto: Elementos y formatos
