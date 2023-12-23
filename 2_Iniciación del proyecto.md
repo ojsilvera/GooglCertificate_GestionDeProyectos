@@ -2006,6 +2006,44 @@ proyectos más grandes con una mayor cantidad de tareas y un equipo más grande 
 
 #### Herramientas comunes de gestión de proyectos
 
+Asana es una plataforma de gestión del trabajo que ayuda a los equipos a planificar y coordinar su trabajo, desde las
+tareas diarias hasta las iniciativas estratégicas. Asana proporciona un sistema vivo y una fuente de verdad donde reside
+el trabajo de todos. Con Asana, todo el mundo puede ver, discutir y gestionar las prioridades del equipo y, además,
+proporciona claridad sobre quién hace cada cosa y cuándo.
+
+Es ideal para elaborar planes de proyectos, asignar tareas, automatizar flujos de trabajo, hacer un seguimiento del progreso
+y comunicarse con los interesados. Como gerente de proyectos, puedes utilizar Asana para crear un registro de tareas, como
+la recopilación de estimaciones de costos de proveedores externos, y asignar una tarea a los miembros del equipo.
+
+Todas las tareas son visibles y están organizadas en el formato que elija el gerente de proyectos, como en una lista o en
+un calendario, y están diseñadas para impulsar la transparencia y la conexión con todas las tareas relacionadas con el
+objetivo general.
+
+También es fácil de usar con los interesados externos porque, dentro de Asana, puedes compartir actualizaciones de estado
+y otras comunicaciones con personas ajenas a tu empresa.
+
+Las hojas de cálculo son sumamente versátiles, y puedes utilizarlas para una amplia gama de tareas, desde la creación de
+líneas de tiempo y gráficos de facturación hasta la gestión de presupuestos y el seguimiento de tareas. Puedes agregar y
+ver la información del proyecto en una variedad de formatos, según lo que necesites en ese momento. Por ejemplo, supongamos
+que introduces una lista de tareas, fechas de vencimiento, estados de finalización y propietarios de tareas en una hoja
+de cálculo. A partir de ahí, es muy sencillo ordenar la lista por fecha de vencimiento para ver qué es lo siguiente que
+hay que hacer. Entonces, puedes filtrar la lista de tareas por propietario, de modo que solo veas las tareas de las que
+eres responsable.
+
+También puedes resaltar las filas de la hoja en diferentes colores para ilustrar visualmente las tareas con menos progreso.
+Mediante las hojas de cálculo, puedes transformar, visualizar y manipular la información fácilmente. Las hojas de cálculo
+y las herramientas más completas, como Asana, son solo dos opciones para una gestión de proyectos eficaz, y es una buena
+idea tener un conocimiento básico de la variedad de opciones de software que existen. Por lo tanto, si tu empresa no tiene
+una herramienta de software estándar, puedes optar por escribir una para las necesidades del proyecto.
+
+Ser capaz de recomendar la herramienta adecuada para el trabajo puede ser una excelente manera de agregar valor a tu equipo
+al principio de un proyecto. Sin embargo, ten en cuenta que las opciones de software cambian constantemente. Desde la
+adición de nuevas funciones hasta el lanzamiento de nuevas herramientas, no hay forma de que conozcas todos los programas
+disponibles, y ninguna empresa esperaría eso de ti.
+
+Muchas de estas herramientas tienen funcionalidades similares, como el seguimiento y la asignación de tareas, por lo que,
+si entiendes a fondo una herramienta, deberías poder adaptarte fácilmente a una nueva herramienta en el trabajo.
+
 #### Demostración de tus conocimientos sobre las herramientas de gestión de proyectos
 
 ### Repaso del curso: Iniciación del proyecto: Cómo iniciar un proyecto exitoso
