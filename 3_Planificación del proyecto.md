@@ -1,11 +1,11 @@
 # Planificación del proyecto: reunir todos los elementos
 
-## modulo_3_1
+## Inicio de la fase de planeacion
 
-## modulo_3_2
+## Construir plan de proyecto
 
-## modulo_3_3
+## Gestionar presupuestos y compras
 
-## modulo_3_4
+## Gestion eficaz de riesgos
 
-## modulo_3_5
+## Organizar la comunicacion y la documentacion
