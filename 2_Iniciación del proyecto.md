@@ -1660,7 +1660,53 @@ del proyecto.
 
 #### Gestión de los recursos para realizar el trabajo
 
+Los recursos del proyecto son aquello de lo que se depende para completar un proyecto, incluido el presupuesto, los mate-
+riales y las personas. Aunque cada recurso es una entidad independiente, todos dependen unos de otros: tu equipo no puede
+hacer el trabajo sin materiales, y tú no puedes comprar materiales sin un presupuesto. En esta lectura, analizaremos algunos
+recursos clave del proyecto y consejos para gestionarlos.
+
+*Presupuesto:*
+
+Los aspectos comunes del presupuesto de tu proyecto incluirán:
+
+    Equipo: el costo de las personas que realizan el trabajo
+
+    Servicios: cualquier proveedor externo que ayude en el proyecto
+
+    Materiales: cualquier artículo tangible adquirido para completar el proyecto
+
+A lo largo de tu carrera de gestión de proyectos, te encontrarás con diversos tipos de proyectos con una amplia gama de
+presupuestos. Algunos presupuestos no tendrán margen de error, mientras que otros pueden ser más flexibles. Independiente-
+mente de esta variabilidad,
+
+los problemas presupuestarios surgirán inevitablemente, por lo que es importante asegurarse de que el presupuesto esté
+alineado con el alcance del proyecto y con las solicitudes de los interesados.
+
+*Personas:*
+
+Las personas son un recurso fundamental para tu proyecto; ¡no puedes completar tu proyecto por tu cuenta! Tendrás que
+contar con un sólido equipo de personas con diversas habilidades y especialidades para realizar el trabajo. Como gerente
+de proyectos, asegúrate de contar con el compromiso y la aceptación de la cantidad de horas que tus recursos necesitarán
+para completar sus tareas. Además, descubrirás que los mejores socios de un proyecto son las personas que están alineadas
+con los objetivos del proyecto o que están más interesadas en el trabajo que este conlleva.
+
+*Materiales:*
+
+Los materiales pueden ser diferentes en cada proyecto. Por ejemplo, si estás trabajando en un proyecto de TI, los mate-
+riales pueden incluir discos duros y ordenadores para realizar los trabajos de codificación. También puede haber materia-
+les intangibles. Por ejemplo, en el mismo proyecto de TI, el almacenamiento en línea, los programas de software o la capa-
+citación de los empleados también pueden considerarse materiales. Es importante tener en cuenta todos y cada uno de los
+materiales potenciales para ejecutar un proyecto de manera exitosa con el personal adecuado y acorde al presupuesto.
+
 ### Desarrollo de la documentación para el inicio del proyecto
+
+#### El valor de la documentación del proyecto
+
+#### Propuestas y estatutos de proyectos 101
+
+#### Estatutos del proyecto: Elementos y formatos
+
+#### Elaboración de un estatuto para el proyecto
 
 ### Evaluación de las herramientas para satisfacer las necesidades del proyecto
 
