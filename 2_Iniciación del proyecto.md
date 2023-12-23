@@ -1932,7 +1932,77 @@ confianza, especialmente si esta nueva herramienta sustituye a otra existente. D
 mienta a los miembros de tu equipo también demostrará que tienes en mente los mejores intereses del equipo, no solo el
 éxito del proyecto.
 
+Estas son algunas consideraciones y claves importantes para presentar con éxito las nuevas herramientas:
+
+*Habla de la herramienta desde el principio y con frecuencia*, si es posible. El equipo no debe sentirse sorprendido por
+un nuevo cambio. Asegúrate de que sepan que el cambio va a producirse lo antes posible. Esto los ayudará a prepararse para
+una presentación de la nueva herramienta o una migración a esta.
+
+*Solicita retroalimentación a los principales interesados*. Podrías obtener una excelente retroalimentación sobre carac-
+terísticas que tal vez pasaste por alto sin recurrir a su experiencia. Puedes solicitar esta retroalimentación pidiendo
+su opinión sobre la funcionalidad o pidiéndoles que enumeren las características por orden de prioridad. La clave es crear
+una oportunidad para que los interesados proporcionen su retroalimentación y permitirte incorporarla en los próximos pasos.
+
+*Involucra a los principales interesados en las demostraciones* a medida que te acerques a la decisión final sobre la he-
+rramienta de seguimiento del proyecto. Podrás aprovechar la aceptación de los principales interesados al permitirles probar
+el producto o inscribirse en una prueba. También es importante asegurarse de que la herramienta realmente va a cumplir con
+el objetivo y a proporcionar un cambio significativo para el proyecto. Es conveniente que incorpores usuarios clave de tu
+equipo para que prueben y se familiaricen con la herramienta antes de su implementación. Esto permitirá que el equipo se
+sume a tus planes o discuta sus inquietudes de antemano. También destacará a los expertos internos para la futura capaci-
+tación, asistencia e implementación.
+
+*Asegúrate de que la herramienta sea completamente funcional* antes de presentarla al equipo. Siempre que sea posible, evita
+presentar la herramienta si todavía tiene algún problema. Asegúrate de que la herramienta sea accesible para todos los usu-
+arios. Ten en cuenta que los miembros de tu equipo pueden resistirse a utilizar una herramienta que no está a la altura
+de lo que se espera de su funcionamiento. Esto repercutirá en la implementación y aceptación de forma bastante significat-
+iva, así que, ¡presenta la mejor herramienta que tengas!
+
+*Prepara la capacitación para la herramienta* según sea necesario antes de pedir al equipo que la utilice realmente. Todos
+experimentan diferentes niveles de comodidad con las distintas herramientas. Tu trabajo como gerente de proyectos consiste
+en asegurarte de que se aborden las necesidades de cada miembro del equipo. La preparación de la capacitación también ayuda
+a generar una primera impresión positiva, lo que conducirá a una mayor productividad, así como a una implementación y
+aceptación más rápidas y exitosas.
+
+Recuerda que es normal que se produzca algún tipo de retroceso, pero los gerentes de proyectos exitosos deben tomar medidas
+para prepararse y mitigar las fricciones en su equipo cuando sea posible.
+
 #### Exploración de los tipos de herramientas de gestión de proyectos
+
+El software de planificación y gestión del trabajo, así como las herramientas de productividad y colaboración. Un tipo de
+herramienta común es el software de planificación y gestión del trabajo. Hay muchos tipos de software de gestión del trabajo
+en el mercado, incluidas las herramientas populares como estas.
+
+Es posible que algunas herramientas funcionen mejor para tu proyecto. Esto depende de muchas cosas; por ejemplo, la meto-
+dología del proyecto que estás llevando a cabo o la cantidad de tareas y personas involucradas. Entonces, ¿por qué elegirías
+un software de planificación y gestión del trabajo? Puede ser realmente útil para asignar tareas a varios compañeros de
+equipo y para hacer un seguimiento del progreso de ese trabajo.
+
+También puede ayudarte a visualizar el progreso de tu equipo. Por ejemplo, si utilizas un software de gestión del trabajo
+para asignar tareas y hacer un seguimiento de estas, es más probable que te des cuenta si tu equipo completa 50 tareas una
+semana y solo tres la siguiente. Eso es una clara señal de que necesitas comprobar si hay algún problema que esté bloqueando
+el progreso. Si no hubieras hecho un seguimiento de sus tareas, tal vez no te habrías dado cuenta del problema.
+
+Ese es, en parte, el motivo por el que el software de gestión del trabajo es tan útil. Proporciona una descripción general
+de cómo va el proyecto para que sepas cuándo tienes que consultar con tus equipos para volver a poner las tareas en marcha.
+
+Otro tipo de herramienta de gestión de proyectos que analizaremos son las herramientas de productividad. Estas pueden ser
+muy útiles para ti y tu equipo. Esto incluye herramientas de procesamiento de textos, como Microsoft Word o Google Docs.
+Puedes utilizarlas para crear documentos compartidos con el equipo, como el estatuto del proyecto que te hemos enseñado a
+rellenar antes. También puedes utilizar estas herramientas para crear documentos como agendas de reuniones y actualizaciones
+de estado. Las hojas de cálculo son otra herramienta de productividad útil. Son versátiles y puedes utilizarlas para crear
+documentos, como los gráficos RACI y los planes de proyecto, entre otros. Y las presentaciones creadas con herramientas,
+como Microsoft PowerPoint, Keynote o Presentaciones de Google, pueden ser una excelente manera de presentar tu proyecto de
+forma visual y fácilmente digerible.
+
+las herramientas de colaboración, en las que es probable que te bases para trabajar de cerca con tus compañeros de equipo.
+Entre ellas se encuentran herramientas con las que probablemente estés familiarizado, como el correo electrónico y el chat.
+Este tipo de herramientas pueden ayudarte a consultar de forma rápida y eficaz las preguntas, los comentarios y otros temas
+relacionados con el proyecto.
+
+Las herramientas de productividad, como los documentos y las hojas de cálculo, y las de colaboración, como el correo
+electrónico y el chat, son bastante sencillas, lo que significa que son ideales para proyectos más pequeños con menos tareas
+y compañeros de equipo a los que hacer un seguimiento. El software de planificación y gestión del trabajo es mejor para
+proyectos más grandes con una mayor cantidad de tareas y un equipo más grande de personas que gestionar
 
 #### Herramientas comunes de gestión de proyectos
 
