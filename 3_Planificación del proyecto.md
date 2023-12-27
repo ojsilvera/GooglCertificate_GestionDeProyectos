@@ -160,6 +160,35 @@ también a los asistentes a que te consulten si tienen alguna pregunta adicional
 
 #### Comprender las tareas y los hitos
 
+el gerente de proyectos es responsable de asignar el trabajo al equipo y de realizar un seguimiento del progreso del pro-
+yecto. Al hablar de la asignación del trabajo, algunos términos clave, como hitos del proyecto y tareas del proyecto.
+
+Un hito del proyecto es un punto importante dentro del cronograma que indica el progreso y significa la finalización de
+un entregable o una fase del proyecto. Estos son puntos de control importantes en el proyecto, y hacer un seguimiento de
+ellos ayuda a garantizar que se cumplan los objetivos a tiempo.
+
+Por ejemplo, un hito puede ser completar el primer borrador de un informe, y el objetivo en última instancia puede ser
+publicar el informe. Otro ejemplo de hito es recibir la aprobación del cliente con respecto a un entregable importante.
+
+cómo los hitos difieren de las tareas del proyecto. Una tarea del proyecto es una actividad que debe realizarse dentro de
+un plazo determinado. El trabajo de un proyecto se desglosa en muchas tareas diferentes. Para alcanzar un hito, el equipo
+debe completar varias tareas.
+
+Por ejemplo, si un hito es preparar el primer borrador de un informe, las tareas necesarias para llegar a ese hito pueden
+ser contratar a un redactor, llevar a cabo investigaciones y redactar las secciones del informe.
+
+Imaginemos los hitos y las tareas en el contexto del proyecto Plant Pals de Office Green. Uno de los entregables del proyecto
+es lanzar el sitio web del nuevo servicio, donde los clientes podrán realizar pedidos y obtener atención al cliente. Algunos
+de los hitos previos serán obtener la aprobación del diseño del sitio web e implementar la retroalimentación de los usuarios.
+Para lograr esos hitos, tu equipo debe completar múltiples tareas del proyecto. Por ejemplo, para alcanzar el hito del diseño,
+el diseñador del sitio web deberá crear prototipos iniciales del diseño propuesto. Tendrás que revisar esos prototipos, y
+el diseñador tendrá que implementar tu retroalimentación. Cada uno de estos elementos es una tarea del proyecto, y no puedes
+alcanzar los hitos sin completarlos.
+
+Los hitos son puntos importantes dentro del cronograma del proyecto, y las tareas son actividades que se deben realizar en
+un período determinado para ayudar a alcanzar esos hitos. Los hitos y las tareas del proyecto están interconectadas. Las
+tareas conducen a los hitos, que son cruciales para el seguimiento del proyecto.
+
 #### La importancia de establecer hitos
 
 #### Cómo establecer hitos
