@@ -419,6 +419,10 @@ compañeros a apoyarse entre sí en sus tareas. Esto también es ideal para gene
 
 #### Desglosar la estructura de desglose del trabajo
 
+estructura de desglose del trabajo (WBS). Una WBS es un desglose en componentes más pequeños de un proyecto, orientado a
+los resultados entregables. Es una herramienta que ordena los hitos y las tareas de un proyecto en una jerarquía, en el
+orden en que deben completarse.
+
 ## Construir plan de proyecto
 
 ## Gestionar presupuestos y compras
