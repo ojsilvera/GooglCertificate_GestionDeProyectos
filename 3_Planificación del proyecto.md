@@ -191,6 +191,58 @@ tareas conducen a los hitos, que son cruciales para el seguimiento del proyecto.
 
 #### La importancia de establecer hitos
 
+un hito es un punto importante dentro del cronograma del proyecto que destaca el progreso y suele marcar la finalización
+de un entregable o una fase del proyecto.
+
+ahora por qué establecer hitos dentro del proyecto es tan importante? Si bien puede parecer tentador hacer una lista rápida
+de tareas y continuar con el proyecto, es muy importante que te tomes el tiempo y el esfuerzo para desglosar el proyecto
+parte por parte.
+
+Primero, establecer hitos te da una clara comprensión de la cantidad de trabajo que requerirá el proyecto. El acto de
+establecer hitos te obliga a desglosar el proyecto en fragmentos más manejables. Cuanto más avances, mejor podrás ver
+cuánto más trabajo necesitarás para alcanzar los objetivos.
+
+A primera vista, podría parece fácil lanzar un nuevo sitio web, pero podría darte más trabajo de lo que piensas. Si desglosas
+ese entregable en hitos y esos hitos en tareas, tendrás una mejor compresión de la verdadera cantidad de trabajo que hay
+que hacer. Esto te ayudará a gestionar mejor la carga de trabajo.
+
+Otra razón por la que los hitos son fantásticos es que te ayudan a mantener el proyecto encaminado. Cuando estableces un
+hito, asignas plazos claros para cuando es necesario completar ciertos entregables del proyecto. Luego, a medida que trabajas
+en la fase de ejecución, puedes repasar estos plazos para asegurarte de que el proyecto esté progresando al ritmo correcto.
+
+Una tercera razón por la que deberías establecer hitos es que te ayudan a descubrir áreas en las que es necesario ajustar
+el alcance, los plazos o los recursos para cumplir tus objetivos. Por ejemplo, si te das cuenta de que alcanzar un hito
+requerirá más tareas de lo que habías anticipado, puedes pedirle a un interesado permiso para reducir el alcance del proyecto
+y disminuir el número de tareas.
+
+Por último, hay una razón más por la cual los hitos son muy importantes. Alcanzar hitos puede motivar mucho a tu equipo e
+ilustrar el progreso real para los interesados. Con proyectos grandes que continúan durante meses, deberías conservar la
+motivación del equipo. Un hito significa la finalización de una parte importante del trabajo y ofrece un momento de cele-
+bración para el equipo, incluso si hay más trabajo por delante.
+
+Los hitos también sirven como un excelente punto de revisión para resaltar el progreso para los interesados. Les da la
+oportunidad de ver el trabajo que se ha completado hasta ahora y les permite ver que todo va por buen camino y que está
+a la altura de sus estándares. También es importante recordar que los hitos deben completarse a tiempo y en orden secuencial
+porque, por lo general, llegar al hito siguiente depende de completar un hito anterior.
+
+Piensa en esto tomando como referencia el proyecto Plant Pals de Office Green. Como vimos anteriormente, para lanzar un
+sitio web para un nuevo servicio de plantas, hay algunos hitos que debes alcanzar, como obtener la aprobación del diseño
+del sitio web, completar el desarrollo del sitio web e implementar la retroalimentación de los usuarios. Los hitos deben
+suceder en este orden. Este es el por qué. El desarrollador web no puede crear el sitio web si los interesados no han
+aprobado el diseño, y no puedes implementar la retroalimentación de las pruebas de usuario si no hay sitio web para probar.
+
+Es importante alcanzar hitos en orden secuencial, pero es igual de importante que los completes a tiempo. Si el equipo no
+logra finalizar a tiempo un entregable vinculado a un hito específico, podría retrasar el cronograma del proyecto, es decir,
+es posible que el equipo deba trabajar horas extras o sumar recursos para ponerse al día.
+
+Por ejemplo, si necesitas obtener la aprobación de los interesados para el diseño del sitio web para el viernes, pero el
+diseñador aún no ha completado el diseño, es posible que tengas que esperar hasta después del fin de semana para obtener
+la aprobación de los interesados. Esto retrasará el inicio de la fase de desarrollo, y el equipo tendrá menos tiempo para
+crear el sitio web. Peor aún, esta demora podría afectar el presupuesto del proyecto si completar este entregable está
+vinculado directamente a un pago del cliente. Si no cumples con el plazo, probablemente retrasarás la recepción de ese
+pago. Incluso, puedes correr el riesgo de no recibir el pago. Aunque los plazos a veces son flexibles, es importante tener
+muy en cuenta los hitos en los que el plazo no es negociable.
+
 #### Cómo establecer hitos
 
 #### Establecer los hitos: Prácticas recomendadas
