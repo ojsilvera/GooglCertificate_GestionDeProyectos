@@ -245,7 +245,57 @@ muy en cuenta los hitos en los que el plazo no es negociable.
 
 #### Cómo establecer hitos
 
+los hitos extremadamente importantes. Ayudan a dar una imagen clara de la cantidad de trabajo necesario. Ayudan a que el
+proyecto se mantenga encaminado, descubren áreas en las que necesitas recursos adicionales, motivan a tus compañeros de
+equipo y muestran el progreso a los interesados.
+
+*Como identificar los hitos dentro de tu proyecto y cómo establecer plazos para ellos?*
+
+El primer paso para establecer un hito es evaluar el proyecto en su conjunto. Es útil consultar el estatuto del proyecto
+para recordar el objetivo.
+
+Primero, haz una lista de qué debe hacer tu equipo para lograr ese objetivo. Los elementos principales para el progreso
+son los hitos. Estos son los puntos clave en el cronograma del proyecto que significan la finalización de un entregable o
+una fase del proyecto.
+
+Los elementos más pequeños, cualquier cosa que un interesado no necesite revisar, por ejemplo, son tareas. Las planificarás
+una vez que las hayas separado de los hitos.
+
+Así que volvamos al ejemplo de Office Green. Uno de los entregables del proyecto es un nuevo sitio web. Y, como determinamos
+anteriormente, algunos hitos de la situación del sitio web de Office Green incluyen obtener la aprobación para el diseño del
+sitio web, completar el desarrollo del sitio web e implementar la retroalimentación de los usuarios. Hacer prototipos del
+diseño inicial o crear una página de destino son cosas más pequeñas en tu lista, entonces, se marcan como tareas.
+
+Es de tener en cuenta que algunos proyectos pueden contar con muchos hitos, mientras que otros podrían tener solo dos o
+tres. No hay un número correcto de hitos para establecer, la cantidad variará de un proyecto a otro.
+
+Una vez que hayas determinado los hitos, el siguiente paso es asignar un plazo para cada uno. Completar cada uno de los
+hitos depende de la finalización de varias tareas del proyecto. Así que, para asegurarte de dar a tu equipo tiempo suficiente
+para cada una de esas tareas, deberás espaciar los hitos en consecuencia. Para un proyecto grande, de varios meses, como
+el proyecto Plant Pals, no deberías tratar de alcanzar varios hitos en el lapso de una semana. Hacer prototipos del sitio
+web y recopilar datos de las pruebas de usuario son tareas que llevan tiempo.
+
+Espaciar los hitos para darle tiempo al equipo para completar su trabajo. Para tener una buena idea de cómo hacer esto, puedes
+conectarte con tus compañeros de equipo para analizar las tareas requeridas para alcanzar cada hito y obtener sus estimaciones
+de cuánto tiempo llevarán estas tareas. Con esas estimaciones en mente, puedes tomar una decisión informada sobre plazos
+razonables para cada hito.
+
+Cuando estableces plazos para los hitos, también debes considerar las necesidades de los interesados. Pregúntate cuándo
+esperarán ver un entregable del proyecto en particular, y considera la respuesta al elegir un plazo. Los interesados que-
+rrán ver indicaciones periódicas de que el equipo está progresando, y los hitos son una buena forma de mostrar ese progreso.
+
+Para recapitular, estableces hitos al considerar el proyecto como un todo y extraer puntos de control importantes que mu-
+estran el progreso. A continuación, asignas plazos a cada hito a la vez que mantienes en primer plano las necesidades de
+los interesados.
+
 #### Establecer los hitos: Prácticas recomendadas
+
+*Una tarea del proyecto* es una actividad que debe realizarse en un periodo determinado y que se asigna a una o varias per-
+sonas para que la realicen. El trabajo de un proyecto se divide en muchas tareas diferentes.
+
+*Un hito del proyecto* es un punto importante dentro del cronograma del proyecto que suele significar la finalización de un
+entregable importante. Los hitos son puntos de control significativos en el proyecto, y hacer un seguimiento de ellos ayuda
+a garantizar que el proyecto no se retrase, para cumplir con los objetivos.
 
 #### Crear una estructura de desglose del trabajo
 
