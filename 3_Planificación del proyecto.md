@@ -297,7 +297,125 @@ sonas para que la realicen. El trabajo de un proyecto se divide en muchas tareas
 entregable importante. Los hitos son puntos de control significativos en el proyecto, y hacer un seguimiento de ellos ayuda
 a garantizar que el proyecto no se retrase, para cumplir con los objetivos.
 
+*Establece tareas para identificar los hitos.*
+
+Establecer tareas puede ayudarte a definir con claridad los hitos. Puedes hacerlo de dos maneras:
+
+*Programación descendente:*En este enfoque, el gerente de proyectos establece los hitos de alto nivel y desglosa el esfu-
+erzo en tareas del proyecto. El gerente de proyectos trabaja con su equipo para asegurarse de que se hayan capturado todas
+las tareas.
+
+*Programación ascendente:* En este enfoque, el gerente de proyectos examina todas las tareas individuales que deben com-
+pletarse y las agrupa en fragmentos manejables que conducen a un hito.
+
+*Integra los hitos en el cronograma del proyecto.*
+
+No hay un número constante de hitos en todos los proyectos. Algunos proyectos tendrán unos pocos hitos, mientras que otros
+pueden tener docenas de ellos. En lugar de aspirar a alcanzar un número determinado de hitos, trata de establecer hitos
+para los acontecimientos más importantes del proyecto. Revisa el cronograma del proyecto e identifica los momentos o puntos
+de control importantes. En otras palabras: señala en qué momento del proyecto vas a alcanzar los objetivos más importantes
+y convierte esos puntos en tus hitos.
+
+*Errores al establecer hitos.*
+
+Estas son algunas cosas que hay que evitar al establecer hitos:
+
+*No establezcas demasiados hitos.* Cuando hay demasiados hitos, se les resta importancia. Si los hitos son demasiado pequeños
+o demasiado específicos, puedes acabar teniendo demasiados, lo que hace que el proyecto parezca mucho más grande de lo que
+realmente es para tu equipo y los interesados.
+
+*No confundas las tareas con los hitos.* Recuerda que los hitos deben representar momentos en el tiempo y que, para planificar
+cómo llegarás a esos momentos, debes asignar tareas más pequeñas a cada hito.
+
+*No hagas una lista de hitos y tareas por separado.* Asegúrate de que las tareas y los hitos puedan visualizarse juntos en
+un solo lugar, como un plan de proyecto. Esto ayudará a asegurarte de que cumplas con los plazos y los hitos.
+
 #### Crear una estructura de desglose del trabajo
+
+Una estructura de desglose del trabajo, que se suele abreviar como WBS, es una herramienta que organiza los hitos y las
+tareas de un proyecto en una jerarquía, en el orden en que deben completarse. Esta es una herramienta útil porque ayuda
+a desglosar los desafíos a veces intimidantes de un proyecto en trozos más manejables.
+
+Proyectos grandes como publicar un informe u organizar una conferencia parecen mucho menos intimidantes cuando el trabajo
+necesario para realizarlos se desglosa paso a paso con un camino claro desde el inicio del proyecto hasta el final.
+
+Veamos un ejemplo de una estructura básica de desglose del trabajo. Hay muchas formas diferentes de diseñar una estructura
+de desglose del trabajo, pero una forma común es crear un diagrama de árbol de las tareas del proyecto.
+
+Digamos que estamos creando una estructura de desglose del trabajo para el lanzamiento del sitio web del proyecto Plant Pals.
+
+En la parte superior del diagrama está el nombre del proyecto.
+
+El segundo nivel de nuestro diagrama divide el proyecto en tres hitos.
+
+    Obtener la aprobación del diseño,
+    desarrollar el sitio web
+    implementar la retroalimentación de los usuarios.
+
+En el tercer nivel del gráfico, podemos ver que cada uno de los hitos se desglosa en una serie de tareas del proyecto. Por
+ejemplo, las tareas enumeradas debajo del hito de aprobación del diseño incluyen realizar prototipos del diseño y recopilar
+comentarios. Este es un ejemplo muy sencillo de una estructura de desglose del trabajo. Solo creamos una estructura de desglose
+del trabajo para un nuevo sitio web, que es solo uno de los entregables del proyecto Plant Pals. Ten en cuenta que en futuros
+roles de gestión de proyectos, probablemente crees una WBS que describa las tareas de todo un proyecto.
+
+Crear una estructura de desglose del trabajo es un ejercicio útil para visualizar las tareas del proyecto, no es común incluir
+este tipo de diagrama en tu plan de proyecto oficial. Lo que sí harás es ingresar las tareas identificadas en este ejercicio
+en una hoja de cálculo o el software de gestión del trabajo que elijas, donde designarás más fácilmente a los propietarios de
+cada tarea.
+
+Después de completar una estructura de desglose del trabajo y organizar esas tareas en una hoja de cálculo, algunas cosas
+deberían estar más claras para ti.
+
+Primero, deberías tener un conjunto de tareas del proyecto discretas que se suman para cumplir cada uno de los hitos. El
+equipo y tú sabrán exactamente qué es necesario hacer para alcanzar el primer hito y los hitos posteriores.
+
+Segundo, ahora estás en una buena posición para asignar esas tareas a los miembros del equipo. Cada persona debería tener
+una comprensión clara de las tareas que son de su propiedad y el orden en que debe completarlas. Vamos a desglosar cómo
+asignar tareas. Por lo general, las tareas se asignan de acuerdo con el rol de la persona en el proyecto.
+
+Por ejemplo, en el caso de Office Green, al diseñador web se le asigna la tarea del prototipo del diseño inicial del sitio
+web, a ti se te asigna la tarea de revisar ese diseño y brindar retroalimentación, y al diseñador se le asigna la tarea
+de implementar tu retroalimentación. A un desarrollador web se le asignará la próxima tarea de desarrollar el sitio. A
+veces, en el equipo, varios miembros trabajarán en el mismo tipo de función.
+
+Para asignar tareas entre dos o más miembros del equipo con los mismos roles, puedes tener en cuenta cuánto sabe cada uno
+sobre las tareas en cuestión. Por ejemplo, si tienes varios desarrolladores web trabajando en el nuevo sitio, puedes en-
+cargarle a un desarrollador que cree la página de "destino" y asignar al otro desarrollador la tarea de crear la página de
+“Contacto”.
+
+Al asignar tareas, deberías considerar también la carga de trabajo de cada uno. Piensa en cuánto tiempo se supone que dediquen
+al proyecto en comparación con el trabajo fuera del proyecto del que ellos también pueden ser responsables. Es importante
+equilibrar la carga de trabajo de todos. Debes asegurarte de no asignar más trabajo a una persona que a otras. También debes
+asegurarte de que a nadie se le asigne más trabajo de lo que pueda manejar. Cuando la gente está sobrecargada, la calidad
+de su trabajo puede verse afectada o pueden necesitar más tiempo para completar las tareas, lo que pone en riesgo el crono-
+grama general del proyecto.
+
+Como gerente del proyecto, te asegurarás de que tus compañeros de equipo tengan claras sus tareas asignadas. Puedes hacerlo
+al asignar tareas con la ayuda de herramientas de gestión de proyectos como Asana, Cuando gestionas un proyecto en Asana,
+agregas tareas para representar partes del trabajo accionables necesarias para completar el proyecto.
+
+Como práctica recomendada, es bueno empezar cada tarea con un verbo. Por ejemplo, en lugar de tan solo escribir “sitio web”,
+deja en claro que la tarea es “crear prototipos del sitio web” o “añadir imágenes al sitio web”. Otra cosa en la que pensar
+cuando asignas tareas es el cronograma. Asegúrate de asignar a una persona y un plazo para cada tarea, para que quede claro
+quién hace qué y para cuándo.
+
+Por último, asegúrate de incluir tantos detalles de contexto de la tarea como sea posible para evitar errores de comunicación.
+En Asana, puedes hacer clic en los detalles de la tarea para añadir información útil. Puedes añadir una descripción, enlaces
+a los archivos o adjuntos correspondientes y comentar sobre el trabajo relacionado con la tarea. La asignación de tareas es
+muy beneficiosa, pero lo mejor es que te da libertad para concentrarte en gestionar el proyecto.
+
+De esta manera, puedes sentir confianza al saber que cada persona tiene asignado un trabajo específico. También hay algunos
+beneficios menos obvios de la asignación de tareas. Un beneficio menos obvio de asignar tareas es que crea una sensación de
+responsabilidad personal para los miembros del equipo. Cuando asignas una tarea a un compañero de equipo, celebras un acuerdo,
+y esta persona se convierte en propietaria de la tarea hasta que se complete.
+
+Crear un sentido de propiedad para los miembros del equipo es importante porque los hace estar más comprometidos con el pro-
+yecto. También les da espacio para el crecimiento personal. Además, desarrolla tus propias destrezas como un gerente que es
+un delegador comprensivo. Y, además de eso, mantiene al equipo motivado y comprometido en completar el trabajo a tiempo.
+
+Si bien cada uno debería tener un sentido de responsabilidad por su tarea asignada, un completo sentido de propiedad podría
+ser abrumador para algunos miembros del equipo. Si se da el caso, es una buena idea que el gerente de proyectos anime a los
+compañeros a apoyarse entre sí en sus tareas. Esto también es ideal para generar buenas interacciones en el equipo.
 
 #### Desglosar la estructura de desglose del trabajo
 
