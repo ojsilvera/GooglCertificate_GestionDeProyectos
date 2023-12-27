@@ -419,9 +419,32 @@ compañeros a apoyarse entre sí en sus tareas. Esto también es ideal para gene
 
 #### Desglosar la estructura de desglose del trabajo
 
-estructura de desglose del trabajo (WBS). Una WBS es un desglose en componentes más pequeños de un proyecto, orientado a
+Estructura de desglose del trabajo (WBS). Una WBS es un desglose en componentes más pequeños de un proyecto, orientado a
 los resultados entregables. Es una herramienta que ordena los hitos y las tareas de un proyecto en una jerarquía, en el
 orden en que deben completarse.
+
+Una WBS completa ofrece una representación visual del proyecto y de las tareas necesarias para cumplir con cada hito. Fa-
+cilita la comprensión de todas las tareas esenciales del proyecto, como la estimación de costos, la elaboración de un cro-
+nograma, la asignación de roles y responsabilidades, y el seguimiento del progreso. Piensa en cada dato como parte del
+rompecabezas general del proyecto: no puedes navegar con éxito a través de las tareas sin entender cómo encajan entre sí.
+Por ejemplo, muchas tareas más pequeñas pueden convertirse en una tarea o hito de mayor tamaño.
+
+Pasos para crear una WBS
+
+Los tres pasos principales que hay que seguir para crear una WBS:
+
+*Empieza con la imagen general del proyecto a alto nivel*. Haz una lluvia de ideas con tu equipo para enumerar los principales
+entregables e hitos. Ejemplo: Imagina que estás planificando un evento de la empresa. Los hitos principales podrían incluir
+categorías como “asegurar que se cuenta con el lugar del evento”, “finalizar la logística de los invitados” y “establecer
+la agenda”.
+
+*Identifica las tareas que hay que realizar para poder cumplir esos hitos*. Ejemplo: Podrías desglosar un hito como “asegurar
+que se cuenta con el lugar del evento” en tareas como “buscar lugares”, “visitar y decorar el espacio”, “hacer el pago
+inicial”, etc.
+
+*Examina esas tareas y divídelas en subtareas*. Ejemplo: Podrías desglosar una tarea como “visitar y decorar el espacio” en
+subtareas como “organizar el comité de decoración”, “comprar la decoración”, “asignar responsabilidades de decoración”,
+etc.
 
 ## Construir plan de proyecto
 
