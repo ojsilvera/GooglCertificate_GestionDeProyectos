@@ -154,6 +154,8 @@ también a los asistentes a que te consulten si tienen alguna pregunta adicional
 
 #### Consejos para dirigir una reunión inicial exitosa
 
+![Alt text](image-8.png)
+
 ### Definir tareas e hitos
 
 #### Comprender las tareas y los hitos
