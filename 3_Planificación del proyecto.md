@@ -47,6 +47,30 @@ sus objetivos, hasta brindar planes de proyecto a los interesados.
 
 #### Lanzamiento de la fase de planificación
 
+La fase de planificación puede variar de un proyecto a otro, pero generalmente se trabaja en tres cosas importantes durante
+esta fase:
+
+    el cronograma
+    el presupuesto
+    el plan de gestión de riesgos.
+
+*el cronograma*. El cronograma es básicamente una línea de tiempo del proyecto. Incluye la fecha de inicio, la fecha de
+finalización y las fechas de las cosas que ocurrirán en el medio. Se utilizan técnicas de estimación del tiempo para deter-
+minar estas fechas.
+
+*el presupuesto.* El presupuesto tendrá en cuenta el costo total para completar el proyecto. El costo total se debe desglosar
+para determinar cuánto hay que gastar en los distintos elementos del proyecto.
+
+*La gestión de riesgos*, que significa buscar posibles problemas y planificar con antelación para mitigar estos riesgos.
+el riesgo es inevitable en todo proyecto. Lo que no es inevitable es cómo afecta el riesgo a tu proyecto.
+
+Una buena planificación del proyecto significa buscar los lugares en los que pueden ocurrir problemas. ¿Dónde podría re-
+trasarse el cronograma? ¿Dónde podría el presupuesto superar tus estimaciones? Trabajarás con el equipo para considerar
+las respuestas a estas preguntas y preparar un plan de gestión de riesgos basado en lo que descubras.
+
+Para recapitular, en la fase de planificación crearás el cronograma, establecerás el presupuesto y prepararás el plan de
+gestión de riesgos, pero primero debes conseguir el apoyo de todo el equipo.
+
 #### Facilitar una reunión inicial del proyecto
 
 #### Consejos para dirigir una reunión inicial exitosa
