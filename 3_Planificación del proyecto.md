@@ -73,6 +73,85 @@ gestión de riesgos, pero primero debes conseguir el apoyo de todo el equipo.
 
 #### Facilitar una reunión inicial del proyecto
 
+una vez que en el modo de planificación. Es importante programar una reunión que sirva como un comienzo formal a la plani-
+ficación del proyecto.
+
+La reunión inicial de un proyecto es la primera reunión en la que el equipo de un proyecto se une para poner a todos de
+acuerdo en una visión compartida, obtener un entendimiento compartido de los objetivos y el alcance del proyecto, y entender
+los roles de cada persona dentro del equipo.
+
+¿quiénes está participan a la reunión inicial? Los miembros del equipo identificados en un gráfico RACI, creado durante
+la fase de iniciación. un gráfico RACI ayuda a definir roles y responsabilidades para individuos o equipos para garantizar
+que se trabaje de manera eficiente. Durante la reunión inicial, los miembros del equipo aprenderán más sobre cómo contri-
+buirán al proyecto y obtendrán una comprensión más profunda de cómo el equipo trabajará en conjunto para alcanzar los
+objetivos.
+
+También se incluyen a los interesados y al patrocinador a la reunión, para que tengan la oportunidad de entender el plan
+de alto nivel del proyecto, puedan compartir su perspectiva, y para asegurarte de que todos están de acuerdo.
+
+Las reuniones pueden llevar mucho tiempo, y definitivamente hay situaciones en las que un correo o un chat rápido con al-
+guien del equipo bastará. Pero cuando estás iniciando un proyecto, especialmente proyectos más grandes con varias personas,
+es importante reunirse para establecer una visión compartida, ponerse de acuerdo sobre el alcance y generar buenas intera-
+cciones en el equipo.
+
+También es una oportunidad para que tu equipo haga preguntas y brinde ideas, y es un muy buen momento para que establezcas
+las expectativas con el equipo sobre cómo cada persona contribuirá de forma individual al proyecto.
+
+Cómo planificar y realizar una reunión inicial. Hay muchas plantillas para agendas de reuniones iniciales en línea, y la
+mayoría sigue una estructura similar y dura alrededor de una hora. es de tener en cuenta que esto es solo una sugerencia,
+y no debes dudar en programar todo el tiempo que sea necesario para cada elemento de la agenda en función de las necesida-
+des del proyecto y el equipo.
+
+La mayoría de las reuniones comienzan con presentaciones. Puedes asignar alrededor de 10 minutos para que cada miembro del
+grupo se presente y diga sus funciones, y, si el tiempo lo permite, compartan algo divertido para generar buenas interac-
+ciones.
+
+A continuación, unos cinco minutos para dar una descripción general de los antecedentes del proyecto. Esto cubre detalles
+como cómo surgió y por qué es importante el proyecto. También usarás este tiempo para dar una visión compartida.
+
+dedica unos cinco minutos a compartir los objetivos y el alcance, que se refiere a los límites en torno a un proyecto. Eso
+incluye dejar claro qué trabajo se considera que está dentro del alcance y qué trabajo se considera fuera del alcance. Este
+también es un buen momento para compartir la fecha de lanzamiento prevista y resaltar los hitos importantes que el equipo
+debe tener en cuenta.
+
+Una vez que hayas cubierto los objetivos y el alcance, es hora de hablar de los roles de cada uno. Es una buena idea dedicar
+unos cinco minutos a asegurar que todos tienen claro de qué trabajo serán responsables durante todo el proyecto.
+
+Luego, es el momento de abordar la colaboración, que es la forma en que cooperarán en el proyecto. Este es un buen momento
+para repasar las herramientas que servirán como fuente común de información para el equipo, como un plan de proyecto creado
+en una hoja de cálculo o una herramienta de gestión del trabajo, como Asana. También es un buen momento para determinar
+cómo se comunicará entre sí el equipo y con que frecuencia, por ejemplo, con actualizaciones diarias por correo electrónico,
+en una sala de chat y en reuniones semanales de actualización. Deberías dedicar unos 10 minutos a este tema.
+
+dedicar unos 10 minutos a establecer las expectativas sobre lo que se avecina. También utilizarás este tiempo para aclararle
+a cada uno qué acciones tomarán a continuación.
+
+Por último, es muy importante dedicar unos 15 minutos para las preguntas del grupo. Esta es la oportunidad del equipo para
+despejar las dudas sobre cualquiera de los temas que has tratado hasta ahora. También es tu oportunidad de escuchar al
+equipo y asegurarte de que el proyecto se beneficie de una diversidad de opiniones, experiencias e ideas.
+
+Por ejemplo, además de responder preguntas en voz alta en la reunión, puedo invitar al equipo a que aporten preguntas
+o retroalimentación en un documento compartido. Esta práctica puede ayudar a crear un espacio para colaborar. También es
+posble consultar a los compañeros de equipo acerca de su confianza sobre los temas hablados ese día. cuál es su nivel de
+confianza en una escala de uno a cinco: uno es “No tengo nada de confianza”, y cinco es “Estoy extremadamente confiado”. Si
+no tienen confianza, Les pregunto qué puedo hacer para ayudar a cambiar eso. Esta práctica puede dar al equipo un sentido
+de respaldo más sólido, porque se está disponible para ayudarlos a superar los obstáculos.
+
+Si pruebas esta práctica en las reuniones, asegúrate de cumplir los acuerdos la reputación como gerente de proyectos de
+cumplir los objetivos y eliminar obstáculos es fundamental para establecer y mantener las relaciones.
+
+Una vezfinalizada la agenda de la reunión, documenta esta información en una plantilla para agendas, y envíala
+a los asistentes uno o dos días antes de la reunión. Como gerente de proyectos, liderarás la mayor parte de esta reunión,
+y, cuando hablas, es difícil tomar notas y exponer al mismo tiempo. Por lo tanto, al comienzo de la reunión, pide a un
+compañero de equipo que tome notas sobre los puntos clave que explicaste durante toda la sesión y que registre los elemen-
+tos de acción de sus compañeros. En algunos casos, puede ser beneficioso grabar la reunión para que puedan verla más tarde,
+especialmente si tienes un equipo grande o desperdigado. Tan solo asegúrate de obtener de antemano el permiso de los asis-
+tentes para grabarlos.
+
+Después de la reunión, enviar un correo electrónico de seguimiento al grupo, con un resumen de los puntos clave y resulta-
+dos de la reunión, así como los elementos de acción de los asistentes. En el correo electrónico de seguimiento, invitar
+también a los asistentes a que te consulten si tienen alguna pregunta adicional.
+
 #### Consejos para dirigir una reunión inicial exitosa
 
 ### Definir tareas e hitos
