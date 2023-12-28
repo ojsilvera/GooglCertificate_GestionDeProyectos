@@ -80,7 +80,7 @@ La reunión inicial de un proyecto es la primera reunión en la que el equipo de
 acuerdo en una visión compartida, obtener un entendimiento compartido de los objetivos y el alcance del proyecto, y entender
 los roles de cada persona dentro del equipo.
 
-¿quiénes está participan a la reunión inicial? Los miembros del equipo identificados en un gráfico RACI, creado durante
+¿quiénes participan en la reunión inicial? Los miembros del equipo identificados en un gráfico RACI, creado durante
 la fase de iniciación. un gráfico RACI ayuda a definir roles y responsabilidades para individuos o equipos para garantizar
 que se trabaje de manera eficiente. Durante la reunión inicial, los miembros del equipo aprenderán más sobre cómo contri-
 buirán al proyecto y obtendrán una comprensión más profunda de cómo el equipo trabajará en conjunto para alcanzar los
@@ -346,7 +346,7 @@ Digamos que estamos creando una estructura de desglose del trabajo para el lanza
 
 En la parte superior del diagrama está el nombre del proyecto.
 
-El segundo nivel de nuestro diagrama divide el proyecto en tres hitos.
+El segundo nivel de nuestro diagrama divide el proyecto en hitos.
 
     Obtener la aprobación del diseño,
     desarrollar el sitio web
@@ -447,6 +447,14 @@ subtareas como “organizar el comité de decoración”, “comprar la decoraci
 etc.
 
 ## Construir plan de proyecto
+
+### Empezar con un plan de proyecto
+
+### Usar la estimación para definir los plazos del proyecto
+
+### Utilizar herramientas para construir un plan de proyecto
+
+### Haz una revisión: Construir un plan de proyecto
 
 ## Gestionar presupuestos y compras
 
