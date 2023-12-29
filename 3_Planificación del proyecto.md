@@ -450,6 +450,10 @@ etc.
 
 ### Empezar con un plan de proyecto
 
+#### Componentes de un plan de proyecto
+
+#### Reunir las piezas de un plan de proyecto
+
 ### Usar la estimación para definir los plazos del proyecto
 
 ### Utilizar herramientas para construir un plan de proyecto
