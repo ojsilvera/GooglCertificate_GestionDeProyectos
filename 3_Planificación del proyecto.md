@@ -534,6 +534,20 @@ del cronograma, también debes incluir los siguientes componentes en tu plan de 
 
 ### Usar la estimación para definir los plazos del proyecto
 
+#### Hacer estimaciones de tiempo realistas
+
+#### Caso práctico: Ejecuta rápido, paga después
+
+#### Superar la falacia de la planificación
+
+#### Planificación de capacidades y ruta crítica
+
+#### Creación de una ruta crítica
+
+#### Obtener estimaciones de tiempo precisas de tu equipo
+
+#### Angel: El valor de las destrezas interpersonales en la estimación de tiempo
+
 ### Utilizar herramientas para construir un plan de proyecto
 
 ### Haz una revisión: Construir un plan de proyecto
