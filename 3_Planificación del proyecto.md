@@ -482,6 +482,56 @@ determinar qué recursos necesitarás y cuándo los necesitarás.
 
 #### Reunir las piezas de un plan de proyecto
 
+Cada plan de proyecto es un artefacto viviente que será la hoja de ruta de tu equipo a lo largo del proyecto, elementos
+comunes de los planes de proyecto, incluidas las tareas, los hitos, las personas, la documentación y el tiempo.
+
+- Cómo se conectan los componentes de un plan de proyecto
+
+En el centro del plan del proyecto está el cronograma del proyecto, que te ayuda a estimar la cantidad de tiempo que tomará
+completar el proyecto y brinda al equipo una forma de rastrear el progreso del proyecto con respecto a tus objetivos. Además
+del cronograma, también debes incluir los siguientes componentes en tu plan de proyecto:
+
+    - Alcance y objetivos
+
+        Tanto el alcance como los objetivos del proyecto se establecerán inicialmente en *el estatuto del proyecto*, el
+        documento que define claramente los detalles clave de tu proyecto. Puedes vincular el estatuto del proyecto con
+        tu plan de proyecto. Tener los detalles sobre el alcance y los objetivos del proyecto a disposición puede ayudar
+        a recordarle a tu equipo los objetivos que están tratando de lograr y deben hacer algo que vaya más allá de lo
+        acordado inicialmente para lograr esos objetivos.
+
+    - Estructura de desglose del trabajo (WBS)
+
+        Una estructura de desglose del trabajo es una herramienta que ordena los hitos y las tareas de un proyecto en una
+        jerarquía, en el orden en que deben completarse. La WBS es clave para tu plan de proyecto, ya que divide el trabajo
+        en partes más manejables. En tu plan de proyecto, las tareas deben estar visibles en un solo lugar con las descrip-
+        ciones, los propietarios y las fechas de entrega indicados de forma clara. Esto les permitirá a ti y a tu equipo
+        comprender quién es responsable de qué tareas y cuándo se supone que debe completarse cada una. Tu plan de proyecto
+        también debe contener hitos y estados detallados relacionados con estas tareas, lo que los ayudará a ti y a los
+        miembros de tu equipo a visualizar el progreso del proyecto.
+
+        Además de la WBS, la documentación adicional, como un cuadro RACI, ayudará a definir roles y responsabilidades, y
+        sería útil agregarlo a tu plan de proyecto. Mantener esta documentación almacenada o vinculada en un solo lugar
+        es una buena práctica para la transparencia y la comunicación efectiva.
+
+    - Presupuesto
+
+        A lo largo del ciclo de vida de tu proyecto, será necesario administrar y monitorear el presupuesto. El presupuesto
+        del proyecto a menudo está vinculado al plan del proyecto porque depende en gran medida de los elementos clave del
+        proyecto. La vinculación de estos componentes permite una gestión y una visibilidad más fluidas.
+
+        Dependiendo del tamaño de tu proyecto y tu organización, es posible que no seas la persona principal responsable
+        de administrar el presupuesto del proyecto. Por ejemplo, si tu proyecto está en una organización grande y los fondos
+        son administrados por otro departamento, es posible que no tengas tanta autonomía o conocimiento de todos los elementos
+        del presupuesto. Como resultado, es posible que no puedas controlar el presupuesto de cerca. Si alguien en otro
+        departamento está administrando el presupuesto, asegúrate de consultarles con regularidad para asegurarte de hacer
+        un seguimiento.
+
+    - Planes de gestión
+
+        Los planes de gestión, como el plan de gestión de cambios, el plan de gestión de riesgos y el plan de comunicación,
+        son todos parte integral para mantener un proyecto organizado y encaminado, y deben estar vinculados en tu plan de
+        proyecto. Estos planes se analizarán en detalle en las próximas lecciones de este curso.
+
 ### Usar la estimación para definir los plazos del proyecto
 
 ### Utilizar herramientas para construir un plan de proyecto
