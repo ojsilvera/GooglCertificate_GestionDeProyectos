@@ -452,6 +452,34 @@ etc.
 
 #### Componentes de un plan de proyecto
 
+Un plan de proyecto puede ser útil para cualquier proyecto, grande o pequeño, ya que te ayuda a documentar el alcance, las
+tareas, los hitos y las actividades generales del proyecto. En el centro del plan de proyecto está el cronograma del pro-
+yecto. El cronograma del proyecto puede ayudarte a estimar la cantidad de tiempo que tardarás en completar el proyecto y
+puede proporcionar al equipo una forma de realizar un seguimiento del progreso del proyecto respecto de tus objetivos.
+
+Lo *que se incluye en un plan de proyecto* puede variar de una empresa a otra, pero la mayoría de los planes contienen estos
+cinco elementos básicos. *tareas, hitos, personas, documentación y tiempo*.
+
+Un plan de proyecto incluirá tareas e hitos. Las tareas son actividades que deben ser logradas en un período de tiempo de-
+terminado. Se asignan a diferentes miembros del equipo de acuerdo con sus roles y habilidades. Y los hitos son puntos im-
+portantes dentro del cronograma que indican el progreso. Suelen corresponderse con un entregable o una fase del proyecto.
+
+Un plan de proyecto también incluirá a las personas que trabajan en tu equipo y sus roles. Es importante que cada miembro
+del equipo entienda su rol y las tareas de las que son responsables. Al asegurarte de que todos tengan claras sus tareas
+asignadas, eres libre para concentrarte en gestionar el proyecto y creas un sentido de la responsabilidad individual en
+los miembros del equipo.
+
+Un plan de proyecto es un buen lugar para vincular la documentación pertinente. Esto incluye documentos como tu gráfico
+RACI, que ayuda a definir los roles y las responsabilidades de las personas de tu equipo. También puedes vincularla a tu
+estatuto, que define claramente el proyecto y describe los detalles necesarios para alcanzar tus objetivos. La documenta-
+ción pertinente también puede incluir documentos como tu presupuesto y tu plan de gestión de riesgos. Analizaremos esto
+más adelante en el curso. Por último, un plan de proyecto debe incluir el tiempo estimado que se dedicará al proyecto. Esto
+constituye la base del cronograma, que es el pilar de tu plan de proyecto.
+
+El tiempo estimado incluye las fechas en las que las tareas deben iniciarse y completarse y las fechas en las que esperas
+alcanzar los distintos hitos. También incluye las fechas de inicio y finalización del proyecto, que son importantes para
+determinar qué recursos necesitarás y cuándo los necesitarás.
+
 #### Reunir las piezas de un plan de proyecto
 
 ### Usar la estimación para definir los plazos del proyecto
