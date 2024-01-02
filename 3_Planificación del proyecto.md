@@ -536,6 +536,51 @@ del cronograma, también debes incluir los siguientes componentes en tu plan de 
 
 #### Hacer estimaciones de tiempo realistas
 
+Como gerente de proyectos, no eres responsable de completar todas las tareas. De lo que eres responsable es de identificar
+y ayudar a asignar esas tareas y luego de estimar cuánto tardarán en completarse. Estas estimaciones se unen para determinar
+el cronograma general del proyecto.
+
+Pero, ¿cómo calculas la cantidad de tiempo que tomará una tarea determinada? Lo haces con la ayuda de tu equipo. La estimación
+del tiempo es una predicción de la cantidad total de tiempo necesaria para completar una tarea. La estimación del trabajo
+es una predicción de la cantidad y dificultad del trabajo activo requerido para completar una tarea.
+
+La estimación del trabajo difiere de la estimación del tiempo en que el trabajo cuantifica la cantidad de tiempo que le
+tomará a una persona completar el trabajo en una tarea. Por otro lado, el tiempo hace referencia a la duración total de
+la tarea desde su inicio hasta su finalización. Eso incluye el tiempo de inactividad.
+
+Aquí hay un ejemplo: La estimación del trabajo de pintar una pared puede ser de 30 minutos, pero la estimación del tiempo
+puede ser de 24 horas. Eso es porque, además de los 30 minutos de pintado activo, también hay 23 horas y media de tiempo
+inactivo de secado.
+
+Es importante comprender la diferencia entre la estimación del tiempo y la estimación del trabajo, porque puede ayudarte
+a ser más eficiente con tus recursos disponibles. Si hay tiempo de inactividad integrado en una tarea determinada, tu
+compañero de equipo queda efectivamente libre para hacer otras cosas. Un pintor puede hacer otras tareas mientras la pared
+se seca, como pintar el buzón o la moldura de la ventana.
+
+Una estimación de trabajo poco realista puede afectar negativamente el cronograma de un proyecto. Generalmente, esto sucede
+cuando subestimas la cantidad de tiempo que tomará completar una tarea. A menudo, el responsable de que se subestime el
+trabajo es el optimismo. Y escucha, el optimismo es un rasgo maravilloso que un gerente de proyectos debe poseer. Pero
+demasiado optimismo puede llevarte a pasar por alto los riesgos potenciales que podrían retrasar tus planes. Aunque puede
+resultar tentador hacer la suposición optimista de que las tareas se ejecutarán exactamente según los planes, siempre existe
+la posibilidad de que haya contratiempos.
+
+Entonces, ¿cómo intentas evitar hacer estimaciones de trabajo poco realistas? Puedes hacerlo comunicándote con los compañeros
+de equipo asignados a cada tarea. Tus compañeros de equipo tendrán una idea más realista de la cantidad de trabajo requerido
+para completar una tarea y deberían poder brindarte la mejor estimación.
+
+Agregar tiempo de reserva a cada tarea podría alargar el cronograma de tu proyecto innecesariamente, y los dejaría a ti,
+a tu equipo y a los interesados con un cronograma poco realista. Aquí es donde los tiempos de reserva para el proyecto son
+útiles. Los tiempos de reserva para el proyecto se diferencian de los tiempos de reserva para tareas en que brindan tiempo
+adicional al cronograma general del proyecto. En lugar de agregar un tiempo de reserva a cada tarea, puedes agregar tiempo
+adicional como tiempo de reserva hacia el final del cronograma de tu proyecto. Entonces puedes usar ese tiempo extra, dos
+o tres días, por ejemplo, según lo necesites durante todo el proyecto.
+
+Por ejemplo, si un compañero de equipo no cumple una fecha límite en algún momento, el tiempo de reserva del proyecto te
+da un margen en el cronograma general para recuperar el tiempo perdido.
+
+Es posible que tu organización no considere que el proyecto sea un éxito. La estimación de tiempo, la estimación del trabajo
+y los tiempos de reserva pueden ayudarte a crear planes realistas para lograr el objetivo del proyecto.
+
 #### Caso práctico: Ejecuta rápido, paga después
 
 #### Superar la falacia de la planificación
