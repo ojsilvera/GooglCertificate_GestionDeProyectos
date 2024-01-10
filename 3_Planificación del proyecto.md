@@ -610,6 +610,19 @@ tarea, así como los costos y riesgos asociados con esa tarea, debido al sesgo d
 *El sesgo del optimismo* surge cuando una persona cree que tiene menos probabilidades de experimentar un acontecimiento
 negativo.
 
+La falacia de la planificación puede sucederle a cualquier persona, independientemente de si tiene o no experiencia en la
+realización de tareas similares. Ya sea que pasees a tu perro por primera vez o por enésima vez, aún debes considerar los
+diferentes factores que pueden afectar el tiempo que te llevará completar la caminata. Este mismo principio se aplica a la
+gestión de proyectos.
+
+Puede que seas nuevo en este tipo de proyectos o que hayas gestionado miles de proyectos similares antes. De cualquier manera,
+debes tener cuidado de no subestimar el tiempo que llevará completar cada tarea en este proyecto en particular. Como gerente
+de proyectos, debes tratar de estar al tanto de la falacia de la planificación y, al mismo tiempo, mantener una actitud
+optimista sobre el proyecto, incluso cuando las cosas cambian.
+
+Sé optimista y realista: Esfuérzate por obtener los mejores resultados mientras planificas el tiempo adecuado que puede
+llevar completar cada tarea.
+
 #### Planificación de capacidades y ruta crítica
 
 #### Creación de una ruta crítica
