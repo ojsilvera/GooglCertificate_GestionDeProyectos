@@ -623,7 +623,91 @@ optimista sobre el proyecto, incluso cuando las cosas cambian.
 Sé optimista y realista: Esfuérzate por obtener los mejores resultados mientras planificas el tiempo adecuado que puede
 llevar completar cada tarea.
 
+Estar atento a los "qué pasaría si" es una habilidad clave en la gestión de proyectos. Tener en cuenta situaciones que
+podrían afectar si el proyecto se completa o no a tiempo puede ayudarte a superar la falacia de la planificación. Además,
+siempre tendrás un equipo de proyecto a tu lado, de modo que asegúrate de utilizarlo como recurso para que te ayuden a
+identificar posibles riesgos. Recuerda ser "realista con optimismo" y esforzarte por obtener el mejor resultado mientras
+planificas el tiempo correcto para realizar cada tarea..
+
 #### Planificación de capacidades y ruta crítica
+
+La estimación del tiempo, es una predicción de la cantidad total de tiempo requerido para completar una tarea, Y la estimación
+del esfuerzo, que es una predicción de la cantidad y la dificultad del trabajo activo necesario para completar una tarea.
+
+Estas técnicas te pueden ayudar a estimar la cantidad de tiempo que tomará completar una tarea. Una vez que tengas esa infor-
+mación, tendrás que determinar si tienes la cantidad adecuada de personas para realizar el trabajo. Para averiguarlo puedes
+usar una técnica llamada *planificación de la capacidad*.
+
+La capacidad se refiere a la cantidad de trabajo que las personas o los recursos asignados al proyecto pueden completar
+de manera razonable en un período determinado.
+
+Una persona puede hacer una tarea hasta cierto punto, y es importante tener en cuenta la capacidad de cada persona al asignar
+trabajo. Aquí es donde entra en juego la planificación de la capacidad.
+
+La planificación de la capacidad se refiere a la acción de asignar personas y recursos a las tareas de un proyecto. Y de-
+terminar si tienes los recursos necesarios para completar el trabajo a tiempo. Durante este proceso, es posible que necesites
+más recursos para acelerar el plazo del proyecto, como otro desarrollador web u otro escritor.
+
+Imaginemos la planificación de la capacidad en el contexto de nuestro proyecto Plant Pals en Office Green. Si sabes que tendrás
+que entregar plantas a 100 clientes durante un período de cinco días, tendrás que determinar si contrataste suficientes
+repartidores para cumplir con esa fecha límite. Si un conductor hace en promedio cuatro entregas en una jornada laboral de
+ocho horas, sabes que deberás contratar al menos cinco conductores para completar el trabajo a tiempo.
+
+Aunque una persona de tu equipo del proyecto pase el 100 % de su tiempo trabajando en tu proyecto, tendrán una capacidad
+limitada para la cantidad de trabajo que se espera que completen cada día. Entre reuniones, tareas urgentes inesperadas y
+otros elementos de una jornada laboral típica, cada persona puede completar cada tarea hasta cierto punto.
+
+Entonces, ¿cómo decides en qué momento un equipo debe enfocarse en sus prioridades y aprovechar al máximo su capacidad?
+Puedes priorizar su tiempo trazando la ruta crítica del plazo de tu proyecto.
+
+*La ruta crítica* se refiere a la lista de hitos del proyecto que debes alcanzar para cumplir con el objetivo del proyecto
+a tiempo. Además de las tareas obligatorias que contribuyen a la finalización de cada hito, todo lo demás se considera que
+está fuera de la ruta crítica.
+
+Por ejemplo, algunas tareas en la ruta crítica para lanzar el proyecto Plant Pals podrían incluir contratar proveedores de
+plantas, desarrollar un nuevo sitio web y cumplir con las entregas.Es bueno incluir una tarea como agregar flores a tu línea
+de productos. Pero es posible que no tenga mucho impacto en el éxito general de tu proyecto, porque esta tarea no es crucial
+para tu lanzamiento. Estas tareas no forman parte de la ruta crítica.
+
+        A modo de resumen, tu ruta crítica incluye la cantidad mínima de tareas e hitos que necesitas para alcanzar el
+        objetivo de tu proyecto. Si tu equipo no puede completar alguna de esas tareas a tiempo, eso podría generar un
+        retraso del proyecto.
+
+Para determinar la ruta crítica de un proyecto, empiezas por:
+
+    Enumerar todas las tareas necesarias para completar el proyecto y los hitos de los que forman parte. Este es un momento
+    perfecto para recordar la estructura de desglose de tu trabajo, o WBS, que es un gráfico que ordena todo los hitos y las
+    tareas de un proyecto en una jerarquía de acuerdo con el orden en el que deben completarse. Esto incluye una descripción
+    detallada general de cada tarea del proyecto.
+
+    Determinar qué tareas en la lista no puedes comenzar en absoluto hasta que otra tarea esté completa. Esto se llama
+    dependencia.
+
+    Trabajarár con tu equipo para realizar estimaciones de tiempo para cada tarea y mapear cada tarea de principio a fin.
+
+La ruta más larga es la ruta crítica. Hay algunos factores que pueden afectar la capacidad y la planificación de la capa-
+cidad.
+
+Primero debes poder identificar qué tareas pueden realizarse en paralelo. Esto significa que pueden realizarse al mismo
+tiempo que otras tareas. identificar qué tarea puede realizarse secuencialmente, lo que significa que deben realizarse en
+un orden específico.
+
+Al identificar qué tareas pueden realizarse en paralelo, puedes crear eficiencias dentro del cronograma de tu proyecto
+demostrando dónde puedes completar varias tareas al mismo tiempo e identificando tareas secuenciales, Te ayuda a identificar
+las tareas que debes priorizar desde el inicio del proyecto.
+
+Por ejemplo, una tarea secuencial para el proyecto Plant Pals puede incluir la necesidad de que se apruebe el presupuesto
+antes de contratar a un proveedor. Y dos tareas paralelas pueden incluir la contratación de repartidores y el desarrollo
+de un sitio web. Estas tareas no tienen relación entre sí, ya que se centran en diferentes partes del proyecto, y se pueden
+completar con diferentes miembros del equipo. Eso significa que una tarea puede comenzar aunque la otra tarea no se haya
+completado. Por lo tanto, el trabajo para completar estas tareas puede realizarse al mismo tiempo.
+
+Determinar qué tareas del proyecto tienen una fecha de inicio fija. Una fecha de inicio fija se refiere a la fecha en la
+que debes comenzar a trabajar en tu tarea para lograr tu objetivo. Identificar si tu tarea tiene fechas de inicio fijas
+puede ayudar con la planificación de la capacidad. Porque ayuda a garantizar que tendrás la cantidad correcta de personas
+disponibles para completar las tareas a tiempo.
+
+Por ejemplo, imaginemos que tu contrato dice que deberás entregar 100 plantas en una fecha específica. Eso significa que la tarea de recoger esas plantas tienen un día de inicio fijo un día antes de la entrega. De modo alternativo, algunas tareas pueden tener una fecha de inicio más temprana. Una fecha de inicio más temprana se refiere a la fecha más temprana en la que puedes comenzar a trabajar en una tarea. La identificación de una fecha de inicio anterior puede establecer expectativas precisas sobre cuándo los proveedores y los miembros del equipo estarán activos trabajando en el proyecto. Esto puede ayudarte a planificar tu trabajo y a priorizar tu trabajo en consecuencia. Por ejemplo, si trabajas con un proveedor nuevo, debes esperar hasta que se firmen los contratos, y hasta que se apruebe y cree el pedido de compra antes de que el proveedor pueda empezar. Digamos que en Office Green este proceso puede tardar unas tres semanas. Con base en esta información, puedes determinar que la fecha de inicio más temprana de tu proveedor será en tres semanas a partir de la reunión inicial que tengas con él. Otra práctica recomendada para la planificación de la capacidad y la creación de una ruta crítica incluye identificar si una tarea tiene también una reserva, a veces conocida como holgura. Un margen se refiere a la cantidad de tiempo que puedes esperar para comenzar una tarea antes de que afecte el cronograma del proyecto y ponga en riesgo el resultado del proyecto. Se trata de tareas de alta prioridad que tienen poco o ningún margen de maniobra. Esto ayuda a reforzar lo que está y lo que no está incluido en tu ruta crítica. Por ejemplo, las tareas en la ruta crítica no deben tener ningún margen, lo que significa que no hay espacio para los retrasos. Y las tareas que sí tienen margen no son parte de la ruta crítica. Por ejemplo, el envío de plantas a un cliente prioritario que ha solicitado su entrega en una fecha concreta es una tarea que no tiene margen. Genial. Aprendiste un poco más sobre cómo definir la capacidad, la planificación de la capacidad y la ruta crítica. También analizamos las técnicas utilizadas para identificar la ruta crítica en un proyecto y los distintos factores que pueden afectar la capacidad y la planificación de la capacidad. En el siguiente video, seguiremos aprendiendo a crear estimaciones viables en un plan de proyecto. También descubrirás cómo tus habilidades interpersonales pueden ayudar a que tu equipo sea eficaz. Nos vemos ahí.
 
 #### Creación de una ruta crítica
 
