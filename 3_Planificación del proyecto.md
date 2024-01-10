@@ -583,6 +583,14 @@ y los tiempos de reserva pueden ayudarte a crear planes realistas para lograr el
 
 #### Caso práctico: Ejecuta rápido, paga después
 
+*La estimación de tiempo* se utiliza para predecir la cantidad de tiempo que se necesitará para completar una tarea. Hemos
+hablado de cómo una de las tareas centrales de un gerente de proyectos es la planificación. Realizar con cuidado los pasos
+clave de tu proceso de planificación, como la estimación de tiempo, puede tener un gran impacto en el éxito de tu proyecto.
+
+Por el contrario, una estimación de tiempo deficiente es la causa raíz de muchos proyectos fallidos. Eso significa que muchos
+proyectos fallan porque los gerentes de proyectos y los equipos no estiman con precisión el tiempo que tomará completar
+las tareas.
+
 #### Superar la falacia de la planificación
 
 #### Planificación de capacidades y ruta crítica
