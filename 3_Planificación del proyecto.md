@@ -720,7 +720,15 @@ y cree el pedido de compra antes de que el proveedor pueda empezar. Digamos que 
 unas tres semanas. Con base en esta información, puedes determinar que la fecha de inicio más temprana de tu proveedor
 será en tres semanas a partir de la reunión inicial que tengas con él.
 
-Otra práctica recomendada para la planificación de la capacidad y la creación de una ruta crítica incluye identificar si una tarea tiene también una reserva, a veces conocida como holgura. Un margen se refiere a la cantidad de tiempo que puedes esperar para comenzar una tarea antes de que afecte el cronograma del proyecto y ponga en riesgo el resultado del proyecto. Se trata de tareas de alta prioridad que tienen poco o ningún margen de maniobra. Esto ayuda a reforzar lo que está y lo que no está incluido en tu ruta crítica. Por ejemplo, las tareas en la ruta crítica no deben tener ningún margen, lo que significa que no hay espacio para los retrasos. Y las tareas que sí tienen margen no son parte de la ruta crítica. Por ejemplo, el envío de plantas a un cliente prioritario que ha solicitado su entrega en una fecha concreta es una tarea que no tiene margen. Genial. Aprendiste un poco más sobre cómo definir la capacidad, la planificación de la capacidad y la ruta crítica. También analizamos las técnicas utilizadas para identificar la ruta crítica en un proyecto y los distintos factores que pueden afectar la capacidad y la planificación de la capacidad. En el siguiente video, seguiremos aprendiendo a crear estimaciones viables en un plan de proyecto. También descubrirás cómo tus habilidades interpersonales pueden ayudar a que tu equipo sea eficaz. Nos vemos ahí.
+Otra práctica recomendada para la planificación de la capacidad y la creación de una ruta crítica incluye identificar si
+una tarea tiene también una reserva, a veces conocida como holgura. Un margen se refiere a la cantidad de tiempo que puedes
+esperar para comenzar una tarea antes de que afecte el cronograma del proyecto y ponga en riesgo el resultado del proyecto.
+Se trata de tareas de alta prioridad que tienen poco o ningún margen de maniobra. Esto ayuda a reforzar lo que está y lo
+que no está incluido en tu ruta crítica.
+
+Por ejemplo, las tareas en la ruta crítica no deben tener ningún margen, lo que significa que no hay espacio para los re-
+trasos. Y las tareas que sí tienen margen no son parte de la ruta crítica. Por ejemplo, el envío de plantas a un cliente
+prioritario que ha solicitado su entrega en una fecha concreta es una tarea que no tiene margen.
 
 #### Creación de una ruta crítica
 
