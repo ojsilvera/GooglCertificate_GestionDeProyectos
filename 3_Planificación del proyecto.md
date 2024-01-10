@@ -593,6 +593,23 @@ las tareas.
 
 #### Superar la falacia de la planificación
 
+Es parte de la naturaleza humana subestimar la cantidad de tiempo y esfuerzo que se necesita para completar una tarea, desde
+algo tan simple como pasear al perro hasta algo tan complejo como completar un proyecto. Por lo general, la gente quiere
+tener la esperanza de obtener un resultado positivo, y esta es una gran cualidad para tener como persona. Pero como gerente
+de proyectos, este tipo de optimismo también puede ser una deficiencia, especialmente durante la fase de planificación de
+un proyecto.
+
+*La falacia de la planificación y el sesgo del optimismo.*
+
+La idea de la falacia de la planificación se introdujo por primera vez en un artículo de 1977, escrito por Daniel Kahneman
+y Amos Tversky, dos figuras fundamentales en el campo de la economía del comportamiento.
+
+*La falacia de la planificación* describe nuestra tendencia a subestimar la cantidad de tiempo que llevará completar una
+tarea, así como los costos y riesgos asociados con esa tarea, debido al sesgo del optimismo.
+
+*El sesgo del optimismo* surge cuando una persona cree que tiene menos probabilidades de experimentar un acontecimiento
+negativo.
+
 #### Planificación de capacidades y ruta crítica
 
 #### Creación de una ruta crítica
