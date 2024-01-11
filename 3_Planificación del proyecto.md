@@ -732,6 +732,11 @@ prioritario que ha solicitado su entrega en una fecha concreta es una tarea que 
 
 #### Creación de una ruta crítica
 
+*la ruta crítica*hace referencia a la lista de hitos del proyecto requeridos que debes alcanzar para completar el cronograma
+del proyecto, así como las tareas obligatorias que contribuyen a la finalización de cada hito. Puedes pensar en la ruta
+crítica como un framework que te dice a ti, el gerente del proyecto, dónde te encuentras, hacia dónde te diriges y cuándo
+llegarás allí.
+
 #### Obtener estimaciones de tiempo precisas de tu equipo
 
 #### Angel: El valor de las destrezas interpersonales en la estimación de tiempo
