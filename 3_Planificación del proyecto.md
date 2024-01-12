@@ -779,13 +779,53 @@ tificación de dependencias es clave para el éxito del cronograma de un proyect
 
 Para identificar las dependencias de cada tarea, pregunta:
 
-¿Qué tarea debe realizarse antes de esta tarea?
+        ¿Qué tarea debe realizarse antes de esta tarea?
 
-¿Qué tarea se puede terminar al mismo tiempo que esta tarea?
+        ¿Qué tarea se puede terminar al mismo tiempo que esta tarea?
 
-¿Qué tarea debe realizarse inmediatamente después de esta tarea?
+        ¿Qué tarea debe realizarse inmediatamente después de esta tarea?
 
-Una vez que hayas respondido a estas preguntas, puedes enumerar estas dependencias junto a tu lista de tareas
+Una vez que hayas respondido a estas preguntas, puedes enumerar estas dependencias junto a tu lista de tareas.
+
+*Paso 3: Crea un diagrama de red.*
+
+Una forma común de visualizar la ruta crítica es creando un diagrama de red.
+
+*Paso 4: Haz estimaciones de tiempo.*
+
+Después de determinar las tareas y las dependencias, consulta a los interesados clave para obtener estimaciones de tiempo
+precisas para cada tarea.
+
+Este es un paso crucial para determinar tu ruta crítica. Si tus estimaciones de tiempo están significativamente fuera de
+lugar, es posible que cambie la longitud de tu ruta crítica. Las estimaciones de tiempo se pueden revisar y actualizar a
+lo largo del proyecto, según sea necesario.
+
+*Paso 5: Encuentra la ruta crítica.*
+
+Ahora que tienes la duración estimada de cada tarea, agrega esa información a tu diagrama de red:
+
+Si sumas la duración de todas tus tareas "esenciales" y calculas la ruta más larga posible, puedes calcular tu ruta crítica.
+*En tu cálculo, solo incluye las tareas que, si quedan sin terminar, afectarán la fecha de finalización del proyecto*. En
+este ejemplo, si las tareas "no esenciales", como el diseño del jardín y el pavimento de la entrada, no se completan, la
+fecha de finalización de la estructura de la vivienda no se verá afectada.
+
+También puedes calcular la ruta crítica utilizando dos enfoques comunes:
+
+    - el movimiento de avance
+    - el movimiento de retroceso.
+
+Estas técnicas son útiles si se te pide que identifiques las fechas de inicio más tempranas y más tardías (las fechas más
+tempranas y más tardías en las que puedes comenzar a trabajar en una tarea) o la holgura (la cantidad de tiempo que la
+tarea puede demorarse más allá de tu fecha de inicio más temprana sin retrasar el proyecto).
+
+*El movimiento de avance:* se refiere a cuando comienzas al principio de la lista de tareas de tu proyecto y sumas la dura-
+ción de las tareas en la ruta crítica hasta el final de tu proyecto. Al utilizar este enfoque, comienza con la primera
+tarea que hayas identificado que debe completarse antes de que se pueda comenzar con cualquier otra.
+
+*El movimiento de retroceso es lo opuesto:* comienza con la tarea o el hito final y retrocede a lo largo de tu cronograma
+para identificar la ruta más corta para completarlo. Cuando hay una fecha límite estricta, trabajar de atrás hacia adelante
+puede ayudarte a determinar qué tareas son realmente críticas. Es posible que puedas cortar algunas tareas, o completarlas
+más tarde, para cumplir con su fecha límite.
 
 #### Obtener estimaciones de tiempo precisas de tu equipo
 
