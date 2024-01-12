@@ -737,6 +737,56 @@ del proyecto, así como las tareas obligatorias que contribuyen a la finalizaci�
 crítica como un framework que te dice a ti, el gerente del proyecto, dónde te encuentras, hacia dónde te diriges y cuándo
 llegarás allí.
 
+*Por qué la ruta crítica es crítica.*
+
+La ruta crítica te ayuda a determinar las tareas esenciales que deben completarse en tu proyecto para alcanzar tu obje-
+tivo final y cuánto tiempo tomará cada tarea.
+
+La ruta crítica también proporciona una referencia rápida para las tareas críticas al revelar qué tareas afectarán negati-
+vamente la fecha de finalización de tu proyecto si sus fechas de finalización programadas se retrasan o no se cumplen.
+
+Una ruta crítica puede ayudarte a definir los recursos que necesitas, los puntos de partida de tu proyecto y cualquier
+flexibilidad que tengas en el cronograma.
+
+*Cómo crear una ruta crítica.*
+
+Cada proyecto en el que trabajes será diferente, pero hay algunos pasos generales para crear una ruta crítica que se
+aplican a la mayoría de los proyectos:
+
+    Paso 1: Captura todas las tareas
+    Paso 2: Establece dependencias
+    Paso 3: Crea un diagrama de red
+    Paso 4: Haz estimaciones de tiempo
+    Paso 5: Encuentra la ruta crítica
+
+*Paso 1: Captura todas las tareas.*
+
+Cuando comiences a trabajar en el cronograma de tu proyecto, registrarás todas las tareas asociadas con la finalización
+del trabajo. Recuerda utilizar los documentos de planificación clave que has creado para llegar a este punto, como tu
+estructura de desglose del trabajo (WBS). El objetivo principal de este paso es asegurar que no se está perdiendo una
+pieza clave del trabajo que se requiere para completar tu proyecto.
+
+Al crear una ruta crítica, concéntrate en las tareas esenciales "que es necesario hacer", en lugar de las tareas "que te
+gustaría hacer", pero que no son esenciales para la finalización del proyecto.
+
+*Paso 2: Establece dependencias.*
+
+Con todas tus tareas críticas en forma de lista, organiza esas tareas en orden de finalización identificando las dependen-
+cias.
+
+Para determinar las dependencias, define qué tareas deben completarse antes de que puedan comenzar otras tareas. La iden-
+tificación de dependencias es clave para el éxito del cronograma de un proyecto.
+
+Para identificar las dependencias de cada tarea, pregunta:
+
+¿Qué tarea debe realizarse antes de esta tarea?
+
+¿Qué tarea se puede terminar al mismo tiempo que esta tarea?
+
+¿Qué tarea debe realizarse inmediatamente después de esta tarea?
+
+Una vez que hayas respondido a estas preguntas, puedes enumerar estas dependencias junto a tu lista de tareas
+
 #### Obtener estimaciones de tiempo precisas de tu equipo
 
 #### Angel: El valor de las destrezas interpersonales en la estimación de tiempo
