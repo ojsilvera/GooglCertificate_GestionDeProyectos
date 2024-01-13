@@ -953,6 +953,10 @@ Incluirás información relevante en las filas de abajo, organizadas por fecha d
 ordenarás tus columnas según las semanas estimadas para completar el proyecto de principio a fin. En las filas inferiores,
 incluirás barras que representen las fechas en las que se llevarán a cabo ciertas tareas.
 
+Como se muestra a continuacion:
+
+![Alt text](image-9.png)
+
 Las hojas de cálculo son útiles aquí, porque pueden almacenar más información que solo el diagrama de Gantt.
 Aunque el cronograma del proyecto sirve como el componente central del plan del proyecto, puedes usar pestañas separadas en tu hoja de cálculo para colocar o vincular otros documentos que quieras incluir en tu plan, como un gráfico RACI o el estatuto de un proyecto. También puedes optar por incluir tus planes de gestión de riesgos y comunicación aquí.
 Con una hoja de cálculo, puedes añadir una pestaña para tus documentos. Conservar todos los documentos del proyecto en una hoja de cálculo te permite ahorrar tiempo, ayuda a todos a mantenerse organizados y reduce la carga de tener que buscar en los correos electrónicos para obtener información.
