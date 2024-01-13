@@ -154,7 +154,7 @@ también a los asistentes a que te consulten si tienen alguna pregunta adicional
 
 #### Consejos para dirigir una reunión inicial exitosa
 
-![Alt text](image-8.png)
+![!\[Alt text\](image-8.png)](image-8.png)
 
 ### Definir tareas e hitos
 
@@ -899,8 +899,6 @@ y el apoyo que recibes de tu equipo.
 
 En resumen, hacer las preguntas correctas, negociar eficazmente y practicar la empatía puede ayudarte a obtener estimaciones
 viables precisas de tus compañeros de equipo sobre las tareas del proyecto.
-
-#### Angel: El valor de las destrezas interpersonales en la estimación de tiempo
 
 ### Utilizar herramientas para construir un plan de proyecto
 
