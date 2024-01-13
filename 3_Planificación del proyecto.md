@@ -829,7 +829,6 @@ más tarde, para cumplir con su fecha límite.
 
 #### Obtener estimaciones de tiempo precisas de tu equipo
 
-
 La estimación de tiempo, la estimación del trabajo y la planificación de la capacidad son todas técnicas útiles para crear
 el cronograma de tu proyecto. En el centro de toda esta planificación está tu equipo. En todo el proceso de planificación
 del cronograma, trabajas con tus compañeros de equipo para recopilar estimaciones, y tienes en cuenta la capacidad de cada
@@ -840,7 +839,66 @@ la tarea tenga una mejor idea de cuánto tiempo tomará completar esa tarea. Tam
 asumir el trabajo. Pero estas conversaciones son bidireccionales, y tendrás que recurrir a tus habilidades interpersonales
 para obtener la estimación más precisa de parte de tu equipo.
 
-*Las habilidades interpersonales* son características personales que ayudan a las personas a trabajar eficazmente con otras personas. Entre otras, incluyen las destrezas interpersonales y de comunicación que hemos analizado en el transcurso de este programa. Las habilidades interpersonales pueden ser importantes cuando tratas de entender lo que podría estar bloqueando la habilidad de alguien para que tenga el mejor rendimiento en su trabajo. Repasemos tres formas de usar las habilidades interpersonales y reunir estimaciones precisas de tus compañeros de equipo. Estas incluyen hacer las preguntas correctas, negociar con eficacia y practicar la empatía. Comencemos con hacer las preguntas correctas. Piensa en conversaciones en torno a la estimación de tiempo como una especie de entrevista. Te conectas con tus compañeros de equipo para aprender más sobre cómo trabajan en tareas específicas y usarás esta información para crear tu cronograma. Con el objetivo de aprovechar al máximo la información más relevante de estas conversaciones, debes estar seguro de que estás haciendo preguntas eficaces y abiertas que dan lugar a a las respuestas que estás buscando. Una pregunta abierta es una pregunta que no se puede responder con un sí o un no. La respuesta proporciona los detalles pertinentes a lo que necesitas saber. Imaginemos esto en el contexto de nuestro proyecto en Office Green. Analizaste el diseño del nuevo sitio web con tu diseñador web y te gustaría saber cuánto tiempo le llevará bosquejar los diseños para que los revises. Bueno, digamos que comienzas la conversación haciendo una pregunta como: ¿Puedes completar los bosquejos en una semana? Esta es una pregunta cerrada que podría provocar una simple respuesta de sí o no, lo que no te dice mucho sobre la tarea de diseñar un sitio web o sobre el estilo de trabajo de tu compañero de equipo. Ahora, imagina si hubieras empezado esta conversación con una pregunta abierta. Por ejemplo, podrías preguntar al diseñador web algo así como: ¿Cuánto tiempo suele llevarte hacer un bosquejo del diseño de un sitio web como este? Se trata de una pregunta abierta, y es más probable que provoque una respuesta más detallada. A partir de ahí, puedes hacer preguntas de seguimiento como: ¿Qué tan complejos son los pasos para completar esta tarea? ¿Cuáles son los riesgos asociados a esta tarea? Y... ¿Cuándo crees que puedes tener esto listo? Al hacer a tus compañeros de equipo preguntas abiertas eficaces sobre sus tareas asignadas, puedes obtener más información sobre cómo trabajan y lo que hacen. A medida que tengas más de estas conversaciones, desarrollarás una mejor comprensión de los roles de tus compañeros de equipo y sus tareas y dependerás menos de tu equipo para hacer estimaciones precisas. Otra forma de usar las habilidades interpersonales para recopilar estimaciones de tus compañeros de equipo es negociando con eficacia. Parte de tu trabajo como gerente de proyectos es cerrar la brecha entre los objetivos de alto nivel del proyecto y la perspectiva cotidiana de tu equipo. Si bien tu proyecto podría ser tu principal prioridad, es posible que las personas en tu equipo de proyecto tengan prioridades contrapuestas en otros equipos de las que también deban hacer un seguimiento. Negociar de manera efectiva puede ayudarte a influenciar a un miembro del equipo para que tu proyecto sea su prioridad y colaboren para lograr un resultado que funcione para todos. Por ejemplo, imaginemos que el diseñador del sitio web calcula que le llevará dos semanas hacer el bosquejo del diseño del sitio web para que lo revises. Pero tal vez esperabas que la estimación pudiera ser de una semana. Para llegar a una estimación que funcione tanto para ti como para el diseñador, podrías desafiar un poco la estimación haciendo preguntas de seguimiento. Quizás puedes preguntar si su estimación incluye el bosquejo de diseños para varias páginas. Si es así, puedes preguntar si el diseñador puede compartir una o dos páginas contigo antes de la fecha límite propuesta. Al hacer preguntas, puedes determinar si su estimación es flexible o si necesitas contratar a otro diseñador para respetar el cronograma. Al negociar eficazmente con tus compañeros de equipo, puedes crear un sentido de responsabilidad compartida respecto de los resultados del proyecto y crear un cronograma que se alinee con la carga de trabajo de todos. Ahora analicemos el valor de practicar la empatía. La empatía hace referencia a la capacidad de una persona para relacionarse con los pensamientos y los sentimientos de los demás. Practicar la empatía en el trabajo puede ser una forma muy efectiva de generar confianza con tu equipo. Tus compañeros de equipo son humanos, cada persona puede hacer una tarea hasta cierto punto. Cuando analices estimaciones con el equipo, podrías practicar la empatía preguntando a cada persona sobre su carga de trabajo, incluidos el trabajo ajeno al proyecto y el equilibrio general entre el trabajo y la vida personal. También puedes preguntar si tienen vacaciones programadas o licencia durante el transcurso del proyecto, o si hay días festivos cruciales en los que no trabajarán. Esto te puede ayudar a evitar asignar tareas cuando tus compañeros de equipo no puedan completarlas a tiempo. Por ejemplo, el diseñador web podría decirte que también están diseñando un sitio web para otro equipo de Office Green y que el plazo de ambos proyectos se superpone. Por lo tanto, para evitar sobrecargar de trabajo a tu diseñador, podrías trabajar con el otro gerente de proyectos para equilibrar las cargas de trabajo de los equipos. A la gente le gusta sentir que se valora su trabajo, de modo que un aspecto de la empatía es recordar siempre ser agradecido del trabajo, la colaboración y el apoyo que recibes de tu equipo. Entonces, para recapitular, hacer las preguntas correctas, negociar eficazmente y practicar la empatía puede ayudarte a obtener estimaciones viables precisas de tus compañeros de equipo sobre las tareas del proyecto. A continuación, analizaremos cómo hacer uso de estas estimaciones en el plan del proyecto.
+*Las habilidades interpersonales* son características personales que ayudan a las personas a trabajar eficazmente con otras
+personas. Las habilidades interpersonales pueden ser importantes cuando tratas de entender lo que podría estar bloqueando la
+habilidad de alguien para que tenga el mejor rendimiento en su trabajo.
+
+Tres formas de usar las habilidades interpersonales y reunir estimaciones precisas de tus compañeros de equipo. Estas incluyen
+*hacer las preguntas correctas, negociar con eficacia y practicar la empatía.*
+
+*hacer las preguntas correctas.* Piensa en conversaciones en torno a la estimación de tiempo como una especie de entrevista. Te
+conectas con tus compañeros de equipo para aprender más sobre cómo trabajan en tareas específicas y usarás esta información para
+crear tu cronograma. Con el objetivo de aprovechar al máximo la información más relevante de estas conversaciones, debes estar
+seguro de que estás haciendo preguntas eficaces y abiertas que dan lugar a a las respuestas que estás buscando. Una pregunta
+abierta es una pregunta que no se puede responder con un sí o un no. La respuesta proporciona los detalles pertinentes a lo que
+necesitas saber.
+
+Una pregunta como: ¿Puedes completar los bosquejos en una semana? Esta es una pregunta cerrada que podría provocar una simple
+respuesta de sí o no, lo que no te dice mucho sobre la tarea o sobre el estilo de trabajo de tu compañero de equipo. Ahora,
+una pregunta abierta, Por ejemplo, podrías preguntar algo así como: ¿Cuánto tiempo suele llevarte hacer un bosquejo del diseño
+de un sitio web como este? Se trata de una pregunta abierta, y es más probable que provoque una respuesta más detallada. A
+partir de ahí, puedes hacer preguntas de seguimiento como: ¿Qué tan complejos son los pasos para completar esta tarea? ¿Cuáles
+son los riesgos asociados a esta tarea? Y... ¿Cuándo crees que puedes tener esto listo? Al hacer a tus compañeros de equipo
+preguntas abiertas eficaces sobre sus tareas asignadas, puedes obtener más información sobre cómo trabajan y lo que hacen. A
+medida que tengas más de estas conversaciones, desarrollarás una mejor comprensión de los roles de tus compañeros de equipo
+y sus tareas y dependerás menos de tu equipo para hacer estimaciones precisas
+
+*Negociar con eficacia.* Parte de tu trabajo como gerente de proyectos es cerrar la brecha entre los objetivos de alto nivel
+del proyecto y la perspectiva cotidiana de tu equipo. Si bien tu proyecto podría ser tu principal prioridad, es posible que
+las personas en tu equipo de proyecto tengan prioridades contrapuestas en otros equipos de las que también deban hacer un
+seguimiento. Negociar de manera efectiva puede ayudarte a influenciar a un miembro del equipo para que tu proyecto sea su
+prioridad y colaboren para lograr un resultado que funcione para todos.
+
+Por ejemplo, imaginemos que el diseñador del sitio web calcula que le llevará dos semanas hacer el bosquejo del diseño del
+sitio web para que lo revises. Pero tal vez esperabas que la estimación pudiera ser de una semana. Para llegar a una estimación
+que funcione tanto para ti como para el diseñador, podrías desafiar un poco la estimación haciendo preguntas de seguimiento.
+Quizás puedes preguntar si su estimación incluye el bosquejo de diseños para varias páginas. Si es así, puedes preguntar si
+el diseñador puede compartir una o dos páginas contigo antes de la fecha límite propuesta. Al hacer preguntas, puedes
+determinar si su estimación es flexible o si necesitas contratar a otro diseñador para respetar el cronograma.
+
+Al negociar eficazmente con tus compañeros de equipo, puedes crear un sentido de responsabilidad compartida respecto de
+los resultados del proyecto y crear un cronograma que se alinee con la carga de trabajo de todos.
+
+*El valor de practicar la empatía.* La empatía hace referencia a la capacidad de una persona para relacionarse con los
+pensamientos y los sentimientos de los demás. Practicar la empatía en el trabajo puede ser una forma muy efectiva de generar
+confianza con tu equipo.
+
+Tus compañeros de equipo son humanos, cada persona puede hacer una tarea hasta cierto punto. Cuando analices estimaciones
+con el equipo, podrías practicar la empatía preguntando a cada persona sobre su carga de trabajo, incluidos el trabajo ajeno
+al proyecto y el equilibrio general entre el trabajo y la vida personal.
+
+También puedes preguntar si tienen vacaciones programadas o licencia durante el transcurso del proyecto, o si hay días festivos
+cruciales en los que no trabajarán. Esto te puede ayudar a evitar asignar tareas cuando tus compañeros de equipo no puedan
+completarlas a tiempo.
+
+Por ejemplo, el diseñador web podría decirte que también están diseñando un sitio web para otro equipo de Office Green y
+que el plazo de ambos proyectos se superpone. Por lo tanto, para evitar sobrecargar de trabajo a tu diseñador, podrías
+trabajar con el otro gerente de proyectos para equilibrar las cargas de trabajo de los equipos. A la gente le gusta sentir
+que se valora su trabajo, de modo que un aspecto de la empatía es recordar siempre ser agradecido del trabajo, la colaboración
+y el apoyo que recibes de tu equipo.
+
+En resumen, hacer las preguntas correctas, negociar eficazmente y practicar la empatía puede ayudarte a obtener estimaciones
+viables precisas de tus compañeros de equipo sobre las tareas del proyecto.
 
 #### Angel: El valor de las destrezas interpersonales en la estimación de tiempo
 
