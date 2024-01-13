@@ -902,6 +902,14 @@ viables precisas de tus compañeros de equipo sobre las tareas del proyecto.
 
 ### Utilizar herramientas para construir un plan de proyecto
 
+#### Elaborar un cronograma del proyecto
+
+#### Mejores prácticas del plan de proyecto
+
+#### Construir un plan de proyecto: Herramientas y plantillas
+
+#### Introducción a los tableros Kanban
+
 ### Haz una revisión: Construir un plan de proyecto
 
 ## Gestionar presupuestos y compras
