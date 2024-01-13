@@ -922,12 +922,38 @@ recibe su nombre del ingeniero estadounidense Henry Gantt, quien ayudó a popula
 visual de las tareas de un proyecto, con un desglose claro de quién es responsable del trabajo y cuándo se deben completar
 las tareas.
 
-Para muchos, una ayuda visual que desarrolle las instrucciones escritas puede ser útil para entender y sintetizar el trabajo que tienen que hacer, cuándo deben completarlo y cómo sus tareas individuales se conectan con las demás tareas de un proyecto. Los diagramas de Gantt son casi como calendarios. Incluyen las fechas de inicio y finalización de cada tarea, y las barras se alinean con la cantidad de tiempo que se dedica a cada una de esas tareas. Por ejemplo, supongamos que tu compañero de equipo, Leon, tiene la tarea de crear un estatuto de proyecto, y otro compañero de equipo, Kylie, tiene la tarea de revisar y editar el estatuto cuando Leon haya terminado.
-Con un diagrama de Gantt, usarás barras de colores para ilustrar los días en que estarán trabajando en estas tareas. Con este método, tú y el resto de tu equipo pueden determinar que Leon tiene el viernes, el lunes y el martes para trabajar en el diagrama, y Kylie tiene el miércoles para completar la revisión.
-Las barras bajan en cascada e ilustran el paso del tiempo y los bloques de tiempo en los que se completan las tareas. Los diagramas de Gantt pueden ser una herramienta útil para hacer un seguimiento de los cronogramas, pero, ¿qué tipo de herramientas puedes usar para hacer un diagrama de Gantt?
-Hay algunas opciones, pero nos centraremos en una hoja de cálculo sencilla.
-Crear un diagrama de Gantt en una hoja de cálculo es bastante simple. Puedes organizar las columnas de la izquierda por elementos como título de la tarea, propietario de la tarea, fecha de inicio, fecha de finalización, duración y porcentaje de la tarea completada. Este es un muy buen lugar para enumerar las tareas y los hitos identificados anteriormente en una estructura de desglose del trabajo. Incluirás información relevante en las filas de abajo, organizadas por fecha de inicio.
-En el lado derecho de la hoja, ordenarás tus columnas según las semanas estimadas para completar el proyecto de principio a fin. En las filas inferiores, incluirás barras que representen las fechas en las que se llevarán a cabo ciertas tareas. Bastante genial, ¿verdad? Las hojas de cálculo son útiles aquí, porque pueden almacenar más información que solo el diagrama de Gantt.
+Para muchos, una ayuda visual que desarrolle las instrucciones escritas puede ser útil para entender y sintetizar el trabajo
+que tienen que hacer, cuándo deben completarlo y cómo sus tareas individuales se conectan con las demás tareas de un proyecto.
+
+Los diagramas de Gantt son casi como calendarios. Incluyen las fechas de inicio y finalización de cada tarea, y las barras
+se alinean con la cantidad de tiempo que se dedica a cada una de esas tareas. Por ejemplo, supongamos que tu compañero de
+equipo, Leon, tiene la tarea de crear un estatuto de proyecto, y otro compañero de equipo, Kylie, tiene la tarea de revisar
+y editar el estatuto cuando Leon haya terminado. Con un diagrama de Gantt, usarás barras de colores para ilustrar los días
+en que estarán trabajando en estas tareas. Con este método, tú y el resto de tu equipo pueden determinar que Leon tiene el
+viernes, el lunes y el martes para trabajar en el diagrama, y Kylie tiene el miércoles para completar la revisión.
+
+Las barras bajan en cascada e ilustran el paso del tiempo y los bloques de tiempo en los que se completan las tareas. Los
+diagramas de Gantt pueden ser una herramienta útil para hacer un seguimiento de los cronogramas, pero, ¿qué tipo de herramientas
+puedes usar para hacer un diagrama de Gantt?
+
+Hay algunas opciones, pero nos centraremos en una hoja de cálculo sencilla. Crear un diagrama de Gantt en una hoja de cálculo
+es bastante simple. Puedes organizar las columnas de la izquierda por elementos como:
+
+    título de la tarea
+    propietario de la tarea,
+    fecha de inicio
+    fecha de finalización
+    duración
+    porcentaje de la tarea completada.
+
+Este es un muy buen lugar para enumerar las tareas y los hitos identificados anteriormente en una estructura de desglose
+del trabajo.
+
+Incluirás información relevante en las filas de abajo, organizadas por fecha de inicio. En el lado derecho de la hoja,
+ordenarás tus columnas según las semanas estimadas para completar el proyecto de principio a fin. En las filas inferiores,
+incluirás barras que representen las fechas en las que se llevarán a cabo ciertas tareas.
+
+Las hojas de cálculo son útiles aquí, porque pueden almacenar más información que solo el diagrama de Gantt.
 Aunque el cronograma del proyecto sirve como el componente central del plan del proyecto, puedes usar pestañas separadas en tu hoja de cálculo para colocar o vincular otros documentos que quieras incluir en tu plan, como un gráfico RACI o el estatuto de un proyecto. También puedes optar por incluir tus planes de gestión de riesgos y comunicación aquí.
 Con una hoja de cálculo, puedes añadir una pestaña para tus documentos. Conservar todos los documentos del proyecto en una hoja de cálculo te permite ahorrar tiempo, ayuda a todos a mantenerse organizados y reduce la carga de tener que buscar en los correos electrónicos para obtener información.
 Como alternativa, también puedes optar por usar un documento digital para vincular todos los documentos pertinentes.
