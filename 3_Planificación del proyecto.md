@@ -904,13 +904,25 @@ viables precisas de tus compañeros de equipo sobre las tareas del proyecto.
 
 #### Elaborar un cronograma del proyecto
 
-Hola de nuevo. En los videos anteriores, te llevamos a través de diferentes métodos de estimación de tiempo. Ahora puedes relacionar cómo utilizar los métodos de estimación de tiempo para evitar que el proyecto fracase.
+Cómo incluir toda la información en un plan de proyecto para ayudarlos a ti y a tu equipo a encaminarse para cumplir sus
+objetivos. Incluso los proyectos más sencillos pueden beneficiarse de un plan formulado con claridad, y el pilar de un
+buen plan del proyecto es un cronograma claro que contenga todas las tareas de un proyecto, sus propietarios y cuándo
+deben completarse. Una vez tengas el cronograma de tu proyecto, puedes construir un plan sólido en torno a ese cronograma
+usando herramientas como las hojas de cálculo y aplicaciones como Asana.
 
-Analicemos cómo incluir toda esta información en un plan de proyecto para ayudarlos a ti y a tu equipo a encaminarse para cumplir sus objetivos. Incluso los proyectos más sencillos pueden beneficiarse de un plan formulado con claridad, y el pilar de un buen plan del proyecto es un cronograma claro que contenga todas las tareas de un proyecto, sus propietarios y cuándo deben completarse. Una vez tengas el cronograma de tu proyecto, puedes construir un plan sólido en torno a ese cronograma usando herramientas como las hojas de cálculo y Asana.
+*Cómo crear el cronograma de un proyecto.*
 
-Describiremos estas herramientas en unos momentos. Pero, primero, analicemos cómo crear el cronograma de un proyecto.
+Hay muchas herramientas útiles que se pueden usar para crear el cronograma de un proyecto, pero centrémonos en una se llama
+diagrama de Gantt.
 
-Hay muchas herramientas útiles que se pueden usar para crear el cronograma de un proyecto, pero centrémonos en una que a veces usamos aquí en Google que se llama diagrama de Gantt. Un diagrama de Gantt es un diagrama de barras horizontales que traza el cronograma de un proyecto. Dato curioso: el diagrama recibe su nombre del ingeniero estadounidense Henry Gantt, quien ayudó a popularizar el diagrama a principios del siglo XX. Entonces, ¿por qué las personas que trabajan en gestión de proyectos encuentran útil este diagrama? Bueno, es una representación muy visual de las tareas de un proyecto, con un desglose claro de quién es responsable del trabajo y cuándo se deben completar las tareas. Para muchas personas, una ayuda visual que desarrolle las instrucciones escritas puede ser útil para entender y sintetizar el trabajo que tienen que hacer, cuándo deben completarlo y cómo sus tareas individuales se conectan con las demás tareas de un proyecto. Los diagramas de Gantt son casi como calendarios. Incluyen las fechas de inicio y finalización de cada tarea, y las barras se alinean con la cantidad de tiempo que se dedica a cada una de esas tareas. Por ejemplo, supongamos que tu compañero de equipo, Leon, tiene la tarea de crear un estatuto de proyecto, y otro compañero de equipo, Kylie, tiene la tarea de revisar y editar el estatuto cuando Leon haya terminado.
+Un diagrama de Gantt es un diagrama de barras horizontales que traza el cronograma de un proyecto. Dato curioso: el diagrama
+recibe su nombre del ingeniero estadounidense Henry Gantt, quien ayudó a popularizar el diagrama a principios del siglo XX.
+
+¿por qué las personas que trabajan en gestión de proyectos encuentran útil este diagrama? Bueno, es una representación muy
+visual de las tareas de un proyecto, con un desglose claro de quién es responsable del trabajo y cuándo se deben completar
+las tareas.
+
+Para muchos, una ayuda visual que desarrolle las instrucciones escritas puede ser útil para entender y sintetizar el trabajo que tienen que hacer, cuándo deben completarlo y cómo sus tareas individuales se conectan con las demás tareas de un proyecto. Los diagramas de Gantt son casi como calendarios. Incluyen las fechas de inicio y finalización de cada tarea, y las barras se alinean con la cantidad de tiempo que se dedica a cada una de esas tareas. Por ejemplo, supongamos que tu compañero de equipo, Leon, tiene la tarea de crear un estatuto de proyecto, y otro compañero de equipo, Kylie, tiene la tarea de revisar y editar el estatuto cuando Leon haya terminado.
 Con un diagrama de Gantt, usarás barras de colores para ilustrar los días en que estarán trabajando en estas tareas. Con este método, tú y el resto de tu equipo pueden determinar que Leon tiene el viernes, el lunes y el martes para trabajar en el diagrama, y Kylie tiene el miércoles para completar la revisión.
 Las barras bajan en cascada e ilustran el paso del tiempo y los bloques de tiempo en los que se completan las tareas. Los diagramas de Gantt pueden ser una herramienta útil para hacer un seguimiento de los cronogramas, pero, ¿qué tipo de herramientas puedes usar para hacer un diagrama de Gantt?
 Hay algunas opciones, pero nos centraremos en una hoja de cálculo sencilla.
