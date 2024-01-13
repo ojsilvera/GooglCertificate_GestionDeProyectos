@@ -958,13 +958,28 @@ Como se muestra a continuacion:
 ![Alt text](image-9.png)
 
 Las hojas de cálculo son útiles aquí, porque pueden almacenar más información que solo el diagrama de Gantt.
-Aunque el cronograma del proyecto sirve como el componente central del plan del proyecto, puedes usar pestañas separadas en tu hoja de cálculo para colocar o vincular otros documentos que quieras incluir en tu plan, como un gráfico RACI o el estatuto de un proyecto. También puedes optar por incluir tus planes de gestión de riesgos y comunicación aquí.
-Con una hoja de cálculo, puedes añadir una pestaña para tus documentos. Conservar todos los documentos del proyecto en una hoja de cálculo te permite ahorrar tiempo, ayuda a todos a mantenerse organizados y reduce la carga de tener que buscar en los correos electrónicos para obtener información.
-Como alternativa, también puedes optar por usar un documento digital para vincular todos los documentos pertinentes.
-Si bien los diagramas de Gantt son una herramienta útil, están lejos de ser la única opción para tu plan de proyecto, y hay muchas razones por las que esta forma de documentación podría no funcionar para ti tu equipo de proyecto.
-Para un proyecto sencillo, puede que descubras que tu equipo responde mejor a un documento que incluya una lista de tablas o tareas, sus propietarios, fechas de entrega y vínculos a otros documentos de planificación pertinentes. O quizás tu equipo trabaja mejor con los tableros Kanban, que usan fichas para rastrear y visualizar el progreso de las tareas.
-Independientemente de la herramienta que elijas, si tu plan incluye los objetivos del proyecto, sus tareas, propietarios, fechas de inicio y finalización, y la documentación de planificación pertinente, entonces podrás mantener todos al día con la información.
-Ahora sabes un poco más sobre las herramientas que se pueden usar para crear el cronograma de un proyecto. A continuación, analizaremos las mejores prácticas para crear un plan de proyecto. Nos vemos en el siguiente video.
+Aunque el cronograma del proyecto sirve como el componente central del plan del proyecto, puedes usar pestañas separadas
+en tu hoja de cálculo para colocar o vincular otros documentos que quieras incluir en tu plan, como:
+
+    un gráfico RACI.
+    el estatuto de un proyecto.
+    planes de gestión de riesgos y comunicación.
+
+Con una hoja de cálculo, puedes añadir una pestaña para tus documentos. Conservar todos los documentos del proyecto en una
+hoja de cálculo te permite ahorrar tiempo, ayuda a todos a mantenerse organizados y reduce la carga de tener que buscar en
+los correos electrónicos para obtener información.
+
+Como alternativa, también puedes optar por usar un documento digital para vincular todos los documentos pertinentes. Si
+bien los diagramas de Gantt son una herramienta útil, están lejos de ser la única opción para tu plan de proyecto, y hay
+muchas razones por las que esta forma de documentación podría no funcionar para ti o tu equipo de proyecto.
+
+Para un proyecto sencillo, puede que descubras que tu equipo responde mejor a un documento que incluya una lista de tablas
+o tareas, sus propietarios, fechas de entrega y vínculos a otros documentos de planificación pertinentes. O quizás tu equipo
+trabaja mejor con los tableros Kanban, que usan fichas para rastrear y visualizar el progreso de las tareas.
+
+Independientemente de la herramienta que elijas, si tu plan incluye los objetivos del proyecto, sus tareas, propietarios,
+fechas de inicio y finalización, y la documentación de planificación pertinente, entonces podrás mantener todos al día con
+la información.
 
 #### Mejores prácticas del plan de proyecto
 
