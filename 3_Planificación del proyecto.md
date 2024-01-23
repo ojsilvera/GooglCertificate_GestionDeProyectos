@@ -983,6 +983,75 @@ la información.
 
 #### Mejores prácticas del plan de proyecto
 
+Logramos crear un plan de proyecto basado en un cronograma de proyecto que enumere todos los hitos, las tareas y las fechas
+límite del proyecto, y que describa claramente a las personas responsables de cada tarea. También aprendiste sobre los
+diagramas de Gantt, que son formas visuales simples de crear tu cronograma.
+
+Cinco prácticas recomendadas para crear un gran plan de proyecto que seguirán siendo útiles durante todas las fases de
+ejecución y cierre de tu proyecto, Estas incluyen:
+
+    - Garantizar una revisión cuidadosa de los entregables, los hitos y las tareas del proyecto.
+    - Tomarte el tiempo para planificar.
+    - Reconocer y planificar lo inevitable (las cosas saldrán mal).
+    - Ser siempre curioso.
+    - defender tu plan.
+
+Revizar detenidamente los entregables, los hitos y las tareas. Durante la fase de inicio, recordarás que creaste un estatuto
+del proyecto con información importante con respecto al proyecto, como tu objetivo, el alcance y los entregables. Cuando
+un proyecto entra en la fase de planificación, tus planes se vuelven más granulares.
+
+Analicemos esto en el contexto de tu proyecto en Office Green. En tu plan, debes desglosar más esta información. Estás
+creando un nuevo sitio web para ofrecer el servicio, de modo que tendrás que desglosar esa entrega en hitos más pequeños,
+como comenzar con una reunión con el desarrollador web y obtener la aprobación de los interesados. Y esos hitos se desglo-
+sarán en tareas más pequeñas, como bosquejar un diseño de un nuevo sitio web y desarrollar una página de bienvenida. Cada
+una de estas tareas se asignará a un compañero de equipo y se le indicará una fecha de inicio y finalización. Ahora, un
+nuevo sitio web no es el único entregable del proyecto Plant Pals. Tendrás que desglosar cada entregable en hitos y tareas
+para asegurarte de que tú y tu equipo tengan una idea clara de lo que debe hacerse para cumplir con los objetivos de tu
+proyecto.
+
+Tu plan gira en torno a completar todas y cada una de las tareas pequeñas, por lo que debes tomarte tu tiempo para hacer
+bien esta parte. Esto me lleva a mi segundo consejo: tómate el tiempo para planificar. Hay una razón por la que la plani-
+ficación es una fase completa del ciclo de vida del proyecto. Es un proceso intensivo, especialmente para proyectos más
+grandes con varios entregables. La planificación les da a ti y a tu equipo tiempo para pensar de manera realista sobre lo
+que tu equipo puede y no puede lograr dentro de un marco de tiempo determinado. Ni tú ni tus compañeros de equipo son
+máquinas. Hay límites para la cantidad de trabajo que una persona puede hacer en un período determinado. Usar las estrate-
+gias que compartimos anteriormente, como la estimación del trabajo y y la planificación de la capacidad, pueden ayudar a
+tu equipo a tener una idea realista de cuánto tiempo llevará el proyecto y cuándo podrás alcanzar tus hitos. También
+es importante incluir tiempo de reserva, dado que los proyectos rara vez salen exactamente según lo planeado. Más adelante
+en el proyecto, agradecerás haber incluido inicialmente cierta flexibilidad incorporada en torno al tiempo.
+
+Tercer consejo: reconocer y hacer planes para lo inevitable, ya que algunas cosas saldrán mal. Incluso con una planificación
+exhaustiva, tus proyectos seguirán experimentando contratiempos inesperados y baches en el camino. No puedes hacer planes
+para todos los problemas, pero el equipo puede identificar los riesgos más probables y crear planes para prevenir o mitigar
+esos riesgos. El tiempo de reserva es una herramienta útil para mitigar los problemas relacionados con las ralentizaciones
+en el progreso, un plan de gestión de riesgos.
+
+Cuarto consejo: mantén la curiosidad. Aunque puede que seas el único experto en tu proyecto en general, es extremadamente
+improbable que seas un experto en todas las tareas del proyecto. Por eso es tan importante sentarte con tus compañeros de
+equipo durante la fase de planificación y hacer muchísimas y muchísimas preguntas. Como mencionamos anteriormente, hacer
+preguntas a tus compañeros de equipo sobre su trabajo puede brindarte información más detallada sobre sus tareas para el
+proyecto. Su aporte te ayudará a construir un plan más sólido, y el diálogo bidireccional te ayudará a generar confianza
+con tus compañeros de equipo. Para que el proyecto siga funcionando sin problemas, también es importante entender las
+expectativas, las prioridades, las evaluaciones de riesgos y los estilos de comunicación de los interesados y los provee-
+dores, Por ejemplo, puedes preguntar a los interesados cuál es la mejor manera de mantenerlos informados sobre los planes
+del proyecto, y podrías preguntar a tus proveedores sobre su disponibilidad para trabajar en el proyecto.
+
+Quinto consejo: defiende tu plan. Al decidir cómo organizar tu plan, deberás hacerte unas preguntas,
+
+¿pueden tus compañeros de equipo usar la herramienta que usaste para crear tu plan?
+¿Es la información lo suficientemente clara para los interesados?
+¿Utilizarás este plan como una fuente de la verdad para permitir a tu equipo y a los interesados ahorrar tiempo y energía
+cuando necesiten encontrar información sobre el proyecto?
+
+Si la respuesta a cada una de estas preguntas es un sí rotundo, entonces estás en el camino correcto. Para lograr que tus
+compañeros de equipo y los interesados acepten tu plan de proyecto, ¡defiéndelo! Explica a tu equipo por qué los beneficia
+estar al día en relación con el plan. Al hacerlo, puedes influenciar a tus compañeros de equipo para que se mantengan en
+el camino correcto y actualicen el plan con regularidad.
+
+Recapitular, puedes preparar tu plan de proyecto para el éxito si revisas tus entregables, hitos y tareas; si te tomas el
+tiempo para planificar; si te preparas para las cosas que salen mal; te mantienes curioso; y defiendes tu plan una vez que
+esté finalizado.
+
 #### Construir un plan de proyecto: Herramientas y plantillas
 
 #### Introducción a los tableros Kanban
