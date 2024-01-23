@@ -1054,6 +1054,38 @@ esté finalizado.
 
 #### Construir un plan de proyecto: Herramientas y plantillas
 
+Los planes de proyecto son fundamentales porque se utilizan para determinar el alcance y el tiempo que lleva completar un
+proyecto. El plan de proyecto es esencialmente el plano del proyecto: establece todas las actividades y los hitos que tu
+equipo debe lograr para completar con éxito el proyecto. Los planes de proyectos vienen en formas, tamaños y clases
+diferentes. Dependiendo del proyecto que estés gestionando, la plantilla que uses puede variar, y algunas empresas incluso
+tienen plantillas estándar que sus gerentes de proyectos deben usar.
+
+¿cómo saber qué herramientas y técnicas utilizar y cuándo? Como regla general, es mejor utilizar una hoja de cálculo para
+un proyecto simple y un software de gestión de proyectos para un proyecto más complejo. Independientemente de la herramienta
+que utilices, asegúrate de incluir esta información clave:
+
+Números de identificación de tareas o nombres de tareas: Puedes terminar teniendo docenas, cientos o incluso miles de tareas
+en un proyecto. La asignación de un ID o nombre de tarea facilita la búsqueda y consulta de una tarea al comunicarse con
+los miembros del equipo y los interesados.
+
+Duraciones de las tareas: La duración de una tarea es la cantidad de tiempo que estimas que debería tomar esa tarea. Agregar
+la duración de las tareas a su plan de proyecto te ayuda a organizar y priorizar las tareas en el proyecto para asegurarte
+de alcanzar tu objetivo a tiempo.
+
+Fechas de inicio y finalización: Incluir fechas de inicio y finalización de cada tarea te ayuda a saber si estás progresando
+a tiempo o no.
+
+Quién es responsable de qué: Incluir el rol y las responsabilidades de cada miembro del equipo ayuda a promover la claridad
+y la eficiencia. Como práctica recomendada, asigna también un propietario a cada tarea.
+
+Usar una hoja de cálculo para construir un plan de proyecto
+
+Las hojas de cálculo son una excelente herramienta para utilizar en los planes de proyectos, especialmente para proyectos
+que son menos complejos y que tienen una clara asignación de tareas. Las hojas de cálculo pueden requerir una gran cantidad
+de entrada manual de información, pero, como gerente de proyectos, es posible que descubras que te gusta el control que
+brindan las hojas de cálculo. Las hojas de cálculo también se pueden personalizar, por lo que puedes adaptarlas a las ne-
+cesidades de tu proyecto.
+
 #### Introducción a los tableros Kanban
 
 ### Haz una revisión: Construir un plan de proyecto
