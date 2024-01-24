@@ -1088,6 +1088,46 @@ cesidades de tu proyecto.
 
 #### Introducción a los tableros Kanban
 
+Los tableros Kanban son una herramienta visual que se utiliza para administrar tareas y flujos de trabajo. Los tableros
+Kanban se pueden crear en pizarras, pizarras magnéticas, cartulinas, programas informáticos y más. Las tareas asociadas
+con el proyecto se escriben en tarjetas. Estas tarjetas se colocan en columnas, que representan el progreso que se ha
+hecho.
+
+Aunque los tableros Kanban son útiles para todo tipo de proyectos, normalmente son los más adecuados para los equipos de
+proyectos que trabajan en un enfoque de gestión de proyectos Agile. Quizás recuerdes que la gestión de proyectos Agile es
+un enfoque iterativo para gestionar proyectos que se centra en lanzamientos continuos e incorpora los comentarios de los
+clientes en cada iteración. Una vez que te conviertes en gerente de proyectos y has creado tu plan de proyecto, puedes
+decidir si un tablero Kanban es adecuado para tu proyecto.
+
+- Propósitos de un tablero Kanban
+
+Los tableros Kanban se utilizan para lo siguiente:
+
+        Proporcionar una comprensión visual rápida de los detalles del trabajo e información crítica sobre la tarea.
+
+        Facilitar las transferencias entre los interesados, como entre los recursos de desarrollo y prueba o entre los
+        miembros del equipo que trabajan en tareas relacionadas.
+
+        Ayudar a registrar métricas y mejorar los flujos de trabajo.
+
+        Uso de un tablero Kanban
+
+Antes de crear un tablero, es una buena práctica recopilar la información necesaria y diseñar elementos clave, como tareas,
+estado, fechas y duraciones. Esta información te servirá cuando crees tu tablero.
+
+Centrémonos en un ejemplo de tablero Kanban a continuación. Cada rectángulo de color está asociado con una tarea. Las
+tareas se representan horizontalmente a lo largo del plazo que requiere completar el trabajo. Cada columna representa
+dónde se encuentra la tarea en relación con su finalización. Entonces, cuando se inicia una tarea, pasará de hacer a en
+curso.
+
+Cuando el proyecto esté casi listo para publicarse o completarse, pasará a estar a prueba, y, cuando se someta a prueba
+y se apruebe, pasará a estar finalizado. Ten en cuenta que este es solo un ejemplo de un tablero Kanban y, según la
+herramienta que utilices, como un software o un tablero físico, podrás personalizar tu tablero utilizando distintas columnas
+y tarjetas. El tablero también puede tener filas para los recursos (equipo o persona), para ayudar a visualizar quién está
+trabajando activamente en qué.
+
+![Tablero Kanban Ejemplo](image-10.png)
+
 ### Haz una revisión: Construir un plan de proyecto
 
 ## Gestionar presupuestos y compras
