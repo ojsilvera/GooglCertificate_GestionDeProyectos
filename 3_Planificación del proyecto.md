@@ -1164,9 +1164,15 @@ Software de tablero Kanban
     son excelentes herramientas de software para usar si estás buscando introducir Kanban en tu proyecto. Hay muchas opciones,
     así que tómate el tiempo para evaluar cuál es la mejor para ti y tu proyecto.
 
-### Haz una revisión: Construir un plan de proyecto
-
 ## Gestionar presupuestos y compras
+
+### Comprender los presupuestos de los proyectos
+
+### Gestionar el presupuesto de un proyecto
+
+### Introducción a las adquisiciones
+
+### Afrontar los desafíos asociados con las compras
 
 ## Gestion eficaz de riesgos
 
