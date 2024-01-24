@@ -1168,6 +1168,14 @@ Software de tablero Kanban
 
 ### Comprender los presupuestos de los proyectos
 
+#### VídeoIntroducción: Gestionar presupuestos y compras
+
+#### VídeoLa importancia de definir un presupuesto
+
+#### VídeoComponentes clave del presupuesto de un proyecto
+
+#### LecturaIntroducción a la elaboración de presupuestos para proyectos
+
 ### Gestionar el presupuesto de un proyecto
 
 ### Introducción a las adquisiciones
