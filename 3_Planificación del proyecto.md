@@ -1128,6 +1128,42 @@ trabajando activamente en qué.
 
 ![Tablero Kanban Ejemplo](image-10.png)
 
+- Creación de tarjetas
+
+Las tarjetas varían en estilo, incluso puedes usar notas adhesivas en una pizarra, pero la mayoría de las tarjetas contienen
+algunos detalles clave sobre la tarea que representan. Cuando se usan tarjetas físicas, los equipos suelen usar ambos
+lados. Esto es lo que deben incluir ambos lados de la tarjeta:
+
+Parte delantera
+
+    Título e identificador único: Asegúrate de tener una referencia rápida para las tareas y los números de identificación.
+
+    Descripción del trabajo: Describe brevemente la tarea por realizar. Recuerda que esto debe registrarse en algo que no
+    sea más grande que una ficha.
+
+    Estimación del trabajo: Estima la cantidad de trabajo que se necesitará para completar la tarea. Por ejemplo, puedes
+    escribir “poco”, “medio” o “mucho” para indicar la cantidad de trabajo que crees que implicará esa tarea.
+
+    Quién está asignado a la tarea: Indica quién es responsable de completar la tarea; idealmente, una persona por tarjeta.
+
+Reverso
+
+    Fecha de inicio: Incluye la fecha de inicio de la tarea para usar en métricas y seguimiento, y asegúrate de que tu
+    estimación de tiempo sea precisa.
+
+    Días bloqueados: Indica en qué días las tareas pueden verse interrumpidas. Una tarea puede bloquearse si no se puede
+    seguir trabajando en ella. Por ejemplo, si se suponía que ibas a recibir un entregable y aún no se ha entregado, es
+    posible que ese día esté bloqueado para esta tarea en particular.
+
+    Fecha de finalización: Al igual que con cualquier plan, es importante saber cuándo se supone que se debe finalizar la
+    tarea. Esto te permite asegurarte de que tu proyecto aún esté en camino de alcanzar el objetivo final.
+
+Software de tablero Kanban
+
+    Si optas por utilizar una herramienta de software en lugar de un tablero físico, tienes algunas opciones. Asana  y Trello
+    son excelentes herramientas de software para usar si estás buscando introducir Kanban en tu proyecto. Hay muchas opciones,
+    así que tómate el tiempo para evaluar cuál es la mejor para ti y tu proyecto.
+
 ### Haz una revisión: Construir un plan de proyecto
 
 ## Gestionar presupuestos y compras
