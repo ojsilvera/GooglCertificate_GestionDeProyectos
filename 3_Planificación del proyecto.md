@@ -1325,6 +1325,40 @@ Tu proyecto deberá incurrir en diferentes tipos de costos. Por ejemplo, quizás
 como los costos indirectos en el presupuesto del proyecto. Categoriza estos diferentes tipos de costos en tu presupuesto
 para asegurarte de cumplir con los requisitos de la organización y del cliente.
 
+    Costos directos
+    
+        Estos son los costos de los artículos necesarios para ejecutar el proyecto. Estos incluyen, por ejemplo, los
+        siguientes:
+
+        * Sueldos y salarios de empleados y contratistas
+
+        * Costos de materiales
+
+        * Costos de alquiler de equipos
+
+        * Licencias de software
+
+        * Costos de viaje y transporte relacionados con el proyecto
+
+        * Formación del personal
+
+    Costos indirectos
+
+        Estos son los costos de los elementos que no conducen directamente a la finalización del proyecto, pero de todos
+        modos son esenciales para que el equipo del proyecto haga su trabajo. También se conocen como gastos generales.
+        
+        Estos incluyen, por ejemplo, los siguientes:
+
+        * Costos administrativos
+
+        * Servicios públicos
+
+        * Seguro
+
+        * Equipamiento general de oficina
+
+        * Seguridad
+
 ### Gestionar el presupuesto de un proyecto
 
 ### Introducción a las adquisiciones
