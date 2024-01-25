@@ -1490,6 +1490,65 @@ en mente.
 
 #### Superar los desafíos presupuestarios
 
+*Desafío 1: Preasignación del presupuesto.*
+
+Podría haber situaciones en las que el presupuesto ya esté definido antes incluso de comenzar el proyecto. Esto se conoce
+como preasignación presupuestaria. Algunas organizaciones siguen ciclos presupuestarios estrictos, lo que puede llevar a
+que se realicen estimaciones de costos antes de que el alcance del proyecto esté completamente definido.
+
+Si te dan un presupuesto preasignado, es importante trabajar con el cliente para definir expectativas sobre el alcance
+y los resultados entregables dentro del presupuesto asignado. Para entregar un buen producto sin salirte del presupuesto
+asignado, deberás planificar en detalle.
+
+Un presupuesto preasignado también se debe controlar de manera rutinaria a fin de asegurarse de que los montos presupuestados
+sean suficientes para cubrir los costos. Recuerda realizar un seguimiento cuidadoso de todos los gastos del presupuesto.
+Contrasta regularmente estos gastos con el presupuesto preasignado a fin de asegurarte de tener fondos suficientes para
+el resto del proyecto.
+
+Parte de esa planificación involucra asegurarte de realizar un seguimiento de los gastos fijos y aquellos relacionados
+con el tiempo y materiales. Los contratos fijos generalmente se pagan cuando se alcanzan ciertos hitos. Los contratos de
+tiempo y materiales, por otra parte, tienen pagos mensuales en función de las horas trabajadas y otras tarifas asociadas
+con el trabajo, como los viáticos.
+
+*Desafío 2: Cálculo incorrecto del TCO.*
+
+Otro escollo presupuestario que debes procurar evitar es subestimar el costo total de propiedad (TCO) de los recursos del
+proyecto. El TCO tiene en cuenta múltiples elementos que contribuyen al costo de un artículo. Este valor tiene en cuenta
+no solo los costos iniciales, sino también los gastos asociados con un producto o servicio a lo largo de toda su vida
+útil.
+
+Veamos el TCO en el contexto de un bien más común, como un vehículo. Digamos que compras un vehículo por un precio deter-
+minado, pero, luego, también debes pagar por cosas relacionadas con él, como los gastos relacionados con la licencia de
+conducir, el patentamiento y el mantenimiento. Si sumas todo esto, obtendrás el TCO del vehículo. Entonces, ahora que sabes
+qué cosas incluye el TCO, puedes evaluar esas tarifas antes de comprar tu próximo vehículo. Por ejemplo, podrías optar
+por un vehículo con menos requisitos de mantenimiento frente uno que requiera un servicio más frecuente, ya que sabes que
+eso te permitirá ahorrar dinero en general.
+
+El mismo concepto se aplica a la hora de presupuestar un proyecto. Por ejemplo, si tu equipo usa tecnología de software
+que tiene una tarifa de servicio, entonces es importante tener en cuenta los costos asociados con ese servicio. Otros tipos
+de costos que debes tener en cuenta a la hora de calcular el TCO son las garantías, los suministros, los costos adicionales
+requeridos y los costos de actualización.
+
+*Desafío 3: Requisitos imprevistos.*
+
+Los requisitos imprevistos, también conocidos como «corrupción del alcance» o «síndrome del lavadero, hacen referencia a
+una situación en la que los cambios, el crecimiento y otros factores afectan el alcance de un proyecto después de que
+comience. Los requisitos imprevistos derivan en trabajo adicional no planificado, lo que puede afectar el presupuesto del
+proyecto.
+
+Hay varios factores que pueden conducir a requisitos imprevistos. Estos son algunos de ellos:
+
+    Una declaración de trabajo (SoW) imprecisa
+
+    Conversaciones y acuerdos sobre el proyecto que no se documentan oficialmente.
+
+    Cronogramas y plazos inalcanzables
+
+    Pedidos de último momento de los principales interesados
+
+    Abordar estos factores mientras planificas tu proyecto puede ayudarte a evitar que los requisitos imprevistos afecten
+    tu presupuesto.
+
 #### Introducción a los términos presupuestarios
 
 ### Introducción a las adquisiciones
