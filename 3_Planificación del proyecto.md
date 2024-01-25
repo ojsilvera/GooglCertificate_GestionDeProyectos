@@ -1471,7 +1471,22 @@ las facturas? También deberás asegurarte de que todo cambio en el presupuesto 
 deberías aprobar un costo o una partida nuevos si no se han acordado o si no están dentro del alcance del proyecto y no
 deberías gastar dinero si los interesados o el patrocinador del proyecto no lo aprueban previamente.
 
-También es importante tener un buen argumento comercial antes de presentar el proyecto a un interesado. Además, deberás gestionar los cambios a medida que se realizan. Esto implica actualizar las proyecciones o las estimaciones y rastrear todo. Los cambios de presupuesto no deberían tomarte por sorpresa ni es buena idea pedir más dinero a los interesados una y otra vez. Una forma de evitarlo es revisar los números con regularidad. También debes aceptar que el presupuesto inevitablemente tendrá errores. Tu trabajo es que los sobrecostos esperados estén dentro de límites aceptables. Antes de que comience el proyecto, colabora con los patrocinadores y los interesados clave para fijar un límite aceptable. ¿Es 1%? ¿Es 10%? Tendrán que decidirlo juntos. En un video anterior, hablamos brevemente sobre lo que sucede cuando un proyecto supera o no alcanza el presupuesto. Si un proyecto supera el presupuesto, la empresa podría tener menos fondos para otras áreas del negocio. Pero profundicemos un poco más en los efectos para una empresa de gastar menos de lo presupuestado. Aunque parezca que gastar de menos es el sueño de un gerente de proyectos, en realidad, no lo es. Gastar menos de lo presupuestado es un indicador de una gestión de proyectos poco satisfactoria. Estar por debajo del presupuesto indica que posiblemente no hayas hecho un buen trabajo en la estimación inicial. También podría señalar que pudiste haber gastado más en el proyecto, lo que significa que pudiste haber tenido más recursos o resultados de mejor calidad, y puede significar que el presupuesto para proyectos futuros se reducirá. La empresa podría pensar que, dado que el proyecto costó menos de lo esperado, también podrá realizar proyectos futuros con un menor presupuesto, y esa tampoco es una situación totalmente deseable. La mejor opción es evaluar bien, adaptarse y gestionar el presupuesto con el riesgo en mente. Más adelante, abordaremos en detalle otras estrategias que podrías usar para ahorrar a la empresa tiempo y dinero. También aprenderás los entresijos de identificar y gestionar los riesgos más adelante en el curso. En la próxima lección, aprenderemos sobre las compras. Te veo en un rato.
+También es importante tener un buen argumento comercial antes de presentar el proyecto a un interesado. Además, deberás
+gestionar los cambios a medida que se realizan. Esto implica actualizar las proyecciones o las estimaciones y rastrear
+todo. Los cambios de presupuesto no deberían tomarte por sorpresa ni es buena idea pedir más dinero a los interesados
+una y otra vez. Una forma de evitarlo es revisar los números con regularidad. También debes aceptar que el presupuesto
+inevitablemente tendrá errores. Tu trabajo es que los sobrecostos esperados estén dentro de límites aceptables.
+
+Antes de que comience el proyecto, colabora con los patrocinadores y los interesados clave para fijar un límite aceptable.
+¿Es 1%? ¿Es 10%? Tendrán que decidirlo juntos. Si un proyecto supera el presupuesto, la empresa podría tener menos fondos
+para otras áreas del negocio. Aunque parezca que gastar de menos es el sueño de un gerente de proyectos, en realidad, no
+lo es. Gastar menos de lo presupuestado es un indicador de una gestión de proyectos poco satisfactoria. Estar por debajo
+del presupuesto indica que posiblemente no hayas hecho un buen trabajo en la estimación inicial. También podría señalar
+que pudiste haber gastado más en el proyecto, lo que significa que pudiste haber tenido más recursos o resultados de mejor
+calidad, y puede significar que el presupuesto para proyectos futuros se reducirá. La empresa podría pensar que, dado que
+el proyecto costó menos de lo esperado, también podrá realizar proyectos futuros con un menor presupuesto, y esa tampoco
+es una situación totalmente deseable. La mejor opción es evaluar bien, adaptarse y gestionar el presupuesto con el riesgo
+en mente.
 
 #### Superar los desafíos presupuestarios
 
