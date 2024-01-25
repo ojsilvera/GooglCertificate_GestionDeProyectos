@@ -1178,7 +1178,7 @@ Primero, desglosas el presupuesto en hitos, que son puntos importantes dentro de
 avance y generalmente se corresponden con un resultado entregable o una fase del proyecto. Luego, enumeras las actividades
 y tareas junto con sus costos asociados.
 
-Así, podrás calcular los gastos correctos de un período de tiempo particular. Esto se considera una proyección. Una pro-
+Así, podrás calcular los gastos correctos de un período de tiempo particular. *Esto se considera una proyección*. Una pro-
 yección del presupuesto de tu proyecto es una estimación o predicción de los costos en un período de tiempo. Deberás revisar
 con frecuencia el presupuesto del proyecto y este evolucionará a lo largo del ciclo de vida del proyecto.
 
@@ -1359,7 +1359,23 @@ para asegurarte de cumplir con los requisitos de la organización y del cliente.
 
         * Seguridad
 
+*Desarrollar un presupuesto de referencia.*
+
+Un presupuesto de referencia es una estimación inicial de los costos de un proyecto. Una vez que hayas creado un presupu-
+esto para el proyecto y esté aprobado, debes publicar este presupuesto de referencia y usarlo para compararlo con los gastos
+reales. Así, sabrás cómo viene el presupuesto del proyecto y podrás realizar ajustes informados.
+
 ### Gestionar el presupuesto de un proyecto
+
+#### Introduccion Crear el presupuesto de un proyecto
+
+#### Crear el presupuesto de un proyecto
+
+#### Mantener el presupuesto de un proyecto
+
+#### Superar los desafíos presupuestarios
+
+#### Introducción a los términos presupuestarios
 
 ### Introducción a las adquisiciones
 
