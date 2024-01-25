@@ -1433,7 +1433,14 @@ to. El cliente debe estar al tanto de este «colchón» en caso de que el gasto 
 deberás sentarte con el cliente y acordar posibles cambios en el alcance del proyecto.
 
 Se recomienda incluir columnas de costos planificados y costos reales. Así, podrás hacer un seguimiento de los costos en
-cada paso del camino. Recuerda que cada proyecto tendrá un costo estimado y un costo final. Tu objetivo es lograr que el costo estimado sea lo más cercano posible al costo final. Es posible que tengas que recalibrar tus estimaciones durante el proyecto. Es entonces cuando entra en juego el costo estimado para ejecutar el proyecto. El costo final del proyecto será diferente del costo previsto o estimado si no cumpliste exactamente con el presupuesto. Recuerda que, si bien tu objetivo es estar tan cerca como sea posible de la estimación original, no siempre será así. Cada vez que comiences un nuevo proyecto, será útil recordar los costos finales de proyectos anteriores y ver qué tan cerca de la meta estuviste. Ahora conoces la mejor manera de crear un presupuesto para un proyecto. A continuación, hablaremos de por qué llevar un presupuesto. Nos vemos ahí.
+cada paso del camino. Recuerda que cada proyecto tendrá un costo estimado y un costo final. Tu objetivo es lograr que el
+costo estimado sea lo más cercano posible al costo final. Es posible que tengas que recalibrar tus estimaciones durante
+el proyecto.
+
+Es entonces cuando entra en juego el costo estimado para ejecutar el proyecto. El costo final del proyecto será diferente
+del costo previsto o estimado si no cumpliste exactamente con el presupuesto. Recuerda que, si bien tu objetivo es estar
+tan cerca como sea posible de la estimación original, no siempre será así. Cada vez que comiences un nuevo proyecto, será
+útil recordar los costos finales de proyectos anteriores y ver qué tan cerca de la meta estuviste.
 
 #### Crear el presupuesto de un proyecto
 
