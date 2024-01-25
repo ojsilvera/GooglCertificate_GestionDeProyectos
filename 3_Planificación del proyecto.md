@@ -1299,6 +1299,32 @@ hora de comunicarse con los interesados y puede ser útil para hacer un seguimie
 
 Los presupuestos también ayudan a controlar los costos y actúan como base de la parte económica del proyecto.
 
+*Buenas prácticas para crear presupuestos de proyectos.*
+
+Algunos consejos que debes tener en cuenta a la hora de crear el presupuesto de tu proyecto:
+
+    *Datos históricos de referencia:* Es posible que tu proyecto sea similar a un proyecto anterior en el que haya trabajado
+    tu organización. En ese caso, es importante consultar cómo se manejó el presupuesto de ese proyecto, averiguar qué salió
+    bien y aprender de los errores del pasado.
+
+    *Consulta a tu equipo, tus mentores o tu gerente:* Adquiere el hábito de pedirle a tu equipo que revise tu trabajo para
+    que tus documentos pasen por más miradas críticas.
+
+    *Divide tu presupuesto en fases:* Dividir tus presupuestos en fases te permite asignar costos a las tareas del proyecto
+    a lo largo del cronograma proyectado en el que están planificados esos gastos. Si comparas tus tareas con un cronograma,
+    puedes realizar un seguimiento y comparar los costos planificados con los reales a lo largo del tiempo y administrar los
+    cambios en el presupuesto según sea necesario.
+
+    *Verificar una y otra vez:* Asegúrate de que tu presupuesto sea preciso y no contenga errores. Es probable que tu presu-
+    puesto requiera la aprobación de otro departamento, como Finanzas o la alta dirección, así que haz todo lo posible para
+    asegurarte de que sea lo más sencillo posible de entender y de que todos tus cálculos sean correctos.
+
+*Categoriza diferentes tipos de costos.*
+
+Tu proyecto deberá incurrir en diferentes tipos de costos. Por ejemplo, quizás debas contabilizar tanto los costos directos
+como los costos indirectos en el presupuesto del proyecto. Categoriza estos diferentes tipos de costos en tu presupuesto
+para asegurarte de cumplir con los requisitos de la organización y del cliente.
+
 ### Gestionar el presupuesto de un proyecto
 
 ### Introducción a las adquisiciones
