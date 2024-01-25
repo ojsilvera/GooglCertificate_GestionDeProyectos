@@ -1195,9 +1195,50 @@ según sea necesario a lo largo del ciclo de vida del proyecto. Según cuál sea
 único creador del presupuesto.
 
 Tu dominio sobre cosas como el presupuesto y la relación con proveedores podría variar según factores como el tamaño de
-la empresa, el equipo de soporte o el organigrama del equipo. Aunque no siempre gestionarás el presupuesto de principio a fin, el presupuesto y los hitos van de la mano. Por eso, es importante que conozcas cada detalle del presupuesto a lo largo del proyecto. Como gerente de proyecto, podría ser tu tarea obtener aprobaciones para los gastos. Las empresas suelen tener una política de gastos o de aprobación. Esta describe quién tiene la autoridad para comprometer recursos o contraer gastos u otras obligaciones en nombre de la empresa.
-Esto es importante, porque no podrás avanzar con ciertos entregables o acciones si no sabes cuánto costarán determinadas actividades y si tienes disponibles los fondos necesarios. No tendría ningún sentido alquilar una propiedad sin saber el costo del alquiler, ¿no? Sobre todo si el precio del alquiler excede tu presupuesto. La misma lógica vale a la hora de presupuestar un proyecto. El proceso de presupuestación suele ocurrir junto con el de programación porque los pasos de la programación dependen en gran medida de los costos. El gerente del proyecto colaborará con otros participantes para crear una estimación. Después del proceso de estimación de costos, es común que el patrocinador del proyecto u otro interesado clave revisen y aprueben la estimación de costos. Si es necesario ajustar y reasignar fondos para el proyecto, podría ser necesaria la aprobación final del director ejecutivo o del director de operaciones. Por ejemplo, en nuestro proyecto de Office Green, el director del producto es quien da la aprobación final. Como mencionamos antes, el gerente del proyecto quizás necesite algún tipo de autorización del Departamento de Finanzas. Esto puede variar de una empresa a otra. Así que asegúrate de conocer los procesos de tu empresa. La presupuestación de proyectos no es una operación estandarizada. Como gerente de proyectos, tendrás que priorizar los fondos dentro del proyecto para garantizar la máxima producción.
-Al final, la mayoría de los proyectos buscan mejorar la productividad laboral, aumentar los ingresos o reducir costos dentro de una organización. El presupuesto es uno de los aspectos más importantes de la gestión de proyectos y, cuando empiezas, cumplir con él es una de las tareas más complicadas. Es importante no excederse del presupuesto y costarle más dinero a la empresa, y es igualmente importante no estar por debajo del presupuesto, ya que eso podría afectar el presupuesto de la empresa para el próximo año. Las empresas de alto perfil, incluidas aquellas que cotizan en bolsa, como Google u organizaciones del sector público, como el Departamento de Educación local, podrían tener la obligación de informar sobre su desempeño financiero a los accionistas o auditores. Gastar mucho más o mucho menos del presupuesto cambiará la forma en que la empresa presupuesta para el año siguiente, lo que podría dejarte con menos dinero para trabajar en el futuro. En otras palabras, un gerente de proyectos debe demostrar que la cantidad de dinero solicitada realmente se usó, a fin de asegurar suficiente presupuesto para proyectos futuros. En las empresas más pequeñas, el presupuesto puede ser más ajustado, en cuyo caso es especialmente importante tener cuidado de no gastar más de lo inicialmente asignado. Entender los presupuestos es muy útil para tu éxito general como gerente de proyectos. En el siguiente video, aprenderemos los detalles específicos de lo que incluye un presupuesto. Nos vemos pronto.
+la empresa, el equipo de soporte o el organigrama del equipo. Aunque no siempre gestionarás el presupuesto de principio
+a fin, el presupuesto y los hitos van de la mano. Por eso, es importante que conozcas cada detalle del presupuesto a lo
+largo del proyecto.
+
+Como gerente de proyecto, podría ser tu tarea obtener aprobaciones para los gastos. Las empresas suelen tener una política
+de gastos o de aprobación. Esta describe quién tiene la autoridad para comprometer recursos o contraer gastos u otras
+obligaciones en nombre de la empresa.
+
+Esto es importante, porque no podrás avanzar con ciertos entregables o acciones si no sabes cuánto costarán determinadas
+actividades y si tienes disponibles los fondos necesarios. No tendría ningún sentido alquilar una propiedad sin saber el
+costo del alquiler, ¿no? Sobre todo si el precio del alquiler excede tu presupuesto. La misma lógica vale a la hora de
+presupuestar un proyecto.
+
+El proceso de presupuestación suele ocurrir junto con el de programación porque los pasos de la programación dependen en
+gran medida de los costos. El gerente del proyecto colaborará con otros participantes para crear una estimación. Después
+del proceso de estimación de costos, es común que el patrocinador del proyecto u otro interesado clave revisen y aprueben
+la estimación de costos.
+
+Si es necesario ajustar y reasignar fondos para el proyecto, podría ser necesaria la aprobación final del director ejecu-
+tivo o del director de operaciones.
+
+Por ejemplo, en nuestro proyecto de Office Green, el director del producto es quien da la aprobación final. Como mencionamos
+antes, el gerente del proyecto quizás necesite algún tipo de autorización del Departamento de Finanzas. Esto puede variar
+de una empresa a otra. Así que asegúrate de conocer los procesos de tu empresa.
+
+La presupuestación de proyectos no es una operación estandarizada. Como gerente de proyectos, tendrás que priorizar los
+fondos dentro del proyecto para garantizar la máxima producción.
+
+Al final, la mayoría de los proyectos buscan mejorar la productividad laboral, aumentar los ingresos o reducir costos dentro
+de una organización. El presupuesto es uno de los aspectos más importantes de la gestión de proyectos y, cuando empiezas,
+cumplir con él es una de las tareas más complicadas.
+
+Es importante no excederse del presupuesto y costarle más dinero a la empresa, y es igualmente importante no estar por
+debajo del presupuesto, ya que eso podría afectar el presupuesto de la empresa para el próximo año. Las empresas de alto
+perfil, incluidas aquellas que cotizan en bolsa, como Google u organizaciones del sector público, como el Departamento de
+Educación local, podrían tener la obligación de informar sobre su desempeño financiero a los accionistas o auditores.
+
+Gastar mucho más o mucho menos del presupuesto cambiará la forma en que la empresa presupuesta para el año siguiente, lo
+que podría dejarte con menos dinero para trabajar en el futuro. En otras palabras, un gerente de proyectos debe demostrar
+que la cantidad de dinero solicitada realmente se usó, a fin de asegurar suficiente presupuesto para proyectos futuros.
+
+En las empresas más pequeñas, el presupuesto puede ser más ajustado, en cuyo caso es especialmente importante tener cuidado
+de no gastar más de lo inicialmente asignado. Entender los presupuestos es muy útil para tu éxito general como gerente de
+proyectos.
 
 #### Componentes clave del presupuesto de un proyecto
 
