@@ -1286,6 +1286,19 @@ estés encaminado.
 
 #### Introducción a la elaboración de presupuestos para proyectos
 
+El presupuesto de un proyecto es una estimación de los recursos monetarios necesarios para alcanzar las metas y los obje-
+tivos del proyecto.
+
+Los presupuestos se crean en la fase inicial del proyecto.
+
+Al igual que con cualquier otro documento de gestión de proyectos, debes continuar revisando y controlando el presupuesto
+durante todo el ciclo de vida de tu proyecto.
+
+El presupuesto no se reduce a cuánto costará ejecutar el proyecto; también es una herramienta útil para consultar a la
+hora de comunicarse con los interesados y puede ser útil para hacer un seguimiento del avance de tu proyecto.
+
+Los presupuestos también ayudan a controlar los costos y actúan como base de la parte económica del proyecto.
+
 ### Gestionar el presupuesto de un proyecto
 
 ### Introducción a las adquisiciones
