@@ -1551,6 +1551,40 @@ Hay varios factores que pueden conducir a requisitos imprevistos. Estos son algu
 
 #### Introducción a los términos presupuestarios
 
+Flujo de efectivo
+
+El flujo de efectivo o flujo de caja representa la entrada y salida de efectivo del proyecto. Como gerente de proyectos,
+es importante que entiendas esto porque necesitarás financiación (dinero en efectivo para afrontar gastos) a fin de man-
+tener tu proyecto en marcha.
+
+El efectivo que ingresa a tu proyecto te permite mantener y compensar recursos y pagar facturas por materiales o servicios
+externos. En algunos proyectos, tendrás desde el comienzo todo el efectivo que necesitarás hasta el final. Si este es el
+caso, es importante controlar las erogaciones para asegurarte de tener fondos suficientes para completar el proyecto.
+
+Controlar el flujo de efectivo te permite tener una referencia de la evolución financiera del proyecto. Por ejemplo, si
+el efectivo que ingresa al proyecto es menor que las erogaciones, deberás ajustar el presupuesto. Planificar el flujo de
+caja de tu proyecto y hacer un seguimiento adecuado es un componente clave de la gestión presupuestaria.
+
+CAPEX y OPEX
+
+Las organizaciones tienen varios tipos diferentes de gastos, desde los salarios que pagan a sus empleados hasta el costo
+de los materiales con que crean sus productos. Estos gastos se pueden organizar en diferentes categorías. Dos de las más
+comunes son los gastos de capital (CAPEX) y los gastos operativos (OPEX).
+
+Los gastos de capital (CAPEX) son los gastos importantes por única vez que una organización realiza para adquirir activos
+que poseerá y conservará a largo plazo, como edificios, equipos y vehículos. La empresa incurre en estos gastos porque
+cree que crearán un beneficio para ella en el futuro.
+
+Los gastos operativos (OPEX) son gastos a corto plazo que se requieren para las tareas diarias involucradas en el funcio-
+namiento de la empresa, como los salarios, el alquiler y los servicios públicos. A menudo, son recurrentes.
+
+Es posible que debas contabilizar tanto los OPEX como los CAPEX en tus proyectos. Por ejemplo, si tu organización realiza
+una compra importante de software como parte de un proyecto de TI, podría contabilizarla como un gasto de capital. Los
+salarios mensuales pagados a un contratista para ayudar a implementar el software, por el contrario, serían un gasto ope-
+rativo. Es una buena idea hablar con tu departamento de finanzas o contabilidad cuando comiences a trabajar en el presu-
+puesto del proyecto para ver cómo distinguen entre OPEX y CAPEX. Esto te guiará en la asignación adecuada de gastos de
+capital y operativos para tus proyectos.
+
 ### Introducción a las adquisiciones
 
 ### Afrontar los desafíos asociados con las compras
