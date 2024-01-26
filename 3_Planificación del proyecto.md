@@ -1551,7 +1551,7 @@ Hay varios factores que pueden conducir a requisitos imprevistos. Estos son algu
 
 #### Introducción a los términos presupuestarios
 
-Flujo de efectivo
+*Flujo de efectivo.*
 
 El flujo de efectivo o flujo de caja representa la entrada y salida de efectivo del proyecto. Como gerente de proyectos,
 es importante que entiendas esto porque necesitarás financiación (dinero en efectivo para afrontar gastos) a fin de man-
@@ -1565,7 +1565,7 @@ Controlar el flujo de efectivo te permite tener una referencia de la evolución 
 el efectivo que ingresa al proyecto es menor que las erogaciones, deberás ajustar el presupuesto. Planificar el flujo de
 caja de tu proyecto y hacer un seguimiento adecuado es un componente clave de la gestión presupuestaria.
 
-CAPEX y OPEX
+*CAPEX y OPEX.*
 
 Las organizaciones tienen varios tipos diferentes de gastos, desde los salarios que pagan a sus empleados hasta el costo
 de los materiales con que crean sus productos. Estos gastos se pueden organizar en diferentes categorías. Dos de las más
@@ -1584,6 +1584,34 @@ salarios mensuales pagados a un contratista para ayudar a implementar el softwar
 rativo. Es una buena idea hablar con tu departamento de finanzas o contabilidad cuando comiences a trabajar en el presu-
 puesto del proyecto para ver cómo distinguen entre OPEX y CAPEX. Esto te guiará en la asignación adecuada de gastos de
 capital y operativos para tus proyectos.
+
+*Reservas para contingencia.*
+
+A veces, un proyecto tiene problemas e incurre en gastos adicionales. Una forma de prepararse para los costos no planifi-
+cados es mediante reservas para contingencias. Las reservas para contingencias son fondos que se agregan al costo estimado
+del proyecto para cubrir los riesgos identificados. Estos también se conocen informalmente como «colchones».
+
+Para determinar el importe de las reservas de contingencia, deberías usar un proceso de gestión de riesgos a fin de iden-
+tificar los riesgos que tienen más probabilidades de ocurrir. Profundizaremos en la gestión de riesgos más adelante en el
+curso, pero es importante que comprendas que los riesgos del proyecto pueden tener un impacto en el presupuesto.
+
+Las reservas para contingencias también se pueden utilizar para cubrir áreas en las que los costos reales resultan ser más
+altos que los costos estimados. Por ejemplo, podrías estimar una cierta cantidad en concepto de costos laborales, pero, si
+un trabajador contratado de tu equipo obtiene un aumento, los costos reales serán más altos de lo que estimaste.
+
+*Reservas de gestión.*
+
+Mientras que las reservas para contingencias se utilizan para cubrir los costos de los riesgos identificados, las reservas
+de gestión se utilizan para cubrir los costos de los riesgos no identificados. Por ejemplo, si estuvieras gestionando un
+proyecto de construcción y un meteoro golpeara tu maquinaria, podrías usar las reservas de gestión para cubrir los costos
+de los daños.
+
+Las reservas para contingencias son una cantidad estimada, mientras que las reservas de gestión generalmente son un por-
+centaje del costo total del proyecto. Para determinar las reservas de gestión de un proyecto, puedes estimar un porcentaje
+del presupuesto que se reservará. Esta estimación suele oscilar entre el 5% y el 10%, pero la cantidad dependerá de la
+complejidad del proyecto. Un proyecto con un mayor alcance podría requerir mayores reservas de gestión. Ten en cuenta que
+el gerente del proyecto generalmente necesitará la aprobación del patrocinador del proyecto para poder utilizar las reservas
+de gestión.
 
 ### Introducción a las adquisiciones
 
