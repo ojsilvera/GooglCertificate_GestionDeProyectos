@@ -1732,6 +1732,31 @@ garanticen que sabes exactamente lo que estás recibiendo del proveedor. Ya sea 
 casi siempre querrás consultar al equipo de legales y de cumplimiento normativo para asegurarte de que todo el contrato
 sea ético y legal.
 
+Consejos para el control
+
+El proceso de adquisición no termina con la firma del contrato. El paso siguiente es garantizar que el trabajo se realice
+de acuerdo con los términos del contrato. Tendrás que revisar periódicamente el desempeño y la calidad de cada proveedor.
+Cuando te comuniques con los proveedores, mantén la profesionalidad, pero la firmeza suficiente para asegurarte de que se
+cumplen todos los requisitos del proyecto y de que todos los hitos importantes se cumplan a tiempo y según el costo previsto.
+
+Construir y mantener una buena relación con tus proveedores beneficia al equipo y al proyecto en general. Esta relación
+facilitará los ajustes y las revisiones de los contratos si surge la necesidad. La adopción de ciertas medidas, como la
+realización de reuniones periódicas de verificación, garantizará que el trabajo se realice según lo previsto.
+
+Consejos para la finalización
+
+En la etapa de finalización del proceso de adquisición, medirás el éxito de tus adquisiciones. Pregúntate lo siguiente:
+
+    ¿Los materiales creados fueron de buena calidad?
+
+    ¿Hubo problemas con los contratos de mano de obra?
+
+    ¿Cómo fueron tus relaciones con los proveedores?
+
+Durante esta etapa, también es importante documentar las lecciones aprendidas. Es probable que en el futuro participes en
+otro proyecto similar a este. Toma nota sobre cómo funcionó el proceso de adquisición para que puedas usar esta información
+en un proyecto futuro
+
 #### Documentación común de adquisiciones
 
 #### Crear una declaración de trabajo
