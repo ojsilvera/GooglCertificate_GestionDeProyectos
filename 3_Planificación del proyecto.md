@@ -1683,6 +1683,21 @@ y dedicar más tiempo a la fase de negociación es sumamente importante en un en
 
 #### Consejos para el proceso de adquisición
 
+Adquisición significa obtener todos los materiales, servicios y suministros necesarios para completar el proyecto. Hay
+cinco pasos en el proceso típico de adquisición:
+
+    Iniciación: planificar lo que necesitas para cumplir los objetivos de tu proyecto
+
+    Selección: decidir qué suministros y proveedores utilizar
+
+    Redacción de contratos: desarrollar, revisar y firmar los contratos
+
+    Control: realizar los pagos y mantener y garantizar la calidad
+
+    Finalización: medir tu éxito
+
+![Proceso de compras](image-11.png)
+
 #### Documentación común de adquisiciones
 
 #### Crear una declaración de trabajo
