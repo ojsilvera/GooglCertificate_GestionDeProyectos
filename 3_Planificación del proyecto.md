@@ -1892,6 +1892,12 @@ de todo el proyecto.
 
 ### Afrontar los desafíos asociados con las compras
 
+#### Obtener apoyo para las compras
+
+#### Ética en el proceso de compras
+
+#### Evitar las trampas éticas en las compras
+
 ## Gestion eficaz de riesgos
 
 ## Organizar la comunicacion y la documentacion
