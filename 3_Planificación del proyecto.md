@@ -1698,6 +1698,40 @@ cinco pasos en el proceso típico de adquisición:
 
 ![Proceso de compras](image-11.png)
 
+Durante cada paso del proceso de adquisición, hay algunos consejos que pueden ayudarte a ahorrar tiempo y dinero y al mismo
+tiempo garantizar el éxito de tu proyecto.
+
+Consejos para la iniciación
+
+Mientras planificas tu proyecto, averigua qué materiales, recursos y suministros necesitarás para realizar el trabajo. Durante
+esta etapa, decidirás qué elementos se obtendrán internamente y qué elementos se conseguirán externamente. Una vez que
+hayas decidido qué elementos necesitas subcontratar, compara las especificaciones, componentes, medidas de calidad, normas
+y características de cada uno de ellos con los requisitos de tu proyecto. Es posible que algunos de los elementos tengan
+características que no necesitas. Si puedes identificar esas características innecesarias, sabrás con exactitud qué quieres
+que tenga o no tenga tu elemento, y esto puede reducir tu costo total.
+
+Consejos para la selección
+
+Ahora que has esbozado lo que necesitas para tu proyecto, tienes que determinar los proveedores para obtener estos ele-
+mentos. Investiga y evalúa varios proveedores y prestadores, e intenta averiguar si los proveedores que prefieres tienen
+fama de entregar un trabajo de calidad a tiempo. Después de que hayas identificado a tus proveedores preferidos, entre-
+vístalos y conoce más sobre sus productos y servicios. De ser posible, haz visitas a las instalaciones para ver exactamente,
+en persona, cómo dirige su negocio cada proveedor.
+
+Consejos para la redacción de contratos
+
+La redacción de contratos requiere prestar suma atención a los detalles, así que observa con detenimiento las inclusiones
+y las exclusiones en la oferta del proveedor. Puede que haya algunos elementos incluidos en el precio del proveedor que
+puedas obtener internamente con un costo adicional bajo o nulo. Por ejemplo, la oferta del proveedor puede incluir cargos
+por almacenamiento de materiales, uso de ciertos equipos o mano de obra. Todas estas son cosas que puedes conseguir con
+los recursos de tu organización, por lo que puedes optar por ahorrar el costo de esos elementos del proveedor mediante
+el uso de materiales y recursos internos.
+
+A veces, el proveedor puede redactar el contrato. En este caso, verifica cuidadosamente que la claridad y la exactitud te
+garanticen que sabes exactamente lo que estás recibiendo del proveedor. Ya sea que el contrato lo escribas tu o el proveedor,
+casi siempre querrás consultar al equipo de legales y de cumplimiento normativo para asegurarte de que todo el contrato
+sea ético y legal.
+
 #### Documentación común de adquisiciones
 
 #### Crear una declaración de trabajo
