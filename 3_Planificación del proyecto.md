@@ -1660,7 +1660,26 @@ las compras entre la metodología Agile y la tradicional.
 En la metodología Agile, la gestión de compras suele implicar más colaboración con el equipo del proyecto y con el proveedor
 final que en los enfoques tradicionales. Se hace un fuerte énfasis en la relación entre estas partes. El equipo completo
 del proyecto desempeña un papel más importante a la hora de identificar qué se debe comprar. En lugar de tener contratos
-que se basan en entregables fijos, la gestión de compras en la metodología Agile tiende a tener un contrato «vivo» que se puede adaptar en función de la evaluación del proyecto. Si piensas en la palabra «agilidad», que significa moverse fácil y rápidamente, recordarás que las compras en la metodología Agile pueden cambiar más fácilmente que en los métodos de compras tradicionales. En este proceso, el equipo revisa el proyecto o los resultados entregables de forma periódica y aborda de manera consistente los comentarios. Esta forma de trabajar es importante para comunicarte con tus proveedores, de modo que entiendan este estilo de trabajo y acepten mantener la flexibilidad. Una vez más, es muy importante tener una relación positiva con el proveedor de compras. Esto es clave, ya que posiblemente el contrato deba renegociarse en varios puntos a lo largo del proyecto. Por otra parte, la gestión tradicional de las compras tiende a centrarse en contratos estándar con términos y resultados entregables claros. En los enfoques tradicionales, el gerente de proyectos podría ser responsable de todas las etapas de las compras en lugar de que todo el equipo aporte su opinión. Los contratos suelen incluir documentación extensa que establece requisitos fijos y muchos detalles sobre los servicios y resultados entregables. Si bien esto puede parecer más rígido, la ventaja es que delinearás con más claridad los flujos de trabajo y los plazos. De esta manera, estarás mucho más protegido frente a circunstancias imprevistas y quizás no tengas que afrontar cambios impredecibles. En los enfoques tradicionales, el proceso de negociación puede ser un poco más complicado. No necesariamente tendrás flexibilidad para renegociar contratos si algo cambia, por lo que quizás tengas que iniciar todo el proceso de nuevo. Por eso, ser tan detallado como sea posible y dedicar más tiempo a la fase de negociación es sumamente importante en un enfoque más tradicional de gestión de proyectos. Como habrás adivinado, las compras pueden tornarse bastante complejas, pero hay algunos documentos oficiales que pueden guiarte a lo largo del proceso de compras. En el siguiente video, aprenderás más sobre esos documentos y procesos. Nos vemos ahí.
+que se basan en entregables fijos, la gestión de compras en la metodología Agile tiende a tener un contrato «vivo» que se
+puede adaptar en función de la evaluación del proyecto. Si piensas en la palabra «agilidad», que significa moverse fácil
+y rápidamente, recordarás que las compras en la metodología Agile pueden cambiar más fácilmente que en los métodos de compras
+tradicionales.
+
+En este proceso, el equipo revisa el proyecto o los resultados entregables de forma periódica y aborda de manera consistente
+los comentarios. Esta forma de trabajar es importante para comunicarte con tus proveedores, de modo que entiendan este
+estilo de trabajo y acepten mantener la flexibilidad. Una vez más, es muy importante tener una relación positiva con el
+proveedor de compras. Esto es clave, ya que posiblemente el contrato deba renegociarse en varios puntos a lo largo del
+proyecto.
+
+la gestión tradicional de las compras tiende a centrarse en contratos estándar con términos y resultados entregables
+claros. En los enfoques tradicionales, el gerente de proyectos podría ser responsable de todas las etapas de las compras
+en lugar de que todo el equipo aporte su opinión. Los contratos suelen incluir documentación extensa que establece requisitos
+fijos y muchos detalles sobre los servicios y resultados entregables. Si bien esto puede parecer más rígido, la ventaja
+es que delinearás con más claridad los flujos de trabajo y los plazos. De esta manera, estarás mucho más protegido frente
+a circunstancias imprevistas y quizás no tengas que afrontar cambios impredecibles. En los enfoques tradicionales, el
+proceso de negociación puede ser un poco más complicado. No necesariamente tendrás flexibilidad para renegociar contratos
+si algo cambia, por lo que quizás tengas que iniciar todo el proceso de nuevo. Por eso, ser tan detallado como sea posible
+y dedicar más tiempo a la fase de negociación es sumamente importante en un enfoque más tradicional de gestión de proyectos.
 
 #### Consejos para el proceso de adquisición
 
