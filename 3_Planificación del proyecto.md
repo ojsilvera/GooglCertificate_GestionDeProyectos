@@ -1615,6 +1615,36 @@ de gestión.
 
 ### Introducción a las adquisiciones
 
+#### Comprender las adquisiciones
+
+Las compras tienen que ver con obtener todos los materiales, servicios y suministros necesarios para completar el proyec-
+to. También necesitarás conseguir proveedores. Los proveedores son personas o empresas que proporcionan bienes y servicios
+esenciales. La gestión de proveedores puede pensarse como la «compra» de personas o empresas.
+
+La gestión de proveedores cubre las actividades incluidas en la investigación y la contratación de proveedores. En lugar
+de materiales, la gestión de proveedores busca adquirir un servicio o talento específico y, luego, manejar esa relación.
+
+La búsqueda de talento incluye investigar y obtener estimaciones de costos de diferentes empresas asociadas que puedan
+participar en un proyecto. Por lo general, recurrirás a proveedores cuando brinden habilidades especializadas que no
+estén disponible dentro de la empresa.
+
+La gestión de proveedores implica encontrar proveedores, pedirles presupuestos, identificar qué proveedores satisfarán
+mejor las necesidades, negociar contratos, fijar plazos, evaluar el desempeño y asegurarse de que se realicen los pagos.
+
+También implica familiarizarse con regulaciones como la Ley de Estadounidenses con Discapacidades, si trabajas en los
+EE. UU., por ejemplo. Si trabajas en otro lugar, deberás estar al tanto de regulaciones similares vigentes en ese país.
+
+Ten en cuenta que no todos los proyectos requerirán proveedores o contratistas, por lo que no todos los proyectos reque-
+rirán tareas de gestión de proveedores.
+
+#### El proceso de adquisición
+
+#### Consejos para el proceso de adquisición
+
+#### Documentación común de adquisiciones
+
+#### Crear una declaración de trabajo
+
 ### Afrontar los desafíos asociados con las compras
 
 ## Gestion eficaz de riesgos
