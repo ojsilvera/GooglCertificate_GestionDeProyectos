@@ -1818,6 +1818,78 @@ proyecto.
 
 #### Crear una declaración de trabajo
 
+Después de enviar una solicitud de propuesta a los clientes y seleccionar al proveedor, cliente o contratista con los que
+quieres trabajar, también les enviarás una *declaración de trabajo o SoW*.
+
+Una declaración de trabajo es un documento que expone claramente los productos y servicios que un proveedor o contratista
+proporcionará a la organización. Una SoW también proporciona una descripción de lo que el contratista necesita para prestar
+correctamente los servicios acordados. Aunque la SoW cubre las necesidades del cliente, es igualmente importante incluir
+las necesidades de la organización y las del proveedor. Es fundamental que todos los involucrados entiendan qué se espera
+de cada uno de ellos para poder ofrecer los mejores productos o servicios posibles.
+
+El gerente de proyectos es el responsable de redactar la SoW, pero suele recurrir a expertos en la materia o SME que
+tengan experiencia técnica que el gerente de proyectos no posea. Los asesores legales de tu organización revisarán este
+documento contigo e incluso podrían ayudarte a redactarlo.
+
+Cómo crear una SoW, para empezar incluir encabezados de página con el nombre de la empresa, el proyecto y la fecha de
+creación. En la parte superior de la página, no olvides incluir el nombre de los principales interesados, como el tuyo,
+como gerente de proyectos, y el del patrocinador, que en este caso es el director del producto.
+
+A continuación, deberás construir una tabla de revisiones. La SoW probablemente pasará por varias rondas de revisión,
+porque distintos interesados podrían revisarla y sugerir cambios. Deberás detallar esos cambios en este cuadro.
+
+A continuación, deberás crear una sección de propósito, en la que darás detalles sobre cuáles son los resultados deseados
+No olvides incluir una sección sobre el público objetivo y asegúrate de que incluya a todos.
+
+![SoW](image-12.png)
+
+Por ejemplo, en este caso, el objetivo del proyecto es lanzar un nuevo servicio que proporcione plantas de escritorio a
+oficinas y negocios comerciales. Si tienes objetivos más específicos, también puedes enumerarlos aquí.
+
+está la sección de alcance, donde deberás incluir qué implica el servicio. Puedes escribir que el servicio incluye proporcionar
+a los clientes plantas pequeñas que requieren poco mantenimiento y que pueden colocar en sus escritorios. Los clientes
+pueden pedir plantas en línea o desde un catálogo impreso. Office Green enviará las plantas a la dirección de trabajo del
+cliente. Entre los tipos de plantas, se incluyen helechos de seis pulgadas, cactus pequeños y bonsái de cinco pulgadas.
+Si se considera este proveedor, estas serían algunas actividades importantes: almacenar las plantas en un depósito,
+mantener el buen estado de las plantas al proporcionarles agua y luz, comprar los jarrones y asegurarse de que estén en
+casi perfectas condiciones al momento de la entrega.
+
+![alcance](image-13.png)
+
+También deberías mencionar qué cosas están fuera del alcance o, en otras palabras, qué no incluye el proyecto. Así, no
+habrá ningún lugar para la confusión y el proveedor tendrá expectativas más claras. Por ejemplo, podrías indicar que el
+proyecto no incluye informes anuales ni pedidos de plantas especiales que no se mencionen en el alcance del proyecto. Esto
+ayuda a trazar límites claros y define expectativas claras para el proveedor. En cuanto a los resultados entregables,
+lo mejor es una definición clara de qué ofrecerá el proyecto. Por ejemplo, los resultados entregables del proyecto de
+Office Green podrían ser que el proveedor entregue guías de mantenimiento que expliquen cómo cuidar las plantas o que el
+proveedor sea el responsable de desarrollar una página de ayuda en el sitio web de Office Green para abordar preguntas e
+inquietudes. Dado que los hitos son una parte tan importante del seguimiento del avance, el presupuesto y el alcance, tam-
+bién se incluirán aquí.
+
+![hitos, fuera de alcance](image-14.png)
+
+Estos podrían ser algunos hitos del proyecto de Plant Pals: atender los pedidos de plantas del primer trimestre, realizar
+entregas a los principales clientes, presentar encuestas de satisfacción del cliente, reunir opiniones y comentarios de
+clientes, y crear informes al respecto.
+
+Dejar muy en claro aquí cuántas horas se necesitan para terminar este proyecto e indicar aquí una fecha específica antes
+de la cual se deban brindar los servicios. En la parte inferior, generalmente, agregarás términos y condiciones, junto
+con otros descargos. Es buena idea incluir un descargo que indique que podrían realizarse revisiones a lo largo del pro-
+yecto. Es importante incluir esto en caso de que el alcance cambie a causa de problemas imprevistos. Es aconsejable men-
+cionar las revisiones en este descargo porque, como gerente de proyectos, lo mejor es no prometer de más y cumplir de
+menos. Siempre debes dejar en claro que pretendes cumplir el programa a menos que surjan circunstancias que estén fuera
+de tu control.
+
+![Tiempo, reviciones, condiciones de pago](image-15.png)
+
+Otra parte de la SoW son las condiciones de pago. En ellas, se establece cuándo les pagarás a los proveedores. Asegurarte
+de pagarles a los proveedores a tiempo contribuirá con una buena relación. En general, una buena práctica de compras sería
+pagarles a tus proveedores y contratistas al momento de la entrega de los bienes y servicios y no antes, a menos que se
+haya acordado lo contrario en un caso en particular.
+
+Por ejemplo, el proveedor de plantas de Office Green podría solicitar que le paguen al alcanzar cada hito y no al final
+de todo el proyecto.
+
 ### Afrontar los desafíos asociados con las compras
 
 ## Gestion eficaz de riesgos
