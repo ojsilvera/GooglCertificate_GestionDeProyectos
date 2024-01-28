@@ -1911,7 +1911,17 @@ para evitar la discriminación y asegurarse de que la empresa actúe con respons
 gerente de proyectos, tú debes garantizar que los distintos interesados que representan a la empresa también adhieran a
 estas políticas y procesos.
 
-Todos deberán estar al tanto de las reuniones pertinentes sobre asuntos legales o cuestiones de cumplimiento, y tú, como director de proyecto, tendrás que recordarle al equipo cuándo son las reuniones. Incluir a los interesados adecuados es especialmente importante si se requiere alguna aprobación, ya que impactará en el proyecto de una forma u otra. Como en la mayoría de los proyectos de Plant Pals, es clave involucrar a Asuntos legales y Cumplimiento para las revisiones y aprobaciones. Por ejemplo, digamos que algunas de las oficinas a las que entregas plantas admiten mascotas. En tu contrato con el proveedor, especificaste que quieres ofrecer solo plantas no tóxicas. Por desgracia, el proveedor proporcionó una planta con hojas que son nocivas para los animales. Office Green podría ser responsable y meterse en problemas legales porque se pasó por alto este detalle crítico. Es una consideración bastante crucial, ¿no? Sin importar si tu futura empresa tiene un equipo o asesores legales, que algún experto en el tema revise los contratos tiene sentido desde el punto de vista empresarial y debe ser una prioridad. Ahora, ya estás en camino a convertirte en abogado. ¡Es broma! Pero esperamos que comprendas mejor la importancia del equipo de Asuntos legales y que les pidas que revisen tus futuros contratos. A continuación, analizaremos la importancia de consultar con tus proveedores y descubriremos qué tiene que ver el cumplimiento con el proceso de compras. ¡Nos vemos pronto!
+Todos deberán estar al tanto de las reuniones pertinentes sobre asuntos legales o cuestiones de cumplimiento, y tú, como
+director de proyecto, tendrás que recordarle al equipo cuándo son las reuniones. Incluir a los interesados adecuados es
+especialmente importante si se requiere alguna aprobación, ya que impactará en el proyecto de una forma u otra.
+
+Como en la mayoría de los proyectos, es clave involucrar a Asuntos legales y Cumplimiento para las revisiones y aprobacio-
+nes. Por ejemplo, digamos que algunas de las oficinas admiten mascotas. En tu contrato con el proveedor, especificaste que
+quieres ofrecer solo plantas no tóxicas. Por desgracia, el proveedor proporcionó una planta con hojas que son nocivas para
+los animales. Office Green podría ser responsable y meterse en problemas legales porque se pasó por alto este detalle crítico.
+
+Es una consideración bastante crucial, ¿no? Sin importar si tu futura empresa tiene un equipo o asesores legales, que algún
+experto en el tema revise los contratos tiene sentido desde el punto de vista empresarial y debe ser una prioridad.
 
 #### Ética en el proceso de compras
 
