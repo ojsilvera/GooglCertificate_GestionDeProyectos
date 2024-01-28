@@ -1898,8 +1898,19 @@ El proceso de compras no termina una vez que has seleccionado los proveedores y 
 cadores de rendimiento y reuniones, como revisiones trimestrales, para hacer un seguimiento del rendimiento y evaluar si
 ambas partes cumplen con su acuerdo inicial.
 
-Cuando haya contratos y papeleo con terminología que desconozcas, deberás buscar ayuda de un equipo legal. La situación puede variar en función del tamaño de la empresa. Algunas empresas, como las empresas grandes y bien establecidas, cuentan con un equipo legal. Otras empresas subcontratan su equipo de servicios legales. Algunas startups o empresas pequeñas no cuentan con un equipo legal, pero recurren a asesores legales si es necesario. De nuevo, todo depende de la empresa en la que trabajas. Las leyes relacionadas con la manufactura y el consumismo varían de un país a otro,
-pero casi siempre habrá leyes vigentes que tendrás que seguir sobre temas como el comercio justo y ético. La mayoría de las empresas tienen una misión o declaración de valor. A veces, un equipo de Ética y Cumplimiento se asegura de que las operaciones diarias cumplan con la declaración de valor y las políticas gubernamentales. Este equipo también trabajará para evitar la discriminación y asegurarse de que la empresa actúe con responsabilidad social empresarial. Además, como gerente de proyectos, tú debes garantizar que los distintos interesados que representan a la empresa también adhieran a estas políticas y procesos.
+Cuando haya contratos y papeleo con terminología que desconozcas, deberás buscar ayuda de un equipo legal. La situación
+puede variar en función del tamaño de la empresa. Algunas empresas, como las empresas grandes y bien establecidas, cuentan
+con un equipo legal. Otras empresas subcontratan su equipo de servicios legales. Algunas startups o empresas pequeñas no
+cuentan con un equipo legal, pero recurren a asesores legales si es necesario. De nuevo, todo depende de la empresa en la
+que trabajas. Las leyes relacionadas con la manufactura y el consumismo varían de un país a otro,
+
+pero casi siempre habrá leyes vigentes que tendrás que seguir sobre temas como el comercio justo y ético. La mayoría de
+las empresas tienen una misión o declaración de valor. A veces, un equipo de Ética y Cumplimiento se asegura de que las
+operaciones diarias cumplan con la declaración de valor y las políticas gubernamentales. Este equipo también trabajará
+para evitar la discriminación y asegurarse de que la empresa actúe con responsabilidad social empresarial. Además, como
+gerente de proyectos, tú debes garantizar que los distintos interesados que representan a la empresa también adhieran a
+estas políticas y procesos.
+
 Todos deberán estar al tanto de las reuniones pertinentes sobre asuntos legales o cuestiones de cumplimiento, y tú, como director de proyecto, tendrás que recordarle al equipo cuándo son las reuniones. Incluir a los interesados adecuados es especialmente importante si se requiere alguna aprobación, ya que impactará en el proyecto de una forma u otra. Como en la mayoría de los proyectos de Plant Pals, es clave involucrar a Asuntos legales y Cumplimiento para las revisiones y aprobaciones. Por ejemplo, digamos que algunas de las oficinas a las que entregas plantas admiten mascotas. En tu contrato con el proveedor, especificaste que quieres ofrecer solo plantas no tóxicas. Por desgracia, el proveedor proporcionó una planta con hojas que son nocivas para los animales. Office Green podría ser responsable y meterse en problemas legales porque se pasó por alto este detalle crítico. Es una consideración bastante crucial, ¿no? Sin importar si tu futura empresa tiene un equipo o asesores legales, que algún experto en el tema revise los contratos tiene sentido desde el punto de vista empresarial y debe ser una prioridad. Ahora, ya estás en camino a convertirte en abogado. ¡Es broma! Pero esperamos que comprendas mejor la importancia del equipo de Asuntos legales y que les pidas que revisen tus futuros contratos. A continuación, analizaremos la importancia de consultar con tus proveedores y descubriremos qué tiene que ver el cumplimiento con el proceso de compras. ¡Nos vemos pronto!
 
 #### Ética en el proceso de compras
