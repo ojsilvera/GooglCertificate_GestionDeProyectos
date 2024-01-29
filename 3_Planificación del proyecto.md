@@ -1978,6 +1978,45 @@ preguntas o necesitas otra opinión.
 
 #### Evitar las trampas éticas en las compras
 
+*Entender las trampas éticas.*
+
+Una trampa ética es un dilema ético que nos lleva a tomar una determinada decisión sin tener en cuenta nuestros principios
+éticos. Podrías enfrentarte a trampas éticas en cualquier etapa de un proyecto. Sin embargo, la ética puede ser motivo de
+especial preocupación cuando se trata de compras. Los gerentes de proyecto deben tomar precauciones para asegurarse de que
+ellos y sus proveedores sigan los principios éticos durante el proceso de compras.
+
+*Trampas éticas comunes.*
+
+A veces, los problemas éticos potenciales se pasan por alto o se consideran parte del costo de hacer negocios. Esta forma
+de pensar es peligrosa, ya que este tipo de suposiciones pueden poner en riesgo tu proyecto, tu empresa y tu carrera pro-
+fesional.
+
+- *Corrupción y sobornos.*
+
+Es posible enfrentar diferentes tipos de corrupción a lo largo del proceso de compras:
+
+    - Proveedor busca reducir la competencia por un contrato durante el proceso de licitación.
+
+    - Sbornar a los miembros de la organización a fin de sesgar su decisión hacia un resultado favorable para el proveedor.
+
+    - Los sobornos pueden incluir cosas como dinero, obsequios, entradas para eventos y otras cosas de valor.
+
+    - Ofrecer un cierto porcentaje de un contrato adjudicado, también conocido como comisión ilícita o simplemente soborno,
+      a un funcionario que pueda garantizar que una determinada empresa gane la licitación.
+
+- *Compras a un único proveedor.*
+
+    tener un proveedor con el que la empresa ya esté familiarizada facilita el proceso de compras y es beneficioso para
+    ambas partes. Los problemas éticos surgen cuando a otros proveedores ni siquiera se les permite participar en la
+    licitación a pesar de tener cualificaciones similares. Por ejemplo, las compras a un único proveedor pueden convertirse
+    en un problema ético cuando:
+
+    los proveedores se comunican con los compradores incluso antes de que se solicite una oferta. Cuando la organización
+    del comprador decide trabajar con ese proveedor a partir de la relación previamente establecida, eso limita la
+    competencia incluso antes de que haya comenzado la licitación. Cuando esto sucede, las empresas y el público en
+    general pierden las ventajas de la libre competencia, como los precios razonables, los estándares de calidad del
+    producto o las opciones de entrega rápida.
+
 ## Gestion eficaz de riesgos
 
 ## Organizar la comunicacion y la documentacion
