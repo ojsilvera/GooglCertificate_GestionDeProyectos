@@ -2059,4 +2059,10 @@ Cuando te enfrentas a un dilema ético, hazte preguntas en las siguientes catego
 
 ## Gestion eficaz de riesgos
 
+### Entender la gestión de riesgos
+
+### Identificar y evaluar los riesgos
+
+### Mitigar y comunicar riesgos
+
 ## Organizar la comunicacion y la documentacion
