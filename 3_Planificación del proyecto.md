@@ -1964,7 +1964,17 @@ políticas oficiales, evaluar los riesgos potenciales y reunir a un equipo diver
 Antes de firmar los contratos, deberás decidir si los proveedores que piensas contratar son éticos. Debes asegurarte de
 conseguirlos de forma ética y de pagarles precios justos. También debes entender en detalle la cadena de suministro, si
 es que hay una. Una vez que los proveedores hayan firmado los contratos, recuerda llevar adelante tus deberes de asegur-
-amiento. Estos podrían incluir cosas como auditar las tareas y los costos, ejecutar un control de calidad e incluso aprobar facturas. Durante la producción del producto o servicio, céntrate en las relaciones cotidianas con los proveedores para asegurarte de que conozcan tus entregables, cumplan con ellos y te mantengan informado de posibles obstáculos. Luego de realizar toda la investigación posible para determinar si tu proyecto es ético, recuerda confiar en ti mismo. Si sientes que algo no está bien, probablemente no lo está. Como sabes, un gerente de proyectos debe llevar la cuenta muchas cosas. Tener presentes estos principios éticos desde el comienzo del proyecto les ahorrará a ti y a la empresa mucho tiempo y muchos dolores de cabeza. Por lo general, podrás recurrir a tu equipo legal o a los principales interesados si tienes preguntas o necesitas otra opinión. En el siguiente video, repasaremos todo lo que abordamos y le daremos un cierre. Nos vemos luego.
+amiento. Estos podrían incluir cosas como auditar las tareas y los costos, ejecutar un control de calidad e incluso
+aprobar facturas.
+
+Durante la producción del producto o servicio, céntrate en las relaciones cotidianas con los proveedores para asegurarte
+de que conozcan tus entregables, cumplan con ellos y te mantengan informado de posibles obstáculos.
+
+Luego de realizar toda la investigación posible para determinar si tu proyecto es ético, recuerda confiar en ti mismo. Si
+sientes que algo no está bien, probablemente no lo está. Como sabes, un gerente de proyectos debe llevar la cuenta muchas
+cosas. Tener presentes estos principios éticos desde el comienzo del proyecto les ahorrará a ti y a la empresa mucho tiempo
+y muchos dolores de cabeza. Por lo general, podrás recurrir a tu equipo legal o a los principales interesados si tienes
+preguntas o necesitas otra opinión.
 
 #### Evitar las trampas éticas en las compras
 
