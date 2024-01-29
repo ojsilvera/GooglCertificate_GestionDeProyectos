@@ -2017,6 +2017,46 @@ Es posible enfrentar diferentes tipos de corrupción a lo largo del proceso de c
     general pierden las ventajas de la libre competencia, como los precios razonables, los estándares de calidad del
     producto o las opciones de entrega rápida.
 
+- *Interacciones con entidades estatales.*
+
+    En algunos casos, las agencias gubernamentales exigen que una organización adhiera a estándares éticos más estrictos
+    de los habituales en otros contextos. La mayoría de las agencias reguladoras gubernamentales existen porque una empresa
+    o toda una industria han puesto las ganancias por sobre sus trabajadores o por sobre el medio ambiente. Las agencias
+    gubernamentales como la Administración de Alimentos y Medicamentos y la Administración de Higiene y Seguridad Ocupa-
+    cionales, por ejemplo, se aseguran de que las empresas cumplan con estándares legales y éticos. Si no estás familia-
+    rizado con las restricciones gubernamentales que pueden afectar a tu industria, organización o proyecto, podrías caer
+    involuntariamente en una trampa ética.
+
+*Cómo evitar las trampas éticas.*
+
+Aquí hay algunas pautas que te ayudarán a evitar caer en trampas éticas cuando se trata de compras:
+
+- *Comprende los requisitos legales que se aplican a tus compras.*
+
+    Cada país tiene regulaciones que hay que cumplir al hacer negocios dentro de su jurisdicción. No olvides investigar
+    los requisitos legales y éticos en función de las necesidades de tu proyecto y de compras y, si tu organización tiene
+    un equipo legal, acude a ellos para obtener apoyo y asesoramiento.
+
+- *Cíñete a los códigos éticos de tu organización.*
+
+    La honestidad, la responsabilidad, el respeto y la equidad son los valores que sustentan el comportamiento ético de
+    un gerente de proyectos. El código de ética del Project Management Institute (PMI) proporciona pautas detalladas que
+    pueden ayudarte a mantener una conducta ética en tus proyectos.
+
+*Pon a prueba tu ética.*
+
+Cuando te enfrentas a un dilema ético, hazte preguntas en las siguientes categorías:
+
+    - Vergüenza: ¿Te avergonzarías si alguien supiera lo que hiciste?
+
+    - Comunidad: ¿Te gustaría que tus amigos supieran la decisión que tomaste?
+
+    - Ley: ¿Enfrentarías una acción legal si tomaras esta acción?
+
+    - Situación: ¿Tus acciones estarían justificadas en esta situación?
+
+    - Consecuencia: ¿Valdría la pena un resultado negativo de tus acciones?
+
 ## Gestion eficaz de riesgos
 
 ## Organizar la comunicacion y la documentacion
