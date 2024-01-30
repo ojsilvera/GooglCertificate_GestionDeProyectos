@@ -2061,6 +2061,12 @@ Cuando te enfrentas a un dilema ético, hazte preguntas en las siguientes catego
 
 ### Entender la gestión de riesgos
 
+#### mportancia de la gestión de riesgos
+
+#### Fases de la gestión de riesgos
+
+#### Descubrir oportunidades mediante la gestión de riesgos
+
 ### Identificar y evaluar los riesgos
 
 ### Mitigar y comunicar riesgos
