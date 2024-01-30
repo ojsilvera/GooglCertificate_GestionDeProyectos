@@ -2156,6 +2156,20 @@ Vamos a analizarlas:
 
 #### Descubrir oportunidades mediante la gestión de riesgos
 
+Cuando se piensa en los riesgos, es probable que se piense automáticamente en posibles eventos negativos. Pero al identi-
+ficar los riesgos, es importante tener en cuenta también las cosas buenas que podrían ocurrir, que se consideran oportuni-
+dades. Una oportunidad es un resultado potencialmente positivo de un riesgo. Es importante reconocer las oportunidades y
+aprovecharlas a medida que aparecen para poder alcanzar los objetivos del proyecto más rápido, más barato o con menos
+esfuerzo.
+
+Algunos ejemplos de oportunidades incluyen:
+
+    Finalizar un hito antes de lo previsto
+
+    Materiales con descuento
+
+    Disponibilidad de recursos adicionales (personas, inversiones, equipamiento)
+
 ### Identificar y evaluar los riesgos
 
 ### Mitigar y comunicar riesgos
