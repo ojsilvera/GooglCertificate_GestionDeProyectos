@@ -2124,6 +2124,36 @@ ya que te sientes mejor preparado, menos estresado y más seguro en tu enfoque s
 
 #### Fases de la gestión de riesgos
 
+La gestión de riesgos es el proceso de identificar y evaluar los posibles riesgos y problemas que podrían afectar tu pro-
+yecto. La gestión de riesgos es una práctica continua durante todo el ciclo de vida de tu proyecto. Suele implicar alguna
+variación de estos cinco pasos:
+
+- Identificar el riesgo.
+
+- Analizar el riesgo.
+
+- Evaluar el riesgo.
+
+- Tratar el riesgo.
+
+- Supervisar y controlar el riesgo.
+
+Vamos a analizarlas:
+
+1. Identificar el riesgo. La primera fase del proceso de gestión de riesgos consiste en identificar y definir los posibles
+   riesgos del proyecto con tu equipo. Al fin y al cabo, solo se pueden gestionar los riesgos si se sabe cuáles son.
+
+2. Analizar el riesgo. Una vez identificados los riesgos, se determina su probabilidad y su posible impacto en el proyec-
+   to. Los riesgos graves con una alta probabilidad de ocurrencia representan la mayor amenaza.
+
+3. Evaluar el riesgo. A continuación, usa los resultados de tu análisis de riesgos para determinar qué riesgos priorizar.
+
+4. Tratar el riesgo. Durante esta fase, se elabora un plan para tratar y gestionar cada riesgo. Puedes optar por ignorar
+   los riesgos menores, pero los riesgos graves requieren planes de mitigación detallados.
+
+5. Supervisar y controlar el riesgo. Por último, asigna a los miembros del equipo la tarea de monitorear, rastrear y mi-
+   tigar los riesgos si es necesario.
+
 #### Descubrir oportunidades mediante la gestión de riesgos
 
 ### Identificar y evaluar los riesgos
