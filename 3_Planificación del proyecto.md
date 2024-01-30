@@ -2186,6 +2186,16 @@ identificar y aprovechar las oportunidades que puedan surgir durante tus proyect
 
 ### Identificar y evaluar los riesgos
 
+#### Herramientas para ayudar a identificar los riesgos
+
+#### Cómo crear un diagrama de espina de pescado
+
+#### Tipos de riesgo
+
+#### Gestión de riesgos de punto de falla único
+
+#### Visualización de las relaciones de dependencia
+
 ### Mitigar y comunicar riesgos
 
 ## Organizar la comunicacion y la documentacion
