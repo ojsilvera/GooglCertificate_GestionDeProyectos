@@ -2099,7 +2099,28 @@ Aunque surja un problema, suele haber más de una forma de cumplir los objetivos
 al éxito. La gestión de riesgos te ayuda a determinar lo flexible o rígido que es tu plan y, así, realizar los ajustes
 necesarios.
 
-Por ejemplo, si el proyecto demanda grandes envíos del producto, contar con un proveedor de respaldo preparado implica que, rápidamente, puedes adaptarte ante un proveedor que no pueda cumplir con el pedido. Finalmente, los riesgos pueden afectar los proyectos en varias formas que son difíciles de prever. Por ejemplo, un proveedor que contrataste puede no tener existencias adecuadas para cubrir tus necesidades de compra, o podría reducirse el presupuesto del proyecto de forma imprevista. El proceso de gestión de riesgos ayuda a reducir el impacto de eventos imprevistos y libera recursos para destinarlos a actividades que beneficien al proyecto. Imaginemos la gestión de riesgos en el contexto de Plant Pals, de Office Green, un nuevo servicio que ofrecerá a los clientes pequeñas plantas de escritorio de bajo mantenimiento. Un riesgo posible del proyecto es la posibilidad de que la página web del nuevo servicio no esté disponible a tiempo para el lanzamiento. Otro riesgo posible sería un cumplimiento incompleto. ¿Qué harías si el proveedor de plantas no dispone de los cactus y helechos que necesitas? Si quieres prepararte para estos riesgos posibles, necesitas pensar en formas de mitigar tales problemas antes de que surjan o en cómo abordarlos si llegan a ocurrir. Con suerte, estas cuestiones no serán un problema, pero, si llegan a serlo, estarás preparado. También quiero enfatizar que, a lo largo del proyecto, surgirán problemas que no previste o no pudiste haber previsto, y está bien. En esos momentos, es importante mantener la calma, averiguar la causa raíz del problema y encontrar una solución. La gestión de riesgos es un tema realmente importante que los gerentes de proyectos deben comprender. La identificación de riesgos y problemas te prepara para lo desconocido. También tiene un impacto positivo sobre ti como gerente de proyectos, ya que te sientes mejor preparado, menos estresado y más seguro en tu enfoque si surge un problema. A continuación, hablaremos de las formas en que puedes identificar los riesgos. Nos vemos ahí.
+Por ejemplo, si el proyecto demanda grandes envíos del producto, contar con un proveedor de respaldo preparado implica
+que, rápidamente, puedes adaptarte ante un proveedor que no pueda cumplir con el pedido.
+
+Finalmente, los riesgos pueden afectar los proyectos en varias formas que son difíciles de prever. Por ejemplo, un provee-
+dor que contrataste puede no tener existencias adecuadas para cubrir tus necesidades de compra, o podría reducirse el
+presupuesto del proyecto de forma imprevista.
+
+El proceso de gestión de riesgos ayuda a reducir el impacto de eventos imprevistos y libera recursos para destinarlos a
+actividades que beneficien al proyecto.
+
+Imaginemos la gestión de riesgos en el contexto de Plant Pals, de Office Green, un nuevo servicio que ofrecerá a los
+clientes pequeñas plantas de escritorio de bajo mantenimiento. Un riesgo posible del proyecto es la posibilidad de que la
+página web del nuevo servicio no esté disponible a tiempo para el lanzamiento. Otro riesgo posible sería un cumplimiento
+incompleto. ¿Qué harías si el proveedor de plantas no dispone de los cactus y helechos que necesitas? Si quieres prepararte
+para estos riesgos posibles, necesitas pensar en formas de mitigar tales problemas antes de que surjan o en cómo abordarlos
+si llegan a ocurrir. Con suerte, estas cuestiones no serán un problema, pero, si llegan a serlo, estarás preparado. También
+quiero enfatizar que, a lo largo del proyecto, surgirán problemas que no previste o no pudiste haber previsto, y está bien.
+En esos momentos, es importante mantener la calma, averiguar la causa raíz del problema y encontrar una solución.
+
+La gestión de riesgos es un tema realmente importante que los gerentes de proyectos deben comprender. La identificación de
+riesgos y problemas te prepara para lo desconocido. También tiene un impacto positivo sobre ti como gerente de proyectos,
+ya que te sientes mejor preparado, menos estresado y más seguro en tu enfoque si surge un problema.
 
 #### Fases de la gestión de riesgos
 
