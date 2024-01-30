@@ -2170,6 +2170,20 @@ Algunos ejemplos de oportunidades incluyen:
 
     Disponibilidad de recursos adicionales (personas, inversiones, equipamiento)
 
+*Cómo reconocer una oportunidad.*
+
+Una oportunidad es un resultado potencialmente positivo que puede aportar valor adicional a un proyecto. Puedes usar las
+mismas herramientas y técnicas que usas en la gestión de riesgos (identificar, analizar, evaluar, tratar y controlar) para
+añadir posibles oportunidades a tu plan de gestión de riesgos. Debes saber qué hacer si las cosas van mal, pero también
+debes hacer planes para aprovechar las oportunidades. Al usar técnicas como la lluvia de ideas y recurrir al historial del
+proyecto o a la experiencia previa, puedes identificar posibles oportunidades y esbozar cómo las aprovecharás si ocurren.
+
+Como gerente de proyectos, siempre debes estar atento a las posibles oportunidades al desarrollar tu plan de gestión de
+riesgos. Revisa el siguiente artículo para obtener más información sobre el uso de estrategias de gestión de riesgos para
+identificar y aprovechar las oportunidades que puedan surgir durante tus proyectos:
+
+[Estrategias eficaces para aprovechar las oportunidades](https://www.pmi.org/learning/library/effective-strategies-exploiting-opportunities-7947)
+
 ### Identificar y evaluar los riesgos
 
 ### Mitigar y comunicar riesgos
