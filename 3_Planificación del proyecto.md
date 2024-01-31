@@ -2278,7 +2278,65 @@ Una causa raíz es la causa inicial de una situación que presenta un problema o
 de espina de pescado en la gestión de riesgos es identificar la causa raíz de un posible problema para un proyecto o
 programa.
 
+*Caso práctico: Usar un diagrama de espina de pescado para identificar las causas de los riesgos.*
+
+- Paso 1 -> Definir el problema, este se ubica a la cabeza del diagrama o la cabeza del pescado.
+- Paso 2 -> Identifica las categorías, estas se ubican el la linea superior del diagrama o en las aletas superiores del
+  pescado
+- Paso 3 -> Lluvia de ideas sobre las causas, estas se ubican como las espinas, colocadas como posible explicacion en la
+  categoria que le corresonde
+- Paso 4 -> Analizar las causas, Ten en cuenta que una de las causas de un problema no es necesariamente la causa raíz.
+
+Conclusión clave
+
+Identificar los riesgos y medir su impacto potencial en un proyecto puede ser una tarea compleja. Puedes ayudar a visualizar
+estos problemas creando diagramas de espina de pescado. En resumen, los pasos para crear un diagrama de espina de pescado
+son los siguientes:
+
+    Definir el problema
+
+    Identificar las categorías
+
+    Hacer una lluvia de ideas sobre las causas
+
+    Analizar las causas
+
+Una vez que hayas desarrollado un diagrama de espina de pescado para ayudar a encontrar la causa raíz de un problema y medir
+su posible impacto en el proyecto, puedes pasar a determinar cómo mitigar el riesgo.
+
 #### Tipos de riesgo
+
+Algunos tipos de riesgo comunes que puedes considerar al planificar durante la gestión de un proyecto. Aunque hay muchos
+tipos diferentes de riesgo que pueden afectar al proyecto, los grandes riesgos por considerar son:
+
+    Los de tiempo, los presupuestarios y los de alcance. Analicemos estos riesgos.
+
+*Los riesgos de tiempo*. Los riesgos de tiempo son la posibilidad de que las tareas del proyecto
+tarden más de lo previsto en completarse. Debes ser consciente de estos riesgos porque el tiempo es dinero. Una mala
+gestión del tiempo puede agotar tu presupuesto y molestar a los interesados al causar demoras.
+
+*Los riesgos presupuestarios*. El riesgo presupuestario es la posibilidad de que el costo del proyecto aumente debido a
+una mala planificación o una ampliación del alcance del proyecto. Debes ser consciente del riesgo presupuestario, ya que
+el presupuesto es la base del control de costos del proyecto. Por ejemplo, si gastas demás, quizás no puedas pagar a los
+proveedores. Esto puede generar cierto daño a la reputación de la empresa.
+
+El riesgo de alcance. El riesgo de alcance es la posibilidad de que un proyecto no logre los resultados descritos en los objetivos del proyecto. Debes ser consciente de los riesgos de alcance porque los entregables del proyecto pueden no ser aceptables para los interesados o los clientes y eso puede frustrar el propósito de todo el proyecto.
+Si bien los riesgos de tiempo, los presupuestarios y los de alcance son muy comunes, hay otros riesgos que son de tipo externo y debes tener en cuenta. Llamamos riesgos externos a aquellos causados por factores ajenos a la empresa, sobre los cuales tienes un control escaso o nulo.
+Por ejemplo, el proyecto podría recibir el impacto de un riesgo ambiental, como una gran tormenta, o un riesgo legal, como un cambio en los requisitos reglamentarios.
+Y también es importante saber que hay innumerables tipos de riesgos.
+Nunca habrá una receta que indique cómo identificar y gestionar todos los riesgos posibles. Pero, si tienes un plan, estarás mejor preparado para enfrentar todo lo que surja.
+Bien, ahora analicemos un cierto tipo de riesgo conocido como punto de falla único. Un punto de falla único es un riesgo que tiene el potencial de ser catastrófico y de detener el trabajo en todo el proyecto.
+Estos son los riesgos que tienen el poder para detener a todo un equipo en seco, lo que significa que nadie puede avanzar en sus tareas hasta que se resuelva el problema.
+Por ejemplo, en nuestro escenario de Office Green, un punto de falla único podría ser un corte de energía que apaga el sistema interno de la base de datos en la que se almacena toda la información sobre el proyecto.
+Hasta que la base de datos vuelva a funcionar, tu equipo no tendrá acceso a la información necesaria para hacer su trabajo. Como resultado, no podrá completar ninguna de las tareas asignadas. Para mitigar este riesgo, puedes presupuestar otro servicio en la nube que sirva de respaldo para toda la documentación e información del proyecto. Como director del proyecto, debes identificar y controlar los puntos de falla únicos del proyecto, ya que pueden perjudicar el cronograma, el presupuesto y el alcance del proyecto.
+Otra fuente de riesgo para tener en cuenta son las dependencias. La dependencia es una relación entre dos tareas del proyecto en la que el comienzo o la finalización de una depende del comienzo o la finalización de la otra. Es decir, las dependencias son como enlaces que conectan una tarea del proyecto con otra.
+Reproduce el video desde :3:41 y sigue la transcripción3:41
+Se debe abordar una dependencia antes de que se pueda completar la tarea o antes de que comience otra. Como las dependencias son los enlaces que conectan una tarea del proyecto con otra, a menudo son una gran fuente de riesgo para el proyecto.
+Por ejemplo, imagina que encargas a un compañero de equipo que contrate a un proveedor de plantas local. Hasta que firme un contrato con el proveedor, el equipo no puede realizar ningún pedido. Eso es una dependencia. Allí es donde surge el riesgo. Si tu compañero de equipo no cumple el plazo de contratación y luego se va de vacaciones por una semana, podría retrasar el cronograma del proyecto. Eso no es bueno, ¿verdad? Si no planificas las dependencias, podrías arriesgar y afectar los plazos del presupuesto o los resultados del proyecto. Para evitar que suceda algo así, puedes pedirle a un compañero que te diga su fecha de vacaciones al comienzo del proyecto. Esto te permite mantenerte al tanto del cronograma de todos, lo que garantiza planes alternativos para cumplir el cronograma del proyecto.
+Hay dos tipos de dependencias: internas y externas. Las dependencias internas se refieren a dependencias dentro del proyecto que tú y tu equipo controlan. Por ejemplo, debes obtener la aprobación para un diseño web antes de comenzar el desarrollo. Por otra parte, Las dependencias externas son aquellas que tú no controlas. Por ejemplo, la granja en la que trabaja tu proveedor de plantas tuvo una temporada de lluvias menores este año, así que tiene menos plantas para vender.
+Hay muchos riesgos diferentes que pueden afectar al proyecto, desde riesgos de tiempo hasta riesgos presupuestarios o de alcance. Pero recuerda, ningún proyecto está exento de riesgos.
+Y con una cuidadosa planificación inicial, puedes hacer todo lo posible para evitar que surjan riesgos.
+En el siguiente video, analizaremos cómo mitigar los riesgos. Nos vemos ahí.
 
 #### Gestión de riesgos de punto de falla único
 
