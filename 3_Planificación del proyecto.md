@@ -2320,7 +2320,10 @@ una mala planificación o una ampliación del alcance del proyecto. Debes ser co
 el presupuesto es la base del control de costos del proyecto. Por ejemplo, si gastas demás, quizás no puedas pagar a los
 proveedores. Esto puede generar cierto daño a la reputación de la empresa.
 
-El riesgo de alcance. El riesgo de alcance es la posibilidad de que un proyecto no logre los resultados descritos en los objetivos del proyecto. Debes ser consciente de los riesgos de alcance porque los entregables del proyecto pueden no ser aceptables para los interesados o los clientes y eso puede frustrar el propósito de todo el proyecto.
+*El riesgo de alcance.* El riesgo de alcance es la posibilidad de que un proyecto no logre los resultados descritos en los
+objetivos del proyecto. Debes ser consciente de los riesgos de alcance porque los entregables del proyecto pueden no ser
+aceptables para los interesados o los clientes y eso puede frustrar el propósito de todo el proyecto.
+
 Si bien los riesgos de tiempo, los presupuestarios y los de alcance son muy comunes, hay otros riesgos que son de tipo externo y debes tener en cuenta. Llamamos riesgos externos a aquellos causados por factores ajenos a la empresa, sobre los cuales tienes un control escaso o nulo.
 Por ejemplo, el proyecto podría recibir el impacto de un riesgo ambiental, como una gran tormenta, o un riesgo legal, como un cambio en los requisitos reglamentarios.
 Y también es importante saber que hay innumerables tipos de riesgos.
