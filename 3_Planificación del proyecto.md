@@ -2231,9 +2231,52 @@ impacto en el proyecto.
 Hay algunas formas de evaluar los riesgos, pero una en la que nos centraremos es la creación de una matriz de probabilidad
 e impacto. *Una matriz de probabilidad e impacto* es una herramienta que permite jerarquizar los riesgos del proyecto.
 
-Para crear una matriz de probabilidad e impacto, debes considerar el nivel de impacto. El impacto se refiere al daño que un riesgo podría causar si surge. El impacto también se determina en una escala de alto, medio y bajo. Alto significa que, si surge el riesgo, alterará sustancialmente el proyecto. Bajo significa que, si surge el riesgo, tendrá un impacto leve, pero no es probable que se malogre el proyecto. También debes considerar la probabilidad. La probabilidad es la posibilidad de que surja un riesgo. También determinamos la probabilidad en una escala de alto, medio y bajo. En este caso, probabilidad alta significa que existe una alta posibilidad de que suceda. Probabilidad baja significa que identificaste un riesgo que puede surgir, pero no es probable que suceda. Estas dos consideraciones combinadas determinan la calificación del riesgo inherente. El riesgo inherente es la medida de un riesgo calculada a partir de su probabilidad e impacto. Medir el riesgo inherente es un método para comprender el riesgo. El riesgo inherente también se determina en una escala de alto, medio y bajo. Básicamente, si un riesgo tiene impacto y probabilidad bajos, su calificación de riesgo inherente es baja. Estos son los tipos de riesgos que no exigen preocuparse demasiado. Pero si un riesgo tiene impacto y probabilidad altos, entonces tiene una calificación del riesgo inherente alta. Los riesgos medios a altos son los que requieren tu atención y la creación de planes de mitigación detallados. Al crear una matriz de probabilidad e impacto, es importante que te asegures de que cumpla con las pautas de accesibilidad, además de contar con información y un formato que todos puedan entender fácil y rápidamente. Una forma de hacer esto es utilizar colores y formas o textos diferentes para comunicar los niveles de riesgo. Puedes obtener más información sobre la comunicación de accesibilidad si consultas los recursos del curso. La forma en que ves y gestionas cada riesgo se determina en función del apetito por el riesgo de tu organización, que representa la voluntad que tiene la organización de aceptar los resultados posibles de un riesgo. Tú, tu equipo y los interesados pueden tener un apetito diferente por cada riesgo. Discutiremos cómo el apetito por el riesgo participa en la mitigación del riesgo en un momento. Ciertos riesgos de nivel bajo que pueden conducir a contratiempos menores son mucho más tolerables que los riesgos de nivel alto, que tienen la capacidad de malograr completamente el proyecto. Una vez que hayas completado la evaluación de riesgos, actualizarás el registro de riesgos para incluir calificaciones altas, medias y bajas de algunos de los ejemplos de riesgo que identificaste para este proyecto. Excelente. Ahora que ya cubrimos cómo identificar y evaluar riesgos, pasaremos al siguiente video, donde discutiremos algunos de los tipos de riesgo que correrás en tu función de gerente de proyectos. Nos vemos ahí.
+Para crear una matriz de probabilidad e impacto, debes considerar el *nivel de impacto*. El impacto se refiere al daño que
+un riesgo podría causar si surge. El impacto también se determina en una escala de alto, medio y bajo. Alto significa que,
+si surge el riesgo, alterará sustancialmente el proyecto. Bajo significa que, si surge el riesgo, tendrá un impacto leve,
+pero no es probable que se malogre el proyecto.
+
+También debes considerar *la probabilidad*. La probabilidad es la posibilidad de que surja un riesgo. También determinamos
+la probabilidad en una escala de alto, medio y bajo. En este caso, probabilidad alta significa que existe una alta posibilidad
+de que suceda. Probabilidad baja significa que identificaste un riesgo que puede surgir, pero no es probable que suceda.
+
+Estas dos consideraciones combinadas determinan la *calificación del riesgo inherente*. El riesgo inherente es la medida
+de un riesgo calculada a partir de su probabilidad e impacto. Medir el riesgo inherente es un método para comprender el
+riesgo.
+
+El riesgo inherente también se determina en una escala de alto, medio y bajo. Básicamente, si un riesgo tiene impacto y
+probabilidad bajos, su calificación de riesgo inherente es baja. Estos son los tipos de riesgos que no exigen preocuparse
+demasiado. Pero si un riesgo tiene impacto y probabilidad altos, entonces tiene una calificación del riesgo inherente
+alta. Los riesgos medios a altos son los que requieren tu atención y la creación de planes de mitigación detallados. Al
+crear una matriz de probabilidad e impacto, es importante que te asegures de que cumpla con las pautas de accesibilidad,
+además de contar con información y un formato que todos puedan entender fácil y rápidamente. Una forma de hacer esto es
+utilizar colores y formas o textos diferentes para comunicar los niveles de riesgo.
+
+La forma en que ves y gestionas cada riesgo se determina en función del apetito por el riesgo de tu organización, que
+representa la voluntad que tiene la organización de aceptar los resultados posibles de un riesgo. Tú, tu equipo y los
+interesados pueden tener un apetito diferente por cada riesgo. Ciertos riesgos de nivel bajo que pueden conducir a contra-
+tiempos menores son mucho más tolerables que los riesgos de nivel alto, que tienen la capacidad de malograr completamente
+el proyecto.
+
+Una vez que hayas completado la evaluación de riesgos, actualizarás el registro de riesgos para incluir calificaciones altas,
+medias y bajas de algunos de los ejemplos de riesgo que identificaste para este proyecto.
 
 #### Cómo crear un diagrama de espina de pescado
+
+*Los diagramas de espina de pescado, también conocidos como diagramas de Ishikawa o diagramas de causa y efecto*, fueron
+desarrollados por el *teórico organizativo japonés Kaoru Ishikawa* en la década de *1960* para medir *los procesos de control*
+*de calidad en la industria naval*. Los diagramas de espina de pescado son una forma visual de examinar la causa y el
+efecto. Se llaman diagramas de espina de pescado porque tienen una forma similar a la del esqueleto de un pescado.
+
+![Alt text](image-17.png)
+
+Los diagramas de espina de pescado ayudan al equipo a hacer una lluvia de ideas sobre las posibles causas de un problema
+o un riesgo y a clasificarlas en categorías útiles. Estas categorías muestran las áreas en las que debes centrarte para
+mitigar ese riesgo. Los diagramas de espina de pescado también son muy útiles para encontrar la causa raíz de un problema.
+
+Una causa raíz es la causa inicial de una situación que presenta un problema o un riesgo. El propósito de usar diagramas
+de espina de pescado en la gestión de riesgos es identificar la causa raíz de un posible problema para un proyecto o
+programa.
 
 #### Tipos de riesgo
 
