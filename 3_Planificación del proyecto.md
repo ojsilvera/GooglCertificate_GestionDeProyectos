@@ -2372,6 +2372,12 @@ todo lo posible para evitar que surjan riesgos.
 
 #### Gestión de riesgos de punto de falla único
 
+Una vez que hayas identificado tus riesgos y los hayas clasificado, presta especial atención a los riesgos que podrían
+tener un efecto catastrófico en la capacidad de tu equipo para completar el proyecto.
+
+Un punto de *falla único* es un riesgo que, si se materializa, podría causar una cantidad significativa de interrupciones
+en tu proyecto e, incluso, podría hacer que se cancele. Debes planificar estos riesgos desde el principio del proyecto.
+
 #### Visualización de las relaciones de dependencia
 
 ### Mitigar y comunicar riesgos
