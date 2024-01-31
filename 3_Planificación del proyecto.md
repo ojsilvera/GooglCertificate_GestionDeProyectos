@@ -2324,22 +2324,51 @@ proveedores. Esto puede generar cierto daño a la reputación de la empresa.
 objetivos del proyecto. Debes ser consciente de los riesgos de alcance porque los entregables del proyecto pueden no ser
 aceptables para los interesados o los clientes y eso puede frustrar el propósito de todo el proyecto.
 
-Si bien los riesgos de tiempo, los presupuestarios y los de alcance son muy comunes, hay otros riesgos que son de tipo externo y debes tener en cuenta. Llamamos riesgos externos a aquellos causados por factores ajenos a la empresa, sobre los cuales tienes un control escaso o nulo.
-Por ejemplo, el proyecto podría recibir el impacto de un riesgo ambiental, como una gran tormenta, o un riesgo legal, como un cambio en los requisitos reglamentarios.
-Y también es importante saber que hay innumerables tipos de riesgos.
-Nunca habrá una receta que indique cómo identificar y gestionar todos los riesgos posibles. Pero, si tienes un plan, estarás mejor preparado para enfrentar todo lo que surja.
-Bien, ahora analicemos un cierto tipo de riesgo conocido como punto de falla único. Un punto de falla único es un riesgo que tiene el potencial de ser catastrófico y de detener el trabajo en todo el proyecto.
-Estos son los riesgos que tienen el poder para detener a todo un equipo en seco, lo que significa que nadie puede avanzar en sus tareas hasta que se resuelva el problema.
-Por ejemplo, en nuestro escenario de Office Green, un punto de falla único podría ser un corte de energía que apaga el sistema interno de la base de datos en la que se almacena toda la información sobre el proyecto.
-Hasta que la base de datos vuelva a funcionar, tu equipo no tendrá acceso a la información necesaria para hacer su trabajo. Como resultado, no podrá completar ninguna de las tareas asignadas. Para mitigar este riesgo, puedes presupuestar otro servicio en la nube que sirva de respaldo para toda la documentación e información del proyecto. Como director del proyecto, debes identificar y controlar los puntos de falla únicos del proyecto, ya que pueden perjudicar el cronograma, el presupuesto y el alcance del proyecto.
-Otra fuente de riesgo para tener en cuenta son las dependencias. La dependencia es una relación entre dos tareas del proyecto en la que el comienzo o la finalización de una depende del comienzo o la finalización de la otra. Es decir, las dependencias son como enlaces que conectan una tarea del proyecto con otra.
-Reproduce el video desde :3:41 y sigue la transcripción3:41
-Se debe abordar una dependencia antes de que se pueda completar la tarea o antes de que comience otra. Como las dependencias son los enlaces que conectan una tarea del proyecto con otra, a menudo son una gran fuente de riesgo para el proyecto.
-Por ejemplo, imagina que encargas a un compañero de equipo que contrate a un proveedor de plantas local. Hasta que firme un contrato con el proveedor, el equipo no puede realizar ningún pedido. Eso es una dependencia. Allí es donde surge el riesgo. Si tu compañero de equipo no cumple el plazo de contratación y luego se va de vacaciones por una semana, podría retrasar el cronograma del proyecto. Eso no es bueno, ¿verdad? Si no planificas las dependencias, podrías arriesgar y afectar los plazos del presupuesto o los resultados del proyecto. Para evitar que suceda algo así, puedes pedirle a un compañero que te diga su fecha de vacaciones al comienzo del proyecto. Esto te permite mantenerte al tanto del cronograma de todos, lo que garantiza planes alternativos para cumplir el cronograma del proyecto.
-Hay dos tipos de dependencias: internas y externas. Las dependencias internas se refieren a dependencias dentro del proyecto que tú y tu equipo controlan. Por ejemplo, debes obtener la aprobación para un diseño web antes de comenzar el desarrollo. Por otra parte, Las dependencias externas son aquellas que tú no controlas. Por ejemplo, la granja en la que trabaja tu proveedor de plantas tuvo una temporada de lluvias menores este año, así que tiene menos plantas para vender.
-Hay muchos riesgos diferentes que pueden afectar al proyecto, desde riesgos de tiempo hasta riesgos presupuestarios o de alcance. Pero recuerda, ningún proyecto está exento de riesgos.
-Y con una cuidadosa planificación inicial, puedes hacer todo lo posible para evitar que surjan riesgos.
-En el siguiente video, analizaremos cómo mitigar los riesgos. Nos vemos ahí.
+Si bien los riesgos de tiempo, los presupuestarios y los de alcance son muy comunes, hay otros riesgos que son de tipo
+externo y debes tener en cuenta.
+
+*Los Llamamos riesgos externos* a aquellos causados por factores ajenos a la empresa, sobre los cuales tienes un control
+escaso o nulo. Por ejemplo, el proyecto podría recibir el impacto de un riesgo ambiental, como una gran tormenta, o un
+riesgo legal, como un cambio en los requisitos reglamentarios.
+
+*riesgo de punto de falla único.* Un punto de falla único es un riesgo que tiene el potencial de ser catastrófico y de
+detener el trabajo en todo el proyecto. Estos son los riesgos que tienen el poder para detener a todo un equipo en seco,
+lo que significa que nadie puede avanzar en sus tareas hasta que se resuelva el problema. Por ejemplo, en nuestro escenario
+de Office Green, un punto de falla único podría ser un corte de energía que apaga el sistema interno de la base de datos
+en la que se almacena toda la información sobre el proyecto. Hasta que la base de datos vuelva a funcionar, tu equipo no
+tendrá acceso a la información necesaria para hacer su trabajo. Como resultado, no podrá completar ninguna de las tareas
+asignadas. Para mitigar este riesgo, puedes presupuestar otro servicio en la nube que sirva de respaldo para toda la
+documentación e información del proyecto. Como director del proyecto, debes identificar y controlar los puntos de falla
+únicos del proyecto, ya que pueden perjudicar el cronograma, el presupuesto y el alcance del proyecto.
+
+*El riesgo en las dependencias.* La dependencia es una relación entre dos tareas del proyecto en la que el comienzo o la
+finalización de una depende del comienzo o la finalización de la otra. Es decir, las dependencias son como enlaces que
+conectan una tarea del proyecto con otra. Se debe abordar una dependencia antes de que se pueda completar la tarea o antes
+de que comience otra. Como las dependencias son los enlaces que conectan una tarea del proyecto con otra, a menudo son una
+gran fuente de riesgo para el proyecto.
+
+Por ejemplo, imagina que encargas a un compañero de equipo que contrate a un proveedor de plantas local. Hasta que firme
+un contrato con el proveedor, el equipo no puede realizar ningún pedido. Eso es una dependencia. Allí es donde surge el
+riesgo. Si tu compañero de equipo no cumple el plazo de contratación y luego se va de vacaciones por una semana, podría
+retrasar el cronograma del proyecto. Eso no es bueno, ¿verdad? Si no planificas las dependencias, podrías arriesgar y
+afectar los plazos del presupuesto o los resultados del proyecto. Para evitar que suceda algo así, puedes pedirle a un
+compañero que te diga su fecha de vacaciones al comienzo del proyecto. Esto te permite mantenerte al tanto del cronograma
+de todos, lo que garantiza planes alternativos para cumplir el cronograma del proyecto.
+
+Hay dos tipos de dependencias: *internas y externas.*
+
+Las dependencias internas se refieren a dependencias dentro del proyecto que tú y tu equipo controlan. Por ejemplo, debes
+obtener la aprobación para un diseño web antes de comenzar el desarrollo.
+
+Las dependencias externas son aquellas que tú no controlas. Por ejemplo, la granja en la que trabaja tu proveedor de plantas
+tuvo una temporada de lluvias menores este año, así que tiene menos plantas para vender.
+
+Es importante saber que hay innumerables tipos de riesgos. Nunca habrá una receta que indique cómo identificar y gestionar
+todos los riesgos posibles. Pero, si tienes un plan, estarás mejor preparado para enfrentar todo lo que surja.
+
+Hay muchos riesgos diferentes que pueden afectar al proyecto, desde riesgos de tiempo hasta riesgos presupuestarios o de
+alcance. Pero recuerda, ningún proyecto está exento de riesgos. Y con una cuidadosa planificación inicial, puedes hacer
+todo lo posible para evitar que surjan riesgos.
 
 #### Gestión de riesgos de punto de falla único
 
