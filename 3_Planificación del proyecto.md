@@ -2378,6 +2378,37 @@ tener un efecto catastrófico en la capacidad de tu equipo para completar el pro
 Un punto de *falla único* es un riesgo que, si se materializa, podría causar una cantidad significativa de interrupciones
 en tu proyecto e, incluso, podría hacer que se cancele. Debes planificar estos riesgos desde el principio del proyecto.
 
+Por ejemplo, muchos proyectos recurren a expertos en la materia, (SME), es decir, a miembros del equipo con un profundo
+conocimiento de un trabajo, proceso, departamento, función, tecnología, máquina, material o tipo de equipo concreto. Los
+SME participan para asesorarte durante todo el ciclo de vida del proyecto. Contar con un solo SME familiarizado con un
+sistema crítico en tu equipo es un ejemplo de riesgo de un punto de falla único. Este SME solo ofrecerá una perspectiva,
+y, si es la única persona que asesora sobre el sistema, no hay nadie que ofrezca otra perspectiva.
+
+- Uso de estrategias de mitigación para gestionar los riesgos de puntos de falla únicos
+
+*Evitar:*
+
+Esta estrategia busca eludir, o evitar, la situación en su conjunto, por ejemplo abriendo la posibilidad de diversificar las
+opciones, en cuanto a expertos, proveedores, logistica, etc.
+
+*Minimizar:*
+
+Mitigar el riesgo implica tratar de minimizar los efectos catastróficos que podría tener en el proyecto. La clave para
+minimizar el riesgo empieza por darse cuenta de que existe. Por eso suele oírse hablar de estrategias de mitigación deno-
+minadas soluciones alternativas.
+
+*Transferencia de datos:*
+
+La estrategia de transferencia traslada la responsabilidad de gestionar el riesgo a otra persona.
+
+*Aceptar:*
+
+Por último, puedes aceptar el riesgo como el costo normal de hacer negocios. La aceptación activa del riesgo suele implicar
+la reserva de fondos adicionales para salir de los problemas. La aceptación pasiva del riesgo es el enfoque de “no hacer
+nada”. Aunque la aceptación pasiva puede ser razonable para riesgos menores, no se recomienda para la mayoría de los riesgos
+de puntos falla único. También es importante ser proactivo y mitigar los riesgos con anticipación siempre que sea posible,
+ya que esto puede ahorrarte tener que aceptar riesgos.
+
 #### Visualización de las relaciones de dependencia
 
 ### Mitigar y comunicar riesgos
