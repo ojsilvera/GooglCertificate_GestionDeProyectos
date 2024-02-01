@@ -2411,6 +2411,25 @@ ya que esto puede ahorrarte tener que aceptar riesgos.
 
 #### Visualización de las relaciones de dependencia
 
+*Tipos de dependencias.*
+
+Las dependencias son una relación entre dos tareas del proyecto en la que la finalización o la iniciación de una depende
+de la finalización o la iniciación de la otra. Exploremos cuatro tipos comunes de dependencias:
+
+    Finalizar para Comenzar (FS)
+
+    En este tipo de relación entre dos tareas, la tarea A debe finalizarse antes de que la tarea B pueda comenzar. Esta
+    es la dependencia más común en la gestión de proyectos. Sigue la progresión natural de una tarea a otra.
+
+    Comenzar para Comenzar (SS)
+
+    En este modelo, la Tarea A no puede comenzar hasta que la Tarea B comience. Esto significa que las tareas A y B co-
+    mienzan al mismo tiempo y se ejecutan en paralelo.
+
+    Comenzar para Finalizar (SF)
+
+    En este modelo, la tarea A debe comenzar antes de que se pueda finalizar la tarea B
+
 ### Mitigar y comunicar riesgos
 
 ## Organizar la comunicacion y la documentacion
