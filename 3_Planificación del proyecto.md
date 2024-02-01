@@ -2483,4 +2483,40 @@ riesgos, lo compartirás con tu equipo e interesados para recibir sus comentario
 
 #### Comunicar riesgos a los interesados
 
+No es suficiente que tú y tu equipo solo estén al tanto de los mayores riesgos para el proyecto. También deben comunicar
+estos riesgos a los interesados en el proyecto, ya sea mediante documentación, correo electrónico, reuniones u otras formas
+de comunicación que consideres apropiadas.
+
+Tus interesados deben estar al tanto de los riesgos para el proyecto, ya que, si no les hablas de los riesgos importantes,
+pueden estar menos preparados para ayudarte si surge un problema. Por ejemplo, es posible que no puedan ampliar tu presu-
+puesto si llegas a necesitarlo o brindarte más recursos si los solicitaras. Peor aún, un problema podría tomar por sorpresa
+al interesado. Sorpresas desagradables como estas pueden erosionar la confianza en ti como líder del proyecto. Posiblemente,
+quieran saber si advertías la posibilidad de que surgiera ese riesgo, y pueden preguntarse por qué no compartiste esa in-
+formación con ellos antes. Por eso, es importante comunicar anticipada y frecuentemente a los interesados los riesgos de
+nivel medio y alto.
+
+Permite fijar las expectativas de los interesados con respecto a qué se puede esperar durante la fase de ejecución del
+proyecto y evidenciar que tomaste medidas para mitigar y planificar por si se presentan esos riesgos. También te brinda
+la oportunidad de sugerir las formas en que pueden ayudarte si surge un riesgo.
+
+¿Cómo comunicas los riesgos a los interesados durante la fase de planificación? Bueno, eso depende de la gravedad del
+riesgo identificado. Si son riesgos de nivel bajo, podría bastar con algo tan simple como un correo electrónico. Por
+ejemplo, al enviar actualizaciones de la planificación semanales a un interesado del proyecto, puedes enumerar algunos
+riesgos de nivel bajo relativos a sus intereses y, brevemente, explicar cómo abordarías esos riesgos si surgen.
+
+Si son riesgos de nivel medio, puedes elevar el nivel de comunicación a un correo electrónico directo entre tú y el
+interesado, en el cual describes el riesgo con detalles específicos y ofreces una explicación detallada de tu plan para
+mitigarlo. También puedes vincularlo a tu plan de gestión de riesgos para ofrecerles más información. Puedes escribir
+«urgente» en la línea de asunto para resaltar la importancia del correo electrónico.
+
+La naturaleza grave de los riesgos de nivel alto exigen una comunicación minuciosa y directa. Al reunirte con los interesados
+para repasar el plan del proyecto, puedes agregar un punto del orden del día para hablar de los riesgos graves y tus planes
+para mitigarlos. También puedes aprovechar la oportunidad para escuchar comentarios sobre tu plan de gestión de riesgos y
+pedir la opinión de los interesados sobre cómo manejar estos riesgos de nivel alto.
+
+Los interesados deben contar con experiencia previa en la planificación de riesgos y estrategias similares que nunca antes hayas tenido en cuenta. La comunicación de los riesgos es una parte importante de mi función aquí, en Google. Como gerente de programa, constantemente escribo correos electrónicos y realizo presentaciones acerca del estado de mis proyectos, normalmente, con el objetivo de compartir riesgos conocidos y mis planes de mitigación. Al discutir estos planes con los interesados, solemos encontrar otros riesgos que antes no había considerado. Por ejemplo, en una reunión reciente, presentaba un posible producto nuevo con otro equipo a un interesado. En la reunión, el interesado manifestó su preocupación de que mi solución podía causar riesgos de tiempo y recursos, lo cual podría tener un impacto negativo en su equipo. La discusión me brindó un conocimiento más profundo de los riesgos potenciales para mis colegas y de las necesidades de los usuarios del producto; entonces, advertí que necesitaba solicitar a mis patrocinadores presupuesto y recursos adicionales. Siempre es una buena idea discutir tus planes con los interesados. Pueden tener una perspectiva diferente. En resumen, es importante comunicar los riesgos a los interesados, así están mejor preparados para ayudarte si surge alguno. También debes adaptar tu estilo de comunicación conforme a la gravedad del riesgo. A continuación, repasaremos y daremos conclusión a todo lo que cubrimos. Nos vemos ahí.
+planificación de riesgos y estrategias similares que nunca antes hayas tenido en cuenta. La comunicación de los riesgos es una parte importante de mi función aquí, en Google. Como gerente de programa, constantemente escribo correos electrónicos y realizo presentaciones acerca del estado de mis proyectos, normalmente, con el objetivo de compartir riesgos conocidos y mis planes de mitigación. Al discutir estos planes con los interesados, solemos encontrar otros riesgos que antes no había considerado. Por ejemplo, en una reunión reciente, presentaba un posible producto nuevo con otro equipo a un interesado. En la reunión, el interesado manifestó su preocupación de que mi solución podía causar riesgos de tiempo y recursos, lo cual podría tener un impacto negativo en su equipo. La discusión me brindó un conocimiento más profundo de los riesgos potenciales para mis colegas y de las necesidades de los usuarios del producto; entonces, advertí que necesitaba solicitar a mis patrocinadores presupuesto y recursos adicionales. Siempre es una buena idea discutir tus planes con los interesados. Pueden tener una perspectiva diferente. En resumen, es importante comunicar los riesgos a los interesados, así están mejor preparados para ayudarte si surge alguno. También debes adaptar tu estilo de comunicación conforme a la gravedad del riesgo. A continuación, repasaremos y daremos conclusión a todo lo que cubrimos. Nos vemos ahí. Requerida Español​Ayúdanos a traducir : agregado a la selección Presiona [CTRL + S] para guardar como nota.
+Requerida
+es
+
 ## Organizar la comunicacion y la documentacion
