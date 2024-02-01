@@ -2432,4 +2432,10 @@ de la finalización o la iniciación de la otra. Exploremos cuatro tipos comunes
 
 ### Mitigar y comunicar riesgos
 
+#### Estrategias de mitigación de riesgos
+
+#### Creación de un plan de gestión de riesgos
+
+#### Comunicar riesgos a los interesados
+
 ## Organizar la comunicacion y la documentacion
