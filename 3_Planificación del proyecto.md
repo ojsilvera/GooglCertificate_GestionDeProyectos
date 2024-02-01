@@ -2445,6 +2445,42 @@ yudarte a controlar los riesgos para el proyecto eficazmente.
 
 #### Creación de un plan de gestión de riesgos
 
+Ahora que conoces tus opciones para mitigar los riesgos potenciales, hablemos de cómo documentar tus decisiones de plani-
+ficación de riesgos. La documentación es un componente esencial de tu función como gerente de proyectos. Esto cuenta espe-
+cialmente para la identificación de riesgos y la creación de un plan para mitigarlos.
+
+Un plan de gestión de riesgos es un documento abierto que contiene información sobre riesgos de alto nivel y el plan de
+mitigación para cada uno de ellos. Este plan ayuda a garantizar que los compañeros de equipo y los interesados tengan una
+clara comprensión de los problemas potenciales y un plan para abordarlos si surgen.
+
+La gestión de riesgos es una práctica continua en la que participas durante la planificación y la ejecución de un pro-
+yecto. Como la gestión de riesgos evoluciona a lo largo del proyecto, el plan debe actualizarse regularmente para agregar
+los nuevos riesgos identificados, eliminar los riesgos que ya no corresponden e incluir todos los cambios en los planes
+de mitigación.
+
+Repasemos un ejemplo de un plan de gestión de riesgos similar al que a veces usamos aquí en Google. En la parte superior
+del documento, incluimos el nombre de la empresa y, debajo, el nombre del proyecto. También incluimos el autor del documento
+para que cualquiera que revise el plan sepa exactamente a quién acudir si tiene alguna duda. Esta plantilla también designa
+un lugar para el estado del documento. Mientras creas el plan, puedes indicar el estado "en curso". Una vez que lo termines,
+puedes cambiar el estado a "finalizado". También hemos incluido detalles útiles, como cuándo se creó el documento y cuándo
+se actualizó por última vez. Este tipo de detalles puede parecer pequeño, pero es una buena práctica incluirlos, ya que la
+transparencia en las fechas da a los interesados la percepción de lo actualizado que está el documento. Debajo de estos
+detalles, tenemos el objetivo del documento. Aquí, hemos escrito que nuestro objetivo es describir los planes de mitigación
+para el proyecto Plant Pals. Debajo, agregamos un resumen ejecutivo del proyecto.
+
+Los resúmenes ejecutivos deben incluir una breve introducción a las condiciones normales del proyecto y una descripción
+de los riesgos que podrían afectarlo. Ahora, vamos a lo más importante: los riesgos y cómo los mitigaremos.
+
+Este documento también incluye el registro de riesgos que vimos anteriormente; se trata de una tabla o gráfico que con-
+tiene tu lista de riesgos posibles. Aquí, hemos descrito uno de los riesgos potenciales para Plan Pals, que es la posibi-
+lidad de que el proveedor se retrase en un plazo. Atribuimos a este riesgo una calificación de riesgo inherente media.
+
+Recuerda que el riesgo inherente es la medición de un riesgo calculada a partir de su probabilidad e impacto. También
+incluimos un plan de mitigación para este riesgo, que consiste en reunirse diariamente con el proveedor para ayudarlo a
+no desviarse de la tarea. En el apéndice del documento, encontrarás los gráficos de probabilidad e impacto, además de la
+matriz de probabilidad e impacto que usamos para evaluar los riesgos. Una vez que hayas rellenado el plan de gestión de
+riesgos, lo compartirás con tu equipo e interesados para recibir sus comentarios y garantizar que se adapten a tus planes.
+
 #### Comunicar riesgos a los interesados
 
 ## Organizar la comunicacion y la documentacion
