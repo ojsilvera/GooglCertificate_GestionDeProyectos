@@ -2527,5 +2527,4 @@ y recursos adicionales. Siempre es una buena idea discutir tus planes con los in
 En resumen, es importante comunicar los riesgos a los interesados, así están mejor preparados para ayudarte si surge alguno.
 También debes adaptar tu estilo de comunicación conforme a la gravedad del riesgo.
 
-
 ## Organizar la comunicacion y la documentacion
