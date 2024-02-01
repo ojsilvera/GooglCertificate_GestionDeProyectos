@@ -2514,9 +2514,18 @@ para repasar el plan del proyecto, puedes agregar un punto del orden del día pa
 para mitigarlos. También puedes aprovechar la oportunidad para escuchar comentarios sobre tu plan de gestión de riesgos y
 pedir la opinión de los interesados sobre cómo manejar estos riesgos de nivel alto.
 
-Los interesados deben contar con experiencia previa en la planificación de riesgos y estrategias similares que nunca antes hayas tenido en cuenta. La comunicación de los riesgos es una parte importante de mi función aquí, en Google. Como gerente de programa, constantemente escribo correos electrónicos y realizo presentaciones acerca del estado de mis proyectos, normalmente, con el objetivo de compartir riesgos conocidos y mis planes de mitigación. Al discutir estos planes con los interesados, solemos encontrar otros riesgos que antes no había considerado. Por ejemplo, en una reunión reciente, presentaba un posible producto nuevo con otro equipo a un interesado. En la reunión, el interesado manifestó su preocupación de que mi solución podía causar riesgos de tiempo y recursos, lo cual podría tener un impacto negativo en su equipo. La discusión me brindó un conocimiento más profundo de los riesgos potenciales para mis colegas y de las necesidades de los usuarios del producto; entonces, advertí que necesitaba solicitar a mis patrocinadores presupuesto y recursos adicionales. Siempre es una buena idea discutir tus planes con los interesados. Pueden tener una perspectiva diferente. En resumen, es importante comunicar los riesgos a los interesados, así están mejor preparados para ayudarte si surge alguno. También debes adaptar tu estilo de comunicación conforme a la gravedad del riesgo. A continuación, repasaremos y daremos conclusión a todo lo que cubrimos. Nos vemos ahí.
-planificación de riesgos y estrategias similares que nunca antes hayas tenido en cuenta. La comunicación de los riesgos es una parte importante de mi función aquí, en Google. Como gerente de programa, constantemente escribo correos electrónicos y realizo presentaciones acerca del estado de mis proyectos, normalmente, con el objetivo de compartir riesgos conocidos y mis planes de mitigación. Al discutir estos planes con los interesados, solemos encontrar otros riesgos que antes no había considerado. Por ejemplo, en una reunión reciente, presentaba un posible producto nuevo con otro equipo a un interesado. En la reunión, el interesado manifestó su preocupación de que mi solución podía causar riesgos de tiempo y recursos, lo cual podría tener un impacto negativo en su equipo. La discusión me brindó un conocimiento más profundo de los riesgos potenciales para mis colegas y de las necesidades de los usuarios del producto; entonces, advertí que necesitaba solicitar a mis patrocinadores presupuesto y recursos adicionales. Siempre es una buena idea discutir tus planes con los interesados. Pueden tener una perspectiva diferente. En resumen, es importante comunicar los riesgos a los interesados, así están mejor preparados para ayudarte si surge alguno. También debes adaptar tu estilo de comunicación conforme a la gravedad del riesgo. A continuación, repasaremos y daremos conclusión a todo lo que cubrimos. Nos vemos ahí. Requerida Español​Ayúdanos a traducir : agregado a la selección Presiona [CTRL + S] para guardar como nota.
-Requerida
-es
+Los interesados deben contar con experiencia previa en la planificación de riesgos y estrategias similares que nunca antes
+hayas tenido en cuenta.
+
+Al discutir estos planes con los interesados, solemos encontrar otros riesgos que antes no había considerado. Por ejemplo,
+en una reunión reciente, presentaba un posible producto nuevo con otro equipo a un interesado. En la reunión, el interesado
+manifestó su preocupación de que mi solución podía causar riesgos de tiempo y recursos, lo cual podría tener un impacto
+negativo en su equipo. La discusión me brindó un conocimiento más profundo de los riesgos potenciales para mis colegas y
+de las necesidades de los usuarios del producto; entonces, advertí que necesitaba solicitar a mis patrocinadores presupuesto
+y recursos adicionales. Siempre es una buena idea discutir tus planes con los interesados. Pueden tener una perspectiva diferente.
+
+En resumen, es importante comunicar los riesgos a los interesados, así están mejor preparados para ayudarte si surge alguno.
+También debes adaptar tu estilo de comunicación conforme a la gravedad del riesgo.
+
 
 ## Organizar la comunicacion y la documentacion
