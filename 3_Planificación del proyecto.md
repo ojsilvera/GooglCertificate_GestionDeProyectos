@@ -2397,7 +2397,7 @@ Mitigar el riesgo implica tratar de minimizar los efectos catastróficos que pod
 minimizar el riesgo empieza por darse cuenta de que existe. Por eso suele oírse hablar de estrategias de mitigación deno-
 minadas soluciones alternativas.
 
-*Transferencia de datos:*
+*Transferencia del riesgo:*
 
 La estrategia de transferencia traslada la responsabilidad de gestionar el riesgo a otra persona.
 
@@ -2433,6 +2433,15 @@ de la finalización o la iniciación de la otra. Exploremos cuatro tipos comunes
 ### Mitigar y comunicar riesgos
 
 #### Estrategias de mitigación de riesgos
+
+El plan de mitigación consiste en encontrar formas de eliminar o reducir el impacto de los riesgos posibles sobre el pro-
+yecto. Existen cuatro formas usuales de eliminar un riesgo. Puedes evitarlo, aceptarlo, reducirlo o controlarlo, o bien
+transferirlo.
+
+usar un árbol de decisión para crear planes de mitigación. El árbol de decisión es un diagrama de flujo que ayuda a visua-
+lizar el impacto mayor de una decisión sobre el resto del proyecto. En resumen, las cuatro formas usuales de mitigar un
+riesgo son: evitarlo, aceptarlo, reducirlo o controlarlo o transferirlo. El uso de una de estas cuatro estrategias puede
+yudarte a controlar los riesgos para el proyecto eficazmente.
 
 #### Creación de un plan de gestión de riesgos
 
