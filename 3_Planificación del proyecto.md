@@ -2662,19 +2662,45 @@ deben abordarse estas preguntas:
 
 Analicemos cada pregunta:
 
-En primer lugar, tu plan de comunicación debe incluir lo que estás comunicando, o, en otras palabras, el tipo de comuni-
+En primer lugar, tu plan de comunicación debe incluir lo *que estás comunicando*, o, en otras palabras, el tipo de comuni-
 cación. Esto podría incluir ciertas cuestiones, como el estado de las actualizaciones, los problemas, comentarios de los
 usuarios, registros diarios y otros tipos de reuniones de proyectos.
 
-En segundo lugar, identificar con quién te comunicas. Estos son los destinatarios de la información, como los interesados
+En segundo lugar, identificar *con quién* te comunicas. Estos son los destinatarios de la información, como los interesados
 clave y el equipo principal del proyecto.
 
-En tercer lugar Para cada tipo de comunicación, es necesario registrar cuándo comunicarse. Esto incluye la frecuencia,
+En tercer lugar, para cada tipo de comunicación, es necesario registrar *cuándo* comunicarse. Esto incluye la frecuencia,
 es decir, qué tan seguido te comunicarás, y las fechas clave, como fechas límite o reuniones importantes. una cosa a tener
 en cuenta es que no todo el mundo necesita recibir la misma cantidad de información al mismo tiempo. En términos generales,
 los interesados clave obtendrán su información con menos frecuencia, como en un resumen mensual de alto nivel, correo
 electrónico o reunión de revisión del proyecto, pero el equipo principal del proyecto podría recibir información más
 detallada a través de actualizaciones diarias por correo electrónico o registros virtuales rápidos.
+
+En cuarto lugar, incluye *cómo te comunicas* o qué método de entrega utilizarás. Puede ser por correo electrónico, en persona
+o reuniones virtuales, o una presentación formal. Tu plan también debe incluir el objetivo de comunicarse. Este es tu
+*“por qué”.* Así que pregúntate: ¿por qué te comunicas? ¿Es para dar una actualización de progreso, identificar un riesgo
+y hacer frente a los obstáculos? O tal vez necesites averiguar los próximos pasos, los planes de preparación detallados y
+reflexionar sobre las lecciones aprendidas. El objetivo de la comunicación podría ser una combinación de cualquiera de estos
+o alguna otra razón en conjunto. En cualquier caso, debe haber un propósito para comunicarse, de lo contrario, corres el
+riesgo de perder un tiempo valioso.
+
+En quito lugar, *donde se almacena la informacion comunicada*, determina dónde están ubicados los recursos de comunicación,
+junto con cualquier otra nota trata de recordar que la información debe ser de fácil acceso. Para que tú, tus interesados
+y tu equipo puedan encontrar rápidamente los recursos que necesitan para tomar decisiones, trabajar en tareas, ponerse al
+día o proporcionar actualizaciones.
+
+Beneficios del plan de comunicaciones.
+
+    Uno de los beneficios de un plan de comunicación eficaz es que permite la continuidad de las operaciones del proyecto. Si
+    un nuevo gerente de proyectos accede al proyecto y ve el plan, debería poder acceder rápidamente a las notas y documentación
+    de reuniones anteriores, así como a comunicaciones próximas y actuales.
+
+    El plan de comunicación también ayuda con una gestión de cambios eficaz, el proceso de entrega de tu proyecto final y a
+    conseguir que se implemente con éxito. Cuando otros accedan al plan de comunicación una vez que tú hayas dejado el proyecto,
+    podrán solucionar cualquier problema que pueda surgir, tomar decisiones, o aplicar procesos similares a un proyecto nuevo.
+
+Ten en cuenta que este es solo un plan básico, y que hay muchas otras formas de estructurar uno. Todo depende del tipo
+del proyecto en el que estés trabajando.
 
 #### Desarrollar un plan de comunicación
 
