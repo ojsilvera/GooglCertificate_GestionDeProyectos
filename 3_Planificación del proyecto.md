@@ -2528,3 +2528,10 @@ En resumen, es importante comunicar los riesgos a los interesados, así están m
 También debes adaptar tu estilo de comunicación conforme a la gravedad del riesgo.
 
 ## Organizar la comunicacion y la documentacion
+
+### Crear un plan de comunicación efectiva
+
+### Documentar los recursos de planificación del proyecto
+
+### Opcional: Prepararse para una búsqueda de trabajo
+
