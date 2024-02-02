@@ -2600,9 +2600,10 @@ Puedes utilizar estos cuatro consejos para fomentar una comunicación efectiva d
 
     Hacer una lluvia de ideas y elaborar el mensaje apropiado.
 
-        Comunica el mensaje correcto al pensar en tu público objetivo. ¿Con quién te comunicas? En tus comunicaciones, ten siempre claro los motivos por los que deseas comunicarte:
+        Comunica el mensaje correcto al pensar en tu público objetivo. ¿Con quién te comunicas? En tus comunicaciones, ten
+        siempre claro los motivos por los que deseas comunicarte:
 
-            * ¿Qué canales puede usar tu audiencia para comunicarse contigo o con el equipo? 
+            * ¿Qué canales puede usar tu audiencia para comunicarse contigo o con el equipo?
 
             * ¿Estás transmitiendo información?
 
@@ -2612,11 +2613,38 @@ Puedes utilizar estos cuatro consejos para fomentar una comunicación efectiva d
 
             * ¿Estás resolviendo algún problema?
 
-        Algunos miembros del equipo pueden requerir información detallada, mientras que otros solo pueden necesitar una descripción general de la situación. Independientemente de tu audiencia, debes asegurarte de identificar el propósito del mensaje, indicar la información o la solicitud de manera clara y concisa, y mantenerte en el tema. 
+        Algunos miembros del equipo pueden requerir información detallada, mientras que otros solo pueden necesitar una
+        descripción general de la situación. Independientemente de tu audiencia, debes asegurarte de identificar el propó-
+        sito del mensaje, indicar la información o la solicitud de manera clara y concisa, y mantenerte en el tema.
 
     Entregar tu mensaje
 
+        Mientras redactas tu mensaje, piensa qué métodos están disponibles y son apropiados para comunicarte con varios
+        miembros de tu equipo, ya sea en persona, en una videoconferencia, por teléfono, por correo electrónico o en una
+        reunión. Elegir el método correcto es especialmente importante si tienes miembros del equipo o interesados en
+        diferentes regiones y zonas horarias.
+        
+        Además, asegúrate de:
+
+            * Evitar incluir información confidencial o potencialmente privada.
+
+            * Suponer que todos en la empresa recibirán la comunicación.
+
     Obtener comentarios e incorporarlos en el futuro.
+
+        La comunicación no termina cuando entregas tu mensaje, así que asegúrate de hacer un seguimiento con tu audiencia
+        de la siguiente manera:
+
+            * Verificar para asegurarte de que tu mensaje sea claro.
+
+            * Pedir comentarios.
+
+            * Fomentar la comunicación abierta.
+
+            * Responder las preguntas rápidamente.
+
+        En este paso final, obtendrás comentarios de tu audiencia para asegurarte de que tu mensaje se recibió como lo
+        deseabas.
 
 #### Iniciar un plan de comunicación
 
