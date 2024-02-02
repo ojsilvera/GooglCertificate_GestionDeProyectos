@@ -2755,7 +2755,12 @@ laridad y pregunta cómo va todo:
 Agrega una reunión diaria para tu equipo principal y una reunión semanal para los subgrupos. Hagamos que eso suceda Reunirse
 con más frecuencia puede ayudar a desbloquear los problemas y mantener el proyecto en el camino correcto. Esto nos lleva
 a fechas clave. Enumerar fechas y horas clave son importantes para la coordinación. Por ejemplo, si estás lanzando un
-producto o un nuevo proceso, o dando una presentación, debes enumerar las fechas clave. Ten en cuenta que no todos los tipos de comunicación requieren que se indique una fecha clave específica. Por ejemplo, con las comunicaciones diarias o semanales, es posible que no necesites especificar la fecha real de cada semana. Podrías hacer una lista todos los lunes o algo así. Vamos a añadir fechas clave a nuestro plan. Para el boletín mensual, vamos a enviarlo el primer lunes de cada mes. Vamos a programar reuniones diarias al mediodía y las verificaciones semanales los miércoles a las dos, tres y cuatro en punto.
+producto o un nuevo proceso, o dando una presentación, debes enumerar las fechas clave. Ten en cuenta que no todos los
+tipos de comunicación requieren que se indique una fecha clave específica. Por ejemplo, con las comunicaciones diarias o
+semanales, es posible que no necesites especificar la fecha real de cada semana. Podrías hacer una lista todos los lunes
+o algo así. Vamos a añadir fechas clave a nuestro plan. Para el boletín mensual, vamos a enviarlo el primer lunes de cada
+mes. Vamos a programar reuniones diarias al mediodía y las verificaciones semanales los miércoles a las dos, tres y cuatro
+en punto.
 
 #### Mejores prácticas para construir un plan de comunicación
 
