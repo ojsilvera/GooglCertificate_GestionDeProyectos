@@ -2720,7 +2720,7 @@ Hay algunos beneficios clave para planificar tu comunicación por adelantado. Cr
 Intentemos crear un plan de comunicación de muestra para que veas cómo ayuda a gestionar los diferentes aspectos de comu-
 nicación del proyecto. Continuaremos Aquí hay un ejemplo de un plan de comunicación que usa una hoja de cálculo.
 
-![Ejemplo plan de comunicacion, imagen](image-18.png)
+![Ejemplo de un plan de comumicacion en google sheet, formato imagen](image-19.png)
 
 Antes que nada, piensa qué tipos de comunicación utilizarás en todo el proyecto Plants Palts. No dudes en volver a consultar
 tu gráfico RACI y el mapa de interesados, que son herramientas que te ayudarán a averiguar qué tipo de comunicación podría
