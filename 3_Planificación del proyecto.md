@@ -2531,6 +2531,18 @@ También debes adaptar tu estilo de comunicación conforme a la gravedad del rie
 
 ### Crear un plan de comunicación efectiva
 
+#### Introducción: Organizar la comunicación y la documentación
+
+#### Por qué la comunicación es fundamental
+
+#### Consejos para una comunicación efectiva
+
+#### Iniciar un plan de comunicación
+
+#### Desarrollar un plan de comunicación
+
+#### Mejores prácticas para construir un plan de comunicación
+
 ### Documentar los recursos de planificación del proyecto
 
 ### Opcional: Prepararse para una búsqueda de trabajo
