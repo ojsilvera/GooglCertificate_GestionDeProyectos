@@ -2574,6 +2574,22 @@ da a tu proyecto la mejor oportunidad de tener éxito.
 
 #### Consejos para una comunicación efectiva
 
+Un buen gerente de proyectos debe comunicarse eficazmente con todos los interesados y los miembros del equipo a través de
+varios medios.
+
+Como gerente de proyectos, es importante desarrollar un plan de comunicación durante el proyecto. Una buena comunicación
+ayuda a que tu proyecto funcione sin problemas, conduce a mejores resultados y respalda una cultura de equipo saludable.
+
+Puedes utilizar estos cuatro consejos para fomentar una comunicación efectiva dentro de tu equipo:
+
+    Reconocer y comprender las diferencias individuales.
+
+    Hacer una lluvia de ideas y elaborar el mensaje apropiado.
+
+    Entregar tu mensaje
+
+    Obtener comentarios e incorporarlos en el futuro.
+
 #### Iniciar un plan de comunicación
 
 #### Desarrollar un plan de comunicación
