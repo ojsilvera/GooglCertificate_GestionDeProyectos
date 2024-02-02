@@ -2534,4 +2534,3 @@ También debes adaptar tu estilo de comunicación conforme a la gravedad del rie
 ### Documentar los recursos de planificación del proyecto
 
 ### Opcional: Prepararse para una búsqueda de trabajo
-
