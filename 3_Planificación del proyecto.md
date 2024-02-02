@@ -2648,6 +2648,34 @@ Puedes utilizar estos cuatro consejos para fomentar una comunicación efectiva d
 
 #### Iniciar un plan de comunicación
 
+Un plan de comunicación organiza y documenta el proceso, los tipos y las expectativas de comunicación para el proyecto. El
+tamaño y la complejidad de tu plan de comunicación serán diferentes para todos los proyectos, pero siempre es bueno tener
+uno. En particular, cuando hay varios interesados, etapas diferentes y gestión de cambios involucrados. Realmente te ayudará
+a ti, a tu proyecto y a los interesados. Al igual que otros planes relacionados con el proyecto, en tu plan de comunicación
+deben abordarse estas preguntas:
+
+    - qué necesita ser comunicado.
+    - quién necesita comunicarse.
+    - cuándo tiene que ocurrir la comunicación.
+    - por qué y cómo comunicarse.
+    - dónde se almacena la información comunicada.
+
+Analicemos cada pregunta:
+
+En primer lugar, tu plan de comunicación debe incluir lo que estás comunicando, o, en otras palabras, el tipo de comuni-
+cación. Esto podría incluir ciertas cuestiones, como el estado de las actualizaciones, los problemas, comentarios de los
+usuarios, registros diarios y otros tipos de reuniones de proyectos.
+
+En segundo lugar, identificar con quién te comunicas. Estos son los destinatarios de la información, como los interesados
+clave y el equipo principal del proyecto.
+
+En tercer lugar Para cada tipo de comunicación, es necesario registrar cuándo comunicarse. Esto incluye la frecuencia,
+es decir, qué tan seguido te comunicarás, y las fechas clave, como fechas límite o reuniones importantes. una cosa a tener
+en cuenta es que no todo el mundo necesita recibir la misma cantidad de información al mismo tiempo. En términos generales,
+los interesados clave obtendrán su información con menos frecuencia, como en un resumen mensual de alto nivel, correo
+electrónico o reunión de revisión del proyecto, pero el equipo principal del proyecto podría recibir información más
+detallada a través de actualizaciones diarias por correo electrónico o registros virtuales rápidos.
+
 #### Desarrollar un plan de comunicación
 
 #### Mejores prácticas para construir un plan de comunicación
