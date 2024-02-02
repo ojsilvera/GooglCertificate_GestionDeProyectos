@@ -2531,9 +2531,46 @@ También debes adaptar tu estilo de comunicación conforme a la gravedad del rie
 
 ### Crear un plan de comunicación efectiva
 
-#### Introducción: Organizar la comunicación y la documentación
-
 #### Por qué la comunicación es fundamental
+
+La comunicación es muy importante en cada proyecto. Incluso diría que es la herramienta más importante para asegurarte de
+que tu proyecto funcione sin problemas. Muchas veces, lo que contribuye al éxito o el fracaso de un equipo de proyecto se
+reduce a si todo el mundo entiende o no qué está sucediendo y cómo sus tareas contribuyen a los objetivos del proyecto.
+
+Como gerente de proyectos, desempeñas un papel importante en cuanto a asegurarte de que todos sepan cuáles son sus roles
+y tareas. También eres la persona a la que recurren los miembros del equipo cuando necesitan una respuesta rápida. Poder
+comunicarse de forma clara y eficaz es clave. Es importante recordar que, sin comunicación efectiva, el proyecto corre
+riesgo de perderse oportunidades importantes o, incluso, fallar por completo.
+
+En un proyecto en el que trabajé recientemente, mis interesados designaron algunos especialistas en diseño para trabajar
+conmigo. En la primera semana del proyecto, me di cuenta de que un especialista no asistía a ninguna de las reuniones del
+proyecto. Decidí acercarme al individuo para conversar sobre su ausencia. Cuando le pregunté, me dijo que estaba muy por
+encima de la capacidad con la carga de trabajo actual y que no podía cumplir con los plazos cortos que le habían asignado.
+Hubo un par de fallas en la comunicación aquí. Primero, entre el especialista y su gerente, y, segundo, entre el especialista
+y yo, el gerente de proyectos. Idealmente, el especialista y su gerente deberían haberse comunicado mejor entre sí respecto
+de la capacidad del especialista para asumir la carga de trabajo. Si no me hubiera comunicado con el especialista, su
+ausencia continua en las reuniones podrían haber resultado en una gran cantidad de tiempo perdido, en demoras en el proyecto
+o en no poder entregar el proyecto de manera satisfactoria. Al final de cuentas, solo perdimos una semana de trabajo debido
+a la falta de comunicación. Sin embargo, dado que hice un seguimiento rápido, pudimos pivotar y asignar a otro especialista
+al proyecto.
+
+Sabemos que la comunicación es muy importante, pero ¿qué es exactamente la comunicación?, En pocas palabras, la comunicación
+es el flujo de información. Incluye todo lo que se comparte, cómo se comparte y con quién. Una buena comunicación efectiva
+siempre es clara, honesta, relevante y frecuente, pero no demasiado frecuente.
+
+Existe la sobrecarga de información. Gracias a la comunicación efectiva, es posible que tu proyecto se ejecute a tiempo y
+conforme a las expectativas esbozadas en el plan del proyecto. Aprovecha al máximo herramientas como reuniones, correos
+electrónicos, llamadas telefónicas, documentos escritos y presentaciones formales, y asegúrate de que todos puedan acceder
+a ellas.
+
+También es importante recordar que la comunicación no es un evento único ni una ruta de ida. Tiene que suceder a lo largo
+de todo el ciclo de vida del proyecto, partir del equipo del proyecto y los interesados, así como de ti. Asegúrate de
+aclarar los objetivos y expectativas de los clientes, hacer un seguimiento de los elementos de acción, y comunicar los
+retrasos conforme avanza el proyecto. Esto te ayudará a evitar problemas y retrocesos.
+
+Como gerente de proyectos, eres responsable de crear un flujo constante de comunicación durante todo el proyecto, definir
+el tono de la comunicación en equipo y trabajar para asegurarte de que todos estén en sintonía. Cada paso del camino le
+da a tu proyecto la mejor oportunidad de tener éxito.
 
 #### Consejos para una comunicación efectiva
 
