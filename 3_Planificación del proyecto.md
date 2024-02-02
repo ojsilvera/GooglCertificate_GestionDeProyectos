@@ -2704,6 +2704,59 @@ del proyecto en el que estés trabajando.
 
 #### Desarrollar un plan de comunicación
 
+Cosas como:
+
+    ¿quién necesita participar en la comunicación del proyecto?
+    ¿Cuál es la mejor manera de comunicarse?
+    ¿Por qué te comunicas?
+    ¿Con qué frecuencia debes comunicarte?
+
+Hay algunos beneficios clave para planificar tu comunicación por adelantado. Crear un plan de comunicación ayuda a:
+
+    mejorar la eficacia general de la comunicación,
+    mantiene a las personas comprometidas y motivadas durante el proyecto,
+    involucra a los interesados en conversaciones efectivas.
+
+Intentemos crear un plan de comunicación de muestra para que veas cómo ayuda a gestionar los diferentes aspectos de comu-
+nicación del proyecto. Continuaremos Aquí hay un ejemplo de un plan de comunicación que usa una hoja de cálculo.
+
+![Ejemplo plan de comunicacion, imagen](image-18.png)
+
+Antes que nada, piensa qué tipos de comunicación utilizarás en todo el proyecto Plants Palts. No dudes en volver a consultar
+tu gráfico RACI y el mapa de interesados, que son herramientas que te ayudarán a averiguar qué tipo de comunicación podría
+funcionar mejor para cada persona, grupo o función. En este ejemplo, diremos que los interesados son ejecutivos senior
+ocupados que es posible que no necesiten detalles del día a día. En lugar de reuniones diarias, es mejor enviar un boletín
+que resuma los hitos clave y el progreso del proyecto hasta la fecha.
+
+Además, sabemos que el equipo central participará en resúmenes diarios, así que agregaré eso también. Los siguientes
+destinatarios son los subgrupos de proyectos para marketing, adquisiciones, y desarrollo de productos. Vamos a añadir
+reuniones individuales para cada uno de esos grupos, además de las reuniones del equipo central.
+
+Dado que esos subgrupos no forman parte del equipo central, puede que solo quieras reunirte con ellos semanalmente, en
+lugar de hacerlo todos los días. Vamos a añadir el registro semanal a cada uno de ellos.
+
+Otra mejor práctica es hacer una lista de la información de contacto y zonas horarias en tu plan de comunicación. De esa
+manera, sabes cuando las personas están disponibles para comunicarse. Así que vamos a agregarlo. Siéntete libre de esconder
+esta columna, ya que contiene información confidencial acerca de las personas involucradas en tu proyecto. Hay otras formas
+de enumerar información de contacto de forma privada y vincularla para una referencia fácil. Si tienes inconvenientes para
+decidir qué tipo de comunicación usar, una forma de ayudarte a elegir es pensar en la frecuencia. Como mencioné anteriormente,
+probablemente un interesado de alto nivel no podrá asistir a reuniones diarias, y no necesitará toda la información. En cambio,
+puedes comunicarte con un interesado sénior con una frecuencia semanal o mensual, y concentrarte en actualizaciones de estado
+de alto nivel, como el progreso general, triunfos o hitos recientes, métricas alcanzadas y actuales. En este caso, enviaremos
+el boletín del proyecto una vez al mes. Si no estás seguro, siempre es bueno preguntar a los interesados sénior qué método de
+comunicación funciona mejor para ellos.
+
+Cuando trabajas con tu equipo central en un proyecto, necesitas entrar en más detalles del día a día. Verifica con regu-
+laridad y pregunta cómo va todo:
+
+¿Cómo les va en las tareas?
+¿Necesitan tu ayuda con algo?
+
+Agrega una reunión diaria para tu equipo principal y una reunión semanal para los subgrupos. Hagamos que eso suceda Reunirse
+con más frecuencia puede ayudar a desbloquear los problemas y mantener el proyecto en el camino correcto. Esto nos lleva
+a fechas clave. Enumerar fechas y horas clave son importantes para la coordinación. Por ejemplo, si estás lanzando un
+producto o un nuevo proceso, o dando una presentación, debes enumerar las fechas clave. Ten en cuenta que no todos los tipos de comunicación requieren que se indique una fecha clave específica. Por ejemplo, con las comunicaciones diarias o semanales, es posible que no necesites especificar la fecha real de cada semana. Podrías hacer una lista todos los lunes o algo así. Vamos a añadir fechas clave a nuestro plan. Para el boletín mensual, vamos a enviarlo el primer lunes de cada mes. Vamos a programar reuniones diarias al mediodía y las verificaciones semanales los miércoles a las dos, tres y cuatro en punto.
+
 #### Mejores prácticas para construir un plan de comunicación
 
 ### Documentar los recursos de planificación del proyecto
