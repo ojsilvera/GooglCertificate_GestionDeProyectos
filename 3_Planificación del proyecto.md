@@ -2583,8 +2583,36 @@ ayuda a que tu proyecto funcione sin problemas, conduce a mejores resultados y r
 Puedes utilizar estos cuatro consejos para fomentar una comunicación efectiva dentro de tu equipo:
 
     Reconocer y comprender las diferencias individuales.
+    
+        Puedes fomentar la comunicación abierta e inclusiva al:
+
+           * No hacer suposiciones sobre los antecedentes, identidades o experiencias de tu audiencia.
+
+           * Ser consciente de tus propios prejuicios.
+
+           * Usar un lenguaje apropiado, profesional y neutral.
+
+           * Incluir, respetar y tener curiosidad por diversos puntos de vista.
+
+        Como gerente de proyectos, indudablemente trabajarás con un grupo diverso de miembros del equipo e interesados en
+        cada proyecto. Deberás comprender los antecedentes, las experiencias, las perspectivas y los prejuicios de cada
+        miembro del equipo, así como los tuyos, para comunicarse de manera eficaz.
 
     Hacer una lluvia de ideas y elaborar el mensaje apropiado.
+
+        Comunica el mensaje correcto al pensar en tu público objetivo. ¿Con quién te comunicas? En tus comunicaciones, ten siempre claro los motivos por los que deseas comunicarte:
+
+            * ¿Qué canales puede usar tu audiencia para comunicarse contigo o con el equipo? 
+
+            * ¿Estás transmitiendo información?
+
+            * ¿Estás pidiendo información?
+
+            * ¿Estás aclarando algún problema?
+
+            * ¿Estás resolviendo algún problema?
+
+        Algunos miembros del equipo pueden requerir información detallada, mientras que otros solo pueden necesitar una descripción general de la situación. Independientemente de tu audiencia, debes asegurarte de identificar el propósito del mensaje, indicar la información o la solicitud de manera clara y concisa, y mantenerte en el tema. 
 
     Entregar tu mensaje
 
