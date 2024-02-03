@@ -2846,15 +2846,43 @@ Antes de comenzar a crear el plan, responde estas preguntas para asegurarte de t
 
 Documentar y desarrollar
 
-Elige una herramienta o plantilla para documentar todas tus necesidades de comunicación y comienza a desarrollar tu plan. Una vez que comprendas los elementos básicos (interesados, métodos de comunicación, objetivos y barreras), ¡es hora de trabajar en los detalles! Algunos consejos:
+Elige una herramienta o plantilla para documentar todas tus necesidades de comunicación y comienza a desarrollar tu
+plan. Una vez que comprendas los elementos básicos (interesados, métodos de comunicación, objetivos y barreras), ¡es hora
+de trabajar en los detalles! Algunos consejos:
 
-Agrega una columna para notas. La gestión de proyectos no es única para todos y hay muchas piezas que deben rastrearse. Por ejemplo, si te estás comunicando con un líder o ejecutivo senior, ¿necesitas copiar a alguien más en el correo electrónico? Si un interesado está fuera de la oficina o no disponible en determinadas fechas, ¿tienes un plan de respaldo? Agrega notas para establecer recordatorios y cualquier detalle adicional relevante.
+    Agrega una columna para notas. La gestión de proyectos no es única para todos y hay muchas piezas que deben rastre-
+    arse. Por ejemplo, si te estás comunicando con un líder o ejecutivo senior, ¿necesitas copiar a alguien más en el
+    correo electrónico? Si un interesado está fuera de la oficina o no disponible en determinadas fechas, ¿tienes un plan
+    de respaldo? Agrega notas para establecer recordatorios y cualquier detalle adicional relevante.
 
-Utiliza el formato para resaltar cualquier detalle clave en el plan. ¿Se necesita un anuncio de lanzamiento o una decisión urgente para que el proyecto avance? Resalta estos elementos fundamentales en un color o tamaño de fuente diferente para enfatizar su importancia.
+    Utiliza el formato para resaltar cualquier detalle clave en el plan. ¿Se necesita un anuncio de lanzamiento o una
+    decisión urgente para que el proyecto avance? Resalta estos elementos fundamentales en un color o tamaño de fuente
+    diferente para enfatizar su importancia.
 
-Asegúrate de que el equipo pueda acceder a tu documento. Comparte el plan con tu equipo. Permitir que tu equipo revise el documento asegura que conocen el plan y les da la oportunidad de ofrecer comentarios. Compartir el documento también sirve como un control adicional para asegurarte de que no se pierda ninguna pieza crucial.
+    Asegúrate de que el equipo pueda acceder a tu documento. Comparte el plan con tu equipo. Permitir que tu equipo revise
+    el documento asegura que conocen el plan y les da la oportunidad de ofrecer comentarios. Compartir el documento también
+    sirve como un control adicional para asegurarte de que no se pierda ninguna pieza crucial.
 
-Pon a prueba tu plan. Si envías un correo electrónico o un enlace a todo el equipo, envíate un correo electrónico de prueba a ti mismo o a un colega. Si estás planificando una presentación virtual, asegúrate de probar los aspectos visuales, de audio y otras cuestiones técnicas con anticipación. De esa forma, puedes minimizar cualquier problema técnico.  
+    Pon a prueba tu plan. Si envías un correo electrónico o un enlace a todo el equipo, envíate un correo electrónico de
+    prueba a ti mismo o a un colega. Si estás planificando una presentación virtual, asegúrate de probar los aspectos
+    visuales, de audio y otras cuestiones técnicas con anticipación. De esa forma, puedes minimizar cualquier problema
+    técnico.
+
+Revisar
+
+Una vez que tu plan de comunicación esté en circulación, consulta con tu audiencia sobre su efectividad. Programar controles
+de rutina te ayudará a comprender qué funciona y qué no para que puedas mejorar tu plan. Quieres asegurarte de que tu plan
+de comunicación transmita la información adecuada a los interesados adecuados en el momento justo. Además, asegúrate de
+verificar que los interesados clave no hayan cambiado con el tiempo.
+
+Evalúa dónde puedes estar compartiendo información en exceso o en forma insuficiente o si faltan interesados. Puedes hacer
+esto a través de:
+
+    Formularios de encuesta anónimos
+    
+    Encuestas o sesiones abiertas de comentarios durante las reuniones del equipo
+
+    Conversaciones y controles uno a uno con los interesados clave
 
 ### Documentar los recursos de planificación del proyecto
 
