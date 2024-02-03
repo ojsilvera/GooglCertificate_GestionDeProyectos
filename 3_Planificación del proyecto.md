@@ -2922,7 +2922,44 @@ decisiones o planificar proyectos similares, debería poder acceder fácilmente 
 También ayuda a establecer el tono para proyectos futuros y gerentes de proyectos futuros, lo que puede ser muy útil si
 resultas ser el que se lanza a un nuevo proyecto. Por ejemplo, si un arquitecto está trabajando en una remodelación de la
 cocina y quiere tomar una decisión sobre el diseño, puede echar un vistazo a los antiguos planes del proyecto para comprender
-por qué se tomó la decisión de poner el fregadero en un lugar determinado. O si un nuevo arquitecto se incorpora a mitad de la remodelación, es posible que quiera saber por qué el otro arquitecto diseñó las tuberías de cierta manera. Al mirar los viejos planes, puede regresar y obtener la información y el contexto que necesita para avanzar con decisiones más informadas. También es importante tener en cuenta qué tipo de información compartir, con quién y cuándo. Centrarse en la información clave relacionada con lo que las personas específicas necesitan saber. Piensa en este escenario: un gerente de proyectos que trabaja con todos los vicepresidentes de su empresa decide enviar actualizaciones diarias. Desde el punto de vista de la comunicación, ¿cuál podría ser el impacto potencial de la decisión del gerente de proyectos? Bueno, dado que los vicepresidentes reciben muchos correos electrónicos, no es probable que lean las actualizaciones. Eso termina siendo una pérdida de tiempo para ti. Además, cuando envías mucha información innecesaria, entonces es difícil saber qué es realmente importante. Descubrir cuál es la información correcta para compartir es aún más importante cuando trabajas en proyectos que tienen datos confidenciales. En esos casos, debes tener cuidado con la manera en que compartes información sobre tu proyecto con interesados que no tienen permisos para ver ese tipo de datos. Por ejemplo, datos financieros o los resultados de las encuestas de usuarios son a menudo altamente confidenciales y nunca deberían estar a disposición de espectadores no autorizados. Aquí hay otra situación: supongamos que tu equipo está trabajando en un lanzamiento de alto perfil de un producto nuevo, por ejemplo, un coche eléctrico. La mayoría de la gente no necesita conocer el pensamiento detrás del proyecto o ver todas las versiones preliminares, pero sí saber cómo se verá el diseño final. El proyecto es legalmente sensible y quieres evitar fugas y compartir datos clasificados en exceso. Si compartes toda la carpeta del proyecto con todos los que necesitan conocer solo el resultado final, te arriesgas a hacer precisamente eso: revelar datos altamente confidenciales y clasificados. Si esta información se filtra a las personas equivocadas, los planes del proyecto y los datos de la empresa podrían hacerse públicos, y arruinar el gran lanzamiento del coche eléctrico. También corres el riesgo de violar la política de la empresa y dañar tu reputación como gerente de proyectos responsable y de confianza. Comparte información únicamente cuando sea necesario. Es tu trabajo equilibrar la información correcta con las personas adecuadas y en el momento indicado. Déjame mostrarte un ejemplo. En este plan de comunicación de muestra, uno de los recursos son las encuestas de comentarios de los usuarios. Este recurso contiene datos sin procesar recopilados de encuestas que enviaron usuarios de prueba de Plant Pals, lo que significa que tiene información de identificación personal o PII. PII es cualquier cosa que posiblemente revele la identidad de alguien, como un nombre de pantalla, contraseña, número de teléfono, dirección de correo electrónico, nombre o apellido, cualquier cosa por el estilo. Por eso, solo hay que compartir ese recurso con los miembros del equipo del proyecto que están aprobados para acceder a este nivel de información. Si alguien más intenta abrir el documento, recibirá una alerta de que necesita solicitar permiso para acceder a él. Si necesitas compartir los resultados de estas encuestas, los datos pueden presentarse en un gráfico, tabla, o resumirse en un informe sin ninguna PII incluida. Entonces puedes compartir esa información con el equipo en general. Ahora comprenderás mejor la importancia de la documentación para la gestión de proyectos. A continuación, aprenderemos la mejor manera de ensamblar tu plan y mantenerlo organizado. Nos vemos más tarde.
+por qué se tomó la decisión de poner el fregadero en un lugar determinado. O si un nuevo arquitecto se incorpora a mitad de
+la remodelación, es posible que quiera saber por qué el otro arquitecto diseñó las tuberías de cierta manera.
+
+Al mirar los viejos planes, puede regresar y obtener la información y el contexto que necesita para avanzar con decisiones
+más informadas. También es importante tener en cuenta qué tipo de información compartir, con quién y cuándo. Centrarse en
+la información clave relacionada con lo que las personas específicas necesitan saber.
+
+Piensa en este escenario: un gerente de proyectos que trabaja con todos los vicepresidentes de su empresa decide enviar
+actualizaciones diarias. Desde el punto de vista de la comunicación, ¿cuál podría ser el impacto potencial de la decisión
+del gerente de proyectos? Bueno, dado que los vicepresidentes reciben muchos correos electrónicos, no es probable que lean
+las actualizaciones. Eso termina siendo una pérdida de tiempo para ti. Además, cuando envías mucha información innecesaria,
+entonces es difícil saber qué es realmente importante.
+
+Descubrir cuál es la información correcta para compartir es aún más importante cuando trabajas en proyectos que tienen
+datos confidenciales. En esos casos, debes tener cuidado con la manera en que compartes información sobre tu proyecto con
+interesados que no tienen permisos para ver ese tipo de datos. Por ejemplo, datos financieros o los resultados de las
+encuestas de usuarios son a menudo altamente confidenciales y nunca deberían estar a disposición de espectadores no
+autorizados.
+
+Aquí hay otra situación: supongamos que tu equipo está trabajando en un lanzamiento de alto perfil de un producto nuevo,
+por ejemplo, un coche eléctrico. La mayoría de la gente no necesita conocer el pensamiento detrás del proyecto o ver todas
+las versiones preliminares, pero sí saber cómo se verá el diseño final. El proyecto es legalmente sensible y quieres evitar
+fugas y compartir datos clasificados en exceso. Si compartes toda la carpeta del proyecto con todos los que necesitan conocer
+solo el resultado final, te arriesgas a hacer precisamente eso: revelar datos altamente confidenciales y clasificados. Si
+esta información se filtra a las personas equivocadas, los planes del proyecto y los datos de la empresa podrían hacerse
+públicos, y arruinar el gran lanzamiento del coche eléctrico. También corres el riesgo de violar la política de la empresa
+y dañar tu reputación como gerente de proyectos responsable y de confianza.
+
+Comparte información únicamente cuando sea necesario. Es tu trabajo equilibrar la información correcta con las personas
+adecuadas y en el momento indicado. Déjame mostrarte un ejemplo. En este plan de comunicación de muestra, uno de los recursos
+son las encuestas de comentarios de los usuarios. Este recurso contiene datos sin procesar recopilados de encuestas que
+enviaron usuarios de prueba de Plant Pals, lo que significa que tiene información de identificación personal o PII.
+PII es cualquier cosa que posiblemente revele la identidad de alguien, como un nombre de pantalla, contraseña, número de
+teléfono, dirección de correo electrónico, nombre o apellido, cualquier cosa por el estilo. Por eso, solo hay que compartir
+ese recurso con los miembros del equipo del proyecto que están aprobados para acceder a este nivel de información. Si
+alguien más intenta abrir el documento, recibirá una alerta de que necesita solicitar permiso para acceder a él. Si necesitas
+compartir los resultados de estas encuestas, los datos pueden presentarse en un gráfico, tabla, o resumirse en un informe
+sin ninguna PII incluida. Entonces puedes compartir esa información con el equipo en general.
 
 #### Organización de la documentación del proyecto
 
