@@ -2827,7 +2827,7 @@ Consejos para crear tu plan de comunicación:
 
     Identificar, Documentar y desarrollar, Revisar
 
-Identificar
+- Identificar
 
 Antes de comenzar a crear el plan, responde estas preguntas para asegurarte de tener toda la información relevante:
 
@@ -2844,7 +2844,7 @@ Antes de comenzar a crear el plan, responde estas preguntas para asegurarte de t
     Obstáculos: ¿Existen limitaciones de zona horaria? ¿Barreras del idioma? ¿Algunos interesados necesitan tiempo para
     responder (por ejemplo, un ejecutivo)? ¿Existe algún problema de privacidad o de acceso a Internet?
 
-Documentar y desarrollar
+- Documentar y desarrollar
 
 Elige una herramienta o plantilla para documentar todas tus necesidades de comunicación y comienza a desarrollar tu
 plan. Una vez que comprendas los elementos básicos (interesados, métodos de comunicación, objetivos y barreras), ¡es hora
@@ -2868,7 +2868,7 @@ de trabajar en los detalles! Algunos consejos:
     visuales, de audio y otras cuestiones técnicas con anticipación. De esa forma, puedes minimizar cualquier problema
     técnico.
 
-Revisar
+- Revisar
 
 Una vez que tu plan de comunicación esté en circulación, consulta con tu audiencia sobre su efectividad. Programar controles
 de rutina te ayudará a comprender qué funciona y qué no para que puedas mejorar tu plan. Quieres asegurarte de que tu plan
@@ -2879,7 +2879,7 @@ Evalúa dónde puedes estar compartiendo información en exceso o en forma insuf
 esto a través de:
 
     Formularios de encuesta anónimos
-    
+
     Encuestas o sesiones abiertas de comentarios durante las reuniones del equipo
 
     Conversaciones y controles uno a uno con los interesados clave
