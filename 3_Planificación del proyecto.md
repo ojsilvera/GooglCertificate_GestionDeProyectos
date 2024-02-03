@@ -2749,8 +2749,8 @@ comunicación funciona mejor para ellos.
 Cuando trabajas con tu equipo central en un proyecto, necesitas entrar en más detalles del día a día. Verifica con regu-
 laridad y pregunta cómo va todo:
 
-¿Cómo les va en las tareas?
-¿Necesitan tu ayuda con algo?
+    ¿Cómo les va en las tareas?
+    ¿Necesitan tu ayuda con algo?
 
 Agrega una reunión diaria para tu equipo principal y una reunión semanal para los subgrupos. Hagamos que eso suceda Reunirse
 con más frecuencia puede ayudar a desbloquear los problemas y mantener el proyecto en el camino correcto. Esto nos lleva
@@ -2761,6 +2761,13 @@ semanales, es posible que no necesites especificar la fecha real de cada semana.
 o algo así. Vamos a añadir fechas clave a nuestro plan. Para el boletín mensual, vamos a enviarlo el primer lunes de cada
 mes. Vamos a programar reuniones diarias al mediodía y las verificaciones semanales los miércoles a las dos, tres y cuatro
 en punto.
+
+Los métodos de entrega, como correo electrónico, reuniones presenciales y virtuales, un documento compartido que se actualiza
+regularmente, o un informe de avance que se presenta. Decidir la mejor manera de comunicarse es una habilidad. Un director
+o ejecutivo solo puede tener cinco minutos, así que tengo que ser conciso y saber exactamente lo que necesito de ellos. Del
+mismo modo, podría estar acostumbrado a comunicarme a través de mensajería instantánea y chat de video con mi equipo
+principal. Sin embargo, uno de los subgrupos en el proyecto podría responder mejor a los correos electrónicos y comentarios
+en el documento. Permítanme añadir estos métodos para nuestro plan de comunicación. Empecemos por el correo electrónico.
 
 #### Mejores prácticas para construir un plan de comunicación
 
