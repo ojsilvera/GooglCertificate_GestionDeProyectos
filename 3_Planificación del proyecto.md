@@ -2799,6 +2799,14 @@ a otros miembros del equipo para que participen en las comunicaciones, en funci�
 una columna de remitente y propietario para indicar quién es responsable de cada comunicación. Luego resaltaré el remitente
 o propietario de cada uno de estos tipos de comunicación, comenzando por el gerente de proyectos como remitente del boletín.
 
+Siempre es una buena idea ponerse en contacto con todos para asegurarte de que las comunicaciones satisfagan sus necesi-
+dades. Todo el mundo absorbe información de manera diferente; quizás lo que funciona bien para ti no siempre es lo mejor
+para los demás. Algunas personas son más visuales y quieren ver tablas y gráficos, en tanto que otras personas prefieren
+escuchar información a través de una presentación o una reunión. Algunas personas pueden querer revisar y analizar la
+información por sí mismos primero, y luego hablar con alguien sobre lo que han leído. Si solo presentas información de
+una o dos maneras, corres el riesgo de involucrar a algunas personas y no a otras. Tu objetivo como gerente de proyecto
+es optimizar y agilizar las comunicaciones.
+
 #### Mejores prácticas para construir un plan de comunicación
 
 ### Documentar los recursos de planificación del proyecto
