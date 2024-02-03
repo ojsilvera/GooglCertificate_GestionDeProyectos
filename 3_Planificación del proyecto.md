@@ -2886,4 +2886,8 @@ esto a través de:
 
 ### Documentar los recursos de planificación del proyecto
 
+#### El valor de la documentación del proyecto
+
+#### Organización de la documentación del proyecto
+
 ### Opcional: Prepararse para una búsqueda de trabajo
