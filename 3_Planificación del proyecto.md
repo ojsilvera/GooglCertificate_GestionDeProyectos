@@ -2807,7 +2807,54 @@ información por sí mismos primero, y luego hablar con alguien sobre lo que han
 una o dos maneras, corres el riesgo de involucrar a algunas personas y no a otras. Tu objetivo como gerente de proyecto
 es optimizar y agilizar las comunicaciones.
 
+Una excelente manera de optimizar tus comunicaciones para todos los integrantes del equipo es enviar un breve correo
+electrónico o una encuesta compuesta por tres preguntas.
+
+    ¿Qué funciona bien respecto de cómo nos comunicamos contigo sobre el proyecto?
+    ¿Qué no funciona o no es efectivo en nuestras comunicaciones?
+    ¿En qué podemos mejorar nuestra comunicación contigo?
+
+Esto te dará un montón de información útil sobre cómo puedes adaptar el estilo de comunicación para atender las necesidades
+de cada miembro del equipo. Los planes de comunicación contienen una gran cantidad de información importante y hay muchas
+maneras diferentes de diseñarlos, según el tamaño de tu equipo y las necesidades de tu proyecto. Sea cual fuera el sistema
+que elijas usar, lo más importante es asegurarte de que tu plan de comunicación identifique claramente quién necesita
+participar en la comunicación del proyecto; qué métodos se están utilizando para comunicarse; por qué te comunicas; y
+con qué frecuencia lo haces.
+
 #### Mejores prácticas para construir un plan de comunicación
+
+Consejos para crear tu plan de comunicación:
+
+    Identificar, Documentar y desarrollar, Revisar
+
+Identificar
+
+Antes de comenzar a crear el plan, responde estas preguntas para asegurarte de tener toda la información relevante:
+
+    Interesados del proyecto: ¿Has creado un gráfico RACI o un mapa de partes interesadas de todos tus interesados?
+    ¿Quién es tu audiencia? ¿Quién necesitará estar informado en diferentes momentos durante el ciclo de vida del
+    proyecto?
+
+    Frecuencia y método de comunicación: ¿Cuándo y con qué frecuencia deberías consultar con tus interesados?
+    ¿Quémétodos de comunicación prefieren? ¿Cuántos detalles necesita cada interesado?
+
+    Objetivos: ¿Cuál es el objetivo de tu comunicación? ¿Necesitas una respuesta? ¿Intentas fomentar la participación o
+    simplemente estás proporcionando una actualización?
+
+    Obstáculos: ¿Existen limitaciones de zona horaria? ¿Barreras del idioma? ¿Algunos interesados necesitan tiempo para
+    responder (por ejemplo, un ejecutivo)? ¿Existe algún problema de privacidad o de acceso a Internet?
+
+Documentar y desarrollar
+
+Elige una herramienta o plantilla para documentar todas tus necesidades de comunicación y comienza a desarrollar tu plan. Una vez que comprendas los elementos básicos (interesados, métodos de comunicación, objetivos y barreras), ¡es hora de trabajar en los detalles! Algunos consejos:
+
+Agrega una columna para notas. La gestión de proyectos no es única para todos y hay muchas piezas que deben rastrearse. Por ejemplo, si te estás comunicando con un líder o ejecutivo senior, ¿necesitas copiar a alguien más en el correo electrónico? Si un interesado está fuera de la oficina o no disponible en determinadas fechas, ¿tienes un plan de respaldo? Agrega notas para establecer recordatorios y cualquier detalle adicional relevante.
+
+Utiliza el formato para resaltar cualquier detalle clave en el plan. ¿Se necesita un anuncio de lanzamiento o una decisión urgente para que el proyecto avance? Resalta estos elementos fundamentales en un color o tamaño de fuente diferente para enfatizar su importancia.
+
+Asegúrate de que el equipo pueda acceder a tu documento. Comparte el plan con tu equipo. Permitir que tu equipo revise el documento asegura que conocen el plan y les da la oportunidad de ofrecer comentarios. Compartir el documento también sirve como un control adicional para asegurarte de que no se pierda ninguna pieza crucial.
+
+Pon a prueba tu plan. Si envías un correo electrónico o un enlace a todo el equipo, envíate un correo electrónico de prueba a ti mismo o a un colega. Si estás planificando una presentación virtual, asegúrate de probar los aspectos visuales, de audio y otras cuestiones técnicas con anticipación. De esa forma, puedes minimizar cualquier problema técnico.  
 
 ### Documentar los recursos de planificación del proyecto
 
