@@ -2769,6 +2769,36 @@ mismo modo, podría estar acostumbrado a comunicarme a través de mensajería in
 principal. Sin embargo, uno de los subgrupos en el proyecto podría responder mejor a los correos electrónicos y comentarios
 en el documento. Permítanme añadir estos métodos para nuestro plan de comunicación. Empecemos por el correo electrónico.
 
+Los correos electrónicos son una forma muy común de sincronizar a las personas, pero escribes demasiado y puedes perder a
+tu audiencia. Después de todo, nadie quiere leer un correo electrónico de dos páginas. Una forma de evitar esto es agregar
+una nota en la parte superior de tu correo electrónico. Esto alertará a los lectores que algunos detalles de un correo
+electrónico extenso pueden no ser relevantes para ellos. En este tipo de correo electrónico, es necesario mencionar los
+puntos clave y elementos de acción limitados a dos o tres frases. Luego, incluye una sección más larga en la parte inferior
+para aquellos que quieran o necesiten detalles adicionales.
+
+El objetivo de la comunicación es transmitir tu punto de vista de manera efectiva. Piensa detenidamente lo que necesitas
+lograr con cada tipo de comunicación. Para interesados de alto nivel en particular, constantemente intento responder,
+
+    ¿y qué?
+    ¿Por qué debería importarles mi proyecto?
+
+Lo mismo ocurre con mi equipo principal.
+
+    ¿Qué información les permitirá asegurarse de completar las tareas a tiempo y mantenerse motivados?
+
+Pensar en estas preguntas me ayuda a centrarme en los fragmentos más importantes de información para compartir. Vamos a
+llenar esto en el plan de comunicación:
+
+El objetivo del boletín mensual para interesados consiste en ofrecer un resumen de actualización de estado.
+Los objetivos para las reuniones diarias con el equipo central serían presentar informes de actualizaciones de progreso,
+bloqueadores y determinar los próximos pasos.
+
+A continuación, debes asegurarte de llegar a todos con los que necesites comunicarte. Ayuda si la comunicación es un
+esfuerzo de equipo, especialmente, en proyectos más complejos. No deberías ser el único que se comunica. Quieres habilitar
+a otros miembros del equipo para que participen en las comunicaciones, en función de su experiencia en el proyecto. Añadiré
+una columna de remitente y propietario para indicar quién es responsable de cada comunicación. Luego resaltaré el remitente
+o propietario de cada uno de estos tipos de comunicación, comenzando por el gerente de proyectos como remitente del boletín.
+
 #### Mejores prácticas para construir un plan de comunicación
 
 ### Documentar los recursos de planificación del proyecto
