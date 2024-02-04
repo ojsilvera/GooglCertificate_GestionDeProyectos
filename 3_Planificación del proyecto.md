@@ -3078,3 +3078,16 @@ Una vez que tengas algunos resultados clave, revísalos para verificar si cumple
     o eventos inesperados que podrían surgir?
 
 ![okrs, ejemplos de criterios de evaluacion, imagen](image-21.png)
+
+Crear OKR puede ser una poderosa forma de hacerte cargo de tus objetivos y darle significado a tu vida personal y profe-
+sional. Comienza por definir tu misión, o la razón general para crear objetivos, y por qué son importantes. Luego, deter-
+mina tus objetivos o lo que quieres lograr. A continuación, desarrolla resultados clave que dejarán en claro cómo y cuándo
+has progresado y logrado el éxito.
+
+Para obtener más información sobre cómo escribir y perfeccionar tus OKR, consulta estos recursos:
+
+[Okr, articulo 1]([https://](https://www.whatmatters.com/articles/professional-development-okr-examples))
+
+[Okr, articulo 2](https://www.youtube.com/watch?v=L4N1q4RNi9I)
+
+[Okr, articulo 3](https://www.whatmatters.com/resources/okrs-smart-goals-difference-between)
