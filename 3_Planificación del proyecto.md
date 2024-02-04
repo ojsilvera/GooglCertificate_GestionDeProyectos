@@ -2963,4 +2963,32 @@ sin ninguna PII incluida. Entonces puedes compartir esa información con el equi
 
 #### Organización de la documentación del proyecto
 
+Organizar los planes de tu proyecto facilitan el trabajo de todos y eliminan la oportunidad de confusión. Como gerente de
+proyectos, tu objetivo es tener todos los recursos de tu proyecto documentados y vinculados de manera tal de que tú o
+cualquier persona del proyecto puedan acceder a lo que necesitan rápidamente. Un par de formas prácticas de organizarse
+son utilizar una unidad de archivo compartido, como Google Drive, y crear un recurso, como un documento u hoja de cálculo,
+que vincule todos los archivos y los recursos que se utilizan en el proyecto.
+
+Aquí hay un ejemplo de cómo organizar tus archivos en Google Drive. No importa qué tipo de sistema de uso compartido utilic
+tu equipo del proyecto, puedes usar el mismo proceso para casi todos ellos.
+
+Primero, crea una nueva carpeta y etiquétala con el nombre de tu proyecto, Utiliza esta carpeta para almacenar todos los
+archivos de tu proyecto.
+
+Incluso puedes crear subcarpetas y guardarlas en la carpeta principal del proyecto.
+
+También puedes mantenerte organizado al crear un documento de planificación centralizado que una todo. Esto puede servir
+como una guía de referencia rápida que puedes utilizar para encontrar todos tus archivos con acceso en un solo lugar, crea
+links que apunten a otros documentos, estilo un idice que te permita encontrar lo que buscas de manera mas agil, Ahora
+puedes acceder al archivo directamente desde el documento centralizado.
+
+Si el proyecto utiliza varias hojas de cálculo y quieres evitar tener que abrir muchos archivos separados, puedes agruparlos
+general. Esta hoja tiene pestañas para todas las demás hojas que contienen información del proyecto. Puedes añadir una
+nueva hoja en cualquier momento. Es útil incluir una hoja de descripción general y vincular cualquier archivo que no sea
+hoja de cálculo. Este también es un buen lugar para proporcionar una breve descripción del proyecto, instrucciones de uso
+sobre la hoja, o expectativas de comunicación. En este ejemplo, la hoja de información general se denomina panel de control,
+que es lo mismo.
+
 ### Opcional: Prepararse para una búsqueda de trabajo
+
+#### OKR para el desarrollo personal y profesional
