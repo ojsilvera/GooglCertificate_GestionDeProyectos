@@ -3012,3 +3012,23 @@ o proyecto, establecer OKR personales puede convertir objetivos vagos y ambiguos
 Ya sea que se trate de un objetivo de acondicionamiento físico personal, el deseo de pasar más tiempo con tu familia o el
 objetivo de completar este programa de certificación, establecer OKR personales para estos objetivos puede facilitar el
 seguimiento de tu progreso y determinar cuándo los has logrado.
+
+- Determina tu "qué"
+
+*Piensa en posibles objetivos.*
+
+Ahora que tienes una idea clara de por qué estos objetivos son importantes para ti, puedes comenzar a redactar tus obje-
+tivos. Piensa en las cosas que más deseas o necesitas lograr en los próximos 30 a 90 días.
+
+Para ayudarte a generar una lista de posibles objetivos, ten en cuenta lo siguiente:
+
+    ¿Cuáles son las cosas más importantes que debo hacer?
+
+    ¿Sobre qué necesito actuar?
+
+    ¿Qué necesito para empezar a hacer o cambiar?
+
+    ¿En qué quiero mejorar o trabajar en mi vida o carrera?
+
+En función de tus respuestas a estas preguntas, haz una lluvia de ideas de una lista de 3 a 5 posibles objetivos que se
+relacionen con tu misión.
