@@ -2992,3 +2992,11 @@ que es lo mismo.
 ### Opcional: Prepararse para una búsqueda de trabajo
 
 #### OKR para el desarrollo personal y profesional
+
+Mientras te preparas para una nueva carrera en la gestión de proyectos, también es un buen momento para establecer algunos
+OKR (objetivos y resultados clave) personales a fin de realizar un seguimiento de tu progreso hacia el logro de tus propias
+metas personales.
+
+Revisión de OKR
+
+OKR significa objetivos y resultados clave. Combinan un objetivo y una métrica para determinar un resultado medible.
