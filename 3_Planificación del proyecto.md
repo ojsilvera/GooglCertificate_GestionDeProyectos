@@ -3000,3 +3000,15 @@ metas personales.
 Revisión de OKR
 
 OKR significa objetivos y resultados clave. Combinan un objetivo y una métrica para determinar un resultado medible.
+
+![OKR para el desarrollo personal y profesional](image-18.png)
+
+Beneficios de establecer OKR personales
+
+Muchos de nosotros establecemos resoluciones de Año Nuevo cada año, solo para descubrir que para febrero, no estamos mucho
+más cerca de lograr esas metas que el 1 de enero. Establecer OKR personales es una estrategia que puede ayudarte a definir
+metas claras y mensurables para ti y crear un plan de acción para lograrlas. Al igual que con los OKR a nivel de empresa
+o proyecto, establecer OKR personales puede convertir objetivos vagos y ambiguos en métricas cuantificables y mensurables.
+Ya sea que se trate de un objetivo de acondicionamiento físico personal, el deseo de pasar más tiempo con tu familia o el
+objetivo de completar este programa de certificación, establecer OKR personales para estos objetivos puede facilitar el
+seguimiento de tu progreso y determinar cuándo los has logrado.
