@@ -3032,3 +3032,49 @@ Para ayudarte a generar una lista de posibles objetivos, ten en cuenta lo siguie
 
 En función de tus respuestas a estas preguntas, haz una lluvia de ideas de una lista de 3 a 5 posibles objetivos que se
 relacionen con tu misión.
+
+*Define tus objetivos.*
+
+Revisa tu lista de posibles objetivos y analízalos para asegurarte de que cumplan con los siguientes criterios:
+
+    Aspiracionales: ¿el objetivo es inspirador y motivador? ¿Te pide que te desafíes a ti mismo y logres algo que no
+    habías logrado antes?
+
+    Alineados con los objetivos de la organización: En este caso, TÚ eres la organización, por lo que tus objetivos deben
+    alinearse con la misión que definiste anteriormente. ¿El objetivo te ayuda a alcanzar tus metas generales?
+
+    Orientados a la acción: ¿el objetivo indica hacer un cambio o tomar medidas?
+
+    Concretos: ¿está claramente establecido el objetivo? ¿alguien más entendería cuál es el objetivo que esperas lograr?
+
+    Significativos: ¿conseguir el objetivo tendrá un impacto significativo en tu desarrollo personal o profesional?
+
+![Mision se un candidato ideal, imagen](image-20.png)
+
+- Desarrollar el "cómo"
+
+A continuación, es hora de agregar resultados clave, que describen cómo lograrás tu objetivo. También definen lo que
+significa cumplir con éxito tu objetivo.
+
+*Redacta y perfecciona tus resultados clave.*
+
+Al trabajar con un objetivo por vez, haz una lluvia de ideas de una lista de 2 a 5 resultados clave. Para ayudarte con
+la lista, considera lo siguiente:
+
+    ¿Cómo definirías el éxito de este objetivo?
+
+    ¿Qué métricas probarían que hemos logrado el objetivo con éxito?
+
+Una vez que tengas algunos resultados clave, revísalos para verificar si cumplen con los siguientes criterios:
+
+    Están orientados a los resultados, no a una tarea: ¿los resultados clave indican el resultado general, en lugar de
+    los pasos individuales para llegar allí?
+
+    Son medibles y verificables: ¿los resultados clave incluyen métricas objetivas específicas?
+
+    Son específicos y con plazos determinados: ¿has definido claramente lo que debe suceder y para cuándo?
+
+    Son agresivos pero realistas: ¿los resultados indicados te superan, pero aún tienen en cuenta los posibles desafíos
+    o eventos inesperados que podrían surgir?
+
+![okrs, ejemplos de criterios de evaluacion, imagen](image-21.png)
