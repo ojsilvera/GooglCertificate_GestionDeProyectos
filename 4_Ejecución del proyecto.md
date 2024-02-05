@@ -116,9 +116,36 @@ clave se enumeran para cada trimestre. También hay tareas que cada miembro del 
 de las tareas se pueden asignar a un hito programado para el mismo trimestre. En nuestro ejemplo, el proyecto en su conjunto
 tiene un hito clave en el primer trimestre de finalizar el inventario para la temporada navideña. El trabajo de la prueba
 del producto y la finalización de las sugerencias para las ofertas recaen principalmente en los equipos de marketing y ventas.
+Sin embargo, a veces las tareas pueden tener que completarse antes para desbloquear a otro equipo o hito de futuros trimestres.
+El equipo de producto e ingeniería trabaja en tareas del primer trimestre y el segundo trimestre que conducirán al lanzamiento
+de la renovada tienda en línea en el tercer trimestre. Para alcanzar ese hito, cada departamento debe completar tareas específicas
+y la hoja de ruta hace un seguimiento individual y del progreso del proyecto en cuanto a los hitos.
 
-Sin embargo, a veces las tareas pueden tener que completarse antes para desbloquear a otro equipo o hito de futuros trimestres. El equipo de producto e ingeniería trabaja en tareas del primer trimestre y el segundo trimestre que conducirán al lanzamiento de la renovada tienda en línea en el tercer trimestre. Para alcanzar ese hito, cada departamento debe completar tareas específicas y la hoja de ruta hace un seguimiento individual y del progreso del proyecto en cuanto a los hitos. Por último, hay un diagrama de trabajo pendiente, el más detallado de estos tres métodos de seguimiento. Un diagrama de trabajo pendiente mide el tiempo en función de la cantidad de trabajo realizado y la cantidad de trabajo restante. Su función principal es mantener al equipo del proyecto al tanto de las fechas de finalización previstas y que el equipo sea consciente del alcance a medida que ocurre. Los diagramas de trabajo pendiente son los más adecuados para proyectos que requieren una revisión detallada y desglosada de cada tarea asociada con un proyecto, y son geniales para proyectos en los que terminar a tiempo es la máxima prioridad. El eje y, o eje vertical, representa el número de tareas que quedan por ompletar, y el eje x, o eje horizontal, representa el tiempo. Se realiza un seguimiento del progreso desde la esquina superior izquierda del diagrama. A medida que el proyecto avanza, harás un seguimiento y trabajarás para conseguir cero tareas restantes, y a la derecha, trabajarás para cumplir con la fecha de finalización. Suele haber una línea de puntos para lo que se espera o proyecta del progreso en función del tiempo que tu equipo estima que llevará cerrar tareas, y una línea continua que representa tu progreso real. Antes de seguir adelante con tu proyecto, tendrás que decidir qué sistema de seguimiento es más adecuado. Si necesitas comunicar hitos a un gran equipo, podrías elegir una hoja de ruta. Si tienes un proyecto con múltiples dependencias, podrías elegir un diagrama de Gantt. Si el seguimiento de las tareas contra la fecha límite es especialmente importante, entonces el diagrama de trabajo pendiente podría ser tu mejor opción. Incluso puedes elegir usar más de uno. Debido a que el método de seguimiento será determinado por el tipo de proyecto en el que estés trabajando, tus recursos y el alcance del proyecto, probablemente usarás varios tipos de métodos de seguimiento en algún momento de tu carrera. En mi experiencia en Google, suelo combinar métodos y usé algunos tipos de forma simultánea. Por ejemplo, usé un diagrama de Gantt para delimitar el trabajo al inicio de un proyecto, luego cambié a un diagrama de trabajo pendiente en las semanas antes del lanzamiento para asegurarme de que estábamos listos para hacerlo. Ahora sabes un poco más sobre los diversos tipos de métodos de seguimiento, incluida una hoja de ruta, un diagrama de Gantt y un diagrama de trabajo pendiente. En el siguiente paso, nos enfocaremos en la comprensión de la mejora continua y la mejora de procesos.
-​
+Un *diagrama de trabajo pendiente*, el más detallado de estos tres métodos de seguimiento. Un diagrama de trabajo pendiente
+mide el tiempo en función de la cantidad de trabajo realizado y la cantidad de trabajo restante. Su función principal es
+mantener al equipo del proyecto al tanto de las fechas de finalización previstas y que el equipo sea consciente del alcance
+a medida que ocurre. Los diagramas de trabajo pendiente son los *más adecuados para proyectos que requieren una revisión*
+*detallada y desglosada de cada tarea asociada con un proyecto*, y son geniales para proyectos en los que terminar a tiempo
+es la máxima prioridad.
+
+![Grafico de trabajo pendiente, imagen](image-23.png)
+
+El eje y, o eje vertical, representa el número de tareas que quedan por ompletar, y el eje x, o eje horizontal, representa
+el tiempo. Se realiza un seguimiento del progreso desde la esquina superior izquierda del diagrama. A medida que el proyecto
+avanza, harás un seguimiento y trabajarás para conseguir cero tareas restantes, y a la derecha, trabajarás para cumplir
+con la fecha de finalización. Suele haber una línea de puntos para lo que se espera o proyecta del progreso en función
+del tiempo que tu equipo estima que llevará cerrar tareas, y una línea continua que representa tu progreso real.
+
+Antes de seguir adelante con tu proyecto, tendrás que decidir qué sistema de seguimiento es más adecuado.
+
+Si necesitas comunicar hitos a un gran equipo, podrías elegir una hoja de ruta.
+Si tienes un proyecto con múltiples dependencias, podrías elegir un diagrama de Gantt.
+Si el seguimiento de las tareas contra la fecha límite es especialmente importante, entonces el diagrama de trabajo pendiente
+podría ser tu mejor opción.
+
+Incluso puedes elegir usar más de uno. Debido a que el método de seguimiento será determinado por el tipo de proyecto en
+el que estés trabajando, tus recursos y el alcance del proyecto, probablemente usarás varios tipos de métodos de seguimiento
+en algún momento de tu carrera.​
 
 #### Belinda: seguimiento y gestión de un presupuesto
 
