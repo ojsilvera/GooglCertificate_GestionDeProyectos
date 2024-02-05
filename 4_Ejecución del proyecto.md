@@ -52,6 +52,32 @@ el mantenimiento del proyecto en marcha.
 
 #### Elementos comunes para hacer un seguimiento
 
+Bueno, hemos hablado sobre que el seguimiento controla el progreso de las actividades del proyecto. Sin embargo, es posible
+que aún te preguntes, ¿a qué específicamente deberías hacerle un seguimiento? Ahora, analizaremos los elementos más comunes
+para hacer seguimiento que considero útiles en la gestión de proyectos en Google.
+
+Primero, siempre debes realizar un *seguimiento del cronograma del proyecto*. Esto se compone de tareas y actividades que
+garantizan que el proyecto está efectivamente encaminado hacia su fecha de finalización. Después de todo, tu objetivo
+final es cumplir con los entregables a tiempo.
+
+Igual de importante es el *seguimiento del estado de los elementos de acción, las tareas clave y las actividades* para
+garantizar que ese trabajo en verdad se esté haciendo. El seguimiento de las tareas también ayuda a controlar el progreso
+de tu equipo hacia los hitos. Cuando estés en medio de un proyecto, surgirán nuevas tareas todo el tiempo. Para evitar no
+poder cumplir con las entregas, es esencial realizar un seguimiento de las tareas mientras progresan y se acercan a los
+hitos clave.
+
+hacer *seguimiento de los costos* para garantizar que no gastes de más o de menos en las tareas del proyecto. Como mencioné
+anteriormente, todos los proyectos tienen presupuestos, y ya sea que supervises o no todo el presupuesto, es posible que
+supervises tareas y recursos que producen consecuencias en los presupuestos.
+
+Por último, tendrás que realizar un *seguimiento de las decisiones clave, los cambios, las dependencias y los riesgos del*
+*proyecto, incluidos los acordados en caso de cambios en el alcance*. De esta manera, tu equipo y los interesados sabrán
+qué se debe hacer para que el proyecto triunfe.
+
+Para resumir, los elementos que son útiles para hacer un seguimiento en toda la fase de ejecución del proyecto incluyen
+el cronograma del proyecto, que contiene las tareas y actividades clave, el estado de los elementos de acción, el progreso
+hacia los hitos, los costos y las decisiones y los cambios clave.
+
 #### Diferentes métodos de seguimiento
 
 #### Belinda: seguimiento y gestión de un presupuesto
