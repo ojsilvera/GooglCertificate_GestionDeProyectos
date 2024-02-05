@@ -147,9 +147,49 @@ Incluso puedes elegir usar más de uno. Debido a que el método de seguimiento s
 el que estés trabajando, tus recursos y el alcance del proyecto, probablemente usarás varios tipos de métodos de seguimiento
 en algún momento de tu carrera.​
 
-#### Belinda: seguimiento y gestión de un presupuesto
-
 #### Elegir el método de seguimiento adecuado para tu proyecto
+
+Hasta ahora, has aprendido sobre la importancia de hacer un seguimiento del progreso del proyecto. También revisaste algunos
+de los diferentes métodos de seguimiento usados por los gerentes de proyectos, como los planes de proyectos, los diagramas
+de Gantt y de trabajo pendiente, y las hojas de ruta.
+
+- Diagramas de Gantt
+
+El diagrama de Gantt es uno de los métodos de seguimiento más populares y se puede usar para todo tipo de proyectos. Los
+diagramas de Gantt suelen estar en el estatuto del proyecto y se actualizan a medida que el proyecto avanza.
+
+Los diagramas de Gantt son útiles para lo siguiente:
+
+    Ayudar a un equipo a cumplir con el cronograma
+
+    Proyectos con muchas tareas, dependencias e hitos
+
+    Proyectos con grandes equipos, porque la propiedad y las responsabilidades se establecen explícitamente de forma visual
+
+Asana, una de las herramientas de software de gestión del trabajo incluida en esta certificación, tiene recursos útiles
+para comenzar con los diagramas de Gantt.
+
+[Diagramas de gantt]([https://](https://asana.com/es/resources/gantt-chart-basics))
+
+- Hojas de ruta
+
+Las hojas de ruta son otro método de seguimiento común. Al igual que los diagramas de Gantt, las hojas de ruta también
+hacen un seguimiento del progreso individual y del proyecto para cumplir los hitos. Sin embargo, las hojas de ruta son más
+adecuadas para realizar un seguimiento de los grandes hitos de tu proyecto.
+
+Las hojas de ruta son útiles para lo siguiente:
+
+    Seguimiento de alto nivel de grandes hitos. Las hojas de ruta describen el proyecto en su conjunto y proporcionan una
+    imagen general de los puntos clave, al igual que un mapa de ruta real contiene puntos de interés y marcadores de
+    millas.
+
+    Demostrar a tu equipo o a los interesados clave cómo debe evolucionar un proyecto con el tiempo
+
+Las hojas de ruta se pueden crear usando diferentes herramientas. Puedes crear una hoja de ruta en un documento de google
+docs o Ms Word.
+
+[Platillas de hojas de ruta]([https://](https://www.smartsheet.com/free-product-roadmap-templates-smartsheet))
+[Conceptos]([https://](https://www.smartsheet.com/content/project-roadmap-templates))
 
 #### Pranjal: Gestionar varios seguimientos
 
