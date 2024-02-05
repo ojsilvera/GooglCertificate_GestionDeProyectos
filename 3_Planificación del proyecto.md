@@ -2886,7 +2886,7 @@ esto a través de:
 
 ### Documentar los recursos de planificación del proyecto
 
-#### El valor de la documentación del proyecto
+#### El valor de la documentación
 
 El almacenamiento y el intercambio de documentación es muy importante. Tener planes en un solo lugar hace que la comunicación
 sea más rápida, más fácil y más ágil porque todo el mundo sabe a dónde ir para encontrar la información que necesita. Igual
