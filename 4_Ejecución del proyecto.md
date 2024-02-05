@@ -35,7 +35,20 @@ queños. Es difícil mantener todo como se planeó. El seguimiento ayuda a garan
 importante.
 
 El seguimiento ayuda a mantener a todo el equipo y a los interesados en contacto con los plazos y las metas. Para garantizar
-que todos tengan visibilidad del progreso del proyecto, deberías tener un plan de proyecto que funcione tanto para ti como para tu equipo. De esta manera, todos sabrán lo mismo sobre cómo avanza el proyecto. Aprenderás sobre las diferentes formas de seguir un proyecto más adelante en este módulo. El seguimiento también es fundamental para reconocer riesgos y problemas que pueden descarrilar tu progreso. Con un seguimiento efectivo, serás capaz de identificar problemas de manera oportuna y trabajar con tu equipo para tomar una acción correctiva. Cuando proporcionas visibilidad de las diversas partes del proyecto, el seguimiento te ayuda a ti y a tu equipo a identificar y enfocarse en las áreas de riesgo. Y, por último, el seguimiento ayuda a generar confianza en que el proyecto está planeado para entregarse a tiempo y dentro del alcance y el presupuesto. Tener una imagen clara y actualizada del estado general del proyecto mantiene al equipo motivado y centrado en mantener el rumbo. Para recapitular, el seguimiento es importante por algunas razones clave, como la transparencia, la gestión de riesgos y el mantenimiento del proyecto en marcha. A continuación, revisaremos algunos de los elementos importantes para el seguimiento durante la ejecución del proyecto. Nos vemos ahí.
+que todos tengan visibilidad del progreso del proyecto, deberías tener un plan de proyecto que funcione tanto para ti como
+para tu equipo. De esta manera, todos sabrán lo mismo sobre cómo avanza el proyecto.
+
+El seguimiento también es fundamental para reconocer riesgos y problemas que pueden descarrilar tu progreso. Con un segui-
+miento efectivo, serás capaz de identificar problemas de manera oportuna y trabajar con tu equipo para tomar una acción
+correctiva. Cuando proporcionas visibilidad de las diversas partes del proyecto, el seguimiento te ayuda a ti y a tu equipo
+a identificar y enfocarse en las áreas de riesgo.
+
+El seguimiento ayuda a generar confianza en que el proyecto está planeado para entregarse a tiempo y dentro del alcance
+y el presupuesto. Tener una imagen clara y actualizada del estado general del proyecto mantiene al equipo motivado y cen-
+trado en mantener el rumbo.
+
+Para recapitular, el seguimiento es importante por algunas razones clave, como la transparencia, la gestión de riesgos y
+el mantenimiento del proyecto en marcha.
 
 #### Elementos comunes para hacer un seguimiento
 
