@@ -191,7 +191,30 @@ docs o Ms Word.
 [Platillas de hojas de ruta]([https://](https://www.smartsheet.com/free-product-roadmap-templates-smartsheet))
 [Conceptos]([https://](https://www.smartsheet.com/content/project-roadmap-templates))
 
-#### Pranjal: Gestionar varios seguimientos
+- Diagramas de trabajo pendiente
+
+Los equipos de Agile Scrum suelen usar los diagramas de trabajo pendiente. Los diagramas de trabajo pendiente revelan qué
+tan rápido trabaja tu equipo, ya que muestran cuánto trabajo queda por hacer y cuánto tiempo queda para completarlo. Los
+usos principales de un Gráfico de quemado son:
+
+    Mantener al equipo del proyecto al tanto de las fechas de finalización objetivo
+    
+    Dar a conocer la corrupción del alcance si ocurrieran.
+
+El diagrama debe mostrarse para que todos puedan verlo y actualizarse habitualmente para que sea eficaz. Los diagramas de
+trabajo pendiente son útiles para lo siguiente:
+
+    Proyectos que requieren una revisión detallada de las tareas
+
+    Proyectos donde terminar a tiempo es la máxima prioridad
+
+Un Gráfico de quemado te ayuda, como gerente de proyectos, a comprender cómo trabaja tu equipo y qué influye en su capacidad
+para completar las tareas a tiempo. De esta manera, puedes abordar los inconvenientes de inmediato, antes de que se
+conviertan en problemas importantes. También te ayudan a planificar de manera más eficiente para el próximo proyecto, ya
+que identifica áreas potencialmente problemáticas.
+
+[Trabajo pendiente en jira]([https://](https://www.atlassian.com/agile/tutorials/burndown-charts))
+[Conceptos basicos]([https://](https://www.projectmanager.com/blog/burndown-chart-what-is-it))
 
 #### Informes de estado del proyecto
 
