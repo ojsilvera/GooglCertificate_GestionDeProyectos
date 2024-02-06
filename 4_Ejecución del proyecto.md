@@ -281,6 +281,18 @@ puede ser mejor formatear el informe en una hoja de cálculo para realizar un se
 Si simplemente necesitas comunicar actualizaciones a los interesados sénior, es mejor que tu informe de estado tenga un
 ormato como una presentación de diapositivas que contiene solo una descripción general de los puntos más importantes.
 
+- Conclusiones clave
+
+En resumen, los informes de estado del proyecto son una herramienta poderosa para lograr lo siguiente:
+
+    Mejorar y simplificar la comunicación en todo el equipo.
+
+    Mantener informados a todos, incluidos los interesados clave.
+
+    Solicitar más recursos y apoyo (si fuera necesario).
+
+    Crear estructura y transparencia registrando el estado del proyecto en un lugar centralizado.
+
 ### Gestión de cambios, riesgos y dependencias
 
 ### Comunicar problemas a los interesados
