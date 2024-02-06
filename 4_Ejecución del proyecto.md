@@ -295,6 +295,12 @@ En resumen, los informes de estado del proyecto son una herramienta poderosa par
 
 ### Gestión de cambios, riesgos y dependencias
 
+#### Por qué ocurren los riesgos y los cambios
+
+#### Identificación y seguimiento de las dependencias
+
+#### Técnicas para ayudar a gestionar los riesgos
+
 ### Comunicar problemas a los interesados
 
 ## modulo_4_2
