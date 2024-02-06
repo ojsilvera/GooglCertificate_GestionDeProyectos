@@ -223,17 +223,25 @@ elementos comunes del proyecto en una imagen.
 
 Componentes clave de un informe de estado del proyecto
 
-Un informe de estado del proyecto ofrece una descripción general de todos los elementos comunes del proyecto y los resume en una imagen. Es una herramienta de comunicación eficiente para transmitir el estado más reciente en un solo lugar para el equipo y los interesados.
+Un informe de estado del proyecto ofrece una descripción general de todos los elementos comunes del proyecto y los resume
+en una imagen. Es una herramienta de comunicación eficiente para transmitir el estado más reciente en un solo lugar para
+el equipo y los interesados.
 
-La mayoría de los informes de estado contienen los siguientes componentes:
+*La mayoría de los informes de estado contienen los siguientes componentes:*
 
-Nombre del proyecto: El nombre del proyecto debe ser específico para el propósito del proyecto, de modo que el objetivo general del proyecto se pueda entender de un vistazo.
+*Nombre del proyecto:* El nombre del proyecto debe ser específico para el propósito del proyecto, de modo que el objetivo
+general del proyecto se pueda entender de un vistazo.
 
-Fecha: Crearás informes de estado del proyecto muchas veces durante el transcurso de la fase de implementación de un proyecto. Los informes se pueden crear semanal o mensualmente; todo depende de las necesidades de los interesados y del ritmo del proyecto. Agregar la fecha a cada informe de estado sirve como un punto de referencia para tu audiencia y también crea un registro histórico del estado del proyecto a lo largo del tiempo.
+*Fecha:* Crearás informes de estado del proyecto muchas veces durante el transcurso de la fase de implementación de un
+proyecto. Los informes se pueden crear semanal o mensualmente; todo depende de las necesidades de los interesados y del
+ritmo del proyecto. Agregar la fecha a cada informe de estado sirve como un punto de referencia para tu audiencia y también
+crea un registro histórico del estado del proyecto a lo largo del tiempo.
 
-Resumen: El resumen condensa los objetivos, el cronograma, los mejores y peores aspectos del proyecto en un lugar central para facilitar la visibilidad de los interesados. Por lo general, la sección de resumen irá seguida del resumen del cronograma y el estado general del proyecto o estará junto a ellos.
+*Resumen:* El resumen condensa los objetivos, el cronograma, los mejores y peores aspectos del proyecto en un lugar central
+para facilitar la visibilidad de los interesados. Por lo general, la sección de resumen irá seguida del resumen del cronograma
+y el estado general del proyecto o estará junto a ellos.
 
-Estado: Como puedes imaginar, el estado es una pieza fundamental. El estado del proyecto ilustra tu progreso real frente a tu progreso planificado. En la gestión de proyectos, una forma común de describir esto es a través de los informes de estado RAV (rojo, ámbar, verde) o rojo-amarillo-verde. El informe RAV sigue un patrón de semáforo para indicar el progreso y el estado. El rojo indica que hay problemas que necesitan una solución y que el proyecto puede retrasarse o exceder significativamente el presupuesto. El ámbar/amarillo significa que hay posibles problemas con el cronograma o el presupuesto, pero que es probable que estos se resuelvan con acciones correctivas. Y el verde significa que el cronograma y el presupuesto van bien y que el proyecto va por buen camino. Puedes usar el informe RAV para indicar el estado general del proyecto, así como el estado de los hitos. Cada equipo del proyecto y los interesados pueden tener una perspectiva ligeramente diferente sobre lo que significan los colores y la urgencia de escalar los problemas cuando ven un estado ámbar/amarillo o rojo, por lo que es importante asegurarse de que todos entiendan lo que significan los diferentes estados de color para tu proyecto.
+*Estado:* Como puedes imaginar, el estado es una pieza fundamental. El estado del proyecto ilustra tu progreso real frente a tu progreso planificado. En la gestión de proyectos, una forma común de describir esto es a través de los informes de estado RAV (rojo, ámbar, verde) o rojo-amarillo-verde. El informe RAV sigue un patrón de semáforo para indicar el progreso y el estado. El rojo indica que hay problemas que necesitan una solución y que el proyecto puede retrasarse o exceder significativamente el presupuesto. El ámbar/amarillo significa que hay posibles problemas con el cronograma o el presupuesto, pero que es probable que estos se resuelvan con acciones correctivas. Y el verde significa que el cronograma y el presupuesto van bien y que el proyecto va por buen camino. Puedes usar el informe RAV para indicar el estado general del proyecto, así como el estado de los hitos. Cada equipo del proyecto y los interesados pueden tener una perspectiva ligeramente diferente sobre lo que significan los colores y la urgencia de escalar los problemas cuando ven un estado ámbar/amarillo o rojo, por lo que es importante asegurarse de que todos entiendan lo que significan los diferentes estados de color para tu proyecto.
 
 Hitos y tareas: Un resumen de los principales hitos del proyecto hasta el momento y las tareas actuales ayuda al equipo y a los interesados a visualizar fácilmente el progreso de esos elementos. En un plan de proyecto, normalmente representarás las tareas y los hitos como "no iniciados", "en curso" o "completados" en un nivel de elemento por elemento. Sin embargo, en el informe de estado del proyecto, es común resumir estos elementos en dos categorías para comunicar mejor el estado. Usarás los logros clave para detallar lo que ha sucedido y los futuros para detallar los grandes hitos que lograrás después.
 
