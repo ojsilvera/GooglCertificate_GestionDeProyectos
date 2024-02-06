@@ -271,11 +271,15 @@ puedes destacar qué te impide estar donde planeabas estar. También puedes apro
 para que el proyecto vuelva a ser de color verde y solicitar cualquier recurso o ayuda que puedas necesitar para hacerlo.
 
 - Tipos de informes de estado del proyecto
-Si tienes esos elementos clave en mente, puedes dar formato a tu informe de diversas formas según tu audiencia y lo que necesitas comunicar.
 
-Si necesitas compartir un informe de estado con tu equipo para un proyecto que contiene múltiples capas de complejidad, puede ser mejor formatear el informe en una hoja de cálculo para realizar un seguimiento de todos los aspectos móviles.
+Si tienes esos elementos clave en mente, puedes dar formato a tu informe de diversas formas según tu audiencia y lo que
+necesitas comunicar.
 
-Si simplemente necesitas comunicar actualizaciones a los interesados sénior, es mejor que tu informe de estado tenga un formato como una presentación de diapositivas, como la que se muestra a continuación, que contiene solo una descripción general de los puntos más importantes.
+Si necesitas compartir un informe de estado con tu equipo para un proyecto que contiene múltiples capas de complejidad,
+puede ser mejor formatear el informe en una hoja de cálculo para realizar un seguimiento de todos los aspectos móviles.
+
+Si simplemente necesitas comunicar actualizaciones a los interesados sénior, es mejor que tu informe de estado tenga un
+ormato como una presentación de diapositivas que contiene solo una descripción general de los puntos más importantes.
 
 ### Gestión de cambios, riesgos y dependencias
 
