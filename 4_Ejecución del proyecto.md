@@ -442,7 +442,7 @@ que afectarán otras tareas.
 El último paso es una *comunicación eficiente*. Mantener al equipo del proyecto y a los interesados actualizados puede ayudar a resolver
 las dependencias y lograr que el proyecto esté encaminado.
 
-#### Caso práctico: Uso de herramientas de gestión de riesgos
+#### Técnicas para ayudar a gestionar los riesgos
 
 La gestión de riesgos es absolutamente fundamental para el éxito de un proyecto. La gestión de riesgos es el proceso de identificar
 los riesgos potenciales y las cuestiones que podrían afectar un proyecto, luego evaluar y aplicar medidas para abordar los efectos de
@@ -495,9 +495,13 @@ se presenta un riesgo, debes decidir qué hacer con él.
 
 Después de que cada riesgo se coloca en una categoría, el equipo debatirá cada riesgo y decidirá cuál debe tener prioridad.
 
-#### Técnicas para ayudar a gestionar los riesgos
-
 ### Comunicar problemas a los interesados
+
+#### Priorizar problemas
+
+#### Comunicar cambios al equipo
+
+#### Escribir un correo electrónico de elevación efectivo
 
 ## modulo_4_2
 
