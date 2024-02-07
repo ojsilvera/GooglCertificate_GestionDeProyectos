@@ -528,61 +528,66 @@ en el proyecto. Los problemas graves son problemas que pueden causar:
     
     Problemas que hacen aplazar la fecha estimada de finalización del proyecto.
 
-Básicamente, cualquier cosa que afecte tu restricción triple, tiempo, presupuesto y alcance es algo que debería elevarse. La elevación
-es ideal para prevenir dos problemas comunes dentro de un proyecto: *guerras de trincheras y malos compromisos*.
+Básicamente, cualquier cosa que afecte tu restricción triple, tiempo, presupuesto y alcance es algo que debería elevarse.
+La elevación es ideal para prevenir dos problemas comunes dentro de un proyecto: *guerras de trincheras y malos compromisos*.
 
-*Las guerras de trincheras* ocurren cuando dos pares o grupos no pueden llegar a un acuerdo y ninguna de las partes está dispuesta a
-ceder.Esto lleva a una paralización del proyecto y, probablemente, provocará retrasos en ciertos aspectos del progreso del proyecto.
+*Las guerras de trincheras* ocurren cuando dos pares o grupos no pueden llegar a un acuerdo y ninguna de las partes está
+dispuesta a ceder.Esto lleva a una paralización del proyecto y, probablemente, provocará retrasos en ciertos aspectos del
+progreso del proyecto.
 
-Por lo general, pensamos en los *compromisos* como una forma positiva de resolver problemas, pero también existen malos compromisos. Un
-mal compromiso ocurre cuando dos partes deciden una supuesta solución, pero el producto final igual sufre consecuencias. Cuando se trata
-de comprometerse con los objetivos importantes del proyecto, no es productivo para ninguna de las partes que simplemente se conformen
-porque es un medio para alcanzar un fin. Sí, comprometerse y al mismo tiempo mantener los objetivos más grandes del proyecto en mente y
-trabajar para todo eso junto.
+Por lo general, pensamos en los *compromisos* como una forma positiva de resolver problemas, pero también existen malos
+compromisos. Un mal compromiso ocurre cuando dos partes deciden una supuesta solución, pero el producto final igual sufre
+consecuencias. Cuando se trata de comprometerse con los objetivos importantes del proyecto, no es productivo para ninguna de
+las partes que simplemente se conformen porque es un medio para alcanzar un fin. Sí, comprometerse y al mismo tiempo mantener
+los objetivos más grandes del proyecto en mente y trabajar para todo eso junto.
 
 #### Comunicar cambios al equipo
 
 Comunicar el cambio a los miembros del equipo del proyecto y los interesados no es solo una cuestión de mantener los documentos de
-seguimiento actualizados. Incluso los cambios más pequeños serán significativos para alguien de tu equipo y deben ser comunicados. También
-es cierto que tendrás que adaptar tus tácticas de comunicación según el tema y el destinatario.
+seguimiento actualizados. Incluso los cambios más pequeños serán significativos para alguien de tu equipo y deben ser comunicados,
+También es cierto que tendrás que adaptar tus tácticas de comunicación según el tema y el destinatario.
 
-Como gerente de proyectos, a veces vas a querer tener una reunión con todo tu equipo, mientras que otras veces un correo electrónico puede
-ser suficiente. Personalmente, prefiero tomar un café rápido o tener una charla en el pasillo con mis compañeros de equipo y luego hacer un
-seguimiento por correo electrónico que detalle en qué nos pusimos de acuerdo. Esto es particularmente útil cuando necesitas un acuerdo rápido
-o si el tema es un poco delicado.
+Como gerente de proyectos, a veces vas a querer tener una reunión con todo tu equipo, mientras que otras veces un correo
+electrónico puede ser suficiente. Personalmente, prefiero tomar un café rápido o tener una charla en el pasillo con mis compañeros
+de equipo y luego hacer un seguimiento por correo electrónico que detalle en qué nos pusimos de acuerdo. Esto es particularmente
+útil cuando necesitas un acuerdo rápido o si el tema es un poco delicado.
 
-¿Cómo sabrás qué táctica de comunicación es adecuada? En última instancia, tendrás que usar tu propio juicio, pero aquí hay algunas maneras
-con las que puedes decidir qué acción tomar. Como gerente de proyectos, cuando se comunica un pequeño cambio que afectará a una persona, es
-una buena idea enviar un correo electrónico. Asegúrate de evitar temas emotivos o cualquier cosa que necesite debatirse en profundidad. Solo
-avísales y coordina una reunión. Es posible que las reuniones semanales no sean necesarias, en especial si tu agenda es acotada. Si estableces
-una reunión y luego decides no realizarla, puedes recurrir a un correo electrónico o tratar el tema en un foro diferente.
+¿Cómo sabrás qué táctica de comunicación es adecuada? En última instancia, tendrás que usar tu propio juicio, pero aquí hay
+algunas maneras con las que puedes decidir qué acción tomar. Como gerente de proyectos, cuando se comunica un pequeño cambio
+que afectará a una persona, es una buena idea enviar un correo electrónico. Asegúrate de evitar temas emotivos o cualquier cosa
+que necesite debatirse en profundidad. Solo avísales y coordina una reunión. Es posible que las reuniones semanales no sean
+necesarias, en especial si tu agenda es acotada. Si estableces una reunión y luego decides no realizarla, puedes recurrir a un
+correo electrónico o tratar el tema en un foro diferente.
 
-Cuando haya un gran cambio dentro de tu proyecto que involucre a más de una persona y probablemente cambie el presupuesto, la fecha límite o el
-alcance del proyecto, probablemente deberás tener una reunión con el equipo. Una táctica útil para mantener en mente a la hora de analizar estos
-cambios en tu proyecto se denomina tiempo de espera. Un tiempo de espera significa tomar distancia del proyecto para descansar, reagruparse y
-ajustar el plan de juego. Un tiempo de espera puede interrumpir de manera temporal tu impulso, pero puede ser absolutamente necesario para prepararte
-para triunfar al final del proceso. Es posible que desees un tiempo de espera cuando el cliente quiera redefinir el alcance del proyecto o si los
-miembros del equipo deben reasignarse a otros proyectos y necesitas un plan para reemplazarlos. Este tiempo de espera es una oportunidad para que
-el equipo del proyecto evalúe los cambios y pueda ajustar el plan según sea necesario.
+Cuando haya un gran cambio dentro de tu proyecto que involucre a más de una persona y probablemente cambie el presupuesto, la
+fecha límite o el alcance del proyecto, probablemente deberás tener una reunión con el equipo. Una táctica útil para mantener
+en mente a la hora de analizar estos cambios en tu proyecto se denomina tiempo de espera. Un tiempo de espera significa tomar
+distancia del proyecto para descansar, reagruparse y ajustar el plan de juego. Un tiempo de espera puede interrumpir de manera
+temporal tu impulso, pero puede ser absolutamente necesario para prepararte para triunfar al final del proceso. Es posible que
+desees un tiempo de espera cuando el cliente quiera redefinir el alcance del proyecto o si los miembros del equipo deben reasignarse
+a otros proyectos y necesitas un plan para reemplazarlos. Este tiempo de espera es una oportunidad para que el equipo del proyecto
+evalúe los cambios y pueda ajustar el plan según sea necesario.
 
-Durante todo el proceso, quizás quieras mantener reuniones para debatir los éxitos, contratiempos y posibles mejoras en las características del
-proyecto. Estas reuniones son denominadas retrospectivas. Las retrospectivas se realizan a lo largo del ciclo de vida del proyecto. Una retrospectiva
-se centra en identificar las causas que contribuyeron a un incidente o patrón de incidentes sin culpar a una sola persona. Cuando realices una
-retrospectiva, siempre debes suponer que todo el mundo tuvo buenas intenciones y que hizo lo correcto con la información que tenía, ya sea que haya
-funcionado bien o no. Siempre hay una posibilidad de aprender y hacerlo mejor. Como gerente de proyectos, es importante identificar técnicas efectivas
-de comunicar cambios a una persona del equipo o a todo tu equipo.
+Durante todo el proceso, quizás quieras mantener reuniones para debatir los éxitos, contratiempos y posibles mejoras en las
+características del proyecto. Estas reuniones son denominadas retrospectivas. Las retrospectivas se realizan a lo largo del ciclo
+de vida del proyecto. Una retrospectiva se centra en identificar las causas que contribuyeron a un incidente o patrón de incidentes
+sin culpar a una sola persona. Cuando realices una retrospectiva, siempre debes suponer que todo el mundo tuvo buenas intenciones y
+que hizo lo correcto con la información que tenía, ya sea que haya funcionado bien o no. Siempre hay una posibilidad de aprender y
+hacerlo mejor. Como gerente de proyectos, es importante identificar técnicas efectivas de comunicar cambios a una persona del equipo
+o a todo tu equipo.
 
 #### Escribir un correo electrónico de elevación efectivo
 
-*la elevación:* el proceso de obtener la ayuda de líderes o gerentes de proyectos de mayor nivel para eliminar un obstáculo, aclarar o reforzar las
-prioridades y validar los próximos pasos.
+*la elevación:* el proceso de obtener la ayuda de líderes o gerentes de proyectos de mayor nivel para eliminar un obstáculo, aclarar
+o reforzar las prioridades y validar los próximos pasos.
 
 - Prácticas recomendadas de elevación por correo electrónico
 
-Tu función como gerente de proyectos es ayudar a resolver problemas y eliminar los obstáculos que impiden que tu equipo avance hacia sus metas. Si
-bien muchos problemas pueden ser lo suficientemente pequeños como para resolverlos dentro del equipo principal, es posible que otros, como un cambio
-importante en tu presupuesto o en el cronograma, deban presentarse a los interesados para que tomen una decisión final. Detallar estos problemas, su
-posible impacto y el apoyo que necesitas en un correo electrónico claro y directo a tu audiencia puede ser una herramienta de comunicación efectiva.
+Tu función como gerente de proyectos es ayudar a resolver problemas y eliminar los obstáculos que impiden que tu equipo avance hacia
+sus metas. Si bien muchos problemas pueden ser lo suficientemente pequeños como para resolverlos dentro del equipo principal, es posible
+que otros, como un cambio importante en tu presupuesto o en el cronograma, deban presentarse a los interesados para que tomen una decisión
+final. Detallar estos problemas, su posible impacto y el apoyo que necesitas en un correo electrónico claro y directo a tu audiencia puede
+ser una herramienta de comunicación efectiva.
 
 Correos electrónicos de elevación efectivos:
 
@@ -612,7 +617,38 @@ Correos electrónicos de elevación efectivos:
 
     Explicar las consecuencias
 
+      - Después de explicar el problema, describe claramente las consecuencias.
+      - Describe específicamente cómo este problema está afectando gravemente al proyecto o cómo tiene el potencial de afectarlo gravemente
+        más adelante en el cronograma del proyecto.
+      - De nuevo, mantén tu explicación concisa y tu tono amigable.
+
+    Proponer un curso de acción y hacer una solicitud
+
+      - Propones una solución (o soluciones) e indicas lo que necesitas del destinatario.
+      - Una solución bien pensada acompañada de una solicitud clara permite al destinatario saber cómo puede ayudarte y te lleva a una resolución.
+
+- Reunir todos los elementos
+
+Veamos cómo se combinan estas buenas prácticas para crear una elevación por correo electrónico sólida.
+
+![alt text](image-25.png)
+
+Conclusión clave:
+
+En resumen, los correos electrónicos de elevación efectivos aplican estas cinco prácticas recomendadas:
+
+    Mantener un tono amistoso
+
+    Indicar tu conexión con el proyecto
+
+    Explicar el problema
+
+    Explicar las consecuencias
+
     Hacer una solicitud
+
+La elevación es una habilidad útil para resolver problemas rápidamente, y enviar una elevación por correo electrónico sólida
+que aplique estas prácticas recomendadas puede ayudar a que tu equipo reciba la ayuda necesaria.
 
 ## modulo_4_2
 
