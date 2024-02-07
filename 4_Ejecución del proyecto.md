@@ -355,17 +355,35 @@ formulario de solicitud de cambio.
 *Los formularios de solicitud de cambios.* Tú y los interesados usarán estos formularios para estar preparados para cualquier
 cambio y poder gestionarlo de manera adecuada. Dado que muchas personas con diferentes funciones en el proyecto pueden llenar
 estos formularios, es importante que los formularios sean claros y muy completos. En la plantilla proporcionada, que contiene
-una tabla de 2 por 10, tendrás que incluir información en las celdas, tales como el nombre del proyecto, el propietario del debate,
-quién toma la iniciativa en este debate del equipo y el tipo de debate. Querrás que el público sepa si están debatiendo un riesgo,
-una oportunidad o cualquier otra cosa. Querrás identificar a los equipos involucrados y el resultado esperado del debate, lo
-que podría implicar un cambio en las prioridades, un cambio en el cronograma o una convocatoria oficial sobre cómo proceder con
-un problema. Agrega la fecha límite del debate e identifica qué hitos o metas podrían verse afectados. Proporciona una breve
-descripción de la situación actual, el cambio y cualquier diferencia esperada que se deba hacer en el plan de registro, como
-una imagen del antes y el después. Luego, profundiza la propuesta de los cambios necesarios y aborda cualquier compensación. Por
-último, proporciona cualquier información previa para que todos tengan el mismo contexto. También puedes consultar tu declaración
-de trabajo, o SOW, para obtener más información sobre quién necesita participar en esa conversación. Si notas que uno o más de
-tus hitos corren riesgo de no completarse, entonces necesitarás que el cliente lo apruebe antes de que el alcance, la fecha límite
-o el presupuesto se modifiquen, y todos los involucrados deben estar informados.
+una tabla de 2 por 10, tendrás que incluir información en las celdas, tales como:
+
+    el nombre del proyecto,
+
+    el propietario del debate,
+    
+    quién toma la iniciativa en este debate del equipo
+    
+    el tipo de debate. Querrás que el público sepa si están debatiendo un riesgo, una oportunidad o cualquier otra cosa.
+    identificar a los equipos involucrados
+    
+    el resultado esperado del debate, lo que podría implicar un cambio en las prioridades, un cambio en el cronograma o una
+    convocatoria oficial sobre cómo proceder con un problema.
+    
+    Agrega la fecha límite del debate
+    
+    identifica qué hitos o metas podrían verse afectados
+    
+    Proporciona una breve descripción de la situación actual, el cambio y cualquier diferencia esperada que se deba hacer en el
+    plan de registro, como una imagen del antes y el después.
+
+    profundiza la propuesta de los cambios necesarios y aborda cualquier compensación.
+    
+    proporciona cualquier información previa para que todos tengan el mismo contexto.
+
+También puedes consultar tu declaración de trabajo, o SOW, para obtener más información sobre quién necesita participar en esa
+conversación. Si notas que uno o más de tus hitos corren riesgo de no completarse, entonces necesitarás que el cliente lo
+apruebe antes de que el alcance, la fecha límite o el presupuesto se modifiquen, y todos los involucrados deben estar
+informados.
 
 #### Identificación y seguimiento de las dependencias
 
