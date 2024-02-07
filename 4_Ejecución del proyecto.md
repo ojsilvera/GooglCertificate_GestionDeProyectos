@@ -421,7 +421,8 @@ A continuación, el gerente de proyectos querrá hacer un *monitoreo y control c
 periódicas para verificar las tareas interrelacionadas, mantenerte actualizado sobre cualquier progreso realizado y verificar los cambios
 que afectarán otras tareas.
 
-El último paso es una comunicación eficiente. Mantener al equipo del proyecto y a los interesados actualizados puede ayudar a resolver las dependencias y lograr que el proyecto esté encaminado. En resumen, analizamos cómo se definen las dependencias, tanto internas como externas, y aprendimos sobre la importancia de su gestión y seguimiento. También debatimos la importancia de definir claramente las dependencias al inicio del proyecto, como en nuestro ejemplo del hormigón, y aprendimos sobre la gestión de dependencias. En el siguiente video, te daremos técnicas concretas para gestionar los riesgos en tu proyecto. Nos vemos ahí.
+El último paso es una *comunicación eficiente*. Mantener al equipo del proyecto y a los interesados actualizados puede ayudar a resolver
+las dependencias y lograr que el proyecto esté encaminado.
 
 #### Caso práctico: Uso de herramientas de gestión de riesgos
 
