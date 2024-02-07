@@ -479,12 +479,21 @@ ser la prioridad para que tú y tu equipo sepan a cuáles deben prestar atenció
 proyecto, incluso si tiene una baja probabilidad de que ocurra, asegúrate de tener un plan de mitigación en marcha. ¿Cómo manejarás este riesgo
 si realmente se materializa? Si bien un registro de riesgos es una gran herramienta, es probable que surjan algunos riesgos imprevistos.
 
-Es casi imposible dar cuenta de todos los riesgos en el transcurso de un proyecto. Ahí es donde la técnica ROAM puede ayudar. La técnica ROAM, que significa resuelto, asignado, aceptado y mitigado, se usa para ayudar a gestionar acciones después de que surgen los riesgos.
-Una vez que se presenta un riesgo, debes decidir qué hacer con él. Si el riesgo se eliminó y no será un problema, entra en la categoría de "resuelto". Si al miembro de un equipo se le asigna un cierto riesgo y se le confía que lo maneje, ese riesgo pasa a la categoría de "asignado" y se supervisa hasta su finalización. Si el riesgo fue "aceptado", se acordó que no se hará nada al respecto. Por último, si se han tomado acciones y el riesgo se ha mitigado, ya sea reduciendo la probabilidad de que se produzca o el impacto en el proyecto, pasa a la categoría de "mitigado". Después de que cada riesgo se coloca en una categoría, el equipo debatirá cada riesgo y decidirá cuál debe tener prioridad. Excelente. Ahora ya aprendiste un poco más sobre cómo diferenciar riesgos y problemas, así como algunas nuevas técnicas para gestionar diversos riesgos. A continuación, aprenderemos cómo compartir estos riesgos con los interesados y una técnica llamada elevación. ¿Suena intrigante? Ve al siguiente video para obtener más información.
-Anteriormente hablamos sobre cómo identificar y gestionar los riesgos. La gestión de riesgos es absolutamente fundamental para el éxito de un proyecto. Así que, en este video, presentaremos técnicas adicionales para gestionar riesgos. Comencemos con un recordatorio de la definición de gestión de riesgos: la gestión de riesgos es el proceso de identificar los riesgos potenciales y las cuestiones que podrían afectar un proyecto, luego evaluar y aplicar medidas para abordar los efectos de los problemas y los riesgos identificados. Una forma de gestionar riesgos y, con suerte, evitar que cualquier riesgo se materialice es centrarse en gestionar los cambios y las dependencias, así como cualquier riesgo imprevisto en tu proyecto. Si puedes gestionar esas dos cosas, tanto los cambios como las dependencias y la corrupción del alcance, otros tipos de riesgos se vuelven mucho más fáciles de gestionar. Si tus dependencias se logran a tiempo, es menos probable que tu equipo se atrase con el cronograma. Si el alcance está bien gestionado, es menos probable que se produzcan cambios en tu presupuesto o que te veas obligado a extender el cronograma. Reproduce el video desde ::59 y sigue la transcripción0:59 Una lluvia de ideas con tu equipo es una de las técnicas más efectivas para identificar los riesgos de un proyecto. Es probable que tus compañeros de equipo aporten habilidades y experiencia de proyectos anteriores, lo que puede ayudar a descubrir similitudes y evitar que se repitan los problemas. Mientras hacemos una lluvia de ideas con nuestro equipo, lo mejor es crear un registro de riesgos. Como recordatorio, un registro de riesgos es u: agregado a la selección Presiona [CTRL + S] para guardar como nota.
-Requerida
-es
-​
+Es casi imposible dar cuenta de todos los riesgos en el transcurso de un proyecto. Ahí es donde la técnica ROAM puede ayudar. La técnica ROAM,
+que significa resuelto, asignado, aceptado y mitigado, se usa para ayudar a gestionar acciones después de que surgen los riesgos. Una vez que
+se presenta un riesgo, debes decidir qué hacer con él.
+
+    Si el riesgo se eliminó y no será un problema, entra en la categoría de "resuelto".
+
+    Si al miembro de un equipo se le asigna un cierto riesgo y se le confía que lo maneje, ese riesgo pasa a la categoría de "asignado" y se
+    supervisa hasta su finalización.
+
+    Si el riesgo fue "aceptado", se acordó que no se hará nada al respecto.
+
+    Si se han tomado acciones y el riesgo se ha mitigado, ya sea reduciendo la probabilidad de que se produzca o el impacto en el proyecto, pasa
+    a la categoría de "mitigado".
+
+Después de que cada riesgo se coloca en una categoría, el equipo debatirá cada riesgo y decidirá cuál debe tener prioridad.
 
 #### Técnicas para ayudar a gestionar los riesgos
 
