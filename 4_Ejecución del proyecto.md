@@ -444,6 +444,48 @@ las dependencias y lograr que el proyecto esté encaminado.
 
 #### Caso práctico: Uso de herramientas de gestión de riesgos
 
+La gestión de riesgos es absolutamente fundamental para el éxito de un proyecto. La gestión de riesgos es el proceso de identificar
+los riesgos potenciales y las cuestiones que podrían afectar un proyecto, luego evaluar y aplicar medidas para abordar los efectos de
+los problemas y los riesgos identificados.
+
+Una forma de gestionar riesgos y, con suerte, evitar que cualquier riesgo se materialice es centrarse en gestionar los cambios y las
+dependencias, así como cualquier riesgo imprevisto en tu proyecto. Si puedes gestionar tanto los cambios como las dependencias y la
+corrupción del alcance, otros tipos de riesgos se vuelven mucho más fáciles de gestionar.
+
+    Si tus dependencias se logran a tiempo, es menos probable que tu equipo se atrase con el cronograma.
+
+    Si el alcance está bien gestionado, es menos probable que se produzcan cambios en tu presupuesto o que te veas obligado a extender
+    el cronograma.
+
+*Una lluvia de ideas* con tu equipo es una de las técnicas más efectivas para identificar los riesgos de un proyecto. Es probable que tus
+compañeros de equipo aporten habilidades y experiencia de proyectos anteriores, lo que puede ayudar a descubrir similitudes y evitar que
+se repitan los problemas. Mientras hacemos una lluvia de ideas con nuestro equipo, lo mejor es crear un registro de riesgos.
+
+Un *registro de riesgos* es una tabla o diagrama que contiene la lista de riesgos de tu equipo. Será buena idea hacer preguntas a tu equipo,
+como qué podría mejorar el resultado del proyecto o qué podría perjudicarlo u obstaculizarlo. Haz una lista de todo como si fueran afirma-
+ciones. Por ejemplo, si ocurre un evento determinado, así es como se ve afectado el proyecto. Para ayudar a priorizar los riesgos dentro
+de tu registro de riesgos, puedes calcular tu exposición al riesgo. *La exposición al riesgo* es una forma de medir el potencial de pérdidas
+futuras que se den como resultado de una actividad o un evento específicos. Un buen método para calcular la exposición al riesgo es construir
+una matriz como esta:
+
+![Matriz de exposicion de riesgos, imagen](image-24.png)
+
+Cuando desarrolles tu matriz, usarás dos variables: impacto del riesgo y probabilidad. Escribe "impacto del riesgo" en la parte superior, en
+el eje horizontal, y "probabilidad" en el lateral, en el eje vertical. También, marca el alto, el medio y el bajo a lo largo de cada eje, en
+la parte superior de izquierda a derecha y hacia abajo en el costado, porque así es como vas a diagramar la exposición al riesgo. Suma cada
+riesgo al gráfico en la sección de la intersección del impacto que puede tener el riesgo en tu proyecto y la probabilidad o posibilidad de
+que se produzca el riesgo. Esta es una técnica, pero en cualquier estrategia que uses para examinar tu exposición al riesgo, tus riesgos deberán
+ser la prioridad para que tú y tu equipo sepan a cuáles deben prestar atención inmediata. Para cualquier cosa que tenga un gran impacto en tu
+proyecto, incluso si tiene una baja probabilidad de que ocurra, asegúrate de tener un plan de mitigación en marcha. ¿Cómo manejarás este riesgo
+si realmente se materializa? Si bien un registro de riesgos es una gran herramienta, es probable que surjan algunos riesgos imprevistos.
+
+Es casi imposible dar cuenta de todos los riesgos en el transcurso de un proyecto. Ahí es donde la técnica ROAM puede ayudar. La técnica ROAM, que significa resuelto, asignado, aceptado y mitigado, se usa para ayudar a gestionar acciones después de que surgen los riesgos.
+Una vez que se presenta un riesgo, debes decidir qué hacer con él. Si el riesgo se eliminó y no será un problema, entra en la categoría de "resuelto". Si al miembro de un equipo se le asigna un cierto riesgo y se le confía que lo maneje, ese riesgo pasa a la categoría de "asignado" y se supervisa hasta su finalización. Si el riesgo fue "aceptado", se acordó que no se hará nada al respecto. Por último, si se han tomado acciones y el riesgo se ha mitigado, ya sea reduciendo la probabilidad de que se produzca o el impacto en el proyecto, pasa a la categoría de "mitigado". Después de que cada riesgo se coloca en una categoría, el equipo debatirá cada riesgo y decidirá cuál debe tener prioridad. Excelente. Ahora ya aprendiste un poco más sobre cómo diferenciar riesgos y problemas, así como algunas nuevas técnicas para gestionar diversos riesgos. A continuación, aprenderemos cómo compartir estos riesgos con los interesados y una técnica llamada elevación. ¿Suena intrigante? Ve al siguiente video para obtener más información.
+Anteriormente hablamos sobre cómo identificar y gestionar los riesgos. La gestión de riesgos es absolutamente fundamental para el éxito de un proyecto. Así que, en este video, presentaremos técnicas adicionales para gestionar riesgos. Comencemos con un recordatorio de la definición de gestión de riesgos: la gestión de riesgos es el proceso de identificar los riesgos potenciales y las cuestiones que podrían afectar un proyecto, luego evaluar y aplicar medidas para abordar los efectos de los problemas y los riesgos identificados. Una forma de gestionar riesgos y, con suerte, evitar que cualquier riesgo se materialice es centrarse en gestionar los cambios y las dependencias, así como cualquier riesgo imprevisto en tu proyecto. Si puedes gestionar esas dos cosas, tanto los cambios como las dependencias y la corrupción del alcance, otros tipos de riesgos se vuelven mucho más fáciles de gestionar. Si tus dependencias se logran a tiempo, es menos probable que tu equipo se atrase con el cronograma. Si el alcance está bien gestionado, es menos probable que se produzcan cambios en tu presupuesto o que te veas obligado a extender el cronograma. Reproduce el video desde ::59 y sigue la transcripción0:59 Una lluvia de ideas con tu equipo es una de las técnicas más efectivas para identificar los riesgos de un proyecto. Es probable que tus compañeros de equipo aporten habilidades y experiencia de proyectos anteriores, lo que puede ayudar a descubrir similitudes y evitar que se repitan los problemas. Mientras hacemos una lluvia de ideas con nuestro equipo, lo mejor es crear un registro de riesgos. Como recordatorio, un registro de riesgos es u: agregado a la selección Presiona [CTRL + S] para guardar como nota.
+Requerida
+es
+​
+
 #### Técnicas para ayudar a gestionar los riesgos
 
 ### Comunicar problemas a los interesados
