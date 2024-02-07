@@ -391,7 +391,37 @@ para que el proyecto se mantenga en marcha.
 la demolición y comienza la construcción, primero tendrá que verter una base de hormigón y luego el municipio los inspeccionará para
 asegurarse de que cumpla con sus normas antes de que la empresa pueda seguir construyendo.
 
-Por último, el equipo del proyecto define las dependencias discrecionales. Estas son dependencias que pueden ocurrir por sí solas, pero el equipo vio la necesidad de hacer que esas dependencias dependan unas de otras. Por ejemplo, la empresa constructora puede usar hormigón de un proveedor nuevo y querer hacer una prueba, vertiendo una parte del hormigón para obtener una mejor estimación de la cantidad total de producto necesaria para completar el trabajo, en lugar de comprar demasiado o muy poco producto por adelantado. La tarea de verter una porción del hormigón es lo primero, porque el equipo necesita más información antes de tomar una decisión. Un gerente de proyectos tiene que trabajar con diligencia para incorporar la gestión de la dependencia. La gestión de la dependencia es el proceso de gestionar todas estas tareas y los recursos interrelacionados dentro del proyecto para garantizar que tu proyecto en general se complete con éxito a tiempo y dentro del presupuesto. Para lograr una gestión eficaz de la dependencia, hay cuatro pasos importantes que un gerente de proyectos puede tomar: identificación adecuada, registro de las dependencias, control y monitoreo continuos, y comunicación eficiente. El primer paso es la identificación adecuada. Un gerente de proyectos hará una lluvia de ideas sobre todas las posibles dependencias del proyecto con su equipo y las clasificará en consecuencia. El siguiente paso es registrar las dependencias. Una vez identificadas todas las dependencias, debe crearse un registro de riesgos. Un registro de riesgos es una tabla o diagrama que contiene una lista de riesgos y dependencias. El registro de riesgos debe incluir una descripción de la dependencia, la fecha y todas las actividades o tareas que pueden verse afectadas por la dependencia. A continuación, el gerente de proyectos querrá hacer un monitoreo y control continuos. Esto significa que querrás programar reuniones periódicas para verificar las tareas interrelacionadas, mantenerte actualizado sobre cualquier progreso realizado y verificar los cambios que afectarán otras tareas. El último paso es una comunicación eficiente. Mantener al equipo del proyecto y a los interesados actualizados puede ayudar a resolver las dependencias y lograr que el proyecto esté encaminado. En resumen, analizamos cómo se definen las dependencias, tanto internas como externas, y aprendimos sobre la importancia de su gestión y seguimiento. También debatimos la importancia de definir claramente las dependencias al inicio del proyecto, como en nuestro ejemplo del hormigón, y aprendimos sobre la gestión de dependencias. En el siguiente video, te daremos técnicas concretas para gestionar los riesgos en tu proyecto. Nos vemos ahí.
+Por último, el equipo del proyecto define las *dependencias discrecionales*. Estas son dependencias que pueden ocurrir por sí solas, pero
+el equipo vio la necesidad de hacer que esas dependencias dependan unas de otras. Por ejemplo, la empresa constructora puede usar hormigón
+de un proveedor nuevo y querer hacer una prueba, vertiendo una parte del hormigón para obtener una mejor estimación de la cantidad total
+de producto necesaria para completar el trabajo, en lugar de comprar demasiado o muy poco producto por adelantado. La tarea de verter una
+porción del hormigón es lo primero, porque el equipo necesita más información antes de tomar una decisión.
+
+Un gerente de proyectos tiene que trabajar con diligencia para incorporar la gestión de la dependencia. La gestión de la dependencia es el
+proceso de gestionar todas estas tareas y los recursos interrelacionados dentro del proyecto para garantizar que tu proyecto en general se
+complete con éxito a tiempo y dentro del presupuesto. Para lograr una gestión eficaz de la dependencia, hay cuatro pasos importantes que un
+gerente de proyectos puede tomar:
+
+    Identificación adecuada,
+    
+    Registro de las dependencias,
+    
+    Control y monitoreo continuos,
+    
+    Comunicación eficiente.
+
+El primer paso es la *identificación adecuada*. Un gerente de proyectos hará una lluvia de ideas sobre todas las posibles dependencias del
+proyecto con su equipo y las clasificará en consecuencia.
+
+El siguiente paso es *registrar las dependencias*. Una vez identificadas todas las dependencias, debe crearse un registro de riesgos. Un
+registro de riesgos es una tabla o diagrama que contiene una lista de riesgos y dependencias. El registro de riesgos debe incluir una
+descripción de la dependencia, la fecha y todas las actividades o tareas que pueden verse afectadas por la dependencia.
+
+A continuación, el gerente de proyectos querrá hacer un *monitoreo y control continuos*. Esto significa que querrás programar reuniones
+periódicas para verificar las tareas interrelacionadas, mantenerte actualizado sobre cualquier progreso realizado y verificar los cambios
+que afectarán otras tareas.
+
+El último paso es una comunicación eficiente. Mantener al equipo del proyecto y a los interesados actualizados puede ayudar a resolver las dependencias y lograr que el proyecto esté encaminado. En resumen, analizamos cómo se definen las dependencias, tanto internas como externas, y aprendimos sobre la importancia de su gestión y seguimiento. También debatimos la importancia de definir claramente las dependencias al inicio del proyecto, como en nuestro ejemplo del hormigón, y aprendimos sobre la gestión de dependencias. En el siguiente video, te daremos técnicas concretas para gestionar los riesgos en tu proyecto. Nos vemos ahí.
 
 #### Caso práctico: Uso de herramientas de gestión de riesgos
 
