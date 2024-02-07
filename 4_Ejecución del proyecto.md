@@ -316,23 +316,24 @@ pueden abarcar cualquier variación del plan del proyecto original con respecto 
 cambios en las prioridades, el alcance, el presupuesto y los recursos, o cambios en el cronograma del proyecto. Las dependencias
 internas y externas de un proyecto se afectan entre sí y provocan cambios.
 
-Algunos tipos de cambios que pueden afectar tu proyecto. Algunos ejemplos de cambios pueden incluir cambios en las
-dependencias o nuevas dependencias. Las dependencias son tareas, actividades o hitos que dependen unas de otras. Así que
-si una tarea no se completa a tiempo, podría atrasar el resto de las tareas. Podrías estar a cargo de las renovaciones de
-una vivienda donde hay dependencias. Por ejemplo, en la remodelación del baño, no se puede instalar un lavabo nuevo hasta
-que se coloquen el tocador y las tuberías. Lo siguiente es cambiar las prioridades. El alcance de la remodelación cambia
-si los suegros de tu cliente de repente tienen que mudarse y tienes que adelantar el trabajo planificado del dormitorio
-libre antes de completar la remodelación del baño. A continuación, la capacidad y las personas disponibles podrían cambiar.
-Tal vez tengas que reemplazar el plomero porque tenías problemas en el sitio de trabajo.
+Algunos tipos de cambios que pueden afectar tu proyecto. Algunos ejemplos de cambios pueden incluir:
 
-Otro tipo de cambio podría incluir una nueva limitación en tu presupuesto o recursos. Por ejemplo, si necesitas reducir
+*cambios en las dependencias o nuevas dependencias.* Las dependencias son tareas, actividades o hitos que dependen unas de
+otras. Así que si una tarea no se completa a tiempo, podría atrasar el resto de las tareas. Podrías estar a cargo de las
+renovaciones de una vivienda donde hay dependencias. Por ejemplo, en la remodelación del baño, no se puede instalar un
+lavabo nuevo hasta que se coloquen el tocador y las tuberías. Lo siguiente es cambiar las prioridades. El alcance de la
+remodelación cambia si los suegros de tu cliente de repente tienen que mudarse y tienes que adelantar el trabajo planificado
+del dormitorio libre antes de completar la remodelación del baño. A continuación, la capacidad y las personas disponibles
+podrían cambiar. Tal vez tengas que reemplazar el plomero porque tenías problemas en el sitio de trabajo.
+
+*Otro tipo de cambio podría incluir una nueva limitación en tu presupuesto o recursos.* Por ejemplo, si necesitas reducir
 los costos del diseño del baño nuevo en un 10% porque tu presupuesto para el trabajo eléctrico es más alto de lo esperado.
 
-Otro cambio podría ser la corrupción del alcance. La corrupción del alcance se refiere a cuando los cambios, el crecimiento
+*Otro cambio podría ser la corrupción del alcance.* La corrupción del alcance se refiere a cuando los cambios, el crecimiento
 y otros factores afectan el alcance del proyecto. Por ejemplo, tus clientes están tan contentos con los azulejos del baño
 nuevo que les gustaría reemplazar los azulejos de todos sus baños.
 
-Por último, está la fuerza mayor. Este es otro cambio que podría ocurrir debido a una crisis nacional o internacional. Si
+Por último, *está la fuerza mayor.* Este es otro cambio que podría ocurrir debido a una crisis nacional o internacional. Si
 no estás familiarizado con este término, significa una circunstancia imprevista que impide que alguien cumpla con el contrato
 debido a una crisis grave. La fuerza mayor es poco común, pero, por ejemplo, si un sindicato se declara en huelga, ciertos
 proveedores no podrán cumplir con sus contratos. Si hay una pandemia, toda la producción de tu nuevo producto podría detenerse.
@@ -351,7 +352,7 @@ como tu Declaración de trabajo y el gráfico RACI. Sin embargo, es posible que 
 crear o familiarizarte con los procesos para solicitar cambios para tu equipo u organización. Estos procesos pueden incluir un
 formulario de solicitud de cambio.
 
-Los formularios de solicitud de cambios. Tú y los interesados usarán estos formularios para estar preparados para cualquier
+*Los formularios de solicitud de cambios.* Tú y los interesados usarán estos formularios para estar preparados para cualquier
 cambio y poder gestionarlo de manera adecuada. Dado que muchas personas con diferentes funciones en el proyecto pueden llenar
 estos formularios, es importante que los formularios sean claros y muy completos. En la plantilla proporcionada, que contiene
 una tabla de 2 por 10, tendrás que incluir información en las celdas, tales como el nombre del proyecto, el propietario del debate,
@@ -367,6 +368,8 @@ tus hitos corren riesgo de no completarse, entonces necesitarás que el cliente 
 o el presupuesto se modifiquen, y todos los involucrados deben estar informados.
 
 #### Identificación y seguimiento de las dependencias
+
+#### Caso práctico: Uso de herramientas de gestión de riesgos
 
 #### Técnicas para ayudar a gestionar los riesgos
 
