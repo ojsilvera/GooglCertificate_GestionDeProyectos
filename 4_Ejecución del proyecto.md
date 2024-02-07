@@ -499,6 +499,47 @@ Después de que cada riesgo se coloca en una categoría, el equipo debatirá cad
 
 #### Priorizar problemas
 
+la responsabilidad del gerente de proyectos es resolver problemas y eliminar las restricciones que perjudican el éxito del
+proyecto. Una forma de hacerlo es por elevación.
+
+*La elevación* es el proceso de solicitar la ayuda de un líder o gerente de proyectos de nivel superior para eliminar un
+obstáculo, aclararlo o reforzar las prioridades, y validar los siguientes pasos. Puede parecer que la elevación tenga una
+connotación negativa, pero ese no es el caso en la gestión de proyectos. En la gestión de proyectos, la elevación debe
+alentarse, usarse a menudo e incluso celebrarse. Las elevaciones son saludables y actúan como controles y herramientas de
+balance para asegurar que se están tomando las medidas adecuadas. Pueden tener como resultado una toma de decisiones rápida
+y, en general, cuanto antes se resuelva un problema, mejor será el proyecto. En lugar de ir y venir entre dos miembros del
+equipo que no pueden ponerse de acuerdo, un tercero que sea objetivo podría ayudar a hacer la llamada y reducir las frustraciones
+del equipo. Finalmente, las elevaciones fomentan la participación. Alentar a los demás a participar en la resolución o la
+asignación de problemas puede promover la confianza y la responsabilidad compartida entre compañeros de equipo, que son signos
+de un equipo sano y funcional.
+
+Antes de empezar a trabajar en un proyecto, el gerente de proyectos, el equipo y el patrocinador del proyecto deben establecer
+las normas y prácticas de elevación. Esto significa que especificarán a quién se le plantearán los problemas, cómo se plantearán
+y el foro de debate. Un poco de trabajo inicial ayudará a que las elevaciones se ejecuten sin problemas si fueran necesarias.
+
+¿cómo sabes cuándo hacer una elevación? Un gerente de proyectos debe elevar un problema ante la primera señal de problemas graves
+en el proyecto. Los problemas graves son problemas que pueden causar:
+
+    Un retraso a un hito importante del proyecto.
+    
+    Uroblemas que causan excesos en el presupuesto.
+    
+    Problemas que pueden provocar la pérdida de un cliente.
+    
+    Problemas que hacen aplazar la fecha estimada de finalización del proyecto.
+
+Básicamente, cualquier cosa que afecte tu restricción triple, tiempo, presupuesto y alcance es algo que debería elevarse. La elevación
+es ideal para prevenir dos problemas comunes dentro de un proyecto: *guerras de trincheras y malos compromisos*.
+
+*Las guerras de trincheras* ocurren cuando dos pares o grupos no pueden llegar a un acuerdo y ninguna de las partes está dispuesta a
+ceder.Esto lleva a una paralización del proyecto y, probablemente, provocará retrasos en ciertos aspectos del progreso del proyecto.
+
+Por lo general, pensamos en los *compromisos* como una forma positiva de resolver problemas, pero también existen malos compromisos. Un
+mal compromiso ocurre cuando dos partes deciden una supuesta solución, pero el producto final igual sufre consecuencias. Cuando se trata
+de comprometerse con los objetivos importantes del proyecto, no es productivo para ninguna de las partes que simplemente se conformen
+porque es un medio para alcanzar un fin. Sí, comprometerse y al mismo tiempo mantener los objetivos más grandes del proyecto en mente y
+trabajar para todo eso junto.
+
 #### Comunicar cambios al equipo
 
 #### Escribir un correo electrónico de elevación efectivo
