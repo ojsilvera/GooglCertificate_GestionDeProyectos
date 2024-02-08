@@ -583,11 +583,11 @@ o reforzar las prioridades y validar los próximos pasos.
 
 - Prácticas recomendadas de elevación por correo electrónico
 
-Tu función como gerente de proyectos es ayudar a resolver problemas y eliminar los obstáculos que impiden que tu equipo avance hacia
-sus metas. Si bien muchos problemas pueden ser lo suficientemente pequeños como para resolverlos dentro del equipo principal, es posible
-que otros, como un cambio importante en tu presupuesto o en el cronograma, deban presentarse a los interesados para que tomen una decisión
-final. Detallar estos problemas, su posible impacto y el apoyo que necesitas en un correo electrónico claro y directo a tu audiencia puede
-ser una herramienta de comunicación efectiva.
+Tu función como gerente de proyectos es ayudar a resolver problemas y eliminar los obstáculos que impiden que tu equipo avance
+hacia sus metas. Si bien muchos problemas pueden ser lo suficientemente pequeños como para resolverlos dentro del equipo principal,
+es posible que otros, como un cambio importante en tu presupuesto o en el cronograma, deban presentarse a los interesados para
+que tomen una decisión final. Detallar estos problemas, su posible impacto y el apoyo que necesitas en un correo electrónico
+claro y directo a tu audiencia puede ser una herramienta de comunicación efectiva.
 
 Correos electrónicos de elevación efectivos:
 
@@ -673,8 +673,31 @@ Al prepararte para el éxito, debes considerar los cuatro conceptos principales 
 
 - Normas de calidad.
 
-El proceso de calidad comienza con el establecimiento de las *normas de calidad*. Estas normas indican los requisitos,
-las especificaciones o las directrices que pueden servir para garantizar que los productos, procesos o servicios permitan alcanzar el resultado deseado. Establece las normas de calidad junto con tu equipo y el cliente al comienzo del proyecto. Tómate el tiempo para definir las normas de calidad y los criterios para el trabajo actual para que los miembros del equipo y los interesados comprendan exactamente cuáles son. Después de establecer esas normas de calidad bien definidas, deberás hacer controles periódicos y asegurarte de que todo se vea bien y se cumplan los requisitos. Recuerda que definir bien las normas y los requisitos conduce a menos reelaboración y menos retrasos. Examinemos esto a partir de un ejemplo en el marco del escenario que utilizamos a lo largo de este programa. Eres gerente de proyectos en Office Green, una empresa que se especializa en plantas decorativas para oficinas y otros negocios; conduces un proyecto llamado Plant Pals, un nuevo servicio que ofrecerá plantas para escritorio a los clientes más importantes. Aquí hay un ejemplo de algunas normas de calidad para este proyecto. Normas de confiabilidad: Cada maceta llega a la hora convenida y en buenas condiciones, lista para colocarla sobre un escritorio. Los proveedores tienen suficientes plantas en sus almacenes para satisfacer la demanda del cliente a tiempo. Normas de usabilidad: Las plantas no causarán reacciones alérgicas ni enfermedades a los clientes y serán aptas para todas las personas y los animales, si es necesario. Del mismo modo, puedes tener normas del producto: El proveedor debe cumplir con el aspecto y estilo de tu marca, usar los materiales especificados y entregar el producto intacto. Debe adherirse a las normas de calidad para todos los productos y procesos. Por ejemplo, puedes implementar normas de usabilidad en el proceso de desarrollo del sitio web indicando que el sitio web debe ser fácil de navegar, ya sea desde un teléfono, computadora o tableta.
+El proceso de calidad comienza con el establecimiento de las *normas de calidad*. Estas normas indican los requisitos, las
+especificaciones o las directrices que pueden servir para garantizar que los productos, procesos o servicios permitan alcanzar
+el resultado deseado.
+
+Establece las normas de calidad junto con tu equipo y el cliente al comienzo del proyecto. Tómate el tiempo para definir las
+normas de calidad y los criterios para el trabajo actual para que los miembros del equipo y los interesados comprendan exactamente
+cuáles son. Después de establecer esas normas de calidad bien definidas, deberás hacer controles periódicos y asegurarte de que
+todo se vea bien y se cumplan los requisitos.
+
+Recuerda que definir bien las normas y los requisitos conduce a menos reelaboración y menos retrasos.
+
+Examinemos esto a partir de un ejempl, Eres gerente de proyectos en Office Green, una empresa que se especializa en plantas
+decorativas para oficinas y otros negocios; conduces un proyecto llamado Plant Pals, un nuevo servicio que ofrecerá plantas
+para escritorio a los clientes más importantes. Aquí hay un ejemplo de algunas normas de calidad para este proyecto:
+
+Normas de confiabilidad: Cada maceta llega a la hora convenida y en buenas condiciones, lista para colocarla sobre un escritorio,
+Los proveedores tienen suficientes plantas en sus almacenes para satisfacer la demanda del cliente a tiempo.
+
+Normas de usabilidad: Las plantas no causarán reacciones alérgicas ni enfermedades a los clientes y serán aptas para todas las
+personas y los animales.
+
+Del mismo modo, puedes tener normas del producto: El proveedor debe cumplir con el aspecto y estilo de tu marca, usar los
+materiales especificados y entregar el producto intacto. Debe adherirse a las normas de calidad para todos los productos
+y procesos. Por ejemplo, puedes implementar normas de usabilidad en el proceso de desarrollo del sitio web indicando que el
+sitio web debe ser fácil de navegar, ya sea desde un teléfono, computadora o tableta.
 
 - Planificación de calidad.
     
