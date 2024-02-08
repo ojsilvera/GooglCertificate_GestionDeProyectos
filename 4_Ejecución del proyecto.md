@@ -955,15 +955,36 @@ administrar una UAT eficaz:
     Selecciona a tus usuarios con cuidado. Es importante elegir usuarios que realmente sean los usuarios finales del producto
     servicio o proceso.
 
-    Escribe los guiones de la UAT en función de las historias de los usuarios. Estos guiones se entregarán a los usuarios durante el proceso de prueba. La historia de usuario es una explicación general e informal de una función redactada desde la perspectiva del usuario final. En nuestro ejemplo del manual del empleado, una historia de usuario podría ser: "Como empleado nuevo, quiero poder usar el manual para encontrar fácilmente la política de vacaciones y compartirla con mi equipo por correo electrónico".
+    Escribe los guiones de la UAT en función de las historias de los usuarios. Estos guiones se entregarán a los usuarios
+    durante el proceso de prueba. La historia de usuario es una explicación general e informal de una función redactada
+    desde la perspectiva del usuario final. En nuestro ejemplo del manual del empleado, una historia de usuario podría
+    ser: "Como empleado nuevo, quiero poder usar el manual para encontrar fácilmente la política de vacaciones y compartirla
+    con mi equipo por correo electrónico".
 
-    Comunícate con los usuarios y hazles saber qué pueden esperar. Si puedes preparar a los usuarios con anticipación, habrá menos preguntas, problemas o retrasos durante el proceso de prueba.
+    Comunícate con los usuarios y hazles saber qué pueden esperar. Si puedes preparar a los usuarios con anticipación,
+    habrá menos preguntas, problemas o retrasos durante el proceso de prueba.
 
-    Prepara el entorno de prueba para la UAT. Asegúrate de que los usuarios tengan las credenciales y acceso adecuados y pruébalos con anticipación para asegurarte de que funcionan.
+    Prepara el entorno de prueba para la UAT. Asegúrate de que los usuarios tengan las credenciales y acceso adecuados y
+    pruébalos con anticipación para asegurarte de que funcionan.
 
-    Proporciona un plan paso a paso para guiar a los usuarios a través del proceso de prueba. Será útil para los usuarios contar con instrucciones claras y fáciles de seguir que ayudarán a dirigir su atención en las direcciones correctas. Puedes crear este plan en un documento digital o en una hoja de cálculo y compartirlo con ellos anticipadamente.
+    Proporciona un plan paso a paso para guiar a los usuarios a través del proceso de prueba. Será útil para los usuarios
+    contar con instrucciones claras y fáciles de seguir que ayudarán a dirigir su atención en las direcciones correctas. Puedes
+    crear este plan en un documento digital o en una hoja de cálculo y compartirlo con ellos anticipadamente.
 
-    Recopila notas en un solo documento y registra todos los problemas encontrados. Puedes crear una hoja de cálculo o documento digital que corresponda a tu plan. Puedes designar áreas donde hay que realizar un seguimiento de los problemas para cada elemento que se pruebe, incluidas las opiniones de los usuarios sobre la gravedad de cada problema. Esto te ayudará a priorizar las correcciones. 
+    Recopila notas en un solo documento y registra todos los problemas encontrados. Puedes crear una hoja de cálculo o
+    documento digital que corresponda a tu plan. Puedes designar áreas donde hay que realizar un seguimiento de los problemas
+    para cada elemento que se pruebe, incluidas las opiniones de los usuarios sobre la gravedad de cada problema. Esto te
+    ayudará a priorizar las correcciones.
+
+- Gestión de los comentarios de la UAT
+
+Los usuarios opinan después de realizar la UAT. Sus opiniones pueden incluir comentarios positivos, informes de errores y solicitudes de cambio. Como gerente de proyectos, puedes abordar los diferentes tipos de comentarios de la siguiente manera:
+
+Errores o problemas: Los usuarios pueden informar problemas técnicos, también conocidos como errores, u otros tipos de problemas después de realizar la UAT. Puedes realizar un seguimiento y supervisar estos problemas en una hoja de cálculo o sistema equivalente y priorizar los problemas que se deben corregir. Por ejemplo, los problemas críticos, como la imposibilidad de acceder, descargar o buscar en el manual del empleado, deben priorizarse sobre los problemas no críticos, como las opiniones sobre la portada del manual.
+
+Solicitudes de cambio: A veces, el usuario puede sugerir cambios menores en el producto, el servicio o el proceso después de la UAT. Este tipo de solicitudes o cambios también deben gestionarse y priorizarse. Según el tipo y la cantidad de solicitudes, es posible que debas compartir estos datos con tus principales interesados y, además, ajustar el cronograma del proyecto para implementar estas nuevas solicitudes.
+
+Las pruebas de aceptación del usuario son una herramienta poderosa para garantizar que el resultado del proyecto sea el buscado y tenga éxito. Asegúrate de dejar tiempo en el cronograma para las pruebas y soluciones de problemas pertinentes.
 
 ### Buscar la mejora continua
 
