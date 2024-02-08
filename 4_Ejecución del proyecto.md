@@ -936,6 +936,35 @@ La UAT también permite al equipo del proyecto registrar información sobre cóm
 el producto, servicio o proceso. A través de las pruebas, el equipo puede conocer las emociones que causa, las identidades
 que transmite, el atractivo que tiene, etc.
 
+- Mejores prácticas para una UAT eficaz
+
+Para lograr estos objetivos, la UAT debe llevarse a cabo con cuidado. Estas prácticas recomendadas pueden ayudarte a
+administrar una UAT eficaz:
+
+    Define y anota tus criterios de aceptación. Los criterios de aceptación son normas o requisitos preestablecidos que
+    debe cumplir un producto, servicio o proceso. Anota estos requisitos para cada elemento que desees probar. Por ejemplo,
+    si tu proyecto es crear un nuevo manual del empleado para tu pequeña empresa, puedes establecer criterios de aceptación
+    para que el manual sea un PDF digital al que se pueda acceder en dispositivos móviles y de escritorio.
+
+    Crea los casos de prueba para cada elemento que sometas a prueba. Un caso de prueba es una secuencia de pasos y sus
+    resultados esperados. Suele constar de una serie de acciones que el usuario puede realizar para averiguar si el
+    producto, servicio o proceso se comportó como se suponía. Continuando con el ejemplo del manual del empleado, puedes
+    crear un proceso de caso de prueba en el que el usuario haga clic para descargar el PDF del manual en su dispositivo
+    móvil o computadora de escritorio para asegurarse de poder acceder a él sin problemas.
+
+    Selecciona a tus usuarios con cuidado. Es importante elegir usuarios que realmente sean los usuarios finales del producto
+    servicio o proceso.
+
+    Escribe los guiones de la UAT en función de las historias de los usuarios. Estos guiones se entregarán a los usuarios durante el proceso de prueba. La historia de usuario es una explicación general e informal de una función redactada desde la perspectiva del usuario final. En nuestro ejemplo del manual del empleado, una historia de usuario podría ser: "Como empleado nuevo, quiero poder usar el manual para encontrar fácilmente la política de vacaciones y compartirla con mi equipo por correo electrónico".
+
+    Comunícate con los usuarios y hazles saber qué pueden esperar. Si puedes preparar a los usuarios con anticipación, habrá menos preguntas, problemas o retrasos durante el proceso de prueba.
+
+    Prepara el entorno de prueba para la UAT. Asegúrate de que los usuarios tengan las credenciales y acceso adecuados y pruébalos con anticipación para asegurarte de que funcionan.
+
+    Proporciona un plan paso a paso para guiar a los usuarios a través del proceso de prueba. Será útil para los usuarios contar con instrucciones claras y fáciles de seguir que ayudarán a dirigir su atención en las direcciones correctas. Puedes crear este plan en un documento digital o en una hoja de cálculo y compartirlo con ellos anticipadamente.
+
+    Recopila notas en un solo documento y registra todos los problemas encontrados. Puedes crear una hoja de cálculo o documento digital que corresponda a tu plan. Puedes designar áreas donde hay que realizar un seguimiento de los problemas para cada elemento que se pruebe, incluidas las opiniones de los usuarios sobre la gravedad de cada problema. Esto te ayudará a priorizar las correcciones. 
+
 ### Buscar la mejora continua
 
 ### Uso de retrospectivas para el éxito del proyecto
