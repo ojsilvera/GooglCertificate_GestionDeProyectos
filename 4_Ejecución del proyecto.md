@@ -1029,6 +1029,12 @@ puedes presumir.
 
 ### Buscar la mejora continua
 
+#### Mejora continua y mejora de procesos
+
+#### Frameworks de mejora basados en datos
+
+#### Diferenciar proyectos de programas
+
 ### Uso de retrospectivas para el éxito del proyecto
 
 ## modulo_4_3
