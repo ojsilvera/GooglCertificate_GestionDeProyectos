@@ -650,7 +650,27 @@ En resumen, los correos electrónicos de elevación efectivos aplican estas cinc
 La elevación es una habilidad útil para resolver problemas rápidamente, y enviar una elevación por correo electrónico sólida
 que aplique estas prácticas recomendadas puede ayudar a que tu equipo reciba la ayuda necesaria.
 
-## modulo_4_2
+## Gestión de calidad y mejora continua
+
+### Comprender la gestión de calidad
+
+#### Introducción: Gestión de calidad y mejora continua
+
+#### Conceptos clave de la gestión de calidad
+
+#### Resumen: Conceptos de la gestión de calidad
+
+#### Fomentar las relaciones con los clientes mediante habilidades comunicativas
+
+#### Medir la satisfacción del cliente
+
+#### Garantizar accesibilidad durante la recepción de comentarios
+
+#### Pruebas de aceptación del usuario: Objetivos, prácticas recomendadas y gestión
+
+### Buscar la mejora continua
+
+### Uso de retrospectivas para el éxito del proyecto
 
 ## modulo_4_3
 
