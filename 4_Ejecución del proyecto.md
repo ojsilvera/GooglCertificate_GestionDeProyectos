@@ -908,6 +908,34 @@ que también lo hagan.
 
 #### Pruebas de aceptación del usuario: Objetivos, prácticas recomendadas y gestión
 
+- Los objetivos de la UAT
+
+En resumen, la UAT es una prueba que ayuda a una empresa a asegurarse de que un producto, servicio o proceso funcione para
+sus usuarios. Los principales objetivos de la UAT son:
+
+    Demostrar que el producto, servicio o proceso se comporta de la manera esperada en escenarios del mundo real.
+
+    Mostrar que el producto, servicio o proceso funciona según lo previsto.
+
+    Identificar los problemas que deben abordarse antes de considerar que el proyecto está completo.
+
+La UAT simula las condiciones del mundo real; entonces, cuando la función logra el desempeño previsto durante el proceso
+de prueba, puedes estar más seguro de que el producto, servicio o proceso funcionará correctamente una vez que se lance,
+permite a un equipo de proyecto recopilar información detallada sobre cómo los usuarios interactúan con un producto,
+servicio o proceso.
+
+La UAT ayuda al equipo a responder preguntas tales como:
+
+    ¿Los usuarios reconocen la finalidad y los usos?
+    ¿Cómo interactúan con él?
+    ¿Cuánto tiempo los usuarios interactúan con él?
+    ¿Advierten todas sus funciones?
+    ¿El producto, servicio o proceso es accesible para todos?
+
+La UAT también permite al equipo del proyecto registrar información sobre cómo los usuarios perciben su experiencia con
+el producto, servicio o proceso. A través de las pruebas, el equipo puede conocer las emociones que causa, las identidades
+que transmite, el atractivo que tiene, etc.
+
 ### Buscar la mejora continua
 
 ### Uso de retrospectivas para el éxito del proyecto
