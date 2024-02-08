@@ -816,7 +816,17 @@ al cliente te hace volver a la misma peluquería, panadería o cafetería porque
 recibiste (aunque hayas tenido algún problema), a diferencia de los lugares donde eliges no volver por no haber recibido
 ese nivel de atención.
 
-Las experiencias pasadas te enseñan a gestionar las relaciones y a evitar entregar algo que es de baja calidad. No se siente muy bien cuando eres tú el que lo recibe. Para obtener mejores resultados en proyectos futuros, debes escuchar la opinión de los clientes. A veces, esa opinión llegará durante el proceso y, a veces, una vez que el proyecto haya finalizado, según cómo lo hayas planeado en la fase de iniciación. La cuestión de cuándo recibes las opiniones puede conducirte a lo que realmente quieres lograr en tu proyecto. Si tu empresa lanza un sitio de comercio electrónico, las opiniones de los usuarios te permitirán hacer ajustes para optimizar la experiencia de compra de los clientes. Si tu empresa es un servicio de entrega de cookies por solicitud, posiblemente quieras entregar las cookies y luego recibir opiniones de los usuarios para conocer su reacción acerca de las cookies y la experiencia de entrega en su conjunto. Las opiniones de los usuarios ayudan a cerrar cualquier brecha y a acercar las expectativas del cliente y las necesidades del proyecto. En breve, las habilidades interpersonales, como la negociación, la escucha empática y la creación de confianza ayudarán a generar una buena relación entre tú y tus clientes, cuya opinión te ayudará en la iteración de un producto o servicio. Esa es mucha información, ¡gran trabajo de asimilación! En el siguiente video, especificaremos más sobre las pruebas y las opiniones de los usuarios. Nos vemos ahí.
+Las experiencias pasadas te enseñan a gestionar las relaciones y a evitar entregar algo que es de baja calidad. No se
+siente muy bien cuando eres tú el que lo recibe. Para obtener mejores resultados en proyectos futuros, debes escuchar la
+opinión de los clientes. A veces, esa opinión llegará durante el proceso y, a veces, una vez que el proyecto haya finalizado,
+según cómo lo hayas planeado en la fase de iniciación. La cuestión de cuándo recibes las opiniones puede conducirte a lo
+que realmente quieres lograr en tu proyecto. Si tu empresa lanza un sitio de comercio electrónico, las opiniones de los
+usuarios te permitirán hacer ajustes para optimizar la experiencia de compra de los clientes. Si tu empresa es un servicio
+de entrega de cookies por solicitud, posiblemente quieras entregar las cookies y luego recibir opiniones de los usuarios
+para conocer su reacción acerca de las cookies y la experiencia de entrega en su conjunto.
+
+Las opiniones de los usuarios ayudan a cerrar cualquier brecha y a acercar las expectativas del cliente y las necesidades
+del proyecto.
 
 #### Medir la satisfacción del cliente
 
