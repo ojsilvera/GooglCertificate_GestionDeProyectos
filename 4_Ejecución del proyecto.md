@@ -717,11 +717,22 @@ macetas antes de decidir utilizarlas.
 
 - Garantía de calidad.
 
-El tercer concepto de la gestión de calidad es la garantía de calidad. La garantía de calidad, a menudo abreviada como QA, consiste en evaluar si el proyecto avanza hacia la entrega de un servicio o producto de alta calidad. A diferencia de las normas y la planificación de calidad, la QA abarca el ciclo de vida del proyecto en su totalidad en lugar de ocurrir en una fase específica. El plan de calidad debe incluir auditorías periódicas para confirmar que todo procede conforme al plan y se siguen los procedimientos necesarios. Hacer controles regulares e informar a los interesados ayuda a aumentar su confianza y la tuya también. La garantía de calidad es donde te aseguras de que tú y tus clientes obtienen el producto exacto que acordaron. En el proyecto de Plant Pals, aquí es donde el equipo evaluará las opciones de macetas y tal vez realice pruebas de durabilidad. Si planificas que el proveedor de plantas realice las pruebas de durabilidad por su cuenta, asegúrate de supervisar su progreso y hacer controles periódicos.
+El tercer concepto de la gestión de calidad es *la garantía de calidad*, a menudo abreviada como QA, consiste en evaluar si el proyecto
+avanza hacia la entrega de un servicio o producto de alta calidad. A diferencia de las normas y la planificación de calidad, la QA
+abarca el ciclo de vida del proyecto en su totalidad en lugar de ocurrir en una fase específica. El plan de calidad debe incluir
+auditorías periódicas para confirmar que todo procede conforme al plan y se siguen los procedimientos necesarios.
+
+Hacer controles regulares e informar a los interesados ayuda a aumentar su confianza y la tuya también. La garantía de
+calidad es donde te aseguras de que tú y tus clientes obtienen el producto exacto que acordaron.
+
+En el proyecto de Plant Pals, aquí es donde el equipo evaluará las opciones de macetas y tal vez realice pruebas de durabilidad. Si
+planificas que el proveedor de plantas realice las pruebas de durabilidad por su cuenta, asegúrate de supervisar su progreso y hacer
+controles periódicos.
 
 - Control de calidad.
 
-El concepto final de la gestión de calidad es el control de calidad, a menudo abreviado como QC. Aquí, se usan técnicas para cumplir las normas de calidad al identificar un problema o si el plan de calidad no se ejecuta de la manera deseada y hay que realizar acciones correctivas. El control de calidad implica supervisar los resultados y la entrega del proyecto para determinar si se logran los resultados deseados o no. Si no se logran, hay que realizar acciones alternativas. El control de calidad también es fundamental para allanar el camino para el próximo proyecto. Después de colocar las plantas en todas las oficinas de los clientes, el control de calidad podría ser que tú o un miembro del equipo haga un recorrido final por las oficinas donde se entregaron las plantas. Así, controlarías si hay macetas o plantas rotas que se dañaron al llevarlas y las cambiarías en caso de que fuera necesario. No puedes hacer esto con cada cliente, pero es una buena idea hacerlo al comienzo, por si acaso detectas cuestiones que puedas mejorar cuando vuelvas a la oficina.
+El concepto final de la gestión de calidad es el control de calidad, a menudo abreviado como QC. Aquí, se usan técnicas para
+cumplir las normas de calidad al identificar un problema o si el plan de calidad no se ejecuta de la manera deseada y hay que realizar acciones correctivas. El control de calidad implica supervisar los resultados y la entrega del proyecto para determinar si se logran los resultados deseados o no. Si no se logran, hay que realizar acciones alternativas. El control de calidad también es fundamental para allanar el camino para el próximo proyecto. Después de colocar las plantas en todas las oficinas de los clientes, el control de calidad podría ser que tú o un miembro del equipo haga un recorrido final por las oficinas donde se entregaron las plantas. Así, controlarías si hay macetas o plantas rotas que se dañaron al llevarlas y las cambiarías en caso de que fuera necesario. No puedes hacer esto con cada cliente, pero es una buena idea hacerlo al comienzo, por si acaso detectas cuestiones que puedas mejorar cuando vuelvas a la oficina.
 
 Si te atienes al plan de calidad, lo que implica comprobar la calidad a lo largo del ciclo de vida del proyecto (QA) y, por
 supuesto, corregir según sea necesario (QC), la probabilidad de cumplir las normas de calidad es alta, lo que permite un
