@@ -978,13 +978,23 @@ administrar una UAT eficaz:
 
 - Gestión de los comentarios de la UAT
 
-Los usuarios opinan después de realizar la UAT. Sus opiniones pueden incluir comentarios positivos, informes de errores y solicitudes de cambio. Como gerente de proyectos, puedes abordar los diferentes tipos de comentarios de la siguiente manera:
+Los usuarios opinan después de realizar la UAT. Sus opiniones pueden incluir comentarios positivos, informes de errores
+y solicitudes de cambio. Como gerente de proyectos, puedes abordar los diferentes tipos de comentarios de la siguiente
+manera:
 
-Errores o problemas: Los usuarios pueden informar problemas técnicos, también conocidos como errores, u otros tipos de problemas después de realizar la UAT. Puedes realizar un seguimiento y supervisar estos problemas en una hoja de cálculo o sistema equivalente y priorizar los problemas que se deben corregir. Por ejemplo, los problemas críticos, como la imposibilidad de acceder, descargar o buscar en el manual del empleado, deben priorizarse sobre los problemas no críticos, como las opiniones sobre la portada del manual.
+Errores o problemas: Los usuarios pueden informar problemas técnicos, también conocidos como errores, u otros tipos de
+problemas después de realizar la UAT. Puedes realizar un seguimiento y supervisar estos problemas en una hoja de cálculo
+o sistema equivalente y priorizar los problemas que se deben corregir. Por ejemplo, los problemas críticos, como La
+imposibilidad de acceder, descargar o buscar en el manual del empleado, deben priorizarse sobre los problemas no críticos,
+como las opiniones sobre la portada del manual.
 
-Solicitudes de cambio: A veces, el usuario puede sugerir cambios menores en el producto, el servicio o el proceso después de la UAT. Este tipo de solicitudes o cambios también deben gestionarse y priorizarse. Según el tipo y la cantidad de solicitudes, es posible que debas compartir estos datos con tus principales interesados y, además, ajustar el cronograma del proyecto para implementar estas nuevas solicitudes.
+Solicitudes de cambio: A veces, el usuario puede sugerir cambios menores en el producto, el servicio o el proceso después
+de la UAT. Este tipo de solicitudes o cambios también deben gestionarse y priorizarse. Según el tipo y la cantidad de
+solicitudes, es posible que debas compartir estos datos con tus principales interesados y, además, ajustar el cronograma
+del proyecto para implementar estas nuevas solicitudes.
 
-Las pruebas de aceptación del usuario son una herramienta poderosa para garantizar que el resultado del proyecto sea el buscado y tenga éxito. Asegúrate de dejar tiempo en el cronograma para las pruebas y soluciones de problemas pertinentes.
+Las pruebas de aceptación del usuario son una herramienta poderosa para garantizar que el resultado del proyecto sea el
+buscado y tenga éxito. Asegúrate de dejar tiempo en el cronograma para las pruebas y soluciones de problemas pertinentes.
 
 ### Buscar la mejora continua
 
