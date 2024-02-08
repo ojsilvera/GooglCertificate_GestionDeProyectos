@@ -700,16 +700,26 @@ y procesos. Por ejemplo, puedes implementar normas de usabilidad en el proceso d
 sitio web debe ser fácil de navegar, ya sea desde un teléfono, computadora o tableta.
 
 - Planificación de calidad.
-    
+
+El siguiente paso: *la planificación de calidad*, se trata específicamente de las acciones de un gerente de proyectos o el equipo
+para establecer y realizar un proceso tendiente a identificar y determinar exactamente qué normas de calidad en verdad se
+corresponden con el proyecto en su conjunto y cómo cumplirlas. Para llevar adelante esta conversación, pregúntate lo siguiente:
+
+    "¿Qué resultado esperan mis clientes al final de este proyecto?
+    ¿En qué se refleja la calidad según ellos?
+    ¿Cómo puedo cumplir sus expectativas?
+    ¿Cómo determino si las medidas de calidad nos llevarán al éxito del proyecto?".
+
+Aquí es donde planificarás los procedimientos para cumplir las normas de calidad. Recuerda que una norma de calidad del proyecto
+Plant Pals es la confiabilidad, la expectativa de que cada planta llegue a la hora convenida y en buenas condiciones. Por lo tanto,
+como medida de planificación de calidad, tendrás que hacer planes con tu proveedor de plantas para comprobar la durabilidad de las
+macetas antes de decidir utilizarlas.
+
 - Garantía de calidad.
-    
-- Control de calidad.
-
-
-
-El siguiente paso: la planificación de calidad. La planificación de calidad se trata específicamente de las acciones de un gerente de proyectos o el equipo para establecer y realizar un proceso tendiente a identificar y determinar exactamente qué normas de calidad en verdad se corresponden con el proyecto en su conjunto y cómo cumplirlas. Para llevar adelante esta conversación, pregúntate lo siguiente: "¿Qué resultado esperan mis clientes al final de este proyecto? ¿En qué se refleja la calidad según ellos? ¿Cómo puedo cumplir sus expectativas? ¿Cómo determino si las medidas de calidad nos llevarán al éxito del proyecto?". Aquí es donde planificarás los procedimientos para cumplir las normas de calidad. Recuerda que una norma de calidad del proyecto Plant Pals es la confiabilidad, la expectativa de que cada planta llegue a la hora convenida y en buenas condiciones. Por lo tanto, como medida de planificación de calidad, tendrás que hacer planes con tu proveedor de plantas para comprobar la durabilidad de las macetas antes de decidir utilizarlas.
 
 El tercer concepto de la gestión de calidad es la garantía de calidad. La garantía de calidad, a menudo abreviada como QA, consiste en evaluar si el proyecto avanza hacia la entrega de un servicio o producto de alta calidad. A diferencia de las normas y la planificación de calidad, la QA abarca el ciclo de vida del proyecto en su totalidad en lugar de ocurrir en una fase específica. El plan de calidad debe incluir auditorías periódicas para confirmar que todo procede conforme al plan y se siguen los procedimientos necesarios. Hacer controles regulares e informar a los interesados ayuda a aumentar su confianza y la tuya también. La garantía de calidad es donde te aseguras de que tú y tus clientes obtienen el producto exacto que acordaron. En el proyecto de Plant Pals, aquí es donde el equipo evaluará las opciones de macetas y tal vez realice pruebas de durabilidad. Si planificas que el proveedor de plantas realice las pruebas de durabilidad por su cuenta, asegúrate de supervisar su progreso y hacer controles periódicos.
+
+- Control de calidad.
 
 El concepto final de la gestión de calidad es el control de calidad, a menudo abreviado como QC. Aquí, se usan técnicas para cumplir las normas de calidad al identificar un problema o si el plan de calidad no se ejecuta de la manera deseada y hay que realizar acciones correctivas. El control de calidad implica supervisar los resultados y la entrega del proyecto para determinar si se logran los resultados deseados o no. Si no se logran, hay que realizar acciones alternativas. El control de calidad también es fundamental para allanar el camino para el próximo proyecto. Después de colocar las plantas en todas las oficinas de los clientes, el control de calidad podría ser que tú o un miembro del equipo haga un recorrido final por las oficinas donde se entregaron las plantas. Así, controlarías si hay macetas o plantas rotas que se dañaron al llevarlas y las cambiarías en caso de que fuera necesario. No puedes hacer esto con cada cliente, pero es una buena idea hacerlo al comienzo, por si acaso detectas cuestiones que puedas mejorar cuando vuelvas a la oficina.
 
