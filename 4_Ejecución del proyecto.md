@@ -784,7 +784,15 @@ y qué podría ayudarlo a pasar de uno al otro. Si haces preguntas abiertas, des
 clientes se sientan más seguros. Podrás negociar para garantizar la satisfacción de tus necesidades y la creación de la
 confianza necesaria para tener una asociación exitosa.
 
-Los gerentes de proyectos eficaces fijan expectativas claras sobre cuándo comunicarán ciertas cuestiones a los clientes. Por ejemplo, podrías fijar la expectativa de que brindarás actualizaciones de progreso semanales para mantener a los clientes informados en lugar de esperar que acudan a ti con preguntas. Al solucionar un problema con el producto, posiblemente no sea necesario notificar al cliente un problema que no afectará el resultado. Supongamos que un diseñador del equipo renuncia y tienes que reemplazarlo; podrías reemplazar a ese diseñador por uno nuevo rápidamente y sin perder un ápice del progreso del proyecto. Puedes completar la tarea sin causar al cliente ninguna preocupación adicional. El nivel de visibilidad entre los clientes comunes y profesionales de un proyecto puede variar, y tendrás que usar tu criterio sobre aquello que es importante comunicar a tu cliente.
+Los gerentes de proyectos eficaces fijan expectativas claras sobre cuándo comunicarán ciertas cuestiones a los clientes. Por
+ejemplo, podrías fijar la expectativa de que brindarás actualizaciones de progreso semanales para mantener a los clientes
+informados en lugar de esperar que acudan a ti con preguntas. Al solucionar un problema con el producto, posiblemente no sea
+necesario notificar al cliente un problema que no afectará el resultado.
+
+Supongamos que un diseñador del equipo renuncia y tienes que reemplazarlo; podrías reemplazar a ese diseñador por uno nuevo
+rápidamente y sin perder un ápice del progreso del proyecto. Puedes completar la tarea sin causar al cliente ninguna preocupación
+adicional. El nivel de visibilidad entre los clientes comunes y profesionales de un proyecto puede variar, y tendrás que usar
+tu criterio sobre aquello que es importante comunicar a tu cliente.
 
 A veces, querrás decirle al cliente si surge algún problema. Si llegas a un punto del proyecto donde no puedes seguir adelante sin su ayuda y opiniones, tendrás que comunicarle el problema con calma y empatía. Veámoslo en el contexto del proyecto Plant Pals, si abordáramos un problema de macetas rotas. Tal vez al articular las normas de calidad, dejamos un margen para un error del proveedor y contemplamos algunas macetas rotas. Digamos que resolvimos que el número aceptable de macetas rotas era de dos cada 50. Pero imaginemos que el cliente recibió un envío y había cinco macetas rotas. En ese momento, necesitaremos reunirnos con el cliente y hacer preguntas de negociación importantes. Tendremos que decidir si las cinco macetas rotas de 50 son un resultado aceptable o tendremos que discutir si el cliente consideraría invertir en macetas de mejor calidad con menor probabilidad de que se rompan.
 
