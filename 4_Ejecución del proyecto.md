@@ -880,7 +880,31 @@ los pasos por seguir, podrás cerrar y concluir las pruebas de aceptación del u
 
 #### Garantizar accesibilidad durante la recepción de comentarios
 
-Hola de nuevo. Me llamo Holly. Si has seguido este programa de principio a fin, puede que me recuerdes de un curso anterior en el que expliqué brevemente qué es la accesibilidad y por qué es tan importante tenerla siempre en mente cuando eres gerente de proyectos. Hasta ahora, aprendiste la importancia de gestionar, comunicar y medir la calidad. Esta es una excelente oportunidad para pensar cómo garantizar que los modos en que recopilas opiniones y los procesos que usas para medir la calidad sean justos y accesibles. Primero, si recopilas opiniones con entrevistas en tiempo real, asegúrate de incluir distintos tipos de adaptaciones en tu correspondencia cuando organices las sesiones. Quizá te pidan subtítulos en tiempo real o la presencia de un intérprete. Otras personas que quizá sufren de ansiedad o están dentro del espectro autista pueden pedir las preguntas por adelantado así tienen tiempo de pensar y preparar sus respuestas. Recuerda que lo que funciona con una persona quizá no funciona con otra, incluso si ambas personas tienen la misma discapacidad. Si estás llevando a cabo una entrevista cara a cara, examina el espacio teniendo en mente la accesibilidad, por ejemplo, garantiza que haya un camino accesible al edificio y al salón, y que los pasillos estén libres para que alguien en silla de ruedas o un andador pueda pasar sin problemas, o alguien con discapacidad visual pueda moverse con seguridad. Si envías una encuesta o recopilas opiniones usando tecnología, corrobora que los sistemas que usas sean ciento por ciento accesibles. Si no lo sabes con certeza, contacta al titular del sistema y pregunta si cumplen con las últimas pautas de accesibilidad del contenido web o WCAG. Prepárate para hacer preguntas y recopilar respuestas de otra forma si es necesario. Además de recopilar opiniones, como gerente de proyectos, es importante que facilites la accesibilidad de la conversación desde el principio, en especial si tu proyecto tiene que ver con un proceso o un producto. A menudo, se pasan por alto las funciones de accesibilidad de un producto o se dejan para el final del proyecto. Esto puede tener consecuencias serias, como retrasos en el lanzamiento o, peor aún, un producto que cierto porcentaje de la población no puede utilizar. Asegúrate de que los desarrolladores conozcan los requisitos de accesibilidad desde el comienzo. Si no los conocen, ponlos en contacto con los recursos o expertos adecuados. Incluye testers con distintas discapacidades en tus pruebas de usabilidad cada vez que puedas y, al menos, evalúa si el producto cumple con las pautas de accesibilidad. En síntesis, piensa desde el principio y a menudo en la accesibilidad, y anima a otros miembros del equipo del proyecto a que también lo hagan. A continuación, practicarás formas de medir la calidad y aprenderás más sobre gestionar cambios, riesgos y mucho más. ¡Buen trabajo, sigue así!
+Primero, si recopilas opiniones con entrevistas en tiempo real, asegúrate de incluir distintos tipos de adaptaciones en tu
+correspondencia cuando organices las sesiones. Quizá te pidan subtítulos en tiempo real o la presencia de un intérprete. Otras
+personas que quizá sufren de ansiedad o están dentro del espectro autista pueden pedir las preguntas por adelantado así
+tienen tiempo de pensar y preparar sus respuestas. Recuerda que lo que funciona con una persona quizá no funciona con otra,
+incluso si ambas personas tienen la misma discapacidad.
+
+Si estás llevando a cabo una entrevista cara a cara, examina el espacio teniendo en mente la accesibilidad, por ejemplo,
+garantiza que haya un camino accesible al edificio y al salón, y que los pasillos estén libres para que alguien en silla
+de ruedas o un andador pueda pasar sin problemas, o alguien con discapacidad visual pueda moverse con seguridad.
+
+Si envías una encuesta o recopilas opiniones usando tecnología, corrobora que los sistemas que usas sean ciento por ciento
+accesibles. Si no lo sabes con certeza, contacta al titular del sistema y pregunta si cumplen con las últimas pautas de
+accesibilidad del contenido web o WCAG. Prepárate para hacer preguntas y recopilar respuestas de otra forma si es necesario.
+
+Además de recopilar opiniones, como gerente de proyectos, es importante que facilites la accesibilidad de la conversación
+desde el principio, en especial si tu proyecto tiene que ver con un proceso o un producto. A menudo, se pasan por alto las
+funciones de accesibilidad de un producto o se dejan para el final del proyecto. Esto puede tener consecuencias serias, como
+retrasos en el lanzamiento o, peor aún, un producto que cierto porcentaje de la población no puede utilizar.
+
+Asegúrate de que los desarrolladores conozcan los requisitos de accesibilidad desde el comienzo. Si no los conocen, ponlos
+en contacto con los recursos o expertos adecuados. Incluye testers con distintas discapacidades en tus pruebas de usabilidad
+cada vez que puedas y, al menos, evalúa si el producto cumple con las pautas de accesibilidad.
+
+En síntesis, piensa desde el principio y a menudo en la accesibilidad, y anima a otros miembros del equipo del proyecto a
+que también lo hagan.
 
 #### Pruebas de aceptación del usuario: Objetivos, prácticas recomendadas y gestión
 
