@@ -1067,6 +1067,45 @@ basados en datos, como DMAMC y PHVA.
 
 #### Frameworks de mejora basados en datos
 
+frameworks de mejora basados en los datos. Los frameworks de mejora basados en los datos son técnicas utilizadas para tomar
+decisiones basadas en datos reales. El primer framework de mejora basado en los datos que abordaremos puede resultarte familiar,
+ya que lo discutimos en un curso anterior. Recuerda que D-M-A-M-C, o *DMAMC*, significa definir, medir, analizar, mejorar y
+controlar; su función es planear cinco pasos que puedes dar al trabajar en pos de las mejoras continuas. Al considerar
+cómo mejorar las experiencias de los clientes, comienza con lo siguiente:
+
+definir el problema, los objetivos, recursos, el alcance y el cronograma del proyecto para la empresa.
+mide. Aquí, recogerás métricas y datos de rendimiento con el fin de establecer bases de referencia y medir el éxito.
+analiza. Trabaja para encontrar las causas raíz de los problemas y entender su impacto.
+mejora. Esto significa implementar una solución al problema que sea razonable.
+controla. Aquí es donde implementarás los cambios y te encargarás de supervisar los procesos actualizados que estableciste.
+
+Otro framework que puedes utilizar al trabajar en las mejoras continuas es *PHVA*. PHVA es un proceso de cuatro pasos que
+se centra en identificar un problema, resolverlo, evaluar si la solución tuvo éxito y perfeccionar la solución final. Los
+pasos por seguir tienen este orden:
+
+Planificar. Se trata de identificar el problema, su causa raíz y proponer soluciones.
+
+Supongamos que un tipo de planta no se vende bien y, por lo tanto, el almacén está repleto de una misma especie. Si no
+actúas con rapidez, las plantas pueden morir pronto. ¿Cuáles son algunas soluciones viables? Propones mover los artículos
+de la parte inferior a la superior en la página de ventas del sitio web para que esas plantas queden a la vista. También
+puedes hacer campañas de marketing por correo electrónico que contengan ofertas de dos por uno en la compra de esa planta.
+
+Hacer, o resolver el problema.
+
+En este caso, tu patrocinador decidió que no le agradaba regalar plantas que podrían aportarle ingresos. Has optado por
+la primera opción: mover la planta a una parte más destacada del sitio web. Tu hipótesis es que la mejor manera de cambiar
+el inventario más antiguo es colocarlo en un lugar que no pase inadvertido para los clientes.
+
+Verificar. Compara los resultados con el fin de averiguar si se resolvió el problema.
+
+Entonces, aguarda una semana y observa si aumentó el número de ventas de esa planta. Si así fue, tu hipótesis es correcta
+y salvaste la vida de algunas plantas, lo que permitió a Office Green evitar pérdidas financieras.
+
+Tanto PHVA como DMAMC son grandes frameworks de resolución de problemas para aplicar en la vida cotidiana y el lugar de
+trabajo. Estos frameworks te ayudan a identificar problemas, reducir los errores y optimizar los procesos. Te animo a que
+consideres estas técnicas la próxima vez que adviertas un problema o algún margen de mejora en un flujo de trabajo. Te
+sorprenderá cómo un simple framework puede ayudar a organizarte para el éxito.
+
 #### Diferenciar proyectos de programas
 
 ### Uso de retrospectivas para el éxito del proyecto
