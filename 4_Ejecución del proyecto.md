@@ -1166,6 +1166,14 @@ partir de indicadores de rentabilidad más sólidos.
 
 ### Uso de retrospectivas para el éxito del proyecto
 
+#### El propósito de una retrospectiva
+
+#### Cuestionario práctico: Pon a prueba tus conocimientos: retrospectivas
+
+#### Realizar una retrospectiva
+
+#### Plantilla retrospectiva
+
 ## modulo_4_3
 
 ## modulo_4_4
