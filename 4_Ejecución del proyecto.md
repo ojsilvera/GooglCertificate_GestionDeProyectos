@@ -1145,7 +1145,7 @@ gerente del programa le encanta esta información inesperada. Ahora, el gerente 
 en todos los proyectos bajo su gestión, lo que lleva las mejoras continuas a todo el programa en lugar de solo al proyecto.
 
 Entonces, ¿qué sería exactamente un proyecto, un programa y un portfolio en Office Green? Lograr que el servicio de Plant
-Pals se lance y funcione es un proyecto. Es temporal y a corto plazo. Una vez que se lanza el servicio con éxito, el
+Pals se lance y funcione es un proyecto. Es temporal y a corto plazo. Una vez que se lanza el servicio con éxito, elel
 proyecto finaliza. Para lograr que el servicio funcione indefinidamente, es necesario que el proyecto se convierta en un
 programa. El programa mediante el cual se lleva a cabo el servicio de Plant Pals se convierte en uno de los objetivos
 comerciales a largo plazo de Office Green y la empresa trabajará en la mejora continua del programa. Ahora, Plant Pals,
