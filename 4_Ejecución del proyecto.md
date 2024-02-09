@@ -1108,6 +1108,62 @@ sorprenderá cómo un simple framework puede ayudar a organizarte para el éxito
 
 #### Diferenciar proyectos de programas
 
+Los proyectos no son la única tarea en la que el gerente de proyectos puede participar. También hay programas y portfolios.
+
+    El proyecto es una tarea que tiene un solo propósito
+    el programa es un conjunto de proyectos
+    el portfolio es el conjunto de proyectos y programas de toda la organización.
+
+Piénsalo así: los proyectos pueden existir dentro de los programas, que a su vez pueden existir dentro de los portfolios.
+
+Ten en cuenta que digo “pueden”, ya que no siempre es el caso. También pueden existir proyectos como iniciativas independientes,
+sin vinculación. Pero si integran algo mayor dentro de la organización, los proyectos pueden convertirse en un programa.
+
+Los éxitos colectivos e individuales de los tres se basan en las mejoras continuas. Entonces, ¿quiénes gestionan estas
+tareas diversas e impulsan el éxito? Analicemos esto de forma organizacional y empecemos por el gerente de proyectos.
+
+El gerente de proyectos supervisa los proyectos individuales y tiene entregables concretos a corto plazo. El gerente de
+proyectos tiene a su cargo la mejora continua del proyecto que le asignaron.
+
+El gerente del programa supervisa a los grupos de los proyectos e incluso a otros gerentes de proyectos y se centra en
+objetivos comerciales a largo plazo. Este gerente del programa tiene a su cargo la mejora continua del conjunto de proyectos
+que le asignaron.
+
+Un gerente de portfolio supervisa un grupo de proyectos y programas y se encarga de la gestión centralizada de todos ellos,
+tiene a su cargo la mejora continua de su conjunto asignado de proyectos y programas.
+
+Las diferentes empresas pueden tener nombres apenas diferentes para estas funciones, pero el concepto es el mismo.
+
+Vamos a examinar un ejemplo en el que estas funciones directamente crean una mejora continua para sus organizaciones. Un
+gerente de proyectos ha decidido ofrecer capacitaciones interdepartamentales mensuales a los miembros de su equipo. Su
+equipo es pequeño, así que consideró útil que las personas de otros departamentos entiendan su carga de trabajo y sus
+procesos. De esta manera, si alguien está fuera de la oficina, siempre habrá cobertura. Después de un par de meses de estas
+capacitaciones, el gerente de proyectos se da cuenta de que no solo mejoran los procesos de comunicación, sino que también
+actúan como formadores de equipos sin advertirlo. Debido a las capacitaciones, los empleados tienen la oportunidad de
+interactuar y llegar a conocerse mejor. El gerente de proyectos eleva esta información a su gerente del programa, y al
+gerente del programa le encanta esta información inesperada. Ahora, el gerente del programa puede incorporar estos capacitadores
+en todos los proyectos bajo su gestión, lo que lleva las mejoras continuas a todo el programa en lugar de solo al proyecto.
+
+Entonces, ¿qué sería exactamente un proyecto, un programa y un portfolio en Office Green? Lograr que el servicio de Plant
+Pals se lance y funcione es un proyecto. Es temporal y a corto plazo. Una vez que se lanza el servicio con éxito, el
+proyecto finaliza. Para lograr que el servicio funcione indefinidamente, es necesario que el proyecto se convierta en un
+programa. El programa mediante el cual se lleva a cabo el servicio de Plant Pals se convierte en uno de los objetivos
+comerciales a largo plazo de Office Green y la empresa trabajará en la mejora continua del programa. Ahora, Plant Pals,
+junto a otros proyectos y programas de Office Green, se incorporan al portfolio de la empresa. Como las mejoras continuas
+se llevan a cabo en el proyecto Plant Pals, el programa, los portfolios y Office Green notarán los beneficios.
+
+Volvamos al ejemplo del exceso de existencias de las plantas del video anterior. Bueno, al implementar PHVA (planificar,
+hacer, verificar, actuar), notas una caída de las ventas de una de las variedades de plantas. Entonces, decides reorganizar
+el sitio web para destacar en la parte superior la especie que no se vende, con un pequeño descuento. Este cambio tiene
+tanto éxito que se vuelve una buena práctica. De ahora en adelante, las variedades con rendimiento bajo o exceso de
+existencias se destacarán en la parte superior del sitio web. Este es, de hecho, un proceso nuevo. Realizarlo una y otra
+vez generará mejoras continuas. La mejora continua que hiciste en el proyecto se vio bien reflejada en el programa y el
+portfolio ya que, ahora que se ha probado, se puede implementar la misma estrategia en toda la empresa y en el resto de
+los sitios y productos, con reducción de las pérdidas y aumento de los ingresos en todos ellos. Si muchos o todos los
+proyectos en Office Green evidencian la misma mejora, eso beneficia directamente al programa, que es el conjunto de lo
+proyectos. Si la misma estrategia se aplica a los programas de Office Green, el portfolio se beneficiará directamente a
+partir de indicadores de rentabilidad más sólidos.
+
 ### Uso de retrospectivas para el éxito del proyecto
 
 ## modulo_4_3
