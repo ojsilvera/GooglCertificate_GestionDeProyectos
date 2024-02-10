@@ -1320,7 +1320,15 @@ ser más innovadora que una simple lista. Puedes utilizar códigos de colores, n
 forma que juzgues apropiada para captar la atención del equipo. Hagas lo que hagas, asegúrate de llevar las lecciones
 aprendidas a tus próximos proyectos.
 
-## modulo_4_3
+## Toma de decisiones basadas en datos
+
+### Recopilación de datos para un proyecto
+
+### Priorizar y analizar datos
+
+### Presentar y visualizar datos
+
+### Repaso: Toma de decisiones basada en datos
 
 ## modulo_4_4
 
