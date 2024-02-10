@@ -1230,7 +1230,16 @@ qué tú, el gerente de proyectos, no hiciste las preguntas adecuadas en las pri
 podrían haber hecho un poco más para incluir un presupuesto de contingencia, y está bien. Asegúrate de no centrarte en lo
 negativo solamente.
 
-Las retrospectivas consisten en reflexionar sobre los aspectos positivos de los proyectos también, así que habla sobre aquello que salió bien. ¿Qué estuvo divertido? ¿Qué cosas nuevas serás capaz de llevar contigo a los proyectos futuros? Quizás los equipos de ventas y marketing no suelen trabajar juntos, pero esto les dio la oportunidad de vincularse. Quizás disfrutaste tanto trabajar en el proyecto Plant Pals con el diseñador de sitios web contratado que el equipo ha decidido contratarlo a tiempo completo. Cualesquiera que sean los aspectos positivos, vale la pena celebrarlos. Incluso puedes pedir algo para cenar o un postre como agradecimiento a todos. Finalmente, debes asegurarte de aplicar los cambios que se hayan mencionado. Implementarás esos cambios como corresponde y decidirás manejar el proyecto de forma un poco diferente en la siguiente fase. Las personas no quieren participar en retrospectivas si perciben que sus opiniones no se tienen en cuenta ni se implementan en absoluto. Ahora que tienes una perspectiva general de las retrospectivas, expandiremos el tema en el siguiente video, donde te mostraremos cómo realizar tu propia retrospectiva. Nos vemos ahí.
+Las retrospectivas consisten en reflexionar sobre los aspectos positivos de los proyectos también, así que habla sobre
+aquello que salió bien. ¿Qué estuvo divertido? ¿Qué cosas nuevas serás capaz de llevar contigo a los proyectos futuros?
+Quizás los equipos de ventas y marketing no suelen trabajar juntos, pero esto les dio la oportunidad de vincularse. Quizás
+disfrutaste tanto trabajar en el proyecto Plant Pals con el diseñador de sitios web contratado que el equipo ha decidido
+contratarlo a tiempo completo. Cualesquiera que sean los aspectos positivos, vale la pena celebrarlos. Incluso puedes pedir
+algo para cenar o un postre como agradecimiento a todos.
+
+Finalmente, debes asegurarte de aplicar los cambios que se hayan mencionado. Implementarás esos cambios como corresponde
+y decidirás manejar el proyecto de forma un poco diferente en la siguiente fase. Las personas no quieren participar en
+retrospectivas si perciben que sus opiniones no se tienen en cuenta ni se implementan en absoluto.
 
 #### Realizar una retrospectiva
 
