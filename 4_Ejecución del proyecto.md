@@ -1243,6 +1243,32 @@ retrospectivas si perciben que sus opiniones no se tienen en cuenta ni se implem
 
 #### Realizar una retrospectiva
 
+Situaciones diferentes demandan técnicas diferentes y, en lo referente a recibir opiniones posiblemente delicadas, es mejor
+considerar las necesidades del equipo. Hay un par de cosas para tener en cuenta antes de comenzar una retrospectiva:
+
+Primero, debes mantener un tono positivo durante todo el proceso, recuerda, aunque haya algunas conversaciones difíciles,
+el objetivo de la retrospectiva es fomentar las mejoras, que te preparan para proyectos futuros. En general, la retrospectiva
+debe considerarse una experiencia positiva en la que los miembros del equipo comparten opiniones cómodamente.
+
+Además, posiblemente debas ser considerado con los otros equipos. Si hay otros equipos con los que colaboras habitualmente,
+también deberán participar en la retrospectiva. Por ejemplo, algunos equipos adyacentes que formaban parte del proyecto
+pueden querer expresar su opinión sobre la lucha por mantener la comunicación entre los equipos. Si eligen no participar
+en la retrospectiva, al menos deberías compartir tus hallazgos con ellos. Después de todo, suavizar las interacciones entre
+equipos y las transferencias de entregables es un tema que suele abordarse en las retrospectivas.
+
+Como se mencionó anteriormente, puedes usar varios accesorios y herramientas para realizar la retrospectiva. Aquí hay un
+ejemplo de lo que una retrospectiva puede implicar.
+
+Como notarás, es bastante amplio e incluye muchas oportunidades para los detalles. Debes fomentar el máximo de opiniones
+posibles del equipo.
+Esta plantilla de retrospectiva es un documento estándar con espacios que los gerentes de proyectos completan y discuten con sus equipos, además de usarlos como guía para la conversación. Repasa la cadena de eventos del mismo modo que ocurrieron en tiempo real. ¿Qué pasó durante la fase de planificación? ¿Qué podría haber sido mejor? ¿En qué tuvo suerte tu equipo? ¿Cómo fue la fase de ejecución?
+Mientras lo haces, completa la sección de lecciones aprendidas, que es un espacio para profundizar sobre aquello que podrías hacer diferente la próxima vez.
+Este es un espacio para indicar qué riesgos se materializaron durante el proyecto. ¿Hubo una gran brecha entre el plan original y la ejecución? ¿Qué opinó el equipo al respecto? Quizás varios de los miembros del equipo del proyecto opinaron que el sitio web no se lanzó conforme al plazo original. Como resultado, los miembros del equipo de ventas no alcanzaron sus objetivos ese mes, el departamento de marketing tuvo que cambiar varios elementos de los contenidos y anuncios, y el patrocinador tuvo que dar cuenta y razón a los inversores ansiosos por ver el sitio web.
+Ahora, los miembros del equipo están molestos porque, si se hubiera priorizado finalizar el sitio web y dedicado menos tiempo a tareas de menor importancia, todo eso podría haberse evitado.
+Es una opinión difícil, pero en pos de éxitos futuros, es pertinente considerar por qué se materializó este riesgo. La próxima vez, te asegurarás de priorizar esa tarea con tantas dependencias. Ahora que has repasado cómo salió todo, construye un futuro mejor para el equipo completando las tablas restantes. La primera consiste en elementos de acción y responde a la pregunta: “¿Qué acción debemos tomar a partir de las lecciones aprendidas?”. Empezarás por el lado izquierdo, con los elementos de acción que deseas abordar; luego, continúa por las celdas hacia la derecha, en las que consignarás información como esta: Tipo: ¿es una herramienta, un proceso, un equipo o algo más? ¿Quién tendrá a su cargo este elemento de acción? Y los enlaces relacionados: considera adónde rastreamos este elemento.
+La siguiente tabla se trata de consideraciones con vistas al futuro. ¿Existe algún riesgo que podría volverse un problema si no se aborda el próximo trimestre?
+¿Necesitas transferir la propiedad de este proyecto a otra persona? Incluye todo eso y asegúrate de completar las demás celdas, que comprenden: Tipo: ¿es un proceso, un equipo o algo más? Contacto: ¿quién puede ser un recurso en este procedimiento si necesitamos consultarlo más tarde? Y, nuevamente, cualquier enlace que pueda ser de relevancia para este tema; puede ser una documentación relevante si estás por pasar el proyecto o, quizás, un registro de riesgos de tu proyecto. ¡Eso es! Ahora, voy a mostrarte una retrospectiva estándar como la que tendrías que completar; pero, si crees que el equipo necesita algo un poco más interactivo, tienes libertad para hacerlo. La forma de obtener esta información del equipo puede ser más innovadora que una simple lista. Puedes utilizar códigos de colores, notas adhesivas, columnas con emojis y cualquier forma que juzgues apropiada para captar la atención del equipo. Hagas lo que hagas, asegúrate de llevar las lecciones aprendidas a tus próximos proyectos. En el siguiente video, repasaremos todas las lecciones aprendidas en este módulo. Nos vemos ahí.
+
 #### Plantilla retrospectiva
 
 ## modulo_4_3
