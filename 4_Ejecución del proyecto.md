@@ -1324,6 +1324,12 @@ aprendidas a tus próximos proyectos.
 
 ### Recopilación de datos para un proyecto
 
+#### El valor de los datos
+
+#### Tipos comunes de datos de proyectos
+
+#### Métricas de datos comunes para la gestión de proyectos
+
 ### Priorizar y analizar datos
 
 ### Presentar y visualizar datos
