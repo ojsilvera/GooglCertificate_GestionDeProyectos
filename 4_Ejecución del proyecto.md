@@ -1514,6 +1514,25 @@ o que no estés haciendo un seguimiento eficaz de los gastos.
 
 - Felicidad y satisfacción
 
+Los gerentes de proyectos usan un subconjunto de métricas llamadas *métricas de felicidad*, que también se relacionan con
+la calidad. Se trata de métricas que se relacionan con distintos aspectos de la satisfacción general del usuario con un
+producto o servicio, como el atractivo visual, la probabilidad de que lo recomiendes y la facilidad de uso.
+
+Las métricas de felicidad generalmente se pueden capturar con una encuesta bien diseñada o mediante el seguimiento de los
+ingresos generados, la retención de clientes o las devoluciones de productos.
+
+Las puntuaciones de satisfacción del cliente reflejan las actitudes del usuario, su satisfacción o la facilidad de uso
+percibida. Estas puntuaciones indican si el proyecto cumplió con lo previsto y si satisface las necesidades de los clientes
+y los interesados.
+
+Las puntuaciones de satisfacción del cliente suelen representar una métrica combinada: la suma de varias métricas de felicidad
+diferentes. Por ejemplo, en una encuesta de satisfacción, un cliente puede calificar por separado la apariencia de un
+producto con 6/10, la facilidad de uso con 7/10 y la probabilidad de recomendarlo o volver a usarlo con 8/10. El puntaje
+global de la satisfacción del cliente sería entonces de 7/10.
+
+Tendrás que determinar qué puntuaciones son aceptables para tu proyecto al discutir con los interesados cuáles son los
+aspectos más importantes del proyecto.
+
 ### Priorizar y analizar datos
 
 ### Presentar y visualizar datos
