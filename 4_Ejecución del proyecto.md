@@ -1547,7 +1547,7 @@ aceptaron o no la invitación y se presentaron. Las métricas de compromiso te d
 si participaron en las actividades o interactuaron con otros asistentes, si invitaron a sus amigos a ir con ellos y cuánto
 tiempo se quedaron.
 
-Las métricas de adopción para el lanzamiento de un producto o servicio, como una aplicación, un programa de software, un
+*Las métricas de adopción* para el lanzamiento de un producto o servicio, como una aplicación, un programa de software, un
 servicio de entrega o una membresía en un gimnasio, serían similares a las del ejemplo de la fiesta. Sin embargo, pueden
 ser un poco más complejas si necesitas hacer un seguimiento de las métricas para más de una cosa, por ejemplo, si los
 usuarios hacen compras adicionales o se inscriben en funciones premium.
@@ -1565,6 +1565,42 @@ Cada proyecto tendrá que definir su propio conjunto de métricas de adopción e
     Proporcionar comentarios (calificar el producto o servicio)
 
     Completar un perfil
+
+*Las métricas de compromiso* te indican hasta qué punto se usa un producto, servicio o proceso. Revelan la frecuencia y el
+tipo de interacción y participación de los clientes a lo largo del tiempo. Las métricas de compromiso pueden incluir la
+tasa de uso diario de una función de diseño o el seguimiento de los pedidos y las interacciones de los clientes.
+
+Como gerente de proyectos, no solo te preocupa el nivel de compromiso del usuario final. También es importante monitorear
+el compromiso de los interesados y de los miembros del equipo. La medición de la participación de los interesados mediante
+el seguimiento de la frecuencia de la comunicación, las respuestas a los correos electrónicos o las actualizaciones, la
+asistencia a las reuniones o el nivel de aportación puede darte una idea de si los interesados encuentran o no valor en
+el proyecto.
+
+La falta de un compromiso significativo podría poner en riesgo tu proyecto. Es posible que los interesados no estén al
+tanto de los cambios o del progreso general del proyecto y, por lo tanto, el resultado final del proyecto puede no satisfacer
+sus expectativas. Medir el compromiso de los miembros del equipo es vital para el éxito de tu proyecto, porque cuanto más
+comprometidos estén, más productivos serán y habrá más probabilidades de que produzcan resultados de alta calidad.
+
+Lo ideal es que las métricas de adopción y compromiso aumenten o, al menos, alcancen las métricas de los objetivos que se
+establecieron con los interesados al principio del proyecto.  Si no hay aumento o las métricas bajan, entonces tus tasas
+son bajas y, por lo tanto, no tienen tanto éxito.
+
+- Conclusión clave
+
+Los datos, las métricas y los análisis son importantes para el éxito de tu proyecto. Deberás estar familiarizado con la
+forma de recopilar y medir los datos y con la forma de usarlos para informarte sobre los distintos aspectos de tu proyecto.
+Dependiendo del proyecto y de sus objetivos únicos, algunas métricas serán más importantes que otras. Tu trabajo consiste
+en asegurarte de que entiendes qué métricas son las que más importan a tus interesados y qué elementos afectan a la capacidad
+de tu equipo para ofrecer resultados de calidad a tiempo y dentro del presupuesto.
+
+Enlaces utiles
+
+[text](https://www.wrike.com/blog/what-are-project-management-performance-metrics/)
+[text]([https://](https://top5projectmanagement.com/articles/data-driven-project-management-the-4-most-important-data-points-to-look-at/))
+[text]([https://](https://www.ecosys.net/blog/project-analytics-benefits-challenges-and-first-steps/))
+[text]([https://](https://www.pmi.org.in/conference2017/pdfs/papers-pdfs/theme-3-rapidly-changing-world/21-Project-Analytics-to-Improve-Project.pdf))
+[text]([https://](https://www.workfront.com/project-management/metrics))
+[text]([https://](https://www.ringcentral.com/us/en/blog/productivity-metrics/))
 
 ### Priorizar y analizar datos
 
