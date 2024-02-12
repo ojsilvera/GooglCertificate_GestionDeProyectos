@@ -1719,17 +1719,30 @@ en que empiezas a recopilar los datos hasta el momento en que presentas tus conc
 
 - Tipos de sesgos
 
-Hay diferentes tipos de sesgos por tener en cuenta a la hora de configurar tus procesos de recopilación de datos. Estos son cuatro de los tipos de sesgos más comunes que podrían afectar a tus datos:
+Hay diferentes tipos de sesgos por tener en cuenta a la hora de configurar tus procesos de recopilación de datos. Estos
+son cuatro de los tipos de sesgos más comunes que podrían afectar a tus datos:
 
-El sesgo del muestreo se produce cuando una muestra no es representativa de toda la población en general. Por ejemplo, puede que tu muestra no incluya a personas mayores de 65 años. O tal vez haya excluido a personas de determinados grupos socioeconómicos.
+    El sesgo del muestreo se produce cuando una muestra no es representativa de toda la población en general. Por ejemplo,
+    puede que tu muestra no incluya a personas mayores de 65 años. O tal vez haya excluido a personas de determinados
+    grupos socioeconómicos.
 
-El sesgo del observador es la tendencia de distintas personas a observar las cosas de manera diferente. Por ejemplo, los interesados de distintas partes del mundo pueden ver los mismos datos de manera diferente y sacar distintas conclusiones a partir de ellos.
+    El sesgo del observador es la tendencia de distintas personas a observar las cosas de manera diferente. Por ejemplo,
+    los interesados de distintas partes del mundo pueden ver los mismos datos de manera diferente y sacar distintas
+    conclusiones a partir de ellos.
 
-El sesgo de interpretación es la tendencia a interpretar siempre las situaciones que no tienen respuestas obvias de una manera estrictamente positiva o negativa, cuando, en realidad, hay más de una manera de entender los datos. Los datos que no proporcionan una serie de conclusiones obvias hacen que algunas personas se sientan ansiosas, lo que puede llevar a un sesgo de interpretación. Por ejemplo, un miembro del equipo puede interpretar negativamente los resultados no concluyentes de la encuesta, mientras que otros miembros del equipo pueden pensar con más cuidado y evaluar los datos desde distintos ángulos.
+    El sesgo de interpretación es la tendencia a interpretar siempre las situaciones que no tienen respuestas obvias de
+    una manera estrictamente positiva o negativa, cuando, en realidad, hay más de una manera de entender los datos. Los
+    datos que no proporcionan una serie de conclusiones obvias hacen que algunas personas se sientan ansiosas, lo que puede
+    llevar a un sesgo de interpretación. Por ejemplo, un miembro del equipo puede interpretar negativamente los resultados
+    no concluyentes de la encuesta, mientras que otros miembros del equipo pueden pensar con más cuidado y evaluar los datos
+    desde distintos ángulos.
 
-El sesgo de confirmación es la tendencia a buscar o interpretar la información de manera que confirme las creencias preexistentes. Por ejemplo, puedes pedir a determinados interesados que te den su opinión sobre algunas partes del proyecto porque sabes que es más probable que tengan la misma perspectiva que tú.
+    El sesgo de confirmación es la tendencia a buscar o interpretar la información de manera que confirme las creencias
+    preexistentes. Por ejemplo, puedes pedir a determinados interesados que te den su opinión sobre algunas partes del
+    proyecto porque sabes que es más probable que tengan la misma perspectiva que tú.
 
-Cada uno de estos tipos de sesgo afecta la forma de recopilar y dar sentido a los datos, por lo que es importante tenerlos en cuenta a la hora de configurar tus procesos de recopilación de datos.
+Cada uno de estos tipos de sesgo afecta la forma de recopilar y dar sentido a los datos, por lo que es importante tenerlos
+en cuenta a la hora de configurar tus procesos de recopilación de datos.
 
 #### Usar análisis de datos para tomar decisiones fundadas
 
