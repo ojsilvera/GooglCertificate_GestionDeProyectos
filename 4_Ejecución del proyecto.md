@@ -1424,9 +1424,15 @@ Por ejemplo, si tienes datos sobre los patrones de compra de los clientes, puede
 y podrás tomar decisiones más inteligentes al realizar pedidos de nuevos productos a tus proveedores. Estos datos también
 te ayudarán a comprender mejor a tus usuarios y tus preferencias para poder mejorar la oferta y el rendimiento de tus productos.
 
-También puedes usar los datos del equipo del proyecto para ayudarte a refinar tus procesos. Por ejemplo, si tu equipo tiene un problema, el análisis de los datos del rastreador de proyectos sobre el número de tareas completadas, las escalaciones o los problemas de procesos internos puede ayudarte a encontrar el origen. Esto te permitirá tomar una decisión informada sobre dónde enfocar tus esfuerzos para mejorar los procesos.
+También puedes usar los datos del equipo del proyecto para ayudarte a refinar tus procesos. Por ejemplo, si tu equipo tiene
+un problema, el análisis de los datos del rastreador de proyectos sobre el número de tareas completadas, las escalaciones
+o los problemas de procesos internos puede ayudarte a encontrar el origen. Esto te permitirá tomar una decisión informada
+sobre dónde enfocar tus esfuerzos para mejorar los procesos.
 
-A través del análisis crítico, la aplicación y la ejecución, los datos se convierten en una poderosa herramienta para guiar cualquier proyecto en la dirección correcta.
+A través del análisis crítico, la aplicación y la ejecución, los datos se convierten en una poderosa herramienta para guiar
+cualquier proyecto en la dirección correcta.
+
+- Datos, métricas y análisis
 
 ### Priorizar y analizar datos
 
