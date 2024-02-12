@@ -1399,7 +1399,15 @@ un ejemplo. Si el presupuesto era solo de 250 asistentes a una próxima conferen
 personas y el local te cobra por esos invitados adicionales, los costos reales serán más altos que tu presupuesto o estimación
 inicial.
 
-Así que, para recapitular, las métricas de calidad pueden incluir elementos como el número de cambios, los problemas y la variación de costos. Aunque los gerentes de proyectos suelen hacer un seguimiento de estos datos, hay muchos más que puedes aprovechar para tomar las decisiones en tu proyecto. La buena noticia es que hay una gran cantidad de software y herramientas sofisticadas que se utilizan para la gestión de proyectos y el análisis de datos y te ayudarán a mantener el control de todos estos tipos de datos diferentes en una ubicación centralizada. Las herramientas de gestión de proyectos como Workfront y JIRA hacen un seguimiento de la actividad y proporcionan resultados legibles para que puedas medir la salud general de tu proyecto. Las herramientas de análisis de datos como Tableau son útiles para la visualización de datos. Ahora sabes un poco más sobre cómo identificar tipos comunes de datos. También puedes identificar software y herramientas comunes de gestión de proyectos que pueden ayudarte a gestionar y analizar los datos.
+Así que, para recapitular, las métricas de calidad pueden incluir elementos como el número de cambios, los problemas y la
+variación de costos. Aunque los gerentes de proyectos suelen hacer un seguimiento de estos datos, hay muchos más que puedes
+aprovechar para tomar las decisiones en tu proyecto. La buena noticia es que hay una gran cantidad de software y herramientas
+sofisticadas que se utilizan para la gestión de proyectos y el análisis de datos y te ayudarán a mantener el control de
+todos estos tipos de datos diferentes en una ubicación centralizada.
+
+Las herramientas de gestión de proyectos como Workfront y JIRA hacen un seguimiento de la actividad y proporcionan resultados
+legibles para que puedas medir la salud general de tu proyecto. Las herramientas de análisis de datos como Tableau son
+útiles para la visualización de datos.
 
 #### Métricas de datos comunes para la gestión de proyectos
 
