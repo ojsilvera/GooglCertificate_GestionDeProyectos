@@ -1604,6 +1604,14 @@ Enlaces utiles
 
 ### Priorizar y analizar datos
 
+#### Determinar qué datos son importantes
+
+#### Consideraciones éticas de datos
+
+#### Usar análisis de datos para tomar decisiones fundadas
+
+#### Los seis pasos del análisis de datos
+
 ### Presentar y visualizar datos
 
 ### Repaso: Toma de decisiones basada en datos
