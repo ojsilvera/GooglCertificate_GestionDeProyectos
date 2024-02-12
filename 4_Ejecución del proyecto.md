@@ -1533,6 +1533,20 @@ global de la satisfacción del cliente sería entonces de 7/10.
 Tendrás que determinar qué puntuaciones son aceptables para tu proyecto al discutir con los interesados cuáles son los
 aspectos más importantes del proyecto.
 
+- Adopción y compromiso
+
+Otro conjunto de métricas relacionadas con la calidad son *la adopción y el compromiso.*
+
+*La adopción* se refiere a la aceptación y uso de un producto, servicio o proceso.
+
+*El compromiso* se refiere al grado en que se usa, es decir, la frecuencia de uso, la cantidad de tiempo que se usa y la
+amplitud de uso.
+
+Puede ser útil pensar en ellos como si se tratara de una fiesta: tus métricas de adopción te revelarán si las personas
+aceptaron o no la invitación y se presentaron. Las métricas de compromiso te dirían si estuvieron activos en la fiesta,
+si participaron en las actividades o interactuaron con otros asistentes, si invitaron a sus amigos a ir con ellos y cuánto
+tiempo se quedaron.
+
 ### Priorizar y analizar datos
 
 ### Presentar y visualizar datos
