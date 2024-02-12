@@ -1337,7 +1337,15 @@ minutos por kilómetro para hacer un seguimiento de su rendimiento a lo largo de
 para el futuro. Del mismo modo, las empresas usan los datos y los análisis de datos para mejorar y dar valor a su organización
 de diversas maneras.
 
-Por ejemplo, las empresas obtienen datos sobre el comportamiento y la demanda de los clientes para ofrecer mejores servicios y crear nuevos productos. Netflix es un gran ejemplo de una empresa que usa la inteligencia de datos para predecir lo que los clientes quieren. Al observar los puntos de datos relativos a los tipos de géneros, las calificaciones y el número de visualizaciones repetidas, Netflix recomienda programas de televisión que cree que les pueden gustar a los clientes, mejorando así la experiencia de visualización de los clientes. Del mismo modo, como gerente de proyectos, puedes usar los datos a diario para tomar mejores decisiones, resolver problemas, comprender el rendimiento, mejorar los procesos y entender a tus usuarios. Vamos a examinar cómo estos beneficios pueden afectar a un proyecto. Hablemos de cómo esto se puede llevar a cabo en nuestro proyecto Plant Pals en Office Green.
+Por ejemplo, las empresas obtienen datos sobre el comportamiento y la demanda de los clientes para ofrecer mejores servicios
+y crear nuevos productos. Netflix es un gran ejemplo de una empresa que usa la inteligencia de datos para predecir lo que
+los clientes quieren. Al observar los puntos de datos relativos a los tipos de géneros, las calificaciones y el número de
+visualizaciones repetidas, Netflix recomienda programas de televisión que cree que les pueden gustar a los clientes, mejorando
+así la experiencia de visualización de los clientes. Del mismo modo, como gerente de proyectos, puedes usar los datos a
+diario para tomar mejores decisiones, resolver problemas, comprender el rendimiento, mejorar los procesos y entender a tus
+usuarios.
+
+Vamos a examinar cómo estos beneficios pueden afectar a un proyecto. Hablemos de cómo esto se puede llevar a cabo en nuestro proyecto Plant Pals en Office Green.
 Si tienes los datos sobre las pautas de compra de los clientes e identificas que tus productos más vendidos son las plantas tropicales, podrás tomar mejores decisiones a la hora de hacer nuevos pedidos de plantas a tu proveedor. También podrás entender mejor a los usuarios y sus preferencias para mejorar tus ofertas y rendimiento. Otro beneficio diario de los datos dentro de tu equipo del proyecto es la oportunidad de mejorar los procesos.
 Si tienes los datos de tu rastreador de proyectos sobre el número de tareas completadas, el número de escaladas o el número de problemas que surgen en torno a un proceso interno, podrás deducir de dónde provienen la mayoría de los problemas.
 Reproduce el video desde :2:39 y sigue la transcripción2:39
