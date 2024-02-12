@@ -1446,8 +1446,16 @@ proyecto.
 sobre tu proyecto, como la productividad, la calidad o el compromiso. Una vez que determines las métricas de tu proyecto,
 analiza los datos de acuerdo con esas métricas para encontrar patrones y responder a preguntas sobre tu proyecto.
 
- Este proceso se *denomina análisis:* usar los datos para responder a preguntas, descubrir relaciones y predecir resultados
- desconocidos.
+Este proceso se *denomina análisis:* usar los datos para responder a preguntas, descubrir relaciones y predecir resultados
+desconocidos.
+
+Al analizar los datos, pregúntate:
+
+    ¿Qué significan las métricas para ti?
+    ¿Cómo quieres usar las métricas que has elegido?
+    ¿Puedes encontrar patrones para hacer predicciones sobre tu proyecto?
+    ¿Puedes encontrar formas de mejorar, u optimizar, ciertos aspectos de tu proyecto?
+    ¿Qué lecciones puedes aprovechar de los datos de tu proyecto?
 
 ### Priorizar y analizar datos
 
