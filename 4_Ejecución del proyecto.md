@@ -1647,6 +1647,21 @@ priorizar las tareas correctas.
 
 #### Consideraciones éticas de datos
 
+- Ética de datos
+
+Como gerente de proyectos, la recopilación y el análisis de datos serán una parte fundamental de tus proyectos. Como has
+aprendido, recopilarás datos de diversas fuentes, como grupos focales, entrevistas y cuestionarios. Los datos que se
+recopilan suelen contener PII (información de identificación personal), es decir, información que podría usarse para
+identificar, contactar o ubicar directamente a una persona. Muchas veces, también necesitarás informar sobre los datos
+que recopilas a los interesados, a los clientes y al equipo del proyecto.
+
+Recopilar, analizar y compartir estos datos de forma ética es extremadamente importante para mantener la integridad de tu
+organización, tus proyectos y tu posición.
+
+La ética de datos es el estudio y la evaluación de los desafíos morales relacionados con la recopilación y el análisis de
+datos. Esto incluye generar, registrar, conservar, procesar, compartir y usar los datos con el fin de encontrar soluciones
+éticas.
+
 #### Usar análisis de datos para tomar decisiones fundadas
 
 #### Los seis pasos del análisis de datos
