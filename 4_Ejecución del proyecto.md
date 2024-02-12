@@ -1744,6 +1744,20 @@ son cuatro de los tipos de sesgos más comunes que podrían afectar a tus datos:
 Cada uno de estos tipos de sesgo afecta la forma de recopilar y dar sentido a los datos, por lo que es importante tenerlos
 en cuenta a la hora de configurar tus procesos de recopilación de datos.
 
+Conclusión clave
+
+Según [el Código de Ética y Conducta Profesional]([https://](https://www.pmi.org/about/ethics/code#:~:text=Ethics%20is%20about%20making%20the,absolutely%20dependent%20on%20ethical%20choices.))
+del Project Management Institute:
+
+    “La ética consiste en tomar las mejores decisiones posibles en relación con las personas, los recursos y el medio
+    ambiente. Las decisiones éticas disminuyen el riesgo, promueven los resultados positivos, aumentan la confianza, determinan
+    el éxito a largo plazo y construyen reputación. El liderazgo depende absolutamente de las decisiones éticas".
+
+Una manera clave de demostrar tus habilidades de liderazgo es ejercer un buen juicio en lo que respecta a la ética de datos. Para
+contar la historia de un proyecto basada en datos a los interesados, a los miembros del equipo del proyecto y a otras personas
+de manera ética, debes asegurarte de tener en cuenta las preocupaciones relacionadas con los sesgos y la privacidad en el
+modo de conducir, analizar y compartir esos datos.
+
 #### Usar análisis de datos para tomar decisiones fundadas
 
 #### Los seis pasos del análisis de datos
