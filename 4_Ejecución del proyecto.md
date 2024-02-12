@@ -1504,6 +1504,16 @@ originalmente.
 seguimiento del número de cambios y problemas para identificar patrones, perfeccionar procesos y compartir información sobre
 el proyecto con los interesados.
 
+*La variación de costo o del presupuesto* es la diferencia entre la cantidad real de dinero gastada en un proyecto y la
+cantidad que se presupuestó para el proyecto. Con el tiempo, estos datos pueden ayudarte a comprender si estimas bien los
+presupuestos para tus proyectos.
+
+*Una variación baja* significa que has estimado el presupuesto del proyecto con precisión. *Una variación alta* significa
+que debes reevaluar el proceso de estimación. Es posible que estés subestimando o sobreestimando los costos de tu presupuesto,
+o que no estés haciendo un seguimiento eficaz de los gastos.
+
+- Felicidad y satisfacción
+
 ### Priorizar y analizar datos
 
 ### Presentar y visualizar datos
