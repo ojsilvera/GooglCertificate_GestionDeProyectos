@@ -1627,7 +1627,23 @@ que llevas 30 días de adelanto con respecto a lo previsto, según tu gráfico d
 a la cantidad de trabajo realizado y la cantidad de trabajo restante. Puedes pensar que tu proyecto se ejecuta según lo
 previsto, pero hay otras cosas que debes tener en cuenta. Por un lado, el número de tareas ha aumentado un diez por ciento
 en las últimas tres semanas porque los interesados quieren agregar más funciones al aparato. Y ahora la productividad de
-tu equipo está disminuyendo porque están empezando a agotarse debido a las jornadas extendidas y las largas horas necesarias para añadir esas nuevas funciones. Ahora, ¿qué opinas sobre el cumplimiento de la fecha límite del tercer trimestre? No es tan bueno, ¿verdad? ¿Qué es lo que haces? Podrías tener la tentación de centrarte en la señal de que excediste el presupuesto en USD 2000, pero, si los interesados te comunicaron que están más preocupados por cumplir con la fecha límite que por exceder el presupuesto, entonces debes estar atento a las señales clave relacionadas con el tiempo y el alcance más que con el presupuesto y luego concentrarte en esas señales para identificar y priorizar las áreas por mejorar. Los datos pertinentes te indican que podrás cumplir con la fecha límite, siempre y cuando los interesados dejen de solicitar nuevas características del producto que den lugar a más tareas para que tu equipo complete. Puedes usar tus métricas de productividad para prever cómo gestionarás un aumento del alcance con la tasa de productividad actual de tu equipo y comunicarlo a los interesados. Para evitar tener que restablecer las expectativas con los interesados una y otra vez, puedes mantener tu plan de proyecto al día con las prioridades de este y garantizar que esa información sea accesible para todos. Los interesados pueden consultar tu plan del proyecto para obtener una visión general resumida de respuestas a preguntas importantes, criterios de éxito, artefactos y la salud general de tu proyecto. Recuerda que tienes muchos puntos de datos a tu disposición. Usar las señales, centrarse en las tareas que tienen el mayor impacto en el objetivo del proyecto y alinearse con las prioridades de los interesados son una buena forma de ayudarte a priorizar las tareas correctas. Ahora que identificaste los datos y los priorizaste para trabajar en satisfacer las necesidades del negocio, lo siguiente por determinar es cómo usar los datos para tomar mejores decisiones. Cubriremos eso cuando nos conectemos en el siguiente video.
+tu equipo está disminuyendo porque están empezando a agotarse debido a las jornadas extendidas y las largas horas necesarias
+para añadir esas nuevas funciones. Ahora, ¿qué opinas sobre el cumplimiento de la fecha límite del tercer trimestre? No es
+tan bueno, ¿verdad? ¿Qué es lo que haces? Podrías tener la tentación de centrarte en la señal de que excediste el presupuesto
+en USD 2000, pero, si los interesados te comunicaron que están más preocupados por cumplir con la fecha límite que por exceder
+el presupuesto, entonces debes estar atento a las señales clave relacionadas con el tiempo y el alcance más que con el
+presupuesto y luego concentrarte en esas señales para identificar y priorizar las áreas por mejorar. Los datos pertinentes
+te indican que podrás cumplir con la fecha límite, siempre y cuando los interesados dejen de solicitar nuevas características
+del producto que den lugar a más tareas para que tu equipo complete. Puedes usar tus métricas de productividad para prever
+cómo gestionarás un aumento del alcance con la tasa de productividad actual de tu equipo y comunicarlo a los interesados,
+Para evitar tener que restablecer las expectativas con los interesados una y otra vez, puedes mantener tu plan de proyecto
+al día con las prioridades de este y garantizar que esa información sea accesible para todos. Los interesados pueden consultar
+tu plan del proyecto para obtener una visión general resumida de respuestas a preguntas importantes, criterios de éxito,
+artefactos y la salud general de tu proyecto.
+
+Recuerda que tienes muchos puntos de datos a tu disposición. Usar las señales, centrarse en las tareas que tienen el mayor
+impacto en el objetivo del proyecto y alinearse con las prioridades de los interesados son una buena forma de ayudarte a
+priorizar las tareas correctas.
 
 #### Consideraciones éticas de datos
 
