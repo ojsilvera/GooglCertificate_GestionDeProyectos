@@ -1547,6 +1547,25 @@ aceptaron o no la invitación y se presentaron. Las métricas de compromiso te d
 si participaron en las actividades o interactuaron con otros asistentes, si invitaron a sus amigos a ir con ellos y cuánto
 tiempo se quedaron.
 
+Las métricas de adopción para el lanzamiento de un producto o servicio, como una aplicación, un programa de software, un
+servicio de entrega o una membresía en un gimnasio, serían similares a las del ejemplo de la fiesta. Sin embargo, pueden
+ser un poco más complejas si necesitas hacer un seguimiento de las métricas para más de una cosa, por ejemplo, si los
+usuarios hacen compras adicionales o se inscriben en funciones premium.
+
+Cada proyecto tendrá que definir su propio conjunto de métricas de adopción exitosas, como por ejemplo:
+
+    Índices de conversión
+
+    Tiempo para generar valor (TTV)
+
+    Tasas de finalización de la integración
+
+    Frecuencia de las compras
+
+    Proporcionar comentarios (calificar el producto o servicio)
+
+    Completar un perfil
+
 ### Priorizar y analizar datos
 
 ### Presentar y visualizar datos
