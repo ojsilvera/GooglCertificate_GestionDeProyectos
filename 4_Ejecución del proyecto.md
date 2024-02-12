@@ -1345,15 +1345,51 @@ así la experiencia de visualización de los clientes. Del mismo modo, como gere
 diario para tomar mejores decisiones, resolver problemas, comprender el rendimiento, mejorar los procesos y entender a tus
 usuarios.
 
-Vamos a examinar cómo estos beneficios pueden afectar a un proyecto. Hablemos de cómo esto se puede llevar a cabo en nuestro proyecto Plant Pals en Office Green.
-Si tienes los datos sobre las pautas de compra de los clientes e identificas que tus productos más vendidos son las plantas tropicales, podrás tomar mejores decisiones a la hora de hacer nuevos pedidos de plantas a tu proveedor. También podrás entender mejor a los usuarios y sus preferencias para mejorar tus ofertas y rendimiento. Otro beneficio diario de los datos dentro de tu equipo del proyecto es la oportunidad de mejorar los procesos.
-Si tienes los datos de tu rastreador de proyectos sobre el número de tareas completadas, el número de escaladas o el número de problemas que surgen en torno a un proceso interno, podrás deducir de dónde provienen la mayoría de los problemas.
-Reproduce el video desde :2:39 y sigue la transcripción2:39
-Estos datos te ayudarán a tomar una decisión sobre dónde centrar tu atención para mejorar el proceso.
-Aunque se trata de ejemplos sencillos, mediante el análisis crítico, la aplicación y la ejecución, los datos se convierten en una poderosa herramienta para guiar a cualquier proyecto en la dirección correcta.
-A continuación, hablaremos de los tipos de datos del proyecto que puedes usar para hacer precisamente eso.
+Si tienes los datos sobre las pautas de compra de los clientes e identificas que tus productos más vendidos son las plantas
+tropicales, podrás tomar mejores decisiones a la hora de hacer nuevos pedidos de plantas a tu proveedor. También podrás
+entender mejor a los usuarios y sus preferencias para mejorar tus ofertas y rendimiento. Otro beneficio diario de los datos
+dentro de tu equipo del proyecto es la oportunidad de mejorar los procesos.
+
+Si tienes los datos de tu rastreador de proyectos sobre el número de tareas completadas, el número de escaladas o el número
+de problemas que surgen en torno a un proceso interno, podrás deducir de dónde provienen la mayoría de los problemas. Estos
+datos te ayudarán a tomar una decisión sobre dónde centrar tu atención para mejorar el proceso.
+
+Aunque se trata de ejemplos sencillos, mediante el análisis crítico, la aplicación y la ejecución, los datos se convierten
+en una poderosa herramienta para guiar a cualquier proyecto en la dirección correcta.
 
 #### Tipos comunes de datos de proyectos
+
+Los datos son la recopilación de hechos que pueden ayudar a tomar decisiones. Puedes empezar a notar cómo los datos del
+proyecto afectan a las actividades diarias del equipo, al progreso general y al éxito del proyecto. Para ello se usan
+varios tipos de métricas.
+
+*Una métrica* es una medida cuantificable que se usa para seguir y evaluar un objetivo del negocio. Las métricas se basan
+en objetivos seleccionados. Varían según el proyecto y sirven como un tipo de datos clave del proyecto. Hay muchos tipos
+de datos del proyecto que puedes usar para determinar el progreso y la eficiencia. Puedes agrupar las métricas del proyecto
+en métricas de productividad y métricas de calidad.
+
+*La productividad* suele medir el progreso y la producción a lo largo del tiempo. Las métricas de productividad te permiten
+hacer un seguimiento de la eficacia y la eficiencia de tu proyecto e incluyen métricas como hitos, tareas, proyecciones y
+duración. Desglosemos cada métrica. *Un hito* es un punto importante dentro del cronograma del proyecto que indica progreso y
+suele significar la finalización de un resultado entregable o una fase del proyecto. Y *una tarea* del proyecto es una actividad
+que se debe realizar en un período determinado.
+
+*Una proyección* es la forma de predecir un resultado en función de la información que tienes ahora. Por ejemplo, puedes
+predecir que con los recursos que tienes al inicio del proyecto, este se completará en seis meses. *La duración* de un
+proyecto es el tiempo total que se tarda en completar un proyecto desde su inicio hasta su finalización. La duración también
+se puede usar para los hitos y para determinar si vas a cumplir con los plazos del proyecto. Estos datos se dividen en horas,
+días, semanas, meses y, a veces, años.
+
+Así que, para recapitular, las métricas de productividad incluyen hitos, tareas, proyecciones y duración.
+
+*Las métricas de calidad*. Las métricas de calidad se relacionan con la consecución de resultados aceptables y pueden incluir
+métricas como el número de cambios, los problemas y la variación de costos, que afectan a la calidad. El número de cambios
+durante el proyecto o el alcance del proyecto ayuda a monitorear los riesgos. Los cambios muestran cualquier incongruencia
+con los requisitos iniciales del proyecto. Una serie de pequeños cambios acumulados pueden indicar un problema mayor y proporcionar
+señales de alerta temprana de estos problemas. El uso de un *registro de cambios* para llevar un control de estos cambios
+es una herramienta útil para comunicar a los interesados por qué algo está tardando mucho tiempo o cuesta más de lo que se
+esperaba. Un registro de cambios es un registro de todos los cambios notables en un proyecto. *Un problema* es un inconveniente
+conocido y real que puede afectar la capacidad de completar una tarea. Por ejemplo, un problema podría ser el retraso de la aprobación legal de un anuncio que esperabas lanzar o la falta de asientos confirmados para asegurar un lugar en una conferencia de negocios. Otra métrica de calidad es la variación de costos. Ilustra la diferencia entre el costo real y el costo presupuestario. En pocas palabras, la variación de costos compara lo que se planea gastar frente a lo que realmente se ha gastado. Pongamos un ejemplo. Si el presupuesto era solo de 250 asistentes a una próxima conferencia de negocios, pero se presentan 275 personas y el local te cobra por esos invitados adicionales, los costos reales serán más altos que tu presupuesto o estimación inicial. Así que, para recapitular, las métricas de calidad pueden incluir elementos como el número de cambios, los problemas y la variación de costos. Aunque los gerentes de proyectos suelen hacer un seguimiento de estos datos, hay muchos más que puedes aprovechar para tomar las decisiones en tu proyecto. La buena noticia es que hay una gran cantidad de software y herramientas sofisticadas que se utilizan para la gestión de proyectos y el análisis de datos y te ayudarán a mantener el control de todos estos tipos de datos diferentes en una ubicación centralizada. Las herramientas de gestión de proyectos como Workfront y JIRA hacen un seguimiento de la actividad y proporcionan resultados legibles para que puedas medir la salud general de tu proyecto. Las herramientas de análisis de datos como Tableau son útiles para la visualización de datos. Ahora sabes un poco más sobre cómo identificar tipos comunes de datos. También puedes identificar software y herramientas comunes de gestión de proyectos que pueden ayudarte a gestionar y analizar los datos.
 
 #### Métricas de datos comunes para la gestión de proyectos
 
