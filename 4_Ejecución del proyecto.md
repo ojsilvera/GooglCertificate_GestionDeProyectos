@@ -1459,7 +1459,7 @@ Al analizar los datos, pregúntate:
 
 - Métricas de productividad
 
-Las métricas de productividad suelen medir el progreso y la producción a lo largo del tiempo. Te permiten rastrear, o predecir,
+*Las métricas de productividad* suelen medir el progreso y la producción a lo largo del tiempo. Te permiten rastrear, o predecir,
 la efectividad y eficiencia de tu equipo de proyecto.
 
 Para hacer un seguimiento de la productividad de tu equipo a lo largo del tiempo, analiza el número de tareas o hitos
@@ -1491,6 +1491,18 @@ como:
 
 Predecir el futuro puede ser imposible, pero comprenderlo mejor y perfeccionar el método para hacer proyecciones es posible
 y valioso.
+
+- Métricas de calidad
+
+*Las métricas de calidad* se relacionan con el logro de resultados aceptables y pueden incluir métricas como el número de
+cambios, los problemas y la variación de costos, todos los cuales afectan a la calidad.
+
+*Los cambios* se refieren a las diferencias en cualquier aspecto del proyecto con respecto a lo que se planeó o requirió
+originalmente.
+
+*Los problemas* son asuntos que pueden afectar la finalización de las tareas y, a menudo dan lugar a un cambio. Haz un
+seguimiento del número de cambios y problemas para identificar patrones, perfeccionar procesos y compartir información sobre
+el proyecto con los interesados.
 
 ### Priorizar y analizar datos
 
