@@ -1680,7 +1680,29 @@ La ética de los datos se basa en varios principios. En esta lectura, nos centra
 
 - Privacidad de los datos
 
-La privacidad de los datos es una parte fundamental de la ética de datos. La privacidad de los datos se ocupa del manejo adecuado de los datos. Esto incluye la finalidad de la recopilación y el procesamiento de datos, las preferencias de privacidad, el modo en que las organizaciones administran los datos personales y los derechos de las personas. Se centra en garantizar que el modo en que recopilamos, procesamos, compartimos, archivamos y eliminamos los datos se ajusta a la ley.
+La privacidad de los datos es una parte fundamental de la ética de datos. La privacidad de los datos se ocupa del manejo
+adecuado de los datos. Esto incluye la finalidad de la recopilación y el procesamiento de datos, las preferencias de privacidad,
+el modo en que las organizaciones administran los datos personales y los derechos de las personas. Se centra en garantizar
+que el modo en que recopilamos, procesamos, compartimos, archivamos y eliminamos los datos se ajusta a la ley.
+
+Como gerente de proyecto, es tu responsabilidad proteger los datos que recopilas. Puedes ayudar a garantizar la privacidad
+de los datos recopilados de los usuarios, los interesados y otras personas para tus proyectos al:
+
+    Aumentar la conciencia sobre la privacidad de los datos. Asegúrate de que todos los miembros de tu equipo de proyecto,
+    además de los proveedores, contratistas y otros interesados ajenos a tu empresa, conozcan los protocolos de seguridad
+    y privacidad de los datos de tu organización.
+
+    Usar herramientas de seguridad. Las herramientas de seguridad gratuitas, como las soluciones de almacenamiento con
+    cifrado y los administradores de contraseñas, pueden disminuir la vulnerabilidad de tu proyecto ante una filtración
+    de datos. En muchas aplicaciones, como las que forman parte de Google Workspace y Microsoft OneDrive, la configuración
+    de privacidad puede ajustarse para dar acceso solo a personas específicas.
+
+    Anonimizar los datos. La anonimización de datos se refiere a una o varias técnicas, como la eliminación, el hashing
+    o el enmascaramiento de información personal e identificativa para proteger la identidad de las personas incluidas
+    en los datos. Esto ayuda a proteger la información personal de las personas al mantenerlos en el anonimato. Una vez
+    anonimizada la información, puede usarse y compartirse con libertad. Los tipos de datos que se deben anonimizar incluyen
+    ombres, números de teléfono, números de seguridad social, direcciones de correo electrónico, fotografías y números de
+    cuenta.
 
 #### Usar análisis de datos para tomar decisiones fundadas
 
