@@ -1480,6 +1480,18 @@ Calcular *la duración (el tiempo que lleva algo)* puede resultar útil para est
 determinar si se cumplirá con los plazos del proyecto. El seguimiento de la duración de las tareas puede mejorar la precisión
 de la estimación del cronograma de un proyecto. Estos datos se dividen en horas, días, semanas, meses y, a veces, años.
 
+También puedes analizar la información actual para predecir los resultados futuros y hacer *proyecciones (o previsiones)*
+sobre las tendencias de productividad, la duración de los proyectos, los costos, el rendimiento o la calidad. Este tipo
+de datos te permite gestionar de forma proactiva tu proyecto y tus recursos y medir la exactitud de tus proyecciones a lo
+largo del tiempo. Por ejemplo, el *análisis del rendimiento o la velocidad general de tu equipo* puede responder a preguntas
+como:
+
+    ¿el equipo está completando sus tareas e hitos?
+    ¿Qué porcentaje de tareas termina a tiempo el equipo?
+
+Predecir el futuro puede ser imposible, pero comprenderlo mejor y perfeccionar el método para hacer proyecciones es posible
+y valioso.
+
 ### Priorizar y analizar datos
 
 ### Presentar y visualizar datos
