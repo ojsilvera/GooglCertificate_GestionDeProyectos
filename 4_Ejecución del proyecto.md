@@ -1434,6 +1434,21 @@ cualquier proyecto en la dirección correcta.
 
 - Datos, métricas y análisis
 
+![Datos, metricas y analisis, imagen](image-28.png)
+
+Tres imágenes: Números agrupados en un círculo para representar los datos; un gráfico con reglas que alinean los ejes x Y
+y para representar las métricas; dos personas que trabajan en un rompecabezas para representar el análisis.
+
+Los datos son información. Son los números y los comentarios que tienes a tu disposición sobre diferentes aspectos de tu
+proyecto.
+
+*Las métricas* son la forma de medir los datos. Definen la información importante o específica (datos) que necesitas saber
+sobre tu proyecto, como la productividad, la calidad o el compromiso. Una vez que determines las métricas de tu proyecto,
+analiza los datos de acuerdo con esas métricas para encontrar patrones y responder a preguntas sobre tu proyecto.
+
+ Este proceso se *denomina análisis:* usar los datos para responder a preguntas, descubrir relaciones y predecir resultados
+ desconocidos.
+
 ### Priorizar y analizar datos
 
 ### Presentar y visualizar datos
