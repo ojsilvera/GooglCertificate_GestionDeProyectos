@@ -1457,6 +1457,29 @@ Al analizar los datos, pregúntate:
     ¿Puedes encontrar formas de mejorar, u optimizar, ciertos aspectos de tu proyecto?
     ¿Qué lecciones puedes aprovechar de los datos de tu proyecto?
 
+- Métricas de productividad
+
+Las métricas de productividad suelen medir el progreso y la producción a lo largo del tiempo. Te permiten rastrear, o predecir,
+la efectividad y eficiencia de tu equipo de proyecto.
+
+Para hacer un seguimiento de la productividad de tu equipo a lo largo del tiempo, analiza el número de tareas o hitos
+completados en un período de tiempo determinado. Hazte preguntas como:
+
+    ¿qué porcentaje de tareas se completan a tiempo y cuánto tiempo suelen tardar?
+    ¿cuánto tiempo más de lo previsto se tardó en completar todas las tareas?
+
+*Las tazas de finalización a tiempo* pueden ayudar a ilustrar a los clientes e interesados cómo progresa el proyecto y cuándo
+pueden esperar que estén listos ciertos entregables. *Si las tasas de finalización de tu proyecto son altas*, significa que
+estás haciendo un buen trabajo para cumplir con tus objetivos de finalización. *Si las tasas son bajas*, significa que no
+se cumplen los plazos.
+
+El análisis de los datos puede ayudarte a tomar decisiones sobre aspectos como mejorar o implementar nuevos procesos, o
+reevaluar la forma de estimar el alcance, la complejidad y el cronograma del proyecto.
+
+Calcular *la duración (el tiempo que lleva algo)* puede resultar útil para establecer y evaluar las tareas y los hitos y
+determinar si se cumplirá con los plazos del proyecto. El seguimiento de la duración de las tareas puede mejorar la precisión
+de la estimación del cronograma de un proyecto. Estos datos se dividen en horas, días, semanas, meses y, a veces, años.
+
 ### Priorizar y analizar datos
 
 ### Presentar y visualizar datos
