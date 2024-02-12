@@ -1662,6 +1662,26 @@ La ética de datos es el estudio y la evaluación de los desafíos morales relac
 datos. Esto incluye generar, registrar, conservar, procesar, compartir y usar los datos con el fin de encontrar soluciones
 éticas.
 
+    Las empresas aplican prácticas de ética de datos para lo siguiente:
+
+    Cumplir con la normativa
+
+    Demostrar que son dignos de confianza
+
+    Garantizar un uso justo y razonable de los datos
+
+    Minimizar sesgos
+
+    Desarrollar una percepción pública positiva
+
+La ética de los datos se basa en varios principios. En esta lectura, nos centraremos en dos de estos principios:
+
+    la privacidad de los datos y el sesgo de datos.
+
+- Privacidad de los datos
+
+La privacidad de los datos es una parte fundamental de la ética de datos. La privacidad de los datos se ocupa del manejo adecuado de los datos. Esto incluye la finalidad de la recopilación y el procesamiento de datos, las preferencias de privacidad, el modo en que las organizaciones administran los datos personales y los derechos de las personas. Se centra en garantizar que el modo en que recopilamos, procesamos, compartimos, archivamos y eliminamos los datos se ajusta a la ley.
+
 #### Usar análisis de datos para tomar decisiones fundadas
 
 #### Los seis pasos del análisis de datos
