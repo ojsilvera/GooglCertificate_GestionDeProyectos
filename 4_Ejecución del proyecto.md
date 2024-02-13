@@ -1804,6 +1804,23 @@ los datos cualitativos como los puntos de datos cuantitativos para tomar decisio
 
 #### Los seis pasos del análisis de datos
 
+El análisis de datos consta de seis pasos principales: preguntar, preparar, procesar, analizar, compartir y actuar.
+
+- PREGUNTAR
+
+Durante la fase Preguntar, haz preguntas clave que te ayuden a enmarcar tu análisis, empezando por la siguiente:
+
+¿Cuál es el problema? Al definir el problema, observa el estado actual de la empresa e identifica en qué se diferencia
+del estado ideal. Por lo general, hay un obstáculo en el camino o algo incorrecto que debemos arreglar.  En esta etapa,
+debes ser lo más específico posible. También debes centrarte en el problema en sí, no solo en los síntomas.
+
+Por ejemplo, imagina que estás haciendo un análisis de datos para un gimnasio que está perdiendo socios. Podrías preguntarte
+lo siguiente: ¿Por qué seguimos perdiendo socios? Pero una pregunta mejor y más específica sería la siguiente: ¿Qué factores
+afectan negativamente a la experiencia de los socios? De este modo, cuando te pongas a investigar, sabrás exactamente lo
+que tienes que buscar.
+
+Otra parte de la etapa de Preguntar es identificar a los interesados y comprender sus expectativas. Puede haber muchos interesados en un proyecto, y cada uno de ellos puede tomar decisiones, influir en las acciones y opinar sobre las estrategias. Cada interesado también tendrá objetivos específicos que quiere cumplir. Es bastante habitual que un interesado acuda a ti con un problema que necesita solución. Pero antes de comenzar tu análisis, debes tener claro lo que te piden. Por ejemplo, si tu gerente te asigna un proyecto relacionado con el análisis del riesgo comercial del gimnasio, sería una buena idea confirmar si quieren que analices todos los tipos de riesgos que podrían afectar al gimnasio o solo los riesgos relacionados con el clima o las tendencias estacionales.
+
 ### Presentar y visualizar datos
 
 ### Repaso: Toma de decisiones basada en datos
