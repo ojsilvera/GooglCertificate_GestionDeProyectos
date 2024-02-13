@@ -1819,7 +1819,28 @@ lo siguiente: ¿Por qué seguimos perdiendo socios? Pero una pregunta mejor y m�
 afectan negativamente a la experiencia de los socios? De este modo, cuando te pongas a investigar, sabrás exactamente lo
 que tienes que buscar.
 
-Otra parte de la etapa de Preguntar es identificar a los interesados y comprender sus expectativas. Puede haber muchos interesados en un proyecto, y cada uno de ellos puede tomar decisiones, influir en las acciones y opinar sobre las estrategias. Cada interesado también tendrá objetivos específicos que quiere cumplir. Es bastante habitual que un interesado acuda a ti con un problema que necesita solución. Pero antes de comenzar tu análisis, debes tener claro lo que te piden. Por ejemplo, si tu gerente te asigna un proyecto relacionado con el análisis del riesgo comercial del gimnasio, sería una buena idea confirmar si quieren que analices todos los tipos de riesgos que podrían afectar al gimnasio o solo los riesgos relacionados con el clima o las tendencias estacionales.
+Otra parte de la etapa de Preguntar es identificar a los interesados y comprender sus expectativas. Puede haber muchos
+interesados en un proyecto, y cada uno de ellos puede tomar decisiones, influir en las acciones y opinar sobre las
+estrategias. Cada interesado también tendrá objetivos específicos que quiere cumplir. Es bastante habitual que un interesado
+acuda a ti con un problema que necesita solución. Pero antes de comenzar tu análisis, debes tener claro lo que te piden.
+
+Por ejemplo, si tu gerente te asigna un proyecto relacionado con el análisis del riesgo comercial del gimnasio, sería una
+buena idea confirmar si quieren que analices todos los tipos de riesgos que podrían afectar al gimnasio o solo los riesgos
+relacionados con el clima o las tendencias estacionales.
+
+- Preparar
+
+Una vez que tengas una dirección clara, es el momento de pasar a la etapa de Preparar. Aquí es donde se recopilan y almacenan
+los datos que se usarán para el próximo proceso de análisis.
+
+Volvamos a nuestro ejemplo de la afiliación a un gimnasio. Para recopilar datos sobre la experiencia de los socios, decides
+enviar encuestas a los socios del gimnasio pidiéndoles comentarios sobre su experiencia. Para asegurarte de obtener respuestas
+específicas, pídeles que te den su opinión en tres categorías distintas:
+
+    mantenimiento de las instalaciones, servicio al cliente y costo de la afiliación.
+
+También deja espacio para que escriban una respuesta. Cuando recibas las encuestas de los socios, es importante que tengas
+un sistema organizado para localizarlas y archivarlas.
 
 ### Presentar y visualizar datos
 
