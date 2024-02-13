@@ -1857,6 +1857,36 @@ que deshacerte de las copias para asegurarte de que tu conjunto de datos es prec
 Durante esta etapa, también es importante verificar los datos que preparaste para asegurarte de que están completos y son
 correctos y de que no hay errores tipográficos u otros errores.
 
+- Analizar
+
+Ahora llegó el momento de analizar. En esta etapa, analizarás de cerca los datos para sacar conclusiones, hacer predicciones
+y decidir los próximos pasos. Aquí, transformarás y organizarás los datos de manera que resalte el alcance completo de los
+resultados para que puedas descubrir qué significa todo. Puedes crear visualizaciones mediante tablas y gráficos para
+determinar si hay tendencias o patrones en los datos o si es necesario hacer una investigación adicional.
+
+En nuestro ejemplo de afiliación a un gimnasio, digamos que el 50 % de los socios escribió una respuesta adicional en la
+encuesta citando que el equipo está desactualizado. La encuesta también mostró que el 75 % de las respuestas citaban
+“cuotas de afiliación costosas”. Al observar en un gráfico el 50 % de las respuestas que citan “equipos desactualizados” y
+el 75 % de las respuestas que citan “tarifas de afiliación costosas”, se puede deducir que estas respuestas se informan
+entre sí. Los socios sienten que la experiencia no vale el precio. Puedes llegar a la conclusión de que el gimnasio debe
+invertir en nuevos equipos si quieren mantener a los socios y agregar valor a la cuota de afiliación.
+
+- Compartir
+
+Una vez que hayas hecho las preguntas para resolver el problema, y se hayan preparado, procesado y analizado los datos,
+es el momento de compartir las conclusiones. En esta etapa, se usa la visualización de datos para organizarlos en un
+formato que sea claro y fácil de digerir para el público. Al compartirlos, puedes ofrecer la información que obtuviste
+durante tu análisis para ayudar a los interesados a tomar decisiones eficaces y basadas en datos para resolver el problema.
+
+- Actuar
+
+Y, por último, ¡ya estás listo para actuar! En la etapa final de tu análisis de datos, la empresa toma todos los conocimientos
+que has proporcionado y los pone en acción para resolver el problema original del negocio.
+
+Hacer un análisis de datos es un proceso esencial para entender las necesidades y los desafíos de una empresa y determinar
+soluciones eficaces. Estos seis pasos fundamentales: preguntar, preparar, procesar, analizar, compartir y actuar, te ayudarán
+a alcanzar el éxito.
+
 ### Presentar y visualizar datos
 
 ### Repaso: Toma de decisiones basada en datos
