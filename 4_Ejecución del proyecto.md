@@ -1793,7 +1793,14 @@ ciudad durante las horas pico. Los nuevos incentivos hacen que los conductores s
 conductores aumenta la satisfacción del cliente. Y has llegado a esta solución gracias a las reflexiones obtenidas del
 análisis de datos.
 
-En este ejemplo, recopilaste tipos de datos: cualitativos y cuantitativos. Los datos cuantitativos incluyen datos estadísticos y numéricos sobre el número de solicitudes de pasajeros que llegaron. Las solicitudes en la ciudad aumentaron en puntos específicos durante un plazo determinado. Los otros datos son los cualitativos, que describen las cualidades subjetivas o aspectos que no pueden medirse con datos numéricos, como los comentarios de los usuarios sobre el servicio o el producto. En la gestión de proyectos, usarás tanto los datos cualitativos como los puntos de datos cuantitativos para tomar decisiones, hacer mejoras y compartir reflexiones. A continuación, aprenderás a contar historias usando datos y formas eficaces de hacer presentaciones. Nos vemos ahí.
+En el ejemplo anterior, recopilaste tipos de datos: cualitativos y cuantitativos:
+
+*Los datos cuantitativos* incluyen datos estadísticos y numéricos sobre el número d solicitudes de pasajeros que llegaron.
+Las solicitudes en la ciudad aumentaron en puntos específicos durante un plazo determinado.
+
+*Los datos son los cualitativos*, que describen las cualidades subjetivas o aspectos que no pueden medirse con datos
+numéricos, como los comentarios de los usuarios sobre el servicio o el producto. En la gestión de proyectos, usarás tanto
+los datos cualitativos como los puntos de datos cuantitativos para tomar decisiones, hacer mejoras y compartir reflexiones.
 
 #### Los seis pasos del análisis de datos
 
