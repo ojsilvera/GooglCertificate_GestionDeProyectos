@@ -1842,6 +1842,21 @@ específicas, pídeles que te den su opinión en tres categorías distintas:
 También deja espacio para que escriban una respuesta. Cuando recibas las encuestas de los socios, es importante que tengas
 un sistema organizado para localizarlas y archivarlas.
 
+- Procesar
+
+En esta etapa es cuando llega el momento de procesar los datos. En este paso, “limpiarás” tus datos, lo que significa que
+los ingresarás en una hoja de cálculo o en otra herramienta de tu elección y eliminarás las incoherencias e inexactitudes
+que puedan obstaculizar los resultados.
+
+Al recopilar los datos, asegúrate de eliminar las respuestas duplicadas o los datos sesgados. Esto te ayuda a saber que
+cualquier decisión tomada a partir del análisis se basa en hechos y que es justa e imparcial.
+
+Por ejemplo, si al clasificar las encuestas observas que hay respuestas duplicadas de un solo socio del gimnasio, tendrás
+que deshacerte de las copias para asegurarte de que tu conjunto de datos es preciso.
+
+Durante esta etapa, también es importante verificar los datos que preparaste para asegurarte de que están completos y son
+correctos y de que no hay errores tipográficos u otros errores.
+
 ### Presentar y visualizar datos
 
 ### Repaso: Toma de decisiones basada en datos
