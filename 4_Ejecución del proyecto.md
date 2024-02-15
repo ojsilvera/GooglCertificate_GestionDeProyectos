@@ -1889,6 +1889,18 @@ a alcanzar el éxito.
 
 ### Presentar y visualizar datos
 
+#### Presentar datos para contar la historia de un proyecto
+
+#### Herramientas de visualización de datos
+
+#### Diferentes formas de visualizar los datos
+
+#### Visualizaciones de datos del proyecto
+
+#### Técnicas de presentación efectivas
+
+#### Crea presentaciones accesibles
+
 ### Repaso: Toma de decisiones basada en datos
 
 ## modulo_4_4
