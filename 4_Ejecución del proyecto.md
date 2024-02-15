@@ -2012,7 +2012,29 @@ y destacar los puntos de datos principales del proyecto.
 *El gráfico de quemado*. Un gráfico de quemado es un gráfico de líneas que mide el tiempo contra la cantidad de trabajo
 realizado y la cantidad de trabajo restante.
 
-*El trabajo pendiente suele estar en el eje vertical, con el tiempo visualizado de manera horizontal*. Esto sirve como una fuerte visualización para ayudar al equipo a imaginar la cantidad de tareas que quedan por completar. Al igual que el gráfico de líneas, el gráfico de columnas es otro gráfico popular que se usa para señalar el rendimiento y el progreso del proyecto. Los gráficos de columnas son útiles para comparar diferentes actividades o comparar el progreso a lo largo del tiempo. Por ejemplo, puedes mostrar diferentes resultados, como el número de clientes y el número de plantas entregadas, año tras año, para demostrar el crecimiento del cambio. Los gráficos circulares son útiles para mostrar la composición de algo o la relación entre las partes y el todo. Todos estos gráficos sencillos ofrecen visualizaciones que permiten extraer ideas rápidas y ayudan a contar historias. Hay muchos más en la siguiente lectura que recomiendo revisar y practicar. Antes de eso, hay una última herramienta visual que quiero que conozcas: las infografías. Las infografías son representaciones visuales de información, como datos o hechos, y suelen tener la forma de lo que en Google llamamos "one-pager" o "one-sheeter". La diferencia es que suelen ser resúmenes concisos de esos datos. Esto suele hacerse principalmente a través de gráficos o dibujos, destacando los puntos más importantes con texto añadido para dar más explicaciones. Usa las infografías para presentar información compleja de forma rápida, profesional y clara, especialmente cuando no puedas estar presente para compartir todos los detalles. Las infografías deben ser capaces de comunicar información sólida sin necesidad de apoyos y explicaciones adicionales. Estos son solo algunos ejemplos de visualización de datos en la gestión de proyectos. Recuerda que deberás usar elementos visuales para demostrar e ilustrar situaciones, por ejemplo, los cambios en el tiempo, la frecuencia, las correlaciones de las relaciones, y para analizar el valor y los riesgos. Otro consejo importante: asegúrate de que estas visualizaciones sean accesibles. Como mencionamos anteriormente, deberás asegurarte de que tu historia de datos sea entendida por todos. Consulta la pestaña de recursos sobre algunas de las prácticas recomendadas para las visualizaciones y comunicaciones accesibles. Buen trabajo. Ahora que te estás dando cuenta de cómo usar los datos para contar tu historia de forma eficaz, continuaremos con la última parte de esta lección: aprender sobre las técnicas de presentación para presentar tus datos. Nos vemos en el siguiente video.
+*El trabajo pendiente suele estar en el eje vertical, con el tiempo visualizado de manera horizontal*. Esto sirve como una
+fuerte visualización para ayudar al equipo a imaginar la cantidad de tareas que quedan por completar. Al igual que el gráfico
+de líneas, el gráfico de columnas es otro gráfico popular que se usa para señalar el rendimiento y el progreso del proyecto,
+Los gráficos de columnas son útiles para comparar diferentes actividades o comparar el progreso a lo largo del tiempo.
+
+Por ejemplo, puedes mostrar diferentes resultados, como el número de clientes y el número de plantas entregadas, año tras
+año, para demostrar el crecimiento del cambio. Los gráficos circulares son útiles para mostrar la composición de algo o la
+relación entre las partes y el todo. Todos estos gráficos sencillos ofrecen visualizaciones que permiten extraer ideas rápidas
+y ayudan a contar historias.
+
+*Las infografías*, Las infografías son representaciones visuales de información, como datos o hechos, y suelen tener la
+forma de lo que en Google llamamos "one-pager" o "one-sheeter". La diferencia es que suelen ser resúmenes concisos de esos
+datos. Esto suele hacerse principalmente a través de gráficos o dibujos, destacando los puntos más importantes con texto
+añadido para dar más explicaciones. Usa las infografías para presentar información compleja de forma rápida, profesional y
+clara, especialmente cuando no puedas estar presente para compartir todos los detalles. Las infografías deben ser capaces
+de comunicar información sólida sin necesidad de apoyos y explicaciones adicionales.
+
+Estos son solo algunos ejemplos de visualización de datos en la gestión de proyectos. Recuerda que deberás usar elementos
+visuales para demostrar e ilustrar situaciones, por ejemplo, los cambios en el tiempo, la frecuencia, las correlaciones
+de las relaciones, y para analizar el valor y los riesgos.
+
+Otro consejo importante: asegúrate de que estas visualizaciones sean accesibles. Como mencionamos anteriormente, deberás
+asegurarte de que tu historia de datos sea entendida por todos.
 
 #### Diferentes formas de visualizar los datos
 
