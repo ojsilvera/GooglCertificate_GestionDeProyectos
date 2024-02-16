@@ -2168,6 +2168,13 @@ Otro consejo útil es tener cuidado con el lenguaje corporal a la hora de presen
 
 Si eres preciso, flexible y memorable, darás una gran presentación.
 
+#### Preparar una presentación efectiva
+
+En varios momentos de un proyecto, es probable que tengas que hacer una presentación a los miembros del equipo, a los
+interesados clave, a los altos dirigentes o a los clientes, aquí algunos consejos para llevarlo a cabo:
+
+
+
 #### Crea presentaciones accesibles
 
 ### Repaso: Toma de decisiones basada en datos
