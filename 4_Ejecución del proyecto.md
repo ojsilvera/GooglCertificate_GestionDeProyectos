@@ -2110,7 +2110,63 @@ perros siempre se mantiene más alta que la línea de los gatos.
 
 #### Técnicas de presentación efectivas
 
-Hola. Has aprendido el proceso de elaboración de una narrativa sobre tu proyecto, y has aprendido cómo visualizar los puntos de datos clave que te ayudan a contar esa historia. Este es el momento de unirlos todos. En este video, destacaremos algunas técnicas útiles de presentación. Piensa en uno de tus oradores públicos favoritos y en por qué disfrutas tanto de sus presentaciones. ¿Es su voz, sus conocimientos o la confianza que desprenden al hablar? Brene Brown es uno de mis oradores favoritos. Es ampliamente conocida por su charla TED de 2010, El poder de la vulnerabilidad, que recibió 60 millones de visitas en todo el mundo. Brown no empezó su carrera como oradora pública, sino como profesora de investigación en la Universidad de Houston. Hoy en día, usa la oratoria como una forma de enseñar a ejecutivos y líderes sobre el valor y la empatía. Los oradores públicos pasan mucho tiempo trabajando en su oficio. Hablar a un público, ya sea para informar, entretener o compartir, no siempre es fácil, y los datos por sí solos no son suficientes para convencer a las personas de que has tomado las decisiones correctas o de que tu proyecto fue impactante. Una presentación eficaz ayuda a transmitir el importante trabajo que tú y tu equipo están realizando en tu proyecto. Y a lo largo del proyecto, es probable que tengas muchas oportunidades de hacer presentaciones, desde la reunión inicial, pasando por las actualizaciones de estado semanales, hasta la presentación final de tu proyecto. Cuando empieces a elaborar la narrativa, piensa en tu público. Pregúntate lo siguiente: ¿Qué quiero que mi público sepa, piense o haga como resultado de esta presentación? Crea tu presentación en torno al panorama general y hazlo de forma sencilla. Ahora hablemos de tres cualidades que te ayudarán a dar una presentación eficaz. Sé preciso, flexible y memorable. En primer lugar, para dar una presentación eficaz, hay que ser preciso en los puntos clave. Identifica el problema que estás resolviendo para tu público y quita cualquier contenido que diluya tu narrativa. Una de las maneras en que me aseguro de que mis presentaciones de diapositivas sean lo más precisas posible es mediante el uso de una técnica llamada "diseñar durante cinco segundos". La idea es que el público sea capaz de entender una diapositiva en cinco segundos. Por eso las diapositivas de mis presentaciones son sencillas; incluyo solo los puntos de datos más relevantes, para evitar sobrecargar al público con texto que no tienen tiempo de leer. Para dar una presentación eficaz, también hay que ser flexible. La flexibilidad es una parte enorme de tu trabajo como gerente de proyectos. Por ejemplo, es posible que un interesado tenga que abandonar tu presentación inesperadamente o que otros asistentes lleguen tarde. Considera el enfoque que adoptarías si tuvieras que acortar tu presentación de una hora a 30 minutos, o incluso a solo cinco. Debes conocer los puntos más importantes que quieres exponer y estar preparado para compartir solo esos puntos, en caso de que ocurra lo inesperado. Prepararte con antelación también te ayuda a ser más flexible a la hora de presentar. Una amplia preparación te ayuda a evitar pequeños errores que pueden distraerte de tu narrativa, como tropezar con las frases o tener dificultades para llevar adelante una presentación de diapositivas. Para prepararte con antelación, puedes ensayar tu presentación ante los miembros de tu equipo e invitarlos a dar su opinión, hacer preguntas o compartir sus inquietudes. Prepararte con antelación también te da espacio para identificar y dar respuestas a los tipos de preguntas que tu público puede tener sobre tu presentación. También te da tiempo para imaginar y prepararte para las posibles objeciones que tu público pueda tener a las decisiones que quieres tomar. Por último, sé memorable. Desarrolla una estrategia que ayude a que tu narrativa sea inolvidable. Piensa en la eficacia de la narración. Este es el punto en el que se debe unir el análisis de datos, la visualización efectiva y dar los últimos toques a la narrativa para unirlos todos. Usa historias o incluye repeticiones para ayudar a tu público a recordar la información en adelante. Otro consejo útil es tener cuidado con el lenguaje corporal a la hora de presentar. Mantén una postura erguida y apoya las manos a los costados. Cuando hagas un comentario, intenta elevar tu tono de voz para enfatizar. Controla tu ritmo a través de pausas intencionales y habla a la mitad de la velocidad a la que lo harías normalmente y mantén las frases cortas. Haz contacto visual con tu público y mantén tus expresiones faciales cálidas y amistosas. Por último, ten confianza. Si has investigado y estás bien preparado, puedes dejar de lado tus preocupaciones. Si eres preciso, flexible y memorable, darás una gran presentación. Ahora que has analizado los datos y has elaborado tu historia, tu trabajo consiste en presentar tus conclusiones con eficacia. Usa estos consejos para dar una presentación digna de una ovación de pie. En el siguiente video, terminaremos y revisaremos lo que hemos aprendido recién. Te veré por allí.
+Hablar a un público, ya sea para informar, entretener o compartir, no siempre es fácil, y los datos por sí solos no son
+suficientes para convencer a las personas de que has tomado las decisiones correctas o de que tu proyecto fue impactante.
+
+Una presentación eficaz ayuda a transmitir el importante trabajo que tú y tu equipo están realizando en tu proyecto. Y a
+lo largo del proyecto, es probable que tengas muchas oportunidades de hacer presentaciones, desde la reunión inicial, pasando
+por las actualizaciones de estado semanales, hasta la presentación final de tu proyecto.
+
+Cuando empieces a elaborar la narrativa, piensa en tu público. Pregúntate lo siguiente:
+
+    ¿Qué quiero que mi público sepa, piense o haga como resultado de esta presentación?
+
+Crea tu presentación en torno al panorama general y hazlo de forma sencilla. Existen tres cualidades que te ayudarán a dar
+una presentación eficaz. Sé preciso, flexible y memorable.
+
+En primer lugar, para dar una presentación eficaz, *hay que ser preciso* en los puntos clave. Identifica el problema que
+estás resolviendo para tu público y quita cualquier contenido que diluya tu narrativa. Una de las maneras en que me aseguro
+de que mis presentaciones de diapositivas sean lo más precisas posible es mediante el uso de una técnica llamada "diseñar
+durante cinco segundos". La idea es que el público sea capaz de entender una diapositiva en cinco segundos. Por eso las
+diapositivas de mis presentaciones son sencillas; incluyo solo los puntos de datos más relevantes, para evitar sobrecargar
+al público con texto que no tienen tiempo de leer.
+
+Para dar una presentación eficaz, también *hay que ser flexible*. La flexibilidad es una parte enorme de tu trabajo como
+gerente de proyectos. Por ejemplo, es posible que un interesado tenga que abandonar tu presentación inesperadamente o que
+otros asistentes lleguen tarde. Considera el enfoque que adoptarías si tuvieras que acortar tu presentación de una hora a
+30 minutos, o incluso a solo cinco. Debes conocer los puntos más importantes que quieres exponer y estar preparado para
+compartir solo esos puntos, en caso de que ocurra lo inesperado. Prepararte con antelación también te ayuda a ser más
+flexible a la hora de presentar. Una amplia preparación te ayuda a evitar pequeños errores que pueden distraerte de tu
+narrativa, como tropezar con las frases o tener dificultades para llevar adelante una presentación de diapositivas. Para
+prepararte con antelación, puedes ensayar tu presentación ante los miembros de tu equipo e invitarlos a dar su opinión,
+hacer preguntas o compartir sus inquietudes. Prepararte con antelación también te da espacio para identificar y dar
+respuestas a los tipos de preguntas que tu público puede tener sobre tu presentación. También te da tiempo para imaginar
+y prepararte para las posibles objeciones que tu público pueda tener a las decisiones que quieres tomar.
+
+Por último, *sé memorable.* Desarrolla una estrategia que ayude a que tu narrativa sea inolvidable. Piensa en la eficacia
+de la narración. Este es el punto en el que se debe unir el análisis de datos, la visualización efectiva y dar los últimos
+toques a la narrativa para unirlos todos. Usa historias o incluye repeticiones para ayudar a tu público a recordar la
+información en adelante.
+
+Otro consejo útil es tener cuidado con el lenguaje corporal a la hora de presentar:
+
+    - Mantén una postura erguida y apoya las manos a los costados.
+
+    - Cuando hagas un comentario, intenta elevar tu tono de voz para enfatizar.
+
+    - Controla tu ritmo a través de pausas intencionales.
+
+    - habla a la mitad de la velocidad a la que lo harías normalmente.
+
+    - mantén las frases cortas.
+
+    - Haz contacto visual con tu público
+
+    - mantén tus expresiones faciales cálidas y amistosas.
+
+    - ten confianza. Si has investigado y estás bien preparado, puedes dejar de lado tus preocupaciones.
+
+Si eres preciso, flexible y memorable, darás una gran presentación.
 
 #### Crea presentaciones accesibles
 
