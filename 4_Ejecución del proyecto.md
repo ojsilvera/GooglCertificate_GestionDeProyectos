@@ -2219,7 +2219,7 @@ Usa historias y repite los puntos clave.
     Al principio es cuando los nervios suelen ser mayores, y hacer la presentación con éxito puede ayudarte a ganar confianza
     con rapidez.
 
-*Práctica.*
+- Práctica.
 
 Guía a tu público a través de tu presentación.
 
@@ -2237,16 +2237,41 @@ Si habrá más de un presentador, coordina lo que cubrirá cada persona y cómo 
     Debes estar preparado para llevar a cabo toda la reunión tú mismo. Si un copresentador no se presenta, ¿estás preparad
     para sustituirlo?
 
-Programa tiempo para practicar.
+*Programa tiempo para practicar.*
 
-Una vez que hayas descrito lo que quieres decir, practícalo (idealmente frente a un espejo) o grábate. Esto puede ayudarte a identificar frases incómodas que podrían mejorarse y otros problemas.
+    Una vez que hayas descrito lo que quieres decir, practícalo (idealmente frente a un espejo) o grábate. Esto puede
+    ayudarte a identificar frases incómodas que podrían mejorarse y otros problemas.
 
-Debes estar preparado para las sorpresas.
+*Debes estar preparado para las sorpresas.*
+
 Demuestra que puedes adaptarte y que conoces el tema.
 
-Si se te acaba el tiempo, ¿puedes resumir rápidamente los puntos clave?
+    Si se te acaba el tiempo, ¿puedes resumir rápidamente los puntos clave?
 
-¿Puedes cambiar el contenido en función de lo que es más importante para tu público?
+    ¿Puedes cambiar el contenido en función de lo que es más importante para tu público?
+
+- Presentación y ritmo
+*Ve al grano.*
+
+Identifica el problema que estás resolviendo y exponlo desde el principio.
+
+    Dile al público por qué estás en la habitación con ellos y qué cubrirás.
+
+    Establece las reglas básicas. Por ejemplo, ¿cómo deseas manejar las preguntas y los comentarios? ¿Las aceptarás a lo
+    largo de tu presentación o después?
+
+*Controla tu ritmo.*
+
+Sé consciente de las pistas de tu público y ajústate en consecuencia.
+
+- Seguimiento
+
+Si procede, envía un correo electrónico de seguimiento con notas resumidas, elementos de acción y plazos.
+
+    Informa a tu gerente o miembros clave del público sobre lo que escucharon de la presentación. Pregúntales qué ha ido
+    bien y qué podría haber ido mejor.
+
+    Revisa los próximos pasos.
 
 #### Crea presentaciones accesibles
 
