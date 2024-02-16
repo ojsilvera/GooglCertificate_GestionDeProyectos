@@ -2041,16 +2041,32 @@ asegurarte de que tu historia de datos sea entendida por todos.
 La visualización de datos nos ayuda a organizar los datos y convertirlos en información clara y fácil de digerir para
 nuestro público.
 
-- Visualización de los datos
+*Visualización de los datos.*
 
 Antes de plasmar los datos en una tabla o gráfico, debes tener claro lo que quieres mostrar a tu público. Averigua qué
 datos quieres usar y por qué. Es posible que quieras informar a tu público sobre una nueva tendencia o una información
-valiosa, o mostrar las relaciones entre los conjuntos de datos. O tal vez necesites comparar valores, entender la composición
+valiosa o mostrar las relaciones entre los conjuntos de datos o tal vez necesites comparar valores, entender la composición
 de algo o analizar tendencias y comportamientos durante períodos determinados.
 
 El tipo de datos que tengas y la información que quieras mostrar o entender te ayudarán a determinar la visualización de
 datos correctos que debes usar. Repasemos algunos escenarios y analicemos qué tablas y gráficos serían los mejores para
 cada uno.
+
+- Mostrar relaciones
+
+Un *diagrama de dispersión*, a veces denominado tabla de dispersión o gráfico de dispersión, usa puntos para representar
+los valores de dos variables diferentes. La posición de cada punto en el eje horizontal y vertical indica valores para un
+punto de datos individual. Los diagramas de dispersión a veces tienen una línea dibujada en su centro. Esta línea se conoce
+como línea de tendencia y destaca la dirección hacia la que tienden los puntos.
+
+*Los diagramas de dispersión muestran la relación entre conjuntos de datos y pueden ayudarnos a entender el impacto de un*
+*factor sobre otro.* Por ejemplo, el siguiente diagrama de dispersión muestra la relación entre la esperanza de vida de
+las personas que viven en un país y lo felices que son esas personas. La primera variable, la puntuación de felicidad,
+se refleja en el eje vertical, también denominado eje y. La segunda variable, la esperanza de vida, se encuentra en el eje
+horizontal, también denominado eje x. Al observar este diagrama de dispersión, se puede decir que a medida que aumenta la
+puntuación de felicidad de una persona también lo hace su esperanza de vida.
+
+Prácticas recomendadas de los diagramas de dispersión: Inicie el eje y en 0 para representar los datos con precisión.
 
 #### Visualizaciones de datos del proyecto
 
