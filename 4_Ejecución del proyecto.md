@@ -2185,7 +2185,68 @@ mente. Por ejemplo, “Necesitamos dos ingenieros que hayan trabajado antes en e
 Pregunta a tu gerente o consulta con los interesados sobre los objetivos de tu presentación. Obtén sus aportes y comentarios
 con anticipación.
 
-    Si fuiste invitado a presentar, asegúrate de comprender de antemano exactamente lo que el solicitante espera obtener de tu presentaci
+    Si fuiste invitado a presentar, asegúrate de comprender de antemano exactamente lo que el solicitante espera obtener
+    de tu presentacion
+
+*Crea un plan de entrega.*
+
+Identifica un título para cada diapositiva, que es el punto principal de una sola oración que intentas ilustrar con esa
+diapositiva.
+
+    Crea un par de puntos de apoyo que agreguen interés al titular, como anécdotas, tablas, datos, etc.
+
+    Construye señales. Estas son formas de dar pistas al público sobre hacia dónde se dirige y qué esperar de tu presentación.
+
+    Limita el número de diapositivas en la presentación principal. Al mismo tiempo, considera la posibilidad de crear
+    diapositivas de respaldo para posibles desafíos, preguntas difíciles, compensaciones o soluciones alternativas. Puedes
+    ocultar estas diapositivas de respaldo al final de la presentación si no las necesitas o agregarlas a la presentación
+    si lo necesitas.
+
+*Sé consciente del tiempo de tu público.*
+
+Invita solo a los participantes que necesitas que estén presentes.
+
+    Envía la presentación con anticipación si es posible.
+
+*Desarrolla una estrategia para hacer que tu presentación sea memorable.*
+
+Usa historias y repite los puntos clave.
+
+    Empieza con una introducción sólida.
+    
+    Dedica tiempo adicional a la preparación del inicio.
+    
+    Al principio es cuando los nervios suelen ser mayores, y hacer la presentación con éxito puede ayudarte a ganar confianza
+    con rapidez.
+
+*Práctica.*
+
+Guía a tu público a través de tu presentación.
+
+    Ayúdalos a notar lo que tú notas y haz la transición entre las diapositivas usando frases como "Partiendo de este punto..."
+    o "Como mencioné antes..."
+
+*Haz un simulacro de presentación con tu equipo.*
+
+Si habrá más de un presentador, coordina lo que cubrirá cada persona y cómo gestionarás las transferencias.
+
+    Practica una sesión de preguntas y respuestas, anticipando el tipo de preguntas que podrían hacer tus participantes
+    para que estés preparado con una respuesta rápida y segura. Además, practica lo que dirás si te hacen una pregunta
+    cuya respuesta no sabes.
+
+    Debes estar preparado para llevar a cabo toda la reunión tú mismo. Si un copresentador no se presenta, ¿estás preparad
+    para sustituirlo?
+
+Programa tiempo para practicar.
+
+Una vez que hayas descrito lo que quieres decir, practícalo (idealmente frente a un espejo) o grábate. Esto puede ayudarte a identificar frases incómodas que podrían mejorarse y otros problemas.
+
+Debes estar preparado para las sorpresas.
+Demuestra que puedes adaptarte y que conoces el tema.
+
+Si se te acaba el tiempo, ¿puedes resumir rápidamente los puntos clave?
+
+¿Puedes cambiar el contenido en función de lo que es más importante para tu público?
 
 #### Crea presentaciones accesibles
 
