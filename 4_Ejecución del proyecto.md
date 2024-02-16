@@ -2173,6 +2173,20 @@ Si eres preciso, flexible y memorable, darás una gran presentación.
 En varios momentos de un proyecto, es probable que tengas que hacer una presentación a los miembros del equipo, a los
 interesados clave, a los altos dirigentes o a los clientes, aquí algunos consejos para llevarlo a cabo:
 
+- Preparación
+
+*Aclara tus objetivos y el propósito de tu presentación.*
+
+Sé claro y específico sobre lo que quieres obtener de la reunión y, a continuación, enmarca el debate con ese objetivo en
+mente. Por ejemplo, “Necesitamos dos ingenieros que hayan trabajado antes en esta industria”, en lugar de “Necesitamos más recursos”.
+
+*Busca opiniones y establece expectativas.*
+
+Pregunta a tu gerente o consulta con los interesados sobre los objetivos de tu presentación. Obtén sus aportes y comentarios
+con anticipación.
+
+    Si fuiste invitado a presentar, asegúrate de comprender de antemano exactamente lo que el solicitante espera obtener de tu presentaci
+
 #### Crea presentaciones accesibles
 
 ### Repaso: Toma de decisiones basada en datos
