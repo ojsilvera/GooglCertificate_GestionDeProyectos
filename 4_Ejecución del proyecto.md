@@ -2038,6 +2038,20 @@ asegurarte de que tu historia de datos sea entendida por todos.
 
 #### Diferentes formas de visualizar los datos
 
+La visualización de datos nos ayuda a organizar los datos y convertirlos en información clara y fácil de digerir para
+nuestro público.
+
+- Visualización de los datos
+
+Antes de plasmar los datos en una tabla o gráfico, debes tener claro lo que quieres mostrar a tu público. Averigua qué
+datos quieres usar y por qué. Es posible que quieras informar a tu público sobre una nueva tendencia o una información
+valiosa, o mostrar las relaciones entre los conjuntos de datos. O tal vez necesites comparar valores, entender la composición
+de algo o analizar tendencias y comportamientos durante períodos determinados.
+
+El tipo de datos que tengas y la información que quieras mostrar o entender te ayudarán a determinar la visualización de
+datos correctos que debes usar. Repasemos algunos escenarios y analicemos qué tablas y gráficos serían los mejores para
+cada uno.
+
 #### Visualizaciones de datos del proyecto
 
 #### Técnicas de presentación efectivas
