@@ -2310,7 +2310,32 @@ con usar un color diferente. Junto con el cambio de color, agrega una señal tex
 Si tu presentación depende en gran medida de las imágenes, considera la posibilidad de incluir un resumen escrito al final
 de la presentación para que las personas puedan leer con facilidad tus puntos principales en un solo lugar.
 
-Otro consejo consiste en incluir subtítulos para los contenidos de video y en tiempo real. Proporciona subtítulos para todas las grabaciones de audio o video compartidas en tu presentación. Si usas un video de YouTube, comprueba que los subtítulos automáticos de YouTube sean precisos. Si no lo son, solicita subtítulos ocultos a través de un servicio de subtítulos. Usa subtítulos en tiempo real para tu presentación si están disponibles. Además de ayudar a los miembros del público sordos o con problemas de audición, los subtítulos en tiempo real son útiles si hay diversos acentos e idiomas en la sala, si el orador habla demasiado rápido, si hay problemas con el micrófono o si hay miembros del público conversadores que distraen a sus vecinos. Otro tema que hay que recordar es que para el contraste y el tamaño del texto, más es mejor. La diferencia entre el texto y su color de fondo se denomina relación de contraste. Una relación de alto contraste facilita a las personas la lectura del texto o el descifrado de las imágenes, especialmente si están sentadas lejos o tienen baja visión o daltonismo. Una relación de contraste ideal es de 7:1. Hay herramientas de corrección de contraste disponibles en línea, así que asegúrate de revisarlas. Las recomendaciones para el tamaño del texto varían, pero más grande suele ser mejor. Antes de que empiece tu presentación, ve al fondo de la sala y asegúrate de que puedes leer tus diapositivas. Además, el uso de mayúsculas hace que la lectura de los textos sea más difícil para algunas personas, como las que padecen dislexia. Cuando sea posible, evita usar todas las letras en mayúsculas. Se trata de un cambio sencillo que puede ayudar mucho. Mi último consejo es que compartas tu contenido con antelación. Si es posible, envía las diapositivas a a tu público unos días antes de la presentación. Esto le dará al público la oportunidad de revisar el contenido y, si es necesario, hacer arreglos para ajustar sus propias necesidades y preferencias. Por ejemplo, los miembros del público con discapacidad visual pueden querer seguir tus diapositivas en su propio dispositivo con software de lectura de pantalla. Si no puedes compartir tus diapositivas con antelación, considera enviar un documento con un esquema de puntos de tu presentación. Si usas acrónimos o terminología técnica o complicada, incluye un glosario con definiciones. Esta información es especialmente útil para los intérpretes de lenguaje de señas y los subtituladores. Todas estas prácticas recomendadas que acabas de aprender te ayudarán a que tus presentaciones sean accesibles para todos los miembros del público. Recuerda que no puedes comunicar la información con eficacia si tu público no puede acceder a ella con facilidad. Para estas y otras prácticas recomendadas sobre cómo hacer que tus documentos y presentaciones sean más accesibles, consulta la pestaña de recursos. A continuación, aprenderás sobre la comunicación en equipo y las prácticas recomendadas. Buen trabajo hasta ahora. Estás haciendo verdaderos progresos, y me entusiasma ser parte de tu recorrido.
+Otro consejo consiste en incluir subtítulos para los contenidos de video y en tiempo real. Proporciona subtítulos para todas
+las grabaciones de audio o video compartidas en tu presentación. Si usas un video de YouTube, comprueba que los subtítulos
+automáticos de YouTube sean precisos. Si no lo son, solicita subtítulos ocultos a través de un servicio de subtítulos. Usa
+subtítulos en tiempo real para tu presentación si están disponibles. Además de ayudar a los miembros del público sordos o
+con problemas de audición, los subtítulos en tiempo real son útiles si hay diversos acentos e idiomas en la sala, si el
+orador habla demasiado rápido, si hay problemas con el micrófono o si hay miembros del público conversadores que distraen
+a sus vecinos.
+
+Otro tema que hay que recordar es que para el contraste y el tamaño del texto, más es mejor. La diferencia entre el texto
+y su color de fondo se denomina relación de contraste. *Una relación de alto contraste* facilita a las personas la lectura
+del texto o el descifrado de las imágenes, especialmente si están sentadas lejos o tienen baja visión o daltonismo. Una
+relación de contraste ideal es de 7:1. Hay herramientas de corrección de contraste disponibles en línea, así que asegúrate
+de revisarlas.
+
+Las recomendaciones para el tamaño del texto varían, pero más grande suele ser mejor. Antes de que empiece tu presentación,
+ve al fondo de la sala y asegúrate de que puedes leer tus diapositivas. Además, el uso de mayúsculas hace que la lectura
+de los textos sea más difícil para algunas personas, como las que padecen dislexia. Cuando sea posible, evita usar todas
+las letras en mayúsculas. Se trata de un cambio sencillo que puede ayudar mucho.
+
+Comparte tu contenido con antelación. Si es posible, envía las diapositivas a a tu público unos días antes de la presentación,
+Esto le dará al público la oportunidad de revisar el contenido y, si es necesario, hacer arreglos para ajustar sus propias
+necesidades y preferencias. Por ejemplo, los miembros del público con discapacidad visual pueden querer seguir tus diapositivas
+en su propio dispositivo con software de lectura de pantalla. Si no puedes compartir tus diapositivas con antelación, considera
+enviar un documento con un esquema de puntos de tu presentación. Si usas acrónimos o terminología técnica o complicada,
+incluye un glosario con definiciones. Esta información es especialmente útil para los intérpretes de lenguaje de señas y
+los subtituladores.
 
 ### Repaso: Toma de decisiones basada en datos
 
