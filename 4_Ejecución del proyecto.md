@@ -2068,6 +2068,21 @@ puntuación de felicidad de una persona también lo hace su esperanza de vida.
 
 Prácticas recomendadas de los diagramas de dispersión: Inicie el eje y en 0 para representar los datos con precisión.
 
+- Comparación de valores
+
+Los gráficos de barras usan el contraste de tamaño para comparar dos o más valores. En el siguiente ejemplo, la hora del
+día se compara con el nivel de motivación de una persona durante toda la jornada laboral. Al comparar estos datos, se puede
+decir que la motivación de esta persona es baja al principio de la jornada laboral y va aumentando al final. Los gráficos
+de barras también son una buena manera de aclarar tendencias e identificar patrones.
+
+Prácticas recomendadas en los gráficos de barras:
+
+    - Usa colores consistentes en toda la tabla
+
+    - Usa colores de énfasis para resaltar puntos de datos importantes o cambios a lo largo del tiempo
+
+    - Usa etiquetas horizontales para que sea más fácil de leer
+
 #### Visualizaciones de datos del proyecto
 
 #### Técnicas de presentación efectivas
