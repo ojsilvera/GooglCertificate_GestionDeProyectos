@@ -946,7 +946,7 @@ La UAT ayuda al equipo a responder preguntas tales como:
     ¿Cuánto tiempo los usuarios interactúan con él?
 
     ¿Advierten todas sus funciones?
-    
+
     ¿El producto, servicio o proceso es accesible para todos?
 
 La UAT también permite al equipo del proyecto registrar información sobre cómo los usuarios perciben su experiencia con
@@ -2354,9 +2354,7 @@ enviar un documento con un esquema de puntos de tu presentación. Si usas acrón
 incluye un glosario con definiciones. Esta información es especialmente útil para los intérpretes de lenguaje de señas y
 los subtituladores.
 
-### Repaso: Toma de decisiones basada en datos
-
-## modulo_4_4
+## Habilidades de liderazgo e influenzia
 
 ## modulo_4_5
 
