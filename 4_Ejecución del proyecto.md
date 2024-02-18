@@ -764,9 +764,13 @@ En resumen los 4 pilares de la gestion de calidad en proyectos son:
     a identificar y determinar exactamente qué estándares de calidad son relevantes para el proyecto en su conjunto y cómo
     satisfacerlos. Durante este proceso, planificarás los procedimientos para cumplir con las normas de calidad del proyecto.
 
-    La garantía de calidad, o QA, es un proceso de revisión que evalúa si el proyecto avanza hacia la entrega de un servicio o producto de alta calidad. Incluye auditorías periódicas para confirmar que todo procede conforme al plan y que se siguen los procedimientos necesarios. La garantía de calidad te ayuda a asegurarte de que tú y tus clientes obtengan el producto exacto que acordaron.
+    La garantía de calidad, o QA, es un proceso de revisión que evalúa si el proyecto avanza hacia la entrega de un servicio
+    o producto de alta calidad. Incluye auditorías periódicas para confirmar que todo procede conforme al plan y que se
+    siguen los procedimientos necesarios. La garantía de calidad te ayuda a asegurarte de que tú y tus clientes obtengan
+    el producto exacto que acordaron.
 
-    El control de calidad, o QC, implica controlar los resultados y la entrega del proyecto para determinar si se alcanzan los objetivos deseados. Incluye las técnicas que se utilizan para garantizar que se mantengan las normas de calidad cuando se identifica un problema. El control de calidad es un subconjunto de las actividades de garantía de calidad. La QA busca prevenir los defectos antes de que ocurran, mientras que el QC tiene como objetivo identificar los defectos después de que hayan ocurrido y también implica tomar medidas correctivas para resolver estos problemas.
+    El control de calidad, o QC, implica controlar los resultados y la entrega del proyecto para determinar si se alcanzan
+    los objetivos deseados. Incluye las técnicas que se utilizan para garantizar que se mantengan las normas de calidad cuando se identifica un problema. El control de calidad es un subconjunto de las actividades de garantía de calidad. La QA busca prevenir los defectos antes de que ocurran, mientras que el QC tiene como objetivo identificar los defectos después de que hayan ocurrido y también implica tomar medidas correctivas para resolver estos problemas.
 
 #### Fomentar las relaciones con los clientes mediante habilidades comunicativas
 
