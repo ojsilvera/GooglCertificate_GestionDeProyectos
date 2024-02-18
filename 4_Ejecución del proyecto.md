@@ -770,7 +770,10 @@ En resumen los 4 pilares de la gestion de calidad en proyectos son:
     el producto exacto que acordaron.
 
     El control de calidad, o QC, implica controlar los resultados y la entrega del proyecto para determinar si se alcanzan
-    los objetivos deseados. Incluye las técnicas que se utilizan para garantizar que se mantengan las normas de calidad cuando se identifica un problema. El control de calidad es un subconjunto de las actividades de garantía de calidad. La QA busca prevenir los defectos antes de que ocurran, mientras que el QC tiene como objetivo identificar los defectos después de que hayan ocurrido y también implica tomar medidas correctivas para resolver estos problemas.
+    los objetivos deseados. Incluye las técnicas que se utilizan para garantizar que se mantengan las normas de calidad
+    cuando se identifica un problema. El control de calidad es un subconjunto de las actividades de garantía de calidad.
+    La QA busca prevenir los defectos antes de que ocurran, mientras que el QC tiene como objetivo identificar los defectos
+    después de que hayan ocurrido y también implica tomar medidas correctivas para resolver estos problemas.
 
 #### Fomentar las relaciones con los clientes mediante habilidades comunicativas
 
