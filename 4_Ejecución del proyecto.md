@@ -2356,6 +2356,12 @@ los subtituladores.
 
 ## Habilidades de liderazgo e influenzia
 
+### Cultivar equipos efectivos
+
+### Liderazgo de proyectos
+
+### Los elementos de influencia
+
 ## modulo_4_5
 
 ## modulo_4_6
