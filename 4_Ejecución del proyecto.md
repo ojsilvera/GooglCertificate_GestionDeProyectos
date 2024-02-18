@@ -2358,6 +2358,12 @@ los subtituladores.
 
 ### Cultivar equipos efectivos
 
+#### Introducción: Habilidades de liderazgo e influencia
+
+#### La necesidad del trabajo en equipo del proyecto
+
+#### Los factores que afectan la eficacia del equipo
+
 ### Liderazgo de proyectos
 
 ### Los elementos de influencia
