@@ -940,9 +940,13 @@ servicio o proceso.
 La UAT ayuda al equipo a responder preguntas tales como:
 
     ¿Los usuarios reconocen la finalidad y los usos?
+
     ¿Cómo interactúan con él?
+
     ¿Cuánto tiempo los usuarios interactúan con él?
+
     ¿Advierten todas sus funciones?
+    
     ¿El producto, servicio o proceso es accesible para todos?
 
 La UAT también permite al equipo del proyecto registrar información sobre cómo los usuarios perciben su experiencia con
