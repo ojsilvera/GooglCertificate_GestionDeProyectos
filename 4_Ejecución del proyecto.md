@@ -2398,7 +2398,13 @@ exitosa. Hay varias razones para ello. Por un lado, el trabajo en equipo fomenta
 las diversas perspectivas, destrezas y experiencias de sus miembros para idear mejores soluciones y crear productos que
 aborden una mayor diversidad de necesidades de los usuarios que si trabajaran de forma independiente.
 
-El trabajo en equipo también alienta la responsabilidad. Saber que la ejecución de tus tareas impacta directamente en las tareas del resto del equipo puede ser una motivación poderosa. Y lo más importante: el trabajo en equipo te ayuda a cumplir con los objetivos. Los proyectos grandes y complejos necesitan personas capaces de completar tareas y alcanzar hitos para cumplir con los objetivos del proyecto. Como gerente de proyectos, tu trabajo es animar a otros a participar activamente en trabajar juntos como un equipo para fomentar la creatividad y la responsabilidad y cumplir con los objetivos.
+El trabajo en equipo también alienta la responsabilidad. Saber que la ejecución de tus tareas impacta directamente en las
+tareas del resto del equipo puede ser una motivación poderosa. Y lo más importante: el trabajo en equipo te ayuda a cumplir
+con los objetivos. Los proyectos grandes y complejos necesitan personas capaces de completar tareas y alcanzar hitos para
+cumplir con los objetivos del proyecto.
+
+Como gerente de proyectos, tu trabajo es animar a otros a participar activamente en trabajar juntos como un equipo para
+fomentar la creatividad y la responsabilidad y cumplir con los objetivos.
 El trabajo en equipo es una forma eficaz de trabajar, y, cuando se hace bien, puede tener un impacto positivo en los resultados medibles y la cultura. Próximamente, te mostraremos los elementos de los equipos efectivos. Nos vemos ahí.
 
 #### Los factores que afectan la eficacia del equipo
