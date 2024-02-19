@@ -2405,7 +2405,9 @@ cumplir con los objetivos del proyecto.
 
 Como gerente de proyectos, tu trabajo es animar a otros a participar activamente en trabajar juntos como un equipo para
 fomentar la creatividad y la responsabilidad y cumplir con los objetivos.
-El trabajo en equipo es una forma eficaz de trabajar, y, cuando se hace bien, puede tener un impacto positivo en los resultados medibles y la cultura. Próximamente, te mostraremos los elementos de los equipos efectivos. Nos vemos ahí.
+
+El trabajo en equipo es una forma eficaz de trabajar, y, cuando se hace bien, puede tener un impacto positivo en los resultados
+medibles y la cultura.
 
 #### Los factores que afectan la eficacia del equipo
 
