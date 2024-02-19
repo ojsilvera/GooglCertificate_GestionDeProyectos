@@ -2478,6 +2478,102 @@ e impacto como los cinco factores clave que afectan la eficacia del equipo.
 
 #### Liderar equipos de alto funcionamiento
 
+HHay formas clave en las que los gerentes de proyectos construyen equipos altamente funcionales que trabajan para cumplir
+con los objetivos. Crean sistemas que convierten el caos en orden; se comunican y escuchan; promueven la confianza y la
+seguridad psicológica, demuestran empatía y generan motivación, delegan responsabilidades y priorizan, y celebran el éxito
+del equipo.
+
+Repasemos cada uno de
+esos puntos uno por uno. Los buenos gerentes de proyectos
+dirigen sus equipos con sistemas que transforman el caos en orden. Puedes hacerlo al crear,
+implementar y mejorar: estandarizar flujos de trabajo y procesos medibles,
+repetibles y escalables para tu equipo. Por ejemplo, si notas que muchas veces
+persigues a tus compañeros de equipo para que progresen en su trabajo,
+puedes establecer un proceso de cómo y cuándo un compañero de equipo debe
+avisarte que ha completado una tarea. Piensa en crear sistemas como si
+fuera el juego de conectar los puntos. Ser gerente de proyectos es algo así,
+pero no hay números, solo puntos y una imagen parcial. Pero no necesitamos los números. Nos podemos dar cuenta de los puntos,
+conocer su importancia y conectarlos para ayudar a todos
+a visualizar el proyecto como un todo. Encuentras el sistema a través del caos
+y ayudas a otros a encontrarlo también. Los gerentes de proyectos también lideran
+a través de la comunicación y la escucha. Como gerente de proyectos, tu trabajo
+es garantizar que todo el equipo esté de acuerdo con respecto
+al estado del proyecto. Por ejemplo, puedes comunicarte con el
+equipo a través de correos electrónicos de actualización de estado diarios
+o semanales y reuniones periódicas. Las reuniones de equipo también
+brindan un espacio para escuchar, ya sea que recibas retroalimentación
+sobre un flujo de trabajo o un proceso, o respondas a las preguntas del grupo. También puedes pedir retroalimentación
+o preguntas mediante correos electrónicos de actualización de estado, ya que
+algunos prefieren hablar en privado. Además de comunicarte
+y escuchar al equipo en general, también debes conectarte regularmente
+con los compañeros de equipo individualmente. Haces esto al adquirir una comprensión
+de los estilos de comunicación y preguntar a los miembros del equipo
+cómo prefieren comunicarse. Lo que es importante saber es que
+todos se comunican de manera diferente. Por ejemplo, podría charlar informalmente
+con los colegas que sé que lo disfrutan. O podría ir directo al grano con colegas
+que prefieren conversar formalmente. Los gerentes de proyectos también lideran
+al promover la confianza y la seguridad psicológica dentro del equipo. Como recordatorio, la seguridad
+psicológica se refiere a la percepción de un individuo de las consecuencias
+de tomar riesgos interpersonales. Los miembros del equipo deben confiar en
+que están seguros y hacerse escuchar si tienen comentarios o inquietudes sobre todo el
+proyecto o sobre sus tareas individuales. Tu trabajo es crear un ambiente de equipo
+donde las opiniones son bienvenidas y todos los miembros se respetan
+durante las conversaciones desafiantes. Por ejemplo, durante las reuniones de
+estado semanales, puedes programar tiempo para conversaciones
+abiertas, reflexivas e inclusivas. Puedes modelar esto solicitando ayuda para resolver un problema
+que está afectando al equipo. Debes fomentar las contribuciones
+de todos los miembros del equipo, independientemente de su rol o rango. Al hacer esto, dejas en claro a tus
+compañeros de equipo que deberían sentirse cómodos al desafiar
+los procesos y flujos de trabajo. Y deja en claro que son bienvenidas
+las críticas al proyecto y los planes, y se valoran sin importar
+de quién vengan. Si bien puede resultar desafiante
+brindar y recibir retroalimentación, es una parte saludable de la gestión
+de proyectos y por lo general implica un mejor resultado del proyecto. A nivel individual, los gerentes de
+proyectos lideran practicando la empatía y creando motivación
+para los miembros del equipo. Es posible que hayas escuchado
+la frase “no existe el yo en un equipo”, y, si bien es cierto que los equipos
+deben trabajar en conjunto para ser eficaces, también es importante recordar
+que los equipos están formados por personas con diferentes motivaciones
+y vidas fuera del trabajo. Puedes demostrar empatía por tus
+compañeros de equipo si estás presente, escuchas y haces preguntas. Durante las conversaciones individuales, evita hacer suposiciones sobre
+lo que la otra persona piensa y siente. Si eres silencioso y curioso,
+siempre hay más que aprender. Además de mostrar empatía por mi equipo,
+también me gusta generar motivación al reconocer un trabajo bien hecho
+a través de foros públicos. Como en una reunión o en
+un correo electrónico grupal. El reconocimiento les dice a las personas
+que están haciendo lo correcto y los motiva a seguir
+haciendo un buen trabajo. Asegúrate de reconocer el buen trabajo,
+y no solo los esfuerzos heroicos. Los gerentes de proyectos también lideran
+al delegar responsabilidades y priorizar. Es probable que muchos proyectos tengan
+varias tareas que se realizan a la vez. Y es tu trabajo mantener al equipo
+concentrado y dirigirte hacia los objetivos y entregables del proyecto. Al delegar la responsabilidad por tareas
+específicas a miembros individuales del equipo, les ofreces la oportunidad de añadir valor con su conjunto
+particular de destrezas. También te das espacio para concentrarte
+en el proyecto como un todo. Al priorizar las tareas, reduces
+la ambigüedad y aportas claridad para tu equipo. Si crees que una tarea es importante,
+pero tu equipo no cree lo mismo, pueden trabajar en cualquier
+tarea que les guste. Al priorizar y dar a
+conocer esa priorización, mantienes al equipo concentrado. Trabaja con el equipo para consensuar
+las prioridades y explica tu justificación para obtener su aceptación y aumentar
+su compromiso con el trabajo. Por último, los gerentes de proyectos
+lideran al celebrar el éxito del equipo tanto durante el proyecto como
+al final de este. Esto incluye celebrar las victorias
+grandes y pequeñas, como alcanzar un hito o recibir retroalimentación
+positiva de los interesados. Celebrar el éxito es una
+herramienta importante para motivar al equipo porque
+aumenta su moral y compromiso. Puedes celebrar al equipo con un
+almuerzo en grupo, un pequeño regalo o incluso un correo
+electrónico de felicitación. Gestos simples como estos demuestran
+agradecimiento por el trabajo del equipo. Y cuando la gente se siente apreciada,
+tienden a trabajar con más esfuerzo y sus equipos funcionan mejor. En resumen, los gerentes de proyectos
+construyen equipos de varias maneras: crean sistemas que conviertan el caos
+en orden, se comunican y escuchan, promueven la confianza y la seguridad
+psicológica, demuestran empatía y crean motivación, delegan
+responsabilidades y priorizan, y celebran el éxito del equipo. A medida que crezcas en tu carrera,
+fortalecerás tu capacidad de liderar equipos más grandes y complejos, pero
+los principios seguirán siendo los mismos. A continuación, aprenderás sobre
+las etapas del desarrollo del equipo y cómo gestionar la dinámica del equipo. Nos vemos pronto.
+
 #### Proporcionar "cobertura aérea" a tu equipo
 
 #### Desarrollo del equipo y gestión de la dinámica del equipo
