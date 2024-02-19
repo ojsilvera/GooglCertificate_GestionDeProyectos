@@ -2455,8 +2455,20 @@ del trabajo, se entienda cómo cumplir con esas expectativas y cuáles son las c
 Cada miembro del equipo conoce sus roles, planes y objetivos individuales. Y tiene una idea de cómo su trabajo afecta al grupo.
 Como gerente de proyectos, puedes fomentar un sentido de estructura y claridad en el equipo. Por ejemplo, si el seguimiento
 en el proyecto es descuidado, desorganizado e incoherente, es probable que la producción del equipo sea descuidada, desorganizada
-e incoherente. Esto puede provocar tensión en el equipo. Por otra parte, si haces bien el seguimiento del proyecto, el equipo tendrá claridad, se sentirá más unido y podrá colaborar eficazmente.
-El significado también afecta la eficacia del equipo. Los investigadores de Google definieron significado en este contexto como encontrar un sentido de propósito, en el trabajo en sí o en sus resultados. Por ejemplo, tus compañeros de equipo pueden encontrar sentido en la autosuficiencia financiera, en ayudar al equipo a que alcance sus objetivos o en querer que sus productos lleguen a una nueva comunidad de usuarios. Y, por último, tenemos impacto. Nuestros investigadores definen el impacto como la creencia de que los resultados del trabajo propio importan y crean cambios. Puede ser un desafío que la gente se dé cuenta de cómo su trabajo puede hacer avanzar todo un ecosistema. Parte de tu rol como gerente de proyectos es ayudar a los compañeros de equipo a identificar cómo impulsan el impacto, tanto dentro como fuera del equipo. El seguimiento de proyectos puede ser una herramienta útil para visualizar el progreso y el impacto.
+e incoherente. Esto puede provocar tensión en el equipo. Por otra parte, si haces bien el seguimiento del proyecto, el equipo
+tendrá claridad, se sentirá más unido y podrá colaborar eficazmente.
+
+*El significado* también afecta la eficacia del equipo. Los investigadores de definieron significado en este contexto como
+encontrar un sentido de propósito, en el trabajo en sí o en sus resultados. Por ejemplo, tus compañeros de equipo pueden
+encontrar sentido en la autosuficiencia financiera, en ayudar al equipo a que alcance sus objetivos o en querer que sus
+productos lleguen a una nueva comunidad de usuarios.
+
+*eL impacto*, Los investigadores definen el impacto como la creencia de que los resultados del trabajo propio importan y
+crean cambios. Puede ser un desafío que la gente se dé cuenta de cómo su trabajo puede hacer avanzar todo un ecosistema,
+Parte de tu rol como gerente de proyectos es ayudar a los compañeros de equipo a identificar cómo impulsan el impacto,
+tanto dentro como fuera del equipo.
+
+El seguimiento de proyectos puede ser una herramienta útil para visualizar el progreso y el impacto.
 Alcanzar hitos, por ejemplo, demuestra al equipo cómo las tareas individuales contribuyen a los objetivos más amplios del proyecto. Por ejemplo, mi equipo trabaja con el enrutamiento dentro de Google Maps. La idea es centrarse en ayudar a las personas a llegar a su destino a tiempo. Todo lo que hagamos debería hacer que esa experiencia sea cada vez mejor. Y así es cómo agregamos impacto. En resumen, los investigadores de Google identificaron seguridad psicológica, confiabilidad, estructura y claridad, significado e impacto como los cinco factores clave que afectan la eficacia del equipo. A continuación, veremos cómo los gerentes de proyectos lideran equipos para alcanzar objetivos.
 
 ### Liderazgo de proyectos
