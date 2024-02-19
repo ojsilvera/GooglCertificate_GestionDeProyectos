@@ -2439,7 +2439,7 @@ En equipos con *alta seguridad psicológica*, los miembros se sienten cómodos a
 buscar opiniones diferentes y resolver conflictos interpersonales cuando surgen, un ejemplo de ello al presentar ideas
 novedosas que pueden fallar sin conllevar señalamientos al interior del equipo a pesar de no srer aprobadas y ejecutadas.
 
-*la confiabilidad*. Los investigadores de Google lo explican de esta manera, En equipos confiables, los miembros son
+*la confiabilidad/FIABILIDAD*. Los investigadores de Google lo explican de esta manera, En equipos confiables, los miembros son
 responsables y terminan su trabajo a tiempo. Para crear un equipo confiable se combina la determinación, la negociación
 y el cumplimiento de las expectativas. Sí, tu equipo debe cumplir con las expectativas que le han establecido. Al mismo
 tiempo, como gerente de proyectos, debes tener una relación bidireccional con tu equipo. Tienes que ser capaz de comunicar
@@ -2458,7 +2458,7 @@ en el proyecto es descuidado, desorganizado e incoherente, es probable que la pr
 e incoherente. Esto puede provocar tensión en el equipo. Por otra parte, si haces bien el seguimiento del proyecto, el equipo
 tendrá claridad, se sentirá más unido y podrá colaborar eficazmente.
 
-*El significado* también afecta la eficacia del equipo. Los investigadores de definieron significado en este contexto como
+*El significado* también afecta la eficacia del equipo. Los investigadores definieron significado en este contexto como
 encontrar un sentido de propósito, en el trabajo en sí o en sus resultados. Por ejemplo, tus compañeros de equipo pueden
 encontrar sentido en la autosuficiencia financiera, en ayudar al equipo a que alcance sus objetivos o en querer que sus
 productos lleguen a una nueva comunidad de usuarios.
@@ -2475,6 +2475,16 @@ En resumen, los investigadores de identificaron seguridad psicológica, confiabi
 e impacto como los cinco factores clave que afectan la eficacia del equipo.
 
 ### Liderazgo de proyectos
+
+#### Liderar equipos de alto funcionamiento
+
+#### Proporcionar "cobertura aérea" a tu equipo
+
+#### Desarrollo del equipo y gestión de la dinámica del equipo
+
+#### Liderazgo ético e inclusivo
+
+#### Un marco para la toma de decisiones éticas
 
 ### Los elementos de influencia
 
