@@ -2418,7 +2418,6 @@ Empecemos por la seguridad psicológica, que es el factor número uno que afecta
 Nuestros investigadores la definen de este modo.
 La seguridad psicológica se refiere a la percepción de un individuo, de las consecuencias de tomar riesgos interpersonales.
 En otras palabras, creen que es seguro correr riesgos dentro de su equipo y no hay riesgo de ser etiquetados como ignorantes, incompetentes o negativos. En equipos con alta seguridad psicológica, los miembros se sienten cómodos al tomar riesgos en torno a los demás miembros, buscar opiniones diferentes y resolver conflictos interpersonales cuando surgen.
-Reproduce el video desde :1:25 y sigue la transcripción1:25
 Por ejemplo, en mi equipo de Google, nos gusta decir que somos directos y amables. Hemos trabajado mucho para formar una cultura de equipo, en la que podemos ser responsables, al mismo tiempo que se mantiene un espacio seguro y pacífico.
 Lo que descubrí es que, cuando surgen oportunidades de asumir riesgos, como presentar una idea novedosa a mis directores, por ejemplo, esta cultura de respeto mutuo ya sentó las bases para obtener retroalimentación directa sin frustraciones ni preocupación por pasar vergüenza. Y eso ha sido inestimable para mantener un alto nivel de seguridad psicológica para el equipo.
 A continuación, tenemos la confiabilidad. Los investigadores de Google lo explican de esta manera.
