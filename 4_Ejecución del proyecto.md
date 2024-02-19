@@ -2411,10 +2411,24 @@ medibles y la cultura.
 
 #### Los factores que afectan la eficacia del equipo
 
-Los equipos están formados por individuos, y los individuos son impulsados por diferentes motivaciones. Por ejemplo, servir a su organización, mantener económicamente a su familia o simplemente trabajar en proyectos que creen que son geniales.
-Tendrás que aprender sobre las personas de tu equipo para determinar mejor cómo motivar a todos al mismo tiempo. Hace unos pocos años, los investigadores de Google se propusieron identificar la dinámica de los equipos eficaces. Y, a través de esta investigación, identificaron cinco factores que tienen un impacto en la efectividad del equipo.
-En orden de importancia, esos cinco factores son: seguridad psicológica, fiabilidad, estructura y claridad, significado e impacto. Analicémoslos.
-Empecemos por la seguridad psicológica, que es el factor número uno que afecta la eficacia del equipo.
+Los equipos están formados por individuos, y los individuos son impulsados por diferentes motivaciones. Por ejemplo, servir
+a su organización, mantener económicamente a su familia o simplemente trabajar en proyectos que creen que son geniales.
+
+Aprender sobre las personas de tu equipo para determinar mejor cómo motivar a todos al mismo tiempo. Hace unos pocos años,
+los investigadores de Google se propusieron identificar la dinámica de los equipos eficaces. Y, a través de esta investigación,
+identificaron cinco factores que tienen un impacto en la efectividad del equipo.
+
+En orden de importancia, esos cinco factores son:
+
+    Seguridad psicológica.
+
+    Fiabilidad.
+
+    Estructura y claridad.
+
+    Significado e impacto.
+
+*la seguridad psicológica*, que es el factor número uno que afecta la eficacia del equipo.
 Nuestros investigadores la definen de este modo.
 La seguridad psicológica se refiere a la percepción de un individuo, de las consecuencias de tomar riesgos interpersonales.
 En otras palabras, creen que es seguro correr riesgos dentro de su equipo y no hay riesgo de ser etiquetados como ignorantes, incompetentes o negativos. En equipos con alta seguridad psicológica, los miembros se sienten cómodos al tomar riesgos en torno a los demás miembros, buscar opiniones diferentes y resolver conflictos interpersonales cuando surgen.
