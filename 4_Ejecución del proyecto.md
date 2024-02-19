@@ -2468,8 +2468,11 @@ crean cambios. Puede ser un desafío que la gente se dé cuenta de cómo su trab
 Parte de tu rol como gerente de proyectos es ayudar a los compañeros de equipo a identificar cómo impulsan el impacto,
 tanto dentro como fuera del equipo.
 
-El seguimiento de proyectos puede ser una herramienta útil para visualizar el progreso y el impacto.
-Alcanzar hitos, por ejemplo, demuestra al equipo cómo las tareas individuales contribuyen a los objetivos más amplios del proyecto. Por ejemplo, mi equipo trabaja con el enrutamiento dentro de Google Maps. La idea es centrarse en ayudar a las personas a llegar a su destino a tiempo. Todo lo que hagamos debería hacer que esa experiencia sea cada vez mejor. Y así es cómo agregamos impacto. En resumen, los investigadores de Google identificaron seguridad psicológica, confiabilidad, estructura y claridad, significado e impacto como los cinco factores clave que afectan la eficacia del equipo. A continuación, veremos cómo los gerentes de proyectos lideran equipos para alcanzar objetivos.
+El seguimiento de proyectos puede ser una herramienta útil para visualizar el progreso y el impacto, Alcanzar hitos, por
+ejemplo, demuestra al equipo cómo las tareas individuales contribuyen a los objetivos más amplios del proyecto.
+
+En resumen, los investigadores de identificaron seguridad psicológica, confiabilidad, estructura y claridad, significado
+e impacto como los cinco factores clave que afectan la eficacia del equipo.
 
 ### Liderazgo de proyectos
 
