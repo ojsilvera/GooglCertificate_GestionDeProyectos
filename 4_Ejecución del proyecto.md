@@ -2528,20 +2528,18 @@ gusta generar motivación al reconocer un trabajo bien hecho a través de foros 
 electrónico grupal. El reconocimiento les dice a las personas que están haciendo lo correcto y los motiva a seguir haciendo
 un buen trabajo. Asegúrate de reconocer el buen trabajo, y no solo los esfuerzos heroicos.
 
-*Liderar al delegar responsabilidades y priorizar.* Es probable que muchos proyectos tengan
-varias tareas que se realizan a la vez. Y es tu trabajo mantener al equipo
-concentrado y dirigirte hacia los objetivos y entregables del proyecto. Al delegar la responsabilidad por tareas
-específicas a miembros individuales del equipo, les ofreces la oportunidad de añadir valor con su conjunto
-particular de destrezas. También te das espacio para concentrarte
-en el proyecto como un todo. Al priorizar las tareas, reduces
-la ambigüedad y aportas claridad para tu equipo. Si crees que una tarea es importante,
-pero tu equipo no cree lo mismo, pueden trabajar en cualquier
-tarea que les guste. Al priorizar y dar a
-conocer esa priorización, mantienes al equipo concentrado. Trabaja con el equipo para consensuar
-las prioridades y explica tu justificación para obtener su aceptación y aumentar
-su compromiso con el trabajo. Por último, los gerentes de proyectos
-lideran al celebrar el éxito del equipo tanto durante el proyecto como
-al final de este. Esto incluye celebrar las victorias
+*Liderar al delegar responsabilidades y priorizar.*
+
+Es probable que muchos proyectos tengan varias tareas que se realizan a la vez. Y es tu trabajo mantener al equipo concentrado
+y dirigirte hacia los objetivos y entregables del proyecto. Al delegar la responsabilidad por tareas específicas a miembros
+individuales del equipo, les ofreces la oportunidad de añadir valor con su conjunto particular de destrezas. También te
+das espacio para concentrarte en el proyecto como un todo. Al priorizar las tareas, reduces la ambigüedad y aportas claridad
+para tu equipo. Si crees que una tarea es importante, pero tu equipo no cree lo mismo, pueden trabajar en cualquier tarea
+que les guste. Al priorizar y dar a conocer esa priorización, mantienes al equipo concentrado. Trabaja con el equipo para
+consensuar las prioridades y explica tu justificación para obtener su aceptación y aumentar su compromiso con el trabajo.
+
+*Liderae al celebrar el éxito del equipo tanto durante el proyecto como al final de este.*
+Esto incluye celebrar las victorias
 grandes y pequeñas, como alcanzar un hito o recibir retroalimentación
 positiva de los interesados. Celebrar el éxito es una
 herramienta importante para motivar al equipo porque
