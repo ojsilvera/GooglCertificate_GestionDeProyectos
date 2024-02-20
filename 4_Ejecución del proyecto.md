@@ -2504,7 +2504,7 @@ Haces esto al adquirir una comprensión de los estilos de comunicación y pregun
 comunicarse. Lo que es importante saber es que todos se comunican de manera diferente. Por ejemplo, podría charlar informalmente
 con los colegas que sé que lo disfrutan. O podría ir directo al grano con colegas que prefieren conversar formalmente.
 
-*romover la confianza y la seguridad psicológica dentro del equipo.*
+*Romover la confianza y la seguridad psicológica dentro del equipo.*
 Como recordatorio, la seguridad psicológica se refiere a la percepción de un individuo de las consecuencias de tomar riesgos
 interpersonales. Los miembros del equipo deben confiar en que están seguros y hacerse escuchar si tienen comentarios o
 inquietudes sobre todo el proyecto o sobre sus tareas individuales. Tu trabajo es crear un ambiente de equipo donde las
@@ -2517,23 +2517,18 @@ críticas al proyecto y los planes, y se valoran sin importar de quién vengan. 
 recibir retroalimentación, es una parte saludable de la gestión de proyectos y por lo general implica un mejor resultado
 del proyecto.
 
-A nivel individual, los gerentes de
-proyectos lideran practicando la empatía y creando motivación
-para los miembros del equipo. Es posible que hayas escuchado
-la frase “no existe el yo en un equipo”, y, si bien es cierto que los equipos
-deben trabajar en conjunto para ser eficaces, también es importante recordar
-que los equipos están formados por personas con diferentes motivaciones
-y vidas fuera del trabajo. Puedes demostrar empatía por tus
-compañeros de equipo si estás presente, escuchas y haces preguntas. Durante las conversaciones individuales, evita hacer suposiciones sobre
-lo que la otra persona piensa y siente. Si eres silencioso y curioso,
-siempre hay más que aprender. Además de mostrar empatía por mi equipo,
-también me gusta generar motivación al reconocer un trabajo bien hecho
-a través de foros públicos. Como en una reunión o en
-un correo electrónico grupal. El reconocimiento les dice a las personas
-que están haciendo lo correcto y los motiva a seguir
-haciendo un buen trabajo. Asegúrate de reconocer el buen trabajo,
-y no solo los esfuerzos heroicos. Los gerentes de proyectos también lideran
-al delegar responsabilidades y priorizar. Es probable que muchos proyectos tengan
+*Liderar practicando la empatía y creando motivación para los miembros del equipo.*
+
+Es posible que hayas escuchado la frase “no existe el yo en un equipo”, y, si bien es cierto que los equipos deben trabajar
+en conjunto para ser eficaces, también es importante recordar que los equipos están formados por personas con diferentes
+motivaciones y vidas fuera del trabajo. Puedes demostrar empatía por tus compañeros de equipo si estás presente, escuchas
+y haces preguntas. Durante las conversaciones individuales, evita hacer suposiciones sobre lo que la otra persona piensa
+y siente. Si eres silencioso y curioso, siempre hay más que aprender. Además de mostrar empatía por mi equipo, también me
+gusta generar motivación al reconocer un trabajo bien hecho a través de foros públicos. Como en una reunión o en un correo
+electrónico grupal. El reconocimiento les dice a las personas que están haciendo lo correcto y los motiva a seguir haciendo
+un buen trabajo. Asegúrate de reconocer el buen trabajo, y no solo los esfuerzos heroicos.
+
+*Liderar al delegar responsabilidades y priorizar.* Es probable que muchos proyectos tengan
 varias tareas que se realizan a la vez. Y es tu trabajo mantener al equipo
 concentrado y dirigirte hacia los objetivos y entregables del proyecto. Al delegar la responsabilidad por tareas
 específicas a miembros individuales del equipo, les ofreces la oportunidad de añadir valor con su conjunto
