@@ -2546,14 +2546,21 @@ Puedes celebrar al equipo con un almuerzo en grupo, un pequeño regalo o incluso
 simples como estos demuestran agradecimiento por el trabajo del equipo. Y cuando la gente se siente apreciada, tienden a
 trabajar con más esfuerzo y sus equipos funcionan mejor.
 
-En resumen, los gerentes de proyectos construyen equipos de varias
-maneras: crean sistemas que conviertan el caos
-en orden, se comunican y escuchan, promueven la confianza y la seguridad
-psicológica, demuestran empatía y crean motivación, delegan
-responsabilidades y priorizan, y celebran el éxito del equipo. A medida que crezcas en tu carrera,
-fortalecerás tu capacidad de liderar equipos más grandes y complejos, pero
-los principios seguirán siendo los mismos. A continuación, aprenderás sobre
-las etapas del desarrollo del equipo y cómo gestionar la dinámica del equipo. Nos vemos pronto.
+*En resumen.*
+
+los gerentes de proyectos construyen equipos de varias maneras:
+
+    Crean sistemas que conviertan el caos en orden.
+
+    Se comunican y escuchan.
+
+    Promueven la confianza y la seguridad psicológica.
+
+    Demuestran empatía y crean motivación.
+
+    Delegan responsabilidades y priorizan.
+
+    Celebran el éxito del equipo.
 
 #### Proporcionar "cobertura aérea" a tu equipo
 
