@@ -2483,21 +2483,18 @@ con los objetivos. Crean sistemas que convierten el caos en orden; se comunican 
 seguridad psicológica, demuestran empatía y generan motivación, delegan responsabilidades y priorizan, y celebran el éxito
 del equipo.
 
-Repasemos cada uno de
-esos puntos uno por uno. Los buenos gerentes de proyectos
-dirigen sus equipos con sistemas que transforman el caos en orden. Puedes hacerlo al crear,
-implementar y mejorar: estandarizar flujos de trabajo y procesos medibles,
-repetibles y escalables para tu equipo. Por ejemplo, si notas que muchas veces
-persigues a tus compañeros de equipo para que progresen en su trabajo,
-puedes establecer un proceso de cómo y cuándo un compañero de equipo debe
-avisarte que ha completado una tarea. Piensa en crear sistemas como si
-fuera el juego de conectar los puntos. Ser gerente de proyectos es algo así,
-pero no hay números, solo puntos y una imagen parcial. Pero no necesitamos los números. Nos podemos dar cuenta de los puntos,
-conocer su importancia y conectarlos para ayudar a todos
-a visualizar el proyecto como un todo. Encuentras el sistema a través del caos
-y ayudas a otros a encontrarlo también. Los gerentes de proyectos también lideran
-a través de la comunicación y la escucha. Como gerente de proyectos, tu trabajo
-es garantizar que todo el equipo esté de acuerdo con respecto
+*Los buenos gerentes de proyectos dirigen sus equipos con sistemas que transforman el caos en orden.*
+
+Puedes hacerlo al crear, implementar y mejorar: estandarizar flujos de trabajo y procesos medibles, repetibles y escalables
+para tu equipo. Por ejemplo, si notas que muchas veces persigues a tus compañeros de equipo para que progresen en su trabajo,
+puedes establecer un proceso de cómo y cuándo un compañero de equipo debe avisarte que ha completado una tarea. Piensa en
+crear sistemas como si fuera el juego de conectar los puntos. Ser gerente de proyectos es algo así, pero no hay números,
+solo puntos y una imagen parcial. Pero no necesitamos los números. Nos podemos dar cuenta de los puntos, conocer su importancia
+y conectarlos para ayudar a todos a visualizar el proyecto como un todo. Encuentras el sistema a través del caos y ayudas
+a otros a encontrarlo también.
+
+*Los gerentes de proyectos también lideran a través de la comunicación y la escucha.*
+Como gerente de proyectos, tu trabajo es garantizar que todo el equipo esté de acuerdo con respecto
 al estado del proyecto. Por ejemplo, puedes comunicarte con el
 equipo a través de correos electrónicos de actualización de estado diarios
 o semanales y reuniones periódicas. Las reuniones de equipo también
