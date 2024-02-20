@@ -2539,16 +2539,15 @@ que les guste. Al priorizar y dar a conocer esa priorización, mantienes al equi
 consensuar las prioridades y explica tu justificación para obtener su aceptación y aumentar su compromiso con el trabajo.
 
 *Liderae al celebrar el éxito del equipo tanto durante el proyecto como al final de este.*
-Esto incluye celebrar las victorias
-grandes y pequeñas, como alcanzar un hito o recibir retroalimentación
-positiva de los interesados. Celebrar el éxito es una
-herramienta importante para motivar al equipo porque
-aumenta su moral y compromiso. Puedes celebrar al equipo con un
-almuerzo en grupo, un pequeño regalo o incluso un correo
-electrónico de felicitación. Gestos simples como estos demuestran
-agradecimiento por el trabajo del equipo. Y cuando la gente se siente apreciada,
-tienden a trabajar con más esfuerzo y sus equipos funcionan mejor. En resumen, los gerentes de proyectos
-construyen equipos de varias maneras: crean sistemas que conviertan el caos
+
+Esto incluye celebrar las victorias grandes y pequeñas, como alcanzar un hito o recibir retroalimentación positiva de los
+interesados. Celebrar el éxito es una herramienta importante para motivar al equipo porque aumenta su moral y compromiso.
+Puedes celebrar al equipo con un almuerzo en grupo, un pequeño regalo o incluso un correo electrónico de felicitación. Gestos
+simples como estos demuestran agradecimiento por el trabajo del equipo. Y cuando la gente se siente apreciada, tienden a
+trabajar con más esfuerzo y sus equipos funcionan mejor.
+
+En resumen, los gerentes de proyectos construyen equipos de varias
+maneras: crean sistemas que conviertan el caos
 en orden, se comunican y escuchan, promueven la confianza y la seguridad
 psicológica, demuestran empatía y crean motivación, delegan
 responsabilidades y priorizan, y celebran el éxito del equipo. A medida que crezcas en tu carrera,
