@@ -2576,7 +2576,18 @@ La capacidad de proporcionar cobertura aérea de manera efectiva requiere una re
 proyectos y los interesados. En esta relación, el gerente de proyectos tiene como objetivo demostrar sus destrezas para
 liderar un equipo y comunicarse de manera efectiva.
 
-Existe cierto riesgo al proporcionar cobertura aérea. A veces, un gerente de proyectos proporciona cobertura aérea y el equipo igualmente no puede cumplir con los objetivos del proyecto. En este caso, los interesados pueden cuestionar la capacidad del gerente de proyectos para completar los proyectos con éxito. Por lo tanto, cuando te prepares para defender al equipo de solicitudes fuera de alcance, asegúrate del estado de progreso del equipo hacia el objetivo del proyecto.
+Existe cierto riesgo al proporcionar cobertura aérea. A veces, un gerente de proyectos proporciona cobertura aérea y el
+equipo igualmente no puede cumplir con los objetivos del proyecto. En este caso, los interesados pueden cuestionar la
+capacidad del gerente de proyectos para completar los proyectos con éxito. Por lo tanto, cuando te prepares para defender
+al equipo de solicitudes fuera de alcance, asegúrate del estado de progreso del equipo hacia el objetivo del proyecto.
+
+Otra forma en que los gerentes de proyectos brindan cobertura aérea a sus equipos es dominando el desafío de intervenir
+delicadamente desde detrás de escena cuando un interesado hace solicitudes poco realistas u ofrece críticas irrazonables.
+
+Proporcionar cobertura aérea al equipo requiere práctica. Implica un equilibrio cuidadoso de las necesidades de los interesados
+y las necesidades del equipo del proyecto. A medida que adquieras más experiencia en el liderazgo de proyectos, desarrollarás
+un sentido más sólido de cómo gestionar situaciones con tantos matices como estas y proporcionarás la cobertura aérea que
+el equipo necesita para hacer su mejor trabajo.
 
 #### Desarrollo del equipo y gestión de la dinámica del equipo
 
