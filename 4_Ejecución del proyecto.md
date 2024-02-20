@@ -2494,38 +2494,30 @@ y conectarlos para ayudar a todos a visualizar el proyecto como un todo. Encuent
 a otros a encontrarlo también.
 
 *Los gerentes de proyectos también lideran a través de la comunicación y la escucha.*
-Como gerente de proyectos, tu trabajo es garantizar que todo el equipo esté de acuerdo con respecto
-al estado del proyecto. Por ejemplo, puedes comunicarte con el
-equipo a través de correos electrónicos de actualización de estado diarios
-o semanales y reuniones periódicas. Las reuniones de equipo también
-brindan un espacio para escuchar, ya sea que recibas retroalimentación
-sobre un flujo de trabajo o un proceso, o respondas a las preguntas del grupo. También puedes pedir retroalimentación
-o preguntas mediante correos electrónicos de actualización de estado, ya que
-algunos prefieren hablar en privado. Además de comunicarte
-y escuchar al equipo en general, también debes conectarte regularmente
-con los compañeros de equipo individualmente. Haces esto al adquirir una comprensión
-de los estilos de comunicación y preguntar a los miembros del equipo
-cómo prefieren comunicarse. Lo que es importante saber es que
-todos se comunican de manera diferente. Por ejemplo, podría charlar informalmente
-con los colegas que sé que lo disfrutan. O podría ir directo al grano con colegas
-que prefieren conversar formalmente. Los gerentes de proyectos también lideran
-al promover la confianza y la seguridad psicológica dentro del equipo. Como recordatorio, la seguridad
-psicológica se refiere a la percepción de un individuo de las consecuencias
-de tomar riesgos interpersonales. Los miembros del equipo deben confiar en
-que están seguros y hacerse escuchar si tienen comentarios o inquietudes sobre todo el
-proyecto o sobre sus tareas individuales. Tu trabajo es crear un ambiente de equipo
-donde las opiniones son bienvenidas y todos los miembros se respetan
-durante las conversaciones desafiantes. Por ejemplo, durante las reuniones de
-estado semanales, puedes programar tiempo para conversaciones
-abiertas, reflexivas e inclusivas. Puedes modelar esto solicitando ayuda para resolver un problema
-que está afectando al equipo. Debes fomentar las contribuciones
-de todos los miembros del equipo, independientemente de su rol o rango. Al hacer esto, dejas en claro a tus
-compañeros de equipo que deberían sentirse cómodos al desafiar
-los procesos y flujos de trabajo. Y deja en claro que son bienvenidas
-las críticas al proyecto y los planes, y se valoran sin importar
-de quién vengan. Si bien puede resultar desafiante
-brindar y recibir retroalimentación, es una parte saludable de la gestión
-de proyectos y por lo general implica un mejor resultado del proyecto. A nivel individual, los gerentes de
+Como gerente de proyectos, tu trabajo es garantizar que todo el equipo esté de acuerdo con respecto al estado del proyecto.
+Por ejemplo, puedes comunicarte con el equipo a través de correos electrónicos de actualización de estado diarios o semanales
+y reuniones periódicas. Las reuniones de equipo también brindan un espacio para escuchar, ya sea que recibas retroalimentación
+sobre un flujo de trabajo o un proceso, o respondas a las preguntas del grupo. También puedes pedir retroalimentación o
+preguntas mediante correos electrónicos de actualización de estado, ya que algunos prefieren hablar en privado. Además de
+comunicarte y escuchar al equipo en general, también debes conectarte regularmente con los compañeros de equipo individualmente.
+Haces esto al adquirir una comprensión de los estilos de comunicación y preguntar a los miembros del equipo cómo prefieren
+comunicarse. Lo que es importante saber es que todos se comunican de manera diferente. Por ejemplo, podría charlar informalmente
+con los colegas que sé que lo disfrutan. O podría ir directo al grano con colegas que prefieren conversar formalmente.
+
+*romover la confianza y la seguridad psicológica dentro del equipo.*
+Como recordatorio, la seguridad psicológica se refiere a la percepción de un individuo de las consecuencias de tomar riesgos
+interpersonales. Los miembros del equipo deben confiar en que están seguros y hacerse escuchar si tienen comentarios o
+inquietudes sobre todo el proyecto o sobre sus tareas individuales. Tu trabajo es crear un ambiente de equipo donde las
+opiniones son bienvenidas y todos los miembros se respetan durante las conversaciones desafiantes. Por ejemplo, durante
+las reuniones de estado semanales, puedes programar tiempo para conversaciones abiertas, reflexivas e inclusivas. Puedes
+modelar esto solicitando ayuda para resolver un problema que está afectando al equipo. Debes fomentar las contribuciones
+de todos los miembros del equipo, independientemente de su rol o rango. Al hacer esto, dejas en claro a tus compañeros de
+equipo que deberían sentirse cómodos al desafiar los procesos y flujos de trabajo. Y deja en claro que son bienvenidas las
+críticas al proyecto y los planes, y se valoran sin importar de quién vengan. Si bien puede resultar desafiante brindar y
+recibir retroalimentación, es una parte saludable de la gestión de proyectos y por lo general implica un mejor resultado
+del proyecto.
+
+A nivel individual, los gerentes de
 proyectos lideran practicando la empatía y creando motivación
 para los miembros del equipo. Es posible que hayas escuchado
 la frase “no existe el yo en un equipo”, y, si bien es cierto que los equipos
