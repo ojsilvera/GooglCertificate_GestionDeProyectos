@@ -2564,6 +2564,20 @@ los gerentes de proyectos construyen equipos de varias maneras:
 
 #### Proporcionar "cobertura aérea" a tu equipo
 
+Gran parte de la gestión de proyectos implica supervisar el trabajo de los demás, pero también implica gestionar las necesidades
+y expectativas de los que están por encima de ti. Esas personas son los interesados, los patrocinadores del proyecto y
+otros líderes dentro de tu organización.
+
+Si bien las necesidades y solicitudes de los interesados son cruciales para el éxito del proyecto, puede llegar un momento
+en que tengas que priorizar las necesidades del equipo sobre las necesidades de los interesados. A esto se le llama
+*proporcionar "cobertura aérea" al equipo* y es una parte importante de la gestión de un proyecto.
+
+La capacidad de proporcionar cobertura aérea de manera efectiva requiere una relación de confianza entre un gerente de
+proyectos y los interesados. En esta relación, el gerente de proyectos tiene como objetivo demostrar sus destrezas para
+liderar un equipo y comunicarse de manera efectiva.
+
+Existe cierto riesgo al proporcionar cobertura aérea. A veces, un gerente de proyectos proporciona cobertura aérea y el equipo igualmente no puede cumplir con los objetivos del proyecto. En este caso, los interesados pueden cuestionar la capacidad del gerente de proyectos para completar los proyectos con éxito. Por lo tanto, cuando te prepares para defender al equipo de solicitudes fuera de alcance, asegúrate del estado de progreso del equipo hacia el objetivo del proyecto.
+
 #### Desarrollo del equipo y gestión de la dinámica del equipo
 
 #### Liderazgo ético e inclusivo
