@@ -2683,11 +2683,12 @@ encontrar personas en la organización que disfrutaran haciendo algo y delegarle
 en la gestión del proyecto o programa general sin tener que embrollarte con ciertos detalles que, en realidad, puede que
 no disfrutes hacer o que alguien más disfrute mucho de hacerlo.
 
-La seguridad psicológica es muy importante en los equipos porque aporta diversidad de pensamiento. Algo en lo que realmente debes
-trabajar es en asegurar de que llevemos a cabo reuniones inclusivas. Un ejemplo de ello podría ser que, en una reunión,
+La seguridad psicológica es muy importante en los equipos porque aporta diversidad de pensamiento. Algo en lo que realmente
+debes trabajar es en asegurar de que llevemos a cabo reuniones inclusivas. Un ejemplo de ello podría ser que, en una reunión,
 si notas que uno o dos participantes suelen estar callados o no hablan, intentes animarlos a ser parte de la conversación,
 O, aun mejor, toma un café con ellos antes y pregúntales qué piensan del próximo tema. Anímalos a compartir esas ideas con
-el equipo. Tener diversidad de pensamiento en una reunión es muy importante. De lo contrario, terminarás con solo una persona en la reunión constantemente aportando sus pensamientos e ideas.
+el equipo. Tener diversidad de pensamiento en una reunión es muy importante. De lo contrario, terminarás con solo una persona
+en la reunión constantemente aportando sus pensamientos e ideas.
 
 Un tema respecto de la seguridad psicológica es esta asociación con la mentoría y el patrocinio. Para delegar, me asegurarse
 de patrocinar personas. Mostrar su trabajo de mejor calidad a todo el equipo del proyecto, Es muy importante para la moral,
