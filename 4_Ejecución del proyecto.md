@@ -2760,6 +2760,15 @@ oportunidades de éxito, y aceptando e integrando perspectivas diversas.
 
 #### Un marco para la toma de decisiones éticas
 
+El liderazgo ético es una forma de liderazgo que promueve y valora la honestidad, la justicia, el respeto, la comunidad y
+la integridad. Como líder de un equipo de proyecto, se espera que ayudes al equipo a tener éxito liderando con ética. Fomentar
+el respeto y la confianza con los equipos con los que trabajas, desde los individuos hasta los socios externos y los interesados
+del proyecto, comienza con la práctica de una conducta ética.
+
+*Ética en tu organización.*
+
+La ética se puede definir como los principios de conducta que rigen a un individuo o un grupo. Sin embargo, no existe una agrupación única y aceptada universalmente de estándares éticos; estas definiciones difieren según la cultura y la comunidad de tu empresa. En el mundo laboral, los estándares éticos pueden variar según la profesión, la industria y la organización. Por lo general, una organización tendrá su propio código de conducta que especifique las normas según las cuales deben rendir cuentas sus empleados. 
+
 ### Los elementos de influencia
 
 ## modulo_4_5
