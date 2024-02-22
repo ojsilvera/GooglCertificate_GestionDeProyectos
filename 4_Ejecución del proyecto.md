@@ -2642,9 +2642,16 @@ reconocer la dinámica del equipo y luego ajustar tu estilo de gestión en conse
 La dinámica del equipo se refiere a las fuerzas conscientes e inconscientes que impactan en el comportamiento y el desempeño
 del equipo.
 
-La gestión de la dinámica del equipo es importante para motivar al equipo. Puede ser tentador suponer que la gente puede avanzar a toda velocidad. Pero, en realidad, es importante tomarte el tiempo para entender la dinámica del equipo en general y cómo encajan los miembros individuales. Esto es especialmente importante durante las etapas más precarias de formación y adaptación.
-Vamos a explicar en detalle por qué gestionar la dinámica del equipo es muy importante. Primero, los equipos tienen individuos con diferentes conjuntos de destrezas, diversos grados de autonomía, y prioridades enfrentadas.
-Es tu trabajo forjar un consenso y establecer propósitos, objetivos, dependencias y responsabilidades. Cuando los equipos funcionan de manera cohesiva, pueden centrarse en el ahora. Otra razón por la que es importante gestionar la dinámica del equipo es que te ayuda a crear un entorno colaborativo y psicológicamente seguro. Cuando los miembros del equipo se sienten seguros, están dispuestos a ayudarse entre sí y aceptar ayuda cuando la necesitan. Esto beneficia a todo el proyecto al mantener los cronogramas al día. Aunque puede llevar tiempo llegar a la etapa de desempeño, usar la etapa de normalización como un momento para fomentar un entorno colaborativo puede ayudarte a llegar a ese punto más rápido.
+La gestión de la dinámica del equipo es importante para motivar al equipo. Puede ser tentador suponer que la gente puede
+avanzar a toda velocidad. Pero, en realidad, es importante tomarte el tiempo para entender la dinámica del equipo en general
+y cómo encajan los miembros individuales. Esto es especialmente importante durante las etapas más precarias de formación
+y adaptación.
+
+gestionar la dinámica del equipo es muy importante, Primero, los equipos tienen individuos con diferentes conjuntos de
+destrezas, diversos grados de autonomía, y prioridades enfrentadas. Como gerente de proyectos el trabajo es forjar un
+consenso y establecer propósitos, objetivos, dependencias y responsabilidades.
+
+Cuando los equipos funcionan de manera cohesiva, pueden centrarse en el ahora. Otra razón por la que es importante gestionar la dinámica del equipo es que te ayuda a crear un entorno colaborativo y psicológicamente seguro. Cuando los miembros del equipo se sienten seguros, están dispuestos a ayudarse entre sí y aceptar ayuda cuando la necesitan. Esto beneficia a todo el proyecto al mantener los cronogramas al día. Aunque puede llevar tiempo llegar a la etapa de desempeño, usar la etapa de normalización como un momento para fomentar un entorno colaborativo puede ayudarte a llegar a ese punto más rápido.
 Comprender y gestionar la dinámica del equipo también puede ayudarte a entender cómo motivarlos. Es probable que los miembros del equipo motivados contribuyan más a los debates, completen sus tareas y participen en otras actividades del proyecto. Un ambiente de equipo positivo puede ayudar a los empleados a sentirse empoderados, a estar más cómodos al tomar riesgos calculados y más inclinados a buscar soluciones innovadoras a problemas complejos. Recuerda que gran parte de la dinámica del equipo ocurre bajo la superficie. Identificar y comprender las etapas de desarrollo del equipo puede ayudarte a ver cómo funciona la dinámica en tu equipo.
 Esto puede ayudarte a ser un mejor líder.
 A continuación, veremos qué significa promover un liderazgo inclusivo y ético en el lugar de trabajo. Nos vemos ahí.
