@@ -2703,9 +2703,11 @@ Liderar un equipo de proyecto conlleva la responsabilidad de crear un entorno se
 que te rodean. Mediante un liderazgo ético e inclusivo, puedes crear una cultura de equipo que funcione para todos y los motive
 para que hagan su mejor trabajo.
 
-¿qué implica el liderazgo
-ético e inclusivo en un equipo y en una organización? Empecemos por el liderazgo ético. El liderazgo ético es una forma de
-liderazgo que promueve y valora la honestidad, la justicia, el respeto,
+¿qué implica el liderazgo ético e inclusivo en un equipo y en una organización?
+
+*El liderazgo ético*
+
+es una forma de liderazgo que promueve y valora la honestidad, la justicia, el respeto,
 la comunidad y la integridad. Promueves el liderazgo ético al definir
 y alinear valores dentro de tu equipo y al demostrar cómo respetar los valores
 beneficia la misión de la organización. Para tener un ejemplo de esto, considera cómo
@@ -2722,7 +2724,11 @@ liderazgo inclusivo es poner en práctica lo que hemos escuchado para
 crear un entorno que nos anime y empodere a todos y cada uno
 de los miembros de nuestra comunidad. Esto, a su vez, conduce a una mayor
 innovación y mejores soluciones. Así es como pensamos
-sobre la inclusión en Google. El liderazgo inclusivo es cuando se
+sobre la inclusión en Google.
+
+*El liderazgo inclusivo*
+
+El liderazgo inclusivo es cuando se
 respetan, valoran e integran la identidad, los antecedentes y las experiencias de
 todos en la forma en que opera el equipo. Estas diferencias mejoran
 la cultura, la colaboración, la innovación y el rendimiento del equipo. El liderazgo inclusivo está relacionado
