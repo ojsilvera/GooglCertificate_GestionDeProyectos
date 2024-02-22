@@ -2717,14 +2717,10 @@ expongan sus posiciones sobre los acontecimientos actuales. Las empresas pueden 
 de foros donde los empleados puedan plantear sus puntos de vista, ser escuchados y recibir seguimiento de los líderes de
 la empresa sobre sus inquietudes.
 
-El liderazgo ético está estrechamente
-vinculado al liderazgo inclusivo. Si el objetivo del liderazgo ético es
-crear foros en los que se escuchen las inquietudes de los empleados, el del
-liderazgo inclusivo es poner en práctica lo que hemos escuchado para
-crear un entorno que nos anime y empodere a todos y cada uno
-de los miembros de nuestra comunidad. Esto, a su vez, conduce a una mayor
-innovación y mejores soluciones. Así es como pensamos
-sobre la inclusión en Google.
+El liderazgo ético está estrechamente vinculado al liderazgo inclusivo. Si el objetivo del liderazgo ético es crear foros
+en los que se escuchen las inquietudes de los empleados, el del liderazgo inclusivo es poner en práctica lo que hemos escuchado
+para crear un entorno que nos anime y empodere a todos y cada uno de los miembros de nuestra comunidad. Esto, a su vez,
+conduce a una mayor innovación y mejores soluciones.
 
 *El liderazgo inclusivo.*
 
