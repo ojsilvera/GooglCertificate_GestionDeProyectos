@@ -2711,13 +2711,13 @@ El liderazgo ético Es una forma de liderazgo que promueve y valora la honestida
 y la integridad, promueves el liderazgo ético al definir y alinear valores dentro de tu equipo y al demostrar cómo respetar
 los valores beneficia la misión de la organización.
 
-Para tener un ejemplo de esto, considera cómo ha evolucionado la cultura del trabajo,
-En todo el mundo, los empleados que trabajan para organizaciones de todo tipo vienen pidiendo a sus empleadores que adopten
-cambios de políticas éticas y que expongan sus posiciones
-sobre los acontecimientos actuales. Las empresas pueden demostrar liderazgo
-ético mediante la creación de foros donde los empleados puedan plantear
-sus puntos de vista, ser escuchados y recibir seguimiento de los líderes
-de la empresa sobre sus inquietudes. El liderazgo ético está estrechamente
+Para tener un ejemplo de esto, considera cómo ha evolucionado la cultura del trabajo, En todo el mundo, los empleados que
+trabajan para organizaciones de todo tipo vienen pidiendo a sus empleadores que adopten cambios de políticas éticas y que
+expongan sus posiciones sobre los acontecimientos actuales. Las empresas pueden demostrar liderazgo ético mediante la creación
+de foros donde los empleados puedan plantear sus puntos de vista, ser escuchados y recibir seguimiento de los líderes de
+la empresa sobre sus inquietudes.
+
+El liderazgo ético está estrechamente
 vinculado al liderazgo inclusivo. Si el objetivo del liderazgo ético es
 crear foros en los que se escuchen las inquietudes de los empleados, el del
 liderazgo inclusivo es poner en práctica lo que hemos escuchado para
