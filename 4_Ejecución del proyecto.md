@@ -2792,6 +2792,12 @@ para la toma de decisiones éticas,consta de los siguientes puntos:
 
 *Reconocer un problema ético.*
 
+Considera cómo llevar a cabo la decisión con consideración y cuidado y, después de actuar, considera los resultados de la
+decisión.
+
+    Ejemplo: Rechaza respetuosamente el obsequio del proveedor, señalando tu motivo (por ejemplo, las pautas éticas de tu
+    empresa establecen que los empleados no pueden aceptar obsequios valorados en más de $20 de proveedores o contratistas).
+
 *Conoce los hechos.*
 
 *Evaluar acciones alternativas.*
