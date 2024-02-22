@@ -2784,6 +2784,22 @@ Un framework común para la toma de decisiones éticas
 El Centro Markkula de Ética Aplicada de la Universidad de Santa Clara  desarrolló el siguiente framework como una guía útil
 para la toma de decisiones éticas,consta de los siguientes puntos:
 
+    Reconocer un problema ético
+    Conoce los hechos
+    Evaluar acciones alternativas
+    Toma una decisión y pruébala
+    Actuar y reflexionar sobre el resultado
+
+*Reconocer un problema ético.*
+
+*Conoce los hechos.*
+
+*Evaluar acciones alternativas.*
+
+*Toma una decisión y pruébala.*
+
+*Actuar y reflexionar sobre el resultado.*
+
 ### Los elementos de influencia
 
 ## modulo_4_5
