@@ -2729,16 +2729,14 @@ en la forma en que opera el equipo. Estas diferencias mejoran la cultura, la col
 del equipo.
 
 El liderazgo inclusivo está relacionado con la diversidad porque la diversidad es el conjunto de diferencias que cada uno
-de nosotros posee, ya sean visibles o invisibles, que nos dan una perspectiva única sobre el mundo y nuestro trabajo.
+de nosotros posee, ya sean visibles o invisibles, que nos dan una perspectiva única sobre el mundo y nuestro trabajo, La
+inclusión es lo que hace el equipo con esa diversidad de pensamiento y esa perspectiva.
 
-La inclusión es lo que hace el equipo con esa
-diversidad de pensamiento y esa perspectiva. En Google, hemos identificado tres
-formas de liderar con inclusividad. Estas incluyen el fomento de una
-cultura de respeto, la igualdad de oportunidades de éxito y la aceptación
-e integración de perspectivas diversas. Para fomentar una cultura de respeto,
-tu trabajo como gerente de proyectos es servir como modelo, marcar la pauta en
-el equipo y actuar cuando sea necesario. Eso significa ser un modelo
-de los valores de tu organización y tomar las medidas adecuadas
+hemos identificado tres formas de liderar con inclusividad. Estas incluyen el fomento de una cultura de respeto, la igualdad
+de oportunidades de éxito y la aceptación e integración de perspectivas diversas.
+
+Para fomentar una cultura de respeto, tu trabajo como gerente de proyectos es servir como modelo, marcar la pauta en el
+equipo y actuar cuando sea necesario. Eso significa ser un modelo de los valores de tu organización y tomar las medidas adecuadas
 si se observa una mala conducta. Crear un entorno en el que los miembros
 del equipo se sientan cómodos para comunicar sus inquietudes, y reconocer
 sus contribuciones con regularidad. Para crear igualdad de oportunidades de
