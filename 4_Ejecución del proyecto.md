@@ -2741,31 +2741,22 @@ si se observa una mala conducta. Crear un entorno en el que los miembros
 del equipo se sientan cómodos para comunicar sus inquietudes, y reconocer
 sus contribuciones con regularidad.
 
-Para crear igualdad de oportunidades de
-tener éxito, debes asegurarte de que cada persona tenga acceso a la información y
-los recursos para hacer su mejor trabajo. Haces esto a través de una comunicación
-constante, documentación accesible y reuniones regulares con el equipo
-para escuchar, compartir información, preguntar, dar respuesta a
-sus preguntas y brindarles apoyo. Como gerente de proyectos, estás en el lugar justo para identificar
-el trabajo que podría ser adecuado para una persona que realmente lo quiere,
-pero que tiene vergüenza de pedirlo. Conocer las aspiraciones de un individuo
-te ayudará a destacar estas oportunidades.
+Para crear *igualdad de oportunidades* de tener éxito, debes asegurarte de que cada persona tenga acceso a la información
+y los recursos para hacer su mejor trabajo. Haces esto a través de una comunicación constante, documentación accesible y
+reuniones regulares con el equipo para escuchar, compartir información, preguntar, dar respuesta a sus preguntas y brindarles
+apoyo. Como gerente de proyectos, estás en el lugar justo para identificar el trabajo que podría ser adecuado para una persona
+que realmente lo quiere, pero que tiene vergüenza de pedirlo. Conocer las aspiraciones de un individuo te ayudará a destacar
+estas oportunidades.
 
-Finalmente, para aceptar
-e integrar perspectivas diversas, tu rol es cultivar una cultura en la que
-se puedan compartir, escuchar e integrar abiertamente sus ideas en las
-decisiones relacionadas con el trabajo. Haces esto al crear una sensación
-de seguridad psicológica en el equipo y al invitar a sus miembros a compartir
-pensamientos, ideas e inquietudes, independientemente de su
-función o rango en el equipo. Desarrollar habilidades de liderazgo éticas e inclusivas
-requiere una práctica continua. Así que ya sea que lideres un
-equipo de proyecto de dos o de 20 o 200, debes ser diligente al mejorar
-tus habilidades de liderazgo inclusivo y crear un entorno en el que se sientan
-seguros, escuchados y valorados. Puedes hacerlo fomentando una cultura
-de respeto, con igualdad de oportunidades de éxito, y aceptando e
-integrando perspectivas diversas. En la siguiente lección, veremos los
-fundamentos de la influencia, así como algunos errores comunes que cometemos
-cuando intentamos influir en los demás. Nos vemos en el siguiente video.
+Finalmente, *aceptar e integrar perspectivas diversas*, tu rol es cultivar una cultura en la que se puedan compartir, escuchar
+e integrar abiertamente sus ideas en las decisiones relacionadas con el trabajo. Haces esto al crear una sensación de seguridad
+psicológica en el equipo y al invitar a sus miembros a compartir pensamientos, ideas e inquietudes, independientemente de
+su función o rango en el equipo.
+
+Desarrollar habilidades de liderazgo éticas e inclusivas requiere una práctica continua. Así que ya sea que lideres un equipo
+de proyecto de dos o de 20 o 200, debes ser diligente al mejorar tus habilidades de liderazgo inclusivo y crear un entorno
+en el que se sientan seguros, escuchados y valorados. Puedes hacerlo fomentando una cultura de respeto, con igualdad de
+oportunidades de éxito, y aceptando e integrando perspectivas diversas.
 
 #### Un marco para la toma de decisiones éticas
 
