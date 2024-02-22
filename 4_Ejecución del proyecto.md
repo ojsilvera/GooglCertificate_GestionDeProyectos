@@ -2724,13 +2724,14 @@ conduce a una mayor innovación y mejores soluciones.
 
 *El liderazgo inclusivo.*
 
-El liderazgo inclusivo es cuando se
-respetan, valoran e integran la identidad, los antecedentes y las experiencias de
-todos en la forma en que opera el equipo. Estas diferencias mejoran
-la cultura, la colaboración, la innovación y el rendimiento del equipo. El liderazgo inclusivo está relacionado
-con la diversidad porque la diversidad es el conjunto de diferencias que cada uno
-de nosotros posee, ya sean visibles o invisibles, que nos dan una perspectiva
-única sobre el mundo y nuestro trabajo. La inclusión es lo que hace el equipo con esa
+El liderazgo inclusivo es cuando se respetan, valoran e integran la identidad, los antecedentes y las experiencias de todos
+en la forma en que opera el equipo. Estas diferencias mejoran la cultura, la colaboración, la innovación y el rendimiento
+del equipo.
+
+El liderazgo inclusivo está relacionado con la diversidad porque la diversidad es el conjunto de diferencias que cada uno
+de nosotros posee, ya sean visibles o invisibles, que nos dan una perspectiva única sobre el mundo y nuestro trabajo.
+
+La inclusión es lo que hace el equipo con esa
 diversidad de pensamiento y esa perspectiva. En Google, hemos identificado tres
 formas de liderar con inclusividad. Estas incluyen el fomento de una
 cultura de respeto, la igualdad de oportunidades de éxito y la aceptación
