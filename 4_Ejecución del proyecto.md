@@ -2699,6 +2699,72 @@ y priorizar.
 
 #### Liderazgo ético e inclusivo
 
+Bienvenido de nuevo. Liderar un equipo de proyecto conlleva
+la responsabilidad de crear un entorno seguro psicológicamente para
+las personas que te rodean. Mediante un liderazgo ético e inclusivo,
+puedes crear una cultura de equipo que funcione para todos y los motive
+para que hagan su mejor trabajo. En este video, aprenderás
+las definiciones de liderazgo inclusivo y ético. También aprenderás la importancia
+de fomentar una cultura de respeto, crear igualdad de oportunidades para triunfar y
+formas de recibir e integrar perspectivas. Entonces, ¿qué implica el liderazgo
+ético e inclusivo en un equipo y en una organización? Empecemos por el liderazgo ético. El liderazgo ético es una forma de
+liderazgo que promueve y valora la honestidad, la justicia, el respeto,
+la comunidad y la integridad. Promueves el liderazgo ético al definir
+y alinear valores dentro de tu equipo y al demostrar cómo respetar los valores
+beneficia la misión de la organización. Para tener un ejemplo de esto, considera cómo
+ha evolucionado la cultura del trabajo. En todo el mundo, los empleados que
+trabajan para organizaciones de todo tipo vienen pidiendo a sus empleadores
+que adopten cambios de políticas éticas y que expongan sus posiciones
+sobre los acontecimientos actuales. Las empresas pueden demostrar liderazgo
+ético mediante la creación de foros donde los empleados puedan plantear
+sus puntos de vista, ser escuchados y recibir seguimiento de los líderes
+de la empresa sobre sus inquietudes. El liderazgo ético está estrechamente
+vinculado al liderazgo inclusivo. Si el objetivo del liderazgo ético es
+crear foros en los que se escuchen las inquietudes de los empleados, el del
+liderazgo inclusivo es poner en práctica lo que hemos escuchado para
+crear un entorno que nos anime y empodere a todos y cada uno
+de los miembros de nuestra comunidad. Esto, a su vez, conduce a una mayor
+innovación y mejores soluciones. Así es como pensamos
+sobre la inclusión en Google. El liderazgo inclusivo es cuando se
+respetan, valoran e integran la identidad, los antecedentes y las experiencias de
+todos en la forma en que opera el equipo. Estas diferencias mejoran
+la cultura, la colaboración, la innovación y el rendimiento del equipo. El liderazgo inclusivo está relacionado
+con la diversidad porque la diversidad es el conjunto de diferencias que cada uno
+de nosotros posee, ya sean visibles o invisibles, que nos dan una perspectiva
+única sobre el mundo y nuestro trabajo. La inclusión es lo que hace el equipo con esa
+diversidad de pensamiento y esa perspectiva. En Google, hemos identificado tres
+formas de liderar con inclusividad. Estas incluyen el fomento de una
+cultura de respeto, la igualdad de oportunidades de éxito y la aceptación
+e integración de perspectivas diversas. Para fomentar una cultura de respeto,
+tu trabajo como gerente de proyectos es servir como modelo, marcar la pauta en
+el equipo y actuar cuando sea necesario. Eso significa ser un modelo
+de los valores de tu organización y tomar las medidas adecuadas
+si se observa una mala conducta. Crear un entorno en el que los miembros
+del equipo se sientan cómodos para comunicar sus inquietudes, y reconocer
+sus contribuciones con regularidad. Para crear igualdad de oportunidades de
+tener éxito, debes asegurarte de que cada persona tenga acceso a la información y
+los recursos para hacer su mejor trabajo. Haces esto a través de una comunicación
+constante, documentación accesible y reuniones regulares con el equipo
+para escuchar, compartir información, preguntar, dar respuesta a
+sus preguntas y brindarles apoyo. Como gerente de proyectos, estás en el lugar justo para identificar
+el trabajo que podría ser adecuado para una persona que realmente lo quiere,
+pero que tiene vergüenza de pedirlo. Conocer las aspiraciones de un individuo
+te ayudará a destacar estas oportunidades. Finalmente, para aceptar
+e integrar perspectivas diversas, tu rol es cultivar una cultura en la que
+se puedan compartir, escuchar e integrar abiertamente sus ideas en las
+decisiones relacionadas con el trabajo. Haces esto al crear una sensación
+de seguridad psicológica en el equipo y al invitar a sus miembros a compartir
+pensamientos, ideas e inquietudes, independientemente de su
+función o rango en el equipo. Desarrollar habilidades de liderazgo éticas e inclusivas
+requiere una práctica continua. Así que ya sea que lideres un
+equipo de proyecto de dos o de 20 o 200, debes ser diligente al mejorar
+tus habilidades de liderazgo inclusivo y crear un entorno en el que se sientan
+seguros, escuchados y valorados. Puedes hacerlo fomentando una cultura
+de respeto, con igualdad de oportunidades de éxito, y aceptando e
+integrando perspectivas diversas. En la siguiente lección, veremos los
+fundamentos de la influencia, así como algunos errores comunes que cometemos
+cuando intentamos influir en los demás. Nos vemos en el siguiente video.
+
 #### Un marco para la toma de decisiones éticas
 
 ### Los elementos de influencia
