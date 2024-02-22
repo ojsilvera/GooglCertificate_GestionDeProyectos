@@ -2677,19 +2677,13 @@ y trabajar con otros como parte de un equipo para asegurar que esta gestionando 
 de proyectos, independientemente de si tengo jerarquía o autoridad sobre el equipo del proyecto, y permitir que esos expertos
 en la materia se dediquen a aquello en lo que son buenos.
 
-Delegar en mi
-función cotidiana para mí se ve así: Intento encontrar expertos
-en la materia o personas que realmente disfruten
-haciendo algo específico que, tal vez, no
-sea parte de su función real. Uno de los mejores
-consejos que recibí alguna vez de un
-mentor tenía que ver con encontrar personas en
-la organización que disfrutaran haciendo algo
-y delegarles tu trabajo. De esa manera puedes concentrarte
-en la gestión del proyecto o programa general sin tener que embrollarte con ciertos detalles que,
-en realidad, puede que no disfrutes hacer o que alguien más
-disfrute mucho de hacerlo. La seguridad psicológica
-es muy importante en los equipos porque aporta diversidad de pensamiento. Algo en lo que realmente estoy
+Delegar es la función cotidiana y podria verse así: Intento encontrar expertos en la materia o personas que realmente disfruten
+haciendo algo específico que, tal vez, no sea parte de su función real. Uno de los mejores consejos tiene que ver con
+encontrar personas en la organización que disfrutaran haciendo algo y delegarles tu trabajo. De esa manera puedes concentrarte
+en la gestión del proyecto o programa general sin tener que embrollarte con ciertos detalles que, en realidad, puede que
+no disfrutes hacer o que alguien más disfrute mucho de hacerlo.
+
+La seguridad psicológica es muy importante en los equipos porque aporta diversidad de pensamiento. Algo en lo que realmente estoy
 trabajando es en asegurarme de que llevemos a
 cabo reuniones inclusivas. Un ejemplo de ello podría ser que, en una reunión,
 si notas que uno o dos participantes suelen estar callados
