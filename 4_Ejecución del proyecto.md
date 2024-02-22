@@ -2835,7 +2835,11 @@ demás antes de decidir una acción alternativa.
 
 *Toma una decisión y pruébala.*
 
+Una vez que hayas elegido una opción, pruébala imaginando la reacción a tu elección de parte de una persona cuya opinión
+valoras.
 
+    Ejemplo: Una vez que hayas decidido rechazar el regalo, analiza la decisión con tu gerente, el representante de Recursos
+    Humanos o un colega de confianza.
 
 *Actuar y reflexionar sobre el resultado.*
 
