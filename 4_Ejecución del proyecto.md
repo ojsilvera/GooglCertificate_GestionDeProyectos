@@ -2665,6 +2665,46 @@ y más inclinados a buscar soluciones innovadoras a problemas complejos.
 Gran parte de la dinámica del equipo ocurre bajo la superficie. Identificar y comprender las etapas de desarrollo del equipo
 puede ayudarte a ver cómo funciona la dinámica en tu equipo. Esto puede ayudarte a ser un mejor líder.
 
+#### Delegar los detalles
+
+Como gerente de proyectos, descubrirás que, en realidad, no eres el gerente directo de las personas en sus funciones. La
+habilidad interpersonal clave que debes tener aquí está relacionada con la influencia; influir sin ejercer autoridad, Es
+la capacidad de poder comunicarse con las personas y asegurarse de que entienden tus metas y objetivos, y llevarlos contigo
+en una visión y un recorrido compartidos.
+
+uno de los errores que se comete es tratar de hacer todo sin pedir ayuda. En el transcurso, realmente se aprende cómo delegar
+y trabajar con otros como parte de un equipo para asegurar que esta gestionando un proyecto de forma eficaz como gerente
+de proyectos, independientemente de si tengo jerarquía o autoridad sobre el equipo del proyecto, y permitir que esos expertos
+en la materia se dediquen a aquello en lo que son buenos.
+
+Delegar en mi
+función cotidiana para mí se ve así: Intento encontrar expertos
+en la materia o personas que realmente disfruten
+haciendo algo específico que, tal vez, no
+sea parte de su función real. Uno de los mejores
+consejos que recibí alguna vez de un
+mentor tenía que ver con encontrar personas en
+la organización que disfrutaran haciendo algo
+y delegarles tu trabajo. De esa manera puedes concentrarte
+en la gestión del proyecto o programa general sin tener que embrollarte con ciertos detalles que,
+en realidad, puede que no disfrutes hacer o que alguien más
+disfrute mucho de hacerlo. La seguridad psicológica
+es muy importante en los equipos porque aporta diversidad de pensamiento. Algo en lo que realmente estoy
+trabajando es en asegurarme de que llevemos a
+cabo reuniones inclusivas. Un ejemplo de ello podría ser que, en una reunión,
+si notas que uno o dos participantes suelen estar callados
+o no hablan, intentes animarlos a ser parte de la conversación. O, aun mejor, toma un café con ellos antes y pregúntales qué piensan
+del próximo tema. Anímalos a compartir
+esas ideas con el equipo. Tener diversidad de pensamiento
+en una reunión es muy importante. De lo contrario, terminarás con solo una persona en la reunión constantemente aportando sus pensamientos e ideas. Eso no parece muy diverso. Un tema respecto de
+la seguridad psicológica es esta asociación con
+la mentoría y el patrocinio. Para delegar, me aseguro
+de patrocinar personas. Me aseguro de mostrar su trabajo de mejor calidad
+a todo el equipo del proyecto. Es muy importante para la moral. Del otro lado de la mentoría, si hay un miembro junior en el equipo que tal vez no tiene la experiencia o no tiene la
+suficiente confianza para hablar, suelo delegarle tareas
+más pequeñas para que adquiera confianza o le delego algo que podría considerar divertido y que no sea parte de su
+trabajo cotidiano habitual. Encontrar esos equilibrios únicos es la mejor manera de delegar y priorizar.
+
 #### Liderazgo ético e inclusivo
 
 #### Un marco para la toma de decisiones éticas
