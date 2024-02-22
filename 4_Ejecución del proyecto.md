@@ -2792,19 +2792,58 @@ para la toma de decisiones éticas,consta de los siguientes puntos:
 
 *Reconocer un problema ético.*
 
+De acuerdo con este framework, puedes comenzar a cuestionar la ética de un problema haciéndote preguntas sobre la naturaleza
+del problema.
+
+    ¿Tu decisión podría afectar negativamente a otra persona o grupo de personas?
+    ¿El tema va más allá de lo legal o eficiente?
+
+A partir de ahí, puedes proceder a la recopilación de datos.
+
+    Ejemplo: Un proveedor con el que has trabajado en el pasado te envía un generoso obsequio navideño poco antes de que
+    estés a punto de seleccionar un proveedor para una tarea particular en tu proyecto. Si aceptas el regalo, ¿otras personas
+    se verían afectadas negativamente? Para determinar la respuesta a esta pregunta, conoce más hechos.
+
+*Conoce los hechos.*
+
+Decide qué debes hacer al respecto y busca respuestas según sea necesario. Consulta a las personas adecuadas para considerar
+todas las opciones disponibles.
+
+    Ejemplo: Continuando con el ejemplo anterior, debes verificar si tu empresa tiene pautas éticas con respecto a la aceptación
+    de obsequios de terceros. De lo contrario, consulta a tu representante de Recursos Humanos sobre el asunto.
+
+*Evaluar acciones alternativas.*
+
+Puedes evaluar acciones alternativas haciéndote las siguientes preguntas:
+
+    "¿Qué opción producirá el mayor beneficio y el menor daño?"
+
+    "¿Qué opción respeta mejor los derechos de todos los interesados?"
+
+    "¿Qué opción trata a las personas de manera igualitaria o proporcional?"
+
+    "¿Qué opción sirve mejor a la comunidad en su conjunto, no solo a algunos miembros de ella?"
+
+    "¿Qué opción me lleva a actuar como el tipo de persona que quiero ser?"
+
+Ten en cuenta que tus respuestas a estas preguntas son subjetivas y es posible que te convenga obtener la opinión de los
+demás antes de decidir una acción alternativa.
+
+    Ejemplo: En el caso del ejemplo del regalo del proveedor, la respuesta a la pregunta "¿Qué opción trata a las personas
+    de manera igualitaria o proporcional?" podría ser "rechazar el regalo", dado que aceptarlo puede influir en tu decisión
+    sobre a quién adjudicar el contrato.
+
+*Toma una decisión y pruébala.*
+
+
+
+*Actuar y reflexionar sobre el resultado.*
+
 Considera cómo llevar a cabo la decisión con consideración y cuidado y, después de actuar, considera los resultados de la
 decisión.
 
     Ejemplo: Rechaza respetuosamente el obsequio del proveedor, señalando tu motivo (por ejemplo, las pautas éticas de tu
     empresa establecen que los empleados no pueden aceptar obsequios valorados en más de $20 de proveedores o contratistas).
-
-*Conoce los hechos.*
-
-*Evaluar acciones alternativas.*
-
-*Toma una decisión y pruébala.*
-
-*Actuar y reflexionar sobre el resultado.*
 
 ### Los elementos de influencia
 
