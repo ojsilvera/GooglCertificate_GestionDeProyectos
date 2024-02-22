@@ -2851,6 +2851,14 @@ decisión.
 
 ### Los elementos de influencia
 
+#### Pasos para influir de forma eficaz
+
+#### Usar fuentes de poder para influir
+
+#### Chris: Influir en otros al demostrar el impacto del proyecto
+
+#### Crear una declaración influyente efectiva
+
 ## modulo_4_5
 
 ## modulo_4_6
