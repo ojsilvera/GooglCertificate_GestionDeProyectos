@@ -2735,11 +2735,13 @@ inclusión es lo que hace el equipo con esa diversidad de pensamiento y esa pers
 hemos identificado tres formas de liderar con inclusividad. Estas incluyen el fomento de una cultura de respeto, la igualdad
 de oportunidades de éxito y la aceptación e integración de perspectivas diversas.
 
-Para fomentar una cultura de respeto, tu trabajo como gerente de proyectos es servir como modelo, marcar la pauta en el
+Para fomentar una *cultura de respeto*, tu trabajo como gerente de proyectos es servir como modelo, marcar la pauta en el
 equipo y actuar cuando sea necesario. Eso significa ser un modelo de los valores de tu organización y tomar las medidas adecuadas
 si se observa una mala conducta. Crear un entorno en el que los miembros
 del equipo se sientan cómodos para comunicar sus inquietudes, y reconocer
-sus contribuciones con regularidad. Para crear igualdad de oportunidades de
+sus contribuciones con regularidad.
+
+Para crear igualdad de oportunidades de
 tener éxito, debes asegurarte de que cada persona tenga acceso a la información y
 los recursos para hacer su mejor trabajo. Haces esto a través de una comunicación
 constante, documentación accesible y reuniones regulares con el equipo
@@ -2747,7 +2749,9 @@ para escuchar, compartir información, preguntar, dar respuesta a
 sus preguntas y brindarles apoyo. Como gerente de proyectos, estás en el lugar justo para identificar
 el trabajo que podría ser adecuado para una persona que realmente lo quiere,
 pero que tiene vergüenza de pedirlo. Conocer las aspiraciones de un individuo
-te ayudará a destacar estas oportunidades. Finalmente, para aceptar
+te ayudará a destacar estas oportunidades.
+
+Finalmente, para aceptar
 e integrar perspectivas diversas, tu rol es cultivar una cultura en la que
 se puedan compartir, escuchar e integrar abiertamente sus ideas en las
 decisiones relacionadas con el trabajo. Haces esto al crear una sensación
