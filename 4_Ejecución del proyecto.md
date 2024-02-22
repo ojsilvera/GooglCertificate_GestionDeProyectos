@@ -2657,7 +2657,12 @@ equipo se sienten seguros, están dispuestos a ayudarse entre sí y aceptar ayud
 el proyecto al mantener los cronogramas al día. Aunque puede llevar tiempo llegar a la etapa de desempeño, usar la etapa
 de normalización como un momento para fomentar un entorno colaborativo puede ayudarte a llegar a ese punto más rápido.
 
-Comprender y gestionar la dinámica del equipo también puede ayudarte a entender cómo motivarlos. Es probable que los miembros del equipo motivados contribuyan más a los debates, completen sus tareas y participen en otras actividades del proyecto. Un ambiente de equipo positivo puede ayudar a los empleados a sentirse empoderados, a estar más cómodos al tomar riesgos calculados y más inclinados a buscar soluciones innovadoras a problemas complejos. Recuerda que gran parte de la dinámica del equipo ocurre bajo la superficie. Identificar y comprender las etapas de desarrollo del equipo puede ayudarte a ver cómo funciona la dinámica en tu equipo.
+Comprender y gestionar la dinámica del equipo también puede ayudarte a entender cómo motivarlos. Es probable que los miembros
+del equipo motivados contribuyan más a los debates, completen sus tareas y participen en otras actividades del proyecto. Un
+ambiente de equipo positivo puede ayudar a los empleados a sentirse empoderados, a estar más cómodos al tomar riesgos calculados
+y más inclinados a buscar soluciones innovadoras a problemas complejos.
+
+Recuerda que gran parte de la dinámica del equipo ocurre bajo la superficie. Identificar y comprender las etapas de desarrollo del equipo puede ayudarte a ver cómo funciona la dinámica en tu equipo.
 Esto puede ayudarte a ser un mejor líder.
 A continuación, veremos qué significa promover un liderazgo inclusivo y ético en el lugar de trabajo. Nos vemos ahí.
 
