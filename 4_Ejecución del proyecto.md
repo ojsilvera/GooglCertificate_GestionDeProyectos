@@ -2662,9 +2662,8 @@ del equipo motivados contribuyan más a los debates, completen sus tareas y part
 ambiente de equipo positivo puede ayudar a los empleados a sentirse empoderados, a estar más cómodos al tomar riesgos calculados
 y más inclinados a buscar soluciones innovadoras a problemas complejos.
 
-Recuerda que gran parte de la dinámica del equipo ocurre bajo la superficie. Identificar y comprender las etapas de desarrollo del equipo puede ayudarte a ver cómo funciona la dinámica en tu equipo.
-Esto puede ayudarte a ser un mejor líder.
-A continuación, veremos qué significa promover un liderazgo inclusivo y ético en el lugar de trabajo. Nos vemos ahí.
+Gran parte de la dinámica del equipo ocurre bajo la superficie. Identificar y comprender las etapas de desarrollo del equipo
+puede ayudarte a ver cómo funciona la dinámica en tu equipo. Esto puede ayudarte a ser un mejor líder.
 
 #### Liderazgo ético e inclusivo
 
