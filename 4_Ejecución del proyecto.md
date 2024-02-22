@@ -2779,6 +2779,11 @@ Parte del desafío de liderar con ética es garantizar que tus acciones se aline
 tanto dentro de la organización como fuera de ella. En tu rol como gerente de proyectos, un framework claro para la toma
 de decisiones éticas puede guiarte para tomar decisiones positivas a lo largo del proyecto.
 
+Un framework común para la toma de decisiones éticas
+
+El Centro Markkula de Ética Aplicada de la Universidad de Santa Clara  desarrolló el siguiente framework como una guía útil
+para la toma de decisiones éticas,consta de los siguientes puntos:
+
 ### Los elementos de influencia
 
 ## modulo_4_5
