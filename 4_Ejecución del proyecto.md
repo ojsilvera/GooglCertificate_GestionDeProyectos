@@ -2767,7 +2767,17 @@ del proyecto, comienza con la práctica de una conducta ética.
 
 *Ética en tu organización.*
 
-La ética se puede definir como los principios de conducta que rigen a un individuo o un grupo. Sin embargo, no existe una agrupación única y aceptada universalmente de estándares éticos; estas definiciones difieren según la cultura y la comunidad de tu empresa. En el mundo laboral, los estándares éticos pueden variar según la profesión, la industria y la organización. Por lo general, una organización tendrá su propio código de conducta que especifique las normas según las cuales deben rendir cuentas sus empleados. 
+La ética se puede definir como los principios de conducta que rigen a un individuo o un grupo. Sin embargo, no existe una
+agrupación única y aceptada universalmente de estándares éticos; estas definiciones difieren según la cultura y la comunidad
+de tu empresa.
+
+En el mundo laboral, los estándares éticos pueden variar según la profesión, la industria y la organización. Por lo general,
+una organización tendrá su propio código de conducta que especifique las normas según las cuales deben rendir cuentas sus
+empleados.
+
+Parte del desafío de liderar con ética es garantizar que tus acciones se alineen con los estándares éticos de la comunidad
+tanto dentro de la organización como fuera de ella. En tu rol como gerente de proyectos, un framework claro para la toma
+de decisiones éticas puede guiarte para tomar decisiones positivas a lo largo del proyecto.
 
 ### Los elementos de influencia
 
