@@ -2636,7 +2636,12 @@ vez quieras marcar el final del proyecto con una celebración. como gerente de p
 los hitos finales y el éxito del proyecto como grupo. Y asegúrate de que cada miembro del equipo sepa qué sigue para ellos.
 
 En resumen, las cinco etapas de desarrollo del equipo de Tuckman son formación, adaptación, normalización, desempeño y
-cierre. Estas etapas de desarrollo del equipo se unen para formar un framework útil que puedes utilizar para evaluar y reconocer la dinámica del equipo y luego ajustar tu estilo de gestión en consecuencia. La dinámica del equipo se refiere a las fuerzas conscientes e inconscientes que impactan en el comportamiento y el desempeño del equipo.
+cierre. Estas etapas de desarrollo del equipo se unen para formar un framework útil que puedes utilizar para evaluar y
+reconocer la dinámica del equipo y luego ajustar tu estilo de gestión en consecuencia.
+
+La dinámica del equipo se refiere a las fuerzas conscientes e inconscientes que impactan en el comportamiento y el desempeño
+del equipo.
+
 La gestión de la dinámica del equipo es importante para motivar al equipo. Puede ser tentador suponer que la gente puede avanzar a toda velocidad. Pero, en realidad, es importante tomarte el tiempo para entender la dinámica del equipo en general y cómo encajan los miembros individuales. Esto es especialmente importante durante las etapas más precarias de formación y adaptación.
 Vamos a explicar en detalle por qué gestionar la dinámica del equipo es muy importante. Primero, los equipos tienen individuos con diferentes conjuntos de destrezas, diversos grados de autonomía, y prioridades enfrentadas.
 Es tu trabajo forjar un consenso y establecer propósitos, objetivos, dependencias y responsabilidades. Cuando los equipos funcionan de manera cohesiva, pueden centrarse en el ahora. Otra razón por la que es importante gestionar la dinámica del equipo es que te ayuda a crear un entorno colaborativo y psicológicamente seguro. Cuando los miembros del equipo se sienten seguros, están dispuestos a ayudarse entre sí y aceptar ayuda cuando la necesitan. Esto beneficia a todo el proyecto al mantener los cronogramas al día. Aunque puede llevar tiempo llegar a la etapa de desempeño, usar la etapa de normalización como un momento para fomentar un entorno colaborativo puede ayudarte a llegar a ese punto más rápido.
