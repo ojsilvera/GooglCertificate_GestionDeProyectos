@@ -3022,6 +3022,45 @@ En resumen influir en otros es:
 
 #### Crear una declaración influyente efectiva
 
+- ¿Qué es influir?
+
+Influir es la capacidad de alterar el pensamiento o el comportamiento de otra persona. Si alguna vez has intentado persuadir
+a otra persona para que comprenda tu punto de vista, entonces sabes que influir es más fácil de decir que de hacer.
+
+- Los cuatro pasos de Conger
+
+En su artículo, El arte necesario de la persuasión, Jay A. Conger identificó cuatro pasos para influir de manera efectiva
+en otra persona para que considere nuevas ideas.
+
+Como viste anteriormente, los pasos son:
+
+- Establecer credibilidad
+
+        Al tratar de persuadir a otra persona para que te escuche, es útil establecer credibilidad. Pregúntate, ¿por qué
+        debería escucharte esta persona? Según Conger, es mejor obtener credibilidad tanto de la experiencia como de las
+        relaciones.
+
+        Puedes generar credibilidad al mostrar un alto nivel de experiencia en el tema en cuestión. También ayuda tener
+        "un historial de buen juicio". Si descubres que no tienes experiencia suficiente en un tema, ¡no te preocupes! Puedes
+        trabajar para aumentar tus conocimientos a través de la educación o la investigación, o incluso puedes pedir ayuda
+        a un experto.
+
+        También puedes generar credibilidad a través de relaciones sólidas con tu audiencia y otras personas a tu alrededor,
+        Conger descubrió que los líderes influyentes tienden a mostrar su confiabilidad y voluntad de hacer lo correcto
+        por sus colegas con el tiempo y, a su vez, es más probable que las personas los escuchen.
+
+- Marco para intereses comunes
+
+        Para establecer un marco para intereses comunes, Puedes hacerlo argumentando cómo tu idea beneficiaría a la audiencia
+        y puedes determinar cómo tus ideas beneficiarán a la audiencia al obtener una sólida comprensión de ellas y lo que
+        valoran. Presta mucha atención a lo que le importa a la audiencia escuchando atentamente y recopilando información
+        durante las reuniones y conversaciones. Luego, enmarca tus ideas en función de las necesidades e intereses de la
+        audiencia.
+
+- Proporcionar evidencia
+
+- Conectarse emocionalmente
+
 ## modulo_4_5
 
 ## modulo_4_6
