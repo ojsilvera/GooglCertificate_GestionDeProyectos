@@ -2853,16 +2853,9 @@ decisión.
 
 #### Pasos para influir de forma eficaz
 
-¿qué queremos decir con influir? Influir es la capacidad de alterar el pensamiento o el comportamiento de otros. Hablaremos
-del concepto de influir en el contexto del proyecto Plant Pals en Office Green. Digamos que a tu equipo
-le gustaría asociarse con un conocido fabricante de chocolate para crear un paquete de oferta. Con esta oferta, el cliente
-podría optar por añadir una barra de chocolate de alta calidad con cada planta que compre. Decides enviar un correo
-electrónico inicial a un gerente de la fábrica de chocolate para evaluar su interés en la idea, y, en última instancia, influir
-en él para que trabaje contigo. Entonces, ¿cómo se escribe
-el correo electrónico que influye eficazmente en la audiencia para que considere tu idea? Resulta que hay cuatro pasos comprobados para
-influenciar de forma efectiva. El experto en liderazgo, Dr.
-Jay A. Conger, identifica los pasos para
-influenciar efectivamente como: credibilidad establecida, marco para intereses comunes, proporcionar evidencia y
+¿qué queremos decir con influir? Influir es la capacidad de alterar el pensamiento o el comportamiento de otros.
+
+El experto en liderazgo, Dr. Jay A. Conger, identifica los pasos para influenciar efectivamente como: credibilidad establecida, marco para intereses comunes, proporcionar evidencia y
 conectarse emocionalmente. Analicemos cada paso. El primer paso para influir de manera efectiva
 es establecer credibilidad. Durante este paso, argumentas por qué la audiencia
 debería escucharte. Según el Dr. Conger, la credibilidad proviene
