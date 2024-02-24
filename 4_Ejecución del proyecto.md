@@ -2945,9 +2945,18 @@ mayoría de *las fuentes de poder caen en dos grupos: organizativas y personales
     notes los problemas de una manera diferente. Comparte información con tu equipo con regularidad para que puedan darte
     su opinión sobre el panorama completo.
 
-    tu red. Esto se refiere a las personas con las que estás conectado profesionalmente y personalmente. Las conexiones sólidas dentro y fuera de tu organización pueden impulsar tu capacidad de influir en los demás y ayudar a que el proyecto continúe. Si demuestras que estás bien conectado y tienes buenas posibilidades de obtener el apoyo de los interesados o la aprobación presupuestaria de tus planes, es más probable que la audiencia esté de tu lado. Deberías usar tu red para ayudar a que los colegas realicen nuevas conexiones. La eficacia de tu equipo aumentará a medida que asumas la responsabilidad de ayudar a cada persona a desarrollar sus destrezas y ampliar su red, lo que a su vez aumenta su propio poder de influencia. Por último, tenemos la reputación, que se refiere a cómo otros te perciben en general.
-
-    Como es de esperar, las personas con *reputación positiva* tienden a ser más influyentes que las que tienen reputación negativa. Una manera en la que funciona esto es a través de la colaboración. Si eres un buen colaborador, puedes mejorar tu reputación al hacerte conocido porque es fácil trabajar contigo, cumples tus compromisos y ayudas a otros a alcanzar sus propias metas.
+    tu red. Esto se refiere a las personas con las que estás conectado profesionalmente y personalmente. Las conexiones
+    sólidas dentro y fuera de tu organización pueden impulsar tu capacidad de influir en los demás y ayudar a que el proyecto
+    continúe. Si demuestras que estás bien conectado y tienes buenas posibilidades de obtener el apoyo de los interesados
+    o la aprobación presupuestaria de tus planes, es más probable que la audiencia esté de tu lado. Deberías usar tu red
+    para ayudar a que los colegas realicen nuevas conexiones. La eficacia de tu equipo aumentará a medida que asumas la
+    responsabilidad de ayudar a cada persona a desarrollar sus destrezas y ampliar su red, lo que a su vez aumenta su propio
+    poder de influencia.
+    
+    Por último, tenemos la reputación, que se refiere a cómo otros te perciben en general. Como es de esperar, las personas
+    con *reputación positiva* tienden a ser más influyentes que las que tienen reputación negativa. Una manera en la que
+    funciona esto es a través de la colaboración. Si eres un buen colaborador, puedes mejorar tu reputación al hacerte
+    conocido porque es fácil trabajar contigo, cumples tus compromisos y ayudas a otros a alcanzar sus propias metas.
 
 Tu rol, acceso y control de la información, red, y reputación son importantes fuentes de poder organizativas que debes tener en cuenta.
 
