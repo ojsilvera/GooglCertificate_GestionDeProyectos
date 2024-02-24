@@ -3066,6 +3066,8 @@ Como viste anteriormente, los pasos son:
 
 - Conectarse emocionalmente
 
+        El cuarto paso es conectarse emocionalmente con la audiencia. En este paso, demuestras que estás involucrado emocionalmente en la idea que estás presentando. Y lo que es más importante, señala Conger, es que debes hacer todo lo posible para determinar y reflejar el estado emocional de la audiencia.
+
 ## modulo_4_5
 
 ## modulo_4_6
