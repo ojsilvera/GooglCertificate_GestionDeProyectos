@@ -2853,6 +2853,119 @@ decisión.
 
 #### Pasos para influir de forma eficaz
 
+Hola de nuevo. En este video, hablaremos sobre cómo influir
+en las personas que te rodean. Describiré los cuatro pasos de la influencia y algunos
+errores comunes. Hay algunas técnicas que los gerentes de proyectos
+pueden usar para influir en las personas
+con las que trabajan tanto dentro de un equipo
+como fuera de él. Pero primero, ¿qué
+queremos decir con influir? Influir es la capacidad de alterar el pensamiento o
+el comportamiento de otros. Hablaremos del
+concepto de influir en el contexto del proyecto
+Plant Pals en Office Green. Digamos que a tu equipo
+le gustaría asociarse con un conocido fabricante de chocolate para crear un paquete de oferta. Con esta oferta, el cliente
+podría optar por añadir una barra de chocolate de alta calidad con cada planta que compre. Decides enviar un correo
+electrónico inicial a un gerente de la fábrica de chocolate para evaluar su interés en la idea, y, en última instancia, influir
+en él para que trabaje contigo. Entonces, ¿cómo se escribe
+el correo electrónico que influye eficazmente en la audiencia para que considere tu idea? Resulta que hay cuatro pasos comprobados para
+influenciar de forma efectiva. El experto en liderazgo, Dr.
+Jay A. Conger, identifica los pasos para
+influenciar efectivamente como: credibilidad establecida, marco para intereses comunes, proporcionar evidencia y
+conectarse emocionalmente. Analicemos cada paso. El primer paso para influir de manera efectiva
+es establecer credibilidad. Durante este paso, argumentas por qué la audiencia
+debería escucharte. Según el Dr. Conger, la credibilidad proviene
+de dos fuentes, la experiencia y las relaciones. Tienes que demostrar
+a la audiencia que eres un experto
+sobre un tema determinado, ya sea a través de la
+experiencia profesional, una amplia investigación, u otra cosa, y debes demostrar credibilidad de relaciones al establecer que eres honesto, digno de confianza y alguien
+con quien querrán trabajar. Para establecer credibilidad,
+puedes comenzar el correo electrónico
+de Office Green con un saludo al destinatario
+por su nombre y luego escribir algo como “Soy Elita, gerenta de
+proyectos en Office Green. Su colega, Alex, me pasó
+su información de contacto. Alex y yo trabajábamos juntos
+para lanzar nuevos servicios en Office Green antes de que ella
+se uniera a su organización”. En estas líneas iniciales,
+has establecido tu experiencia y credibilidad al
+presentar tu puesto en Office Green y al resaltar que has lanzado nuevos servicios en el pasado. Para demostrar la
+credibilidad de la relación, has establecido que
+tú y el destinatario tienen un contacto compartido
+que ha trabajado contigo en el pasado
+y que puede dar fe de tu confiabilidad e
+inteligencia emocional. El segundo paso es enmarcar
+los intereses comunes. En este paso, argumentarás cómo tu idea puede
+beneficiar al público. Para determinar esto,
+necesitarás contar con una sólida comprensión de
+la audiencia y sus valores. En esencia, ¿qué parte
+de tu idea los atraerá y cómo se beneficiarán si aceptan tu idea? En el correo electrónico
+de Office Green, puedes establecer que has investigado su
+organización extensamente y que crees que
+este nuevo servicio podría alinearse con
+sus productos actuales. Por ejemplo, podrías
+escribir algo como esto, “Vamos a lanzar un
+servicio para brindar plantas de escritorio a los
+clientes principales y nos gustaría explorar un paquete
+de oferta que combine chocolate de alta calidad
+con los pedidos de plantas. He admirado la iniciativa de su organización en los
+últimos años para trabajar con otras marcas de estilo
+de vida y bienestar y creo que puede haber
+una excelente oportunidad para que colaboremos”. En esta parte del
+correo electrónico, has establecido que has hecho tu investigación sobre la
+organización y que sus asociaciones
+anteriores indican que trabajar juntos podría
+ser muy bueno. El siguiente paso es
+proporcionar evidencia. En este paso, argumentarás con datos reales y una
+narración persuasiva. Los números no son lo
+suficientemente fuertes por sí solos. Necesitan historias
+que los expresen. En el correo electrónico
+de Office Green, puedes atraer al destinatario
+con una línea como, “Recientemente, encuestamos
+a los clientes para evaluar el interés
+en este tipo de producto, y su marca apareció
+una y otra vez”. En este ejemplo, proporcionas evidencia a
+través de los resultados de encuestas de clientes
+que mostraron un reconocimiento de marca
+abrumadoramente positivo para la audiencia compartida. El último paso es
+conectarte emocionalmente. En este paso, demostrarás a la audiencia
+que estás comprometido emocionalmente con tu idea
+y harás lo mejor que puedas para coincidir con
+su estado emocional. En el correo electrónico
+de Office Green, puedes demostrar
+una conexión emocional aprovechando el
+espíritu de su marca. Por ejemplo, podrías
+escribir algo como, “Hemos estado
+siguiendo su perfil en Instagram y nos
+encantan las publicaciones sobre la conexión
+del chocolate con un estilo de vida equilibrado. Quizás podamos analizar
+cómo combinar fuerzas para llevar este
+mensaje a una audiencia aún más amplia”, y luego terminar la nota con
+un cierre amistoso, algo así como:
+“Si le interesa, me encantaría conectarme
+y compartir de qué se trata nuestro
+programa de socios”. Para recapitular:
+establecer credibilidad, enmarcar intereses comunes, proporcionar evidencia
+y conectarse emocionalmente son cuatro pasos
+comprobados y eficaces que puedes aplicar cuando
+quieras influir en los demás. El Dr. Conger también identificó cuatro errores comunes que
+cometen las personas cuando tratan de
+influir en los demás. A menudo se acercan a la
+audiencia con demasiada agresividad, lo que desanima
+a la gente por completo. También pueden
+resistirse al compromiso, que es crucial para cualquier
+tipo de acuerdo mutuo. Se concentran demasiado
+en argumentar a favor de su idea y no lo suficiente
+en establecer credibilidad, enmarcar intereses comunes, proporcionar evidencia
+y conectarse emocionalmente, y suponen que pueden llegar a un acuerdo a través de
+solo una conversación. Estos errores pueden poner
+en peligro tus intentos de influir en los demás y limitar tu capacidad de
+entablar relaciones, así que ten en cuenta estos
+errores comunes al prepararte para presentar tu gran
+idea a otra persona. Buen trabajo. Ahora conoces los cuatro
+pasos de la influencia, así como algunos errores
+comunes que la gente comete al intentar
+influir en otros. Luego, aprenderás más sobre fuentes de poder de influencia
+personales y organizativas. Nos vemos en el siguiente video.
+
 #### Usar fuentes de poder para influir
 
 #### Chris: Influir en otros al demostrar el impacto del proyecto
