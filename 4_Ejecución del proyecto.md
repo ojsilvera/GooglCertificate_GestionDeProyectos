@@ -2901,18 +2901,13 @@ para la audiencia compartida.
 *Conectarte emocionalmente.* En este paso, demostrarás a la audiencia que estás comprometido emocionalmente con tu idea
 y harás lo mejor que puedas para coincidir con su estado emocional.
 
-En el correo electrónico de Office Green, puedes demostrar una conexión emocional aprovechando el
-espíritu de su marca. Por ejemplo, podrías
-escribir algo como, “Hemos estado
-siguiendo su perfil en Instagram y nos
-encantan las publicaciones sobre la conexión
-del chocolate con un estilo de vida equilibrado. Quizás podamos analizar
-cómo combinar fuerzas para llevar este
-mensaje a una audiencia aún más amplia”, y luego terminar la nota con
-un cierre amistoso, algo así como:
-“Si le interesa, me encantaría conectarme
-y compartir de qué se trata nuestro
-programa de socios”. Para recapitular:
+En el correo electrónico de Office Green, puedes demostrar una conexión emocional aprovechando el espíritu de su marca,
+Por ejemplo, podrías escribir algo como, “Hemos estado siguiendo su perfil en Instagram y nos encantan las publicaciones
+sobre la conexión del chocolate con un estilo de vida equilibrado. Quizás podamos analizar cómo combinar fuerzas para llevar este
+mensaje a una audiencia aún más amplia”, y luego terminar la nota con un cierre amistoso, algo así como: “Si le interesa,
+me encantaría conectarme y compartir de qué se trata nuestro programa de socios”.
+
+*Para recapitular:*
 establecer credibilidad, enmarcar intereses comunes, proporcionar evidencia
 y conectarse emocionalmente son cuatro pasos
 comprobados y eficaces que puedes aplicar cuando
