@@ -2865,48 +2865,32 @@ El experto en liderazgo, Dr. Jay A. Conger, identifica los pasos para influencia
 
     Conectarse emocionalmente.
 
-Establecer credibilidad. Durante este paso, argumentas por qué la audiencia
-debería escucharte. Según el Dr. Conger, la credibilidad proviene
-de dos fuentes, la experiencia y las relaciones. Tienes que demostrar
-a la audiencia que eres un experto
-sobre un tema determinado, ya sea a través de la
-experiencia profesional, una amplia investigación, u otra cosa, y debes demostrar credibilidad de relaciones al establecer que eres honesto, digno de confianza y alguien
-con quien querrán trabajar. Para establecer credibilidad,
-puedes comenzar el correo electrónico
-de Office Green con un saludo al destinatario
-por su nombre y luego escribir algo como “Soy Elita, gerenta de
-proyectos en Office Green. Su colega, Alex, me pasó
-su información de contacto. Alex y yo trabajábamos juntos
-para lanzar nuevos servicios en Office Green antes de que ella
-se uniera a su organización”. En estas líneas iniciales,
-has establecido tu experiencia y credibilidad al
-presentar tu puesto en Office Green y al resaltar que has lanzado nuevos servicios en el pasado. Para demostrar la
-credibilidad de la relación, has establecido que
-tú y el destinatario tienen un contacto compartido
-que ha trabajado contigo en el pasado
-y que puede dar fe de tu confiabilidad e
-inteligencia emocional. El segundo paso es enmarcar
-los intereses comunes. En este paso, argumentarás cómo tu idea puede
-beneficiar al público. Para determinar esto,
-necesitarás contar con una sólida comprensión de
-la audiencia y sus valores. En esencia, ¿qué parte
-de tu idea los atraerá y cómo se beneficiarán si aceptan tu idea? En el correo electrónico
-de Office Green, puedes establecer que has investigado su
-organización extensamente y que crees que
-este nuevo servicio podría alinearse con
-sus productos actuales. Por ejemplo, podrías
-escribir algo como esto, “Vamos a lanzar un
-servicio para brindar plantas de escritorio a los
-clientes principales y nos gustaría explorar un paquete
-de oferta que combine chocolate de alta calidad
-con los pedidos de plantas. He admirado la iniciativa de su organización en los
-últimos años para trabajar con otras marcas de estilo
-de vida y bienestar y creo que puede haber
-una excelente oportunidad para que colaboremos”. En esta parte del
-correo electrónico, has establecido que has hecho tu investigación sobre la
-organización y que sus asociaciones
-anteriores indican que trabajar juntos podría
-ser muy bueno. El siguiente paso es
+*Establecer credibilidad.* Durante este paso, argumentas por qué la audiencia debería escucharte. Según el Dr. Conger, la
+credibilidad proviene de dos fuentes, la experiencia y las relaciones. Tienes que demostrar a la audiencia que eres un experto
+sobre un tema determinado, ya sea a través de la experiencia profesional, una amplia investigación, u otra cosa, y debes
+demostrar credibilidad de relaciones al establecer que eres honesto, digno de confianza y alguien con quien querrán trabajar.
+
+Para establecer credibilidad, puedes comenzar el correo electrónico de Office Green con un saludo al destinatario por su
+nombre y luego escribir algo como “Soy Elita, gerenta de proyectos en Office Green. Su colega, Alex, me pasó su información
+de contacto. Alex y yo trabajábamos juntos para lanzar nuevos servicios en Office Green antes de que ella se uniera a su
+organización”. En estas líneas iniciales, has establecido tu experiencia y credibilidad al presentar tu puesto en Office
+Green y al resaltar que has lanzado nuevos servicios en el pasado. Para demostrar la credibilidad de la relación, has
+establecido que tú y el destinatario tienen un contacto compartido que ha trabajado contigo en el pasado y que puede dar
+fe de tu confiabilidad e inteligencia emocional.
+
+*Los intereses comunes*. En este paso, argumentarás cómo tu idea puede beneficiar al público. Para determinar esto, necesitarás
+contar con una sólida comprensión de la audiencia y sus valores. En esencia, ¿qué parte de tu idea los atraerá y cómo se
+beneficiarán si aceptan tu idea?.
+
+En el correo electrónico de Office Green, puedes establecer que has investigado su organización extensamente y que crees
+que este nuevo servicio podría alinearse con sus productos actuales. Por ejemplo, podrías escribir algo como esto, “Vamos
+a lanzar un servicio para brindar plantas de escritorio a los clientes principales y nos gustaría explorar un paquete de
+oferta que combine chocolate de alta calidad con los pedidos de plantas. He admirado la iniciativa de su organización en los
+últimos años para trabajar con otras marcas de estilo de vida y bienestar y creo que puede haber una excelente oportunidad
+para que colaboremos”. En esta parte del correo electrónico, has establecido que has hecho tu investigación sobre la organización
+y que sus asociaciones anteriores indican que trabajar juntos podría ser muy bueno.
+
+El siguiente paso es
 proporcionar evidencia. En este paso, argumentarás con datos reales y una
 narración persuasiva. Los números no son lo
 suficientemente fuertes por sí solos. Necesitan historias
