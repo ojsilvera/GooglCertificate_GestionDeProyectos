@@ -2980,7 +2980,10 @@ historia y carácter.
     Como gerente de proyectos, gestionarás la dinámica del equipo y construirás las relaciones del equipo, que pueden ayudarte
     a generar una historia personal con la gente a tu alrededor.
 
-    El carácter se refiere a la opinión de otras personas de las cualidades que te convierten en quien eres. Como honestidad, integridad, amabilidad y mucho más. El carácter es muy importante. Derivarás una enorme cantidad de poder a partir de estimaciones positivas de tu carácter. ¿Qué características personales valoras en ti mismo? Estas son las cualidades que tienen el poder de hacerte un líder fuerte y solidario para las personas que te rodean.
+    El carácter se refiere a la opinión de otras personas de las cualidades que te convierten en quien eres. Como honestidad,
+    integridad, amabilidad y mucho más. El carácter es muy importante. Derivarás una enorme cantidad de poder a partir de
+    estimaciones positivas de tu carácter. ¿Qué características personales valoras en ti mismo? Estas son las cualidades
+    que tienen el poder de hacerte un líder fuerte y solidario para las personas que te rodean.
 
 Conocimiento, expresividad, historia y carácter son solo cuatro fuentes de poder personales, pero es importante recordar
 que hay mucho más dentro de cada una de ellas. Hay confiabilidad, autenticidad, sabiduría, y así sucesivamente. Hay muchos
