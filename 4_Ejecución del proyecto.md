@@ -2964,13 +2964,17 @@ en cuenta.
 *fuentes de poder personales,* son las fuentes de poder que provienen de ti. , que incluyen conocimientos, expresividad,
 historia y carácter.
 
-El conocimiento se refiere al poder que extraes de tu experiencia en ciertos temas, tus destrezas y conjuntos de habilidades únicos e incluso tu capacidad de aprender cosas nuevas. ¿Qué te viene a la mente cuando piensas sobre un líder influyente? Por lo general, tiene mucho conocimiento en su campo y es más probable que confíes en su opinión. Cuando estés considerando cómo usar tu propio conocimiento como una fuente de poder, reflexiona sobre la experiencia que ya tienes y considera las áreas en las que todavía quieres crecer y obtener más información.
+    El conocimiento se refiere al poder que extraes de tu experiencia en ciertos temas, tus destrezas y conjuntos de habilidades
+    únicos e incluso tu capacidad de aprender cosas nuevas. ¿Qué te viene a la mente cuando piensas sobre un líder influyente?
+    Por lo general, tiene mucho conocimiento en su campo y es más probable que confíes en su opinión. Cuando estés considerando
+    cómo usar tu propio conocimiento como una fuente de poder, reflexiona sobre la experiencia que ya tienes y considera
+    las áreas en las que todavía quieres crecer y obtener más información.
 
-La expresividad se refiere a tu capacidad de comunicarte con los demás. Esta es importante. Como ya aprendiste antes, gran parte de la influencia se reduce a cómo te acercas a la audiencia. Quizás eres un gran narrador o tal vez eres realmente bueno para conectarte emocionalmente con la gente. Las destrezas sólidas de comunicación como estas pueden aumentar mucho tu capacidad de influir en los demás.
+    La expresividad se refiere a tu capacidad de comunicarte con los demás. Esta es importante. Como ya aprendiste antes, gran parte de la influencia se reduce a cómo te acercas a la audiencia. Quizás eres un gran narrador o tal vez eres realmente bueno para conectarte emocionalmente con la gente. Las destrezas sólidas de comunicación como estas pueden aumentar mucho tu capacidad de influir en los demás.
 
-La siguiente fuente de poder personal es la historia. La historia se refiere al nivel de historia personal que hay entre tú y la otra persona. Tiene sentido. Una relación sólida con la persona a la que esperas influenciar puede ser muy útil. Como gerente de proyectos, gestionarás la dinámica del equipo y construirás las relaciones del equipo, que pueden ayudarte a generar una historia personal con la gente a tu alrededor.
+    La siguiente fuente de poder personal es la historia. La historia se refiere al nivel de historia personal que hay entre tú y la otra persona. Tiene sentido. Una relación sólida con la persona a la que esperas influenciar puede ser muy útil. Como gerente de proyectos, gestionarás la dinámica del equipo y construirás las relaciones del equipo, que pueden ayudarte a generar una historia personal con la gente a tu alrededor.
 
-El carácter se refiere a la opinión de otras personas de las cualidades que te convierten en quien eres. Como honestidad, integridad, amabilidad y mucho más. El carácter es muy importante. Derivarás una enorme cantidad de poder a partir de estimaciones positivas de tu carácter. ¿Qué características personales valoras en ti mismo? Estas son las cualidades que tienen el poder de hacerte un líder fuerte y solidario para las personas que te rodean.
+    El carácter se refiere a la opinión de otras personas de las cualidades que te convierten en quien eres. Como honestidad, integridad, amabilidad y mucho más. El carácter es muy importante. Derivarás una enorme cantidad de poder a partir de estimaciones positivas de tu carácter. ¿Qué características personales valoras en ti mismo? Estas son las cualidades que tienen el poder de hacerte un líder fuerte y solidario para las personas que te rodean.
 
 Conocimiento, expresividad, historia y carácter son solo cuatro fuentes de poder personales, pero es importante recordar
 que hay mucho más dentro de cada una de ellas. Hay confiabilidad, autenticidad, sabiduría, y así sucesivamente. Hay muchos
