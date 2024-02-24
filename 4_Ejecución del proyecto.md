@@ -2890,25 +2890,18 @@ oferta que combine chocolate de alta calidad con los pedidos de plantas. He admi
 para que colaboremos”. En esta parte del correo electrónico, has establecido que has hecho tu investigación sobre la organización
 y que sus asociaciones anteriores indican que trabajar juntos podría ser muy bueno.
 
-El siguiente paso es
-proporcionar evidencia. En este paso, argumentarás con datos reales y una
-narración persuasiva. Los números no son lo
-suficientemente fuertes por sí solos. Necesitan historias
-que los expresen. En el correo electrónico
-de Office Green, puedes atraer al destinatario
-con una línea como, “Recientemente, encuestamos
-a los clientes para evaluar el interés
-en este tipo de producto, y su marca apareció
-una y otra vez”. En este ejemplo, proporcionas evidencia a
-través de los resultados de encuestas de clientes
-que mostraron un reconocimiento de marca
-abrumadoramente positivo para la audiencia compartida. El último paso es
-conectarte emocionalmente. En este paso, demostrarás a la audiencia
-que estás comprometido emocionalmente con tu idea
-y harás lo mejor que puedas para coincidir con
-su estado emocional. En el correo electrónico
-de Office Green, puedes demostrar
-una conexión emocional aprovechando el
+*Proporcionar evidencia.* En este paso, argumentarás con datos reales y una narración persuasiva. Los números no son lo
+suficientemente fuertes por sí solos. Necesitan historias que los expresen.
+
+En el correo electrónico de Office Green, puedes atraer al destinatario con una línea como, “Recientemente, encuestamos a
+los clientes para evaluar el interés en este tipo de producto, y su marca apareció una y otra vez”. En este ejemplo, proporcionas
+evidencia a través de los resultados de encuestas de clientes que mostraron un reconocimiento de marca abrumadoramente positivo
+para la audiencia compartida.
+
+*Conectarte emocionalmente.* En este paso, demostrarás a la audiencia que estás comprometido emocionalmente con tu idea
+y harás lo mejor que puedas para coincidir con su estado emocional.
+
+En el correo electrónico de Office Green, puedes demostrar una conexión emocional aprovechando el
 espíritu de su marca. Por ejemplo, podrías
 escribir algo como, “Hemos estado
 siguiendo su perfil en Instagram y nos
