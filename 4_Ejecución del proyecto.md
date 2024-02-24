@@ -2853,16 +2853,8 @@ decisión.
 
 #### Pasos para influir de forma eficaz
 
-Hola de nuevo. En este video, hablaremos sobre cómo influir
-en las personas que te rodean. Describiré los cuatro pasos de la influencia y algunos
-errores comunes. Hay algunas técnicas que los gerentes de proyectos
-pueden usar para influir en las personas
-con las que trabajan tanto dentro de un equipo
-como fuera de él. Pero primero, ¿qué
-queremos decir con influir? Influir es la capacidad de alterar el pensamiento o
-el comportamiento de otros. Hablaremos del
-concepto de influir en el contexto del proyecto
-Plant Pals en Office Green. Digamos que a tu equipo
+¿qué queremos decir con influir? Influir es la capacidad de alterar el pensamiento o el comportamiento de otros. Hablaremos
+del concepto de influir en el contexto del proyecto Plant Pals en Office Green. Digamos que a tu equipo
 le gustaría asociarse con un conocido fabricante de chocolate para crear un paquete de oferta. Con esta oferta, el cliente
 podría optar por añadir una barra de chocolate de alta calidad con cada planta que compre. Decides enviar un correo
 electrónico inicial a un gerente de la fábrica de chocolate para evaluar su interés en la idea, y, en última instancia, influir
