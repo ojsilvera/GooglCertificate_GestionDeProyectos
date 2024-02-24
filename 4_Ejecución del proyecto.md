@@ -2855,9 +2855,17 @@ decisión.
 
 ¿qué queremos decir con influir? Influir es la capacidad de alterar el pensamiento o el comportamiento de otros.
 
-El experto en liderazgo, Dr. Jay A. Conger, identifica los pasos para influenciar efectivamente como: credibilidad establecida, marco para intereses comunes, proporcionar evidencia y
-conectarse emocionalmente. Analicemos cada paso. El primer paso para influir de manera efectiva
-es establecer credibilidad. Durante este paso, argumentas por qué la audiencia
+El experto en liderazgo, Dr. Jay A. Conger, identifica los pasos para influenciar efectivamente como:
+
+    Credibilidad establecida.
+
+    Marco para intereses comunes.
+
+    Proporcionar evidencia.
+
+    Conectarse emocionalmente.
+
+Establecer credibilidad. Durante este paso, argumentas por qué la audiencia
 debería escucharte. Según el Dr. Conger, la credibilidad proviene
 de dos fuentes, la experiencia y las relaciones. Tienes que demostrar
 a la audiencia que eres un experto
