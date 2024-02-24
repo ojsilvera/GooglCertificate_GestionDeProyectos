@@ -3059,7 +3059,10 @@ Como viste anteriormente, los pasos son:
 
 - Proporcionar evidencia
 
-        El tercer paso es proporcionar evidencia que respalde tus ideas. Como señala Conger, aunque los números son importantes, los mejores persuasores combinan los números con un lenguaje vívido. Comparten historias, ejemplos y metáforas para ayudar a influir en sus audiencias. El uso de un lenguaje vívido puede ayudar a dar vida a tus cifras y atraer el interés de los interesados hacia tu propuesta.
+        El tercer paso es proporcionar evidencia que respalde tus ideas. Como señala Conger, aunque los números son importantes,
+        los mejores persuasores combinan los números con un lenguaje vívido. Comparten historias, ejemplos y metáforas para
+        ayudar a influir en sus audiencias. El uso de un lenguaje vívido puede ayudar a dar vida a tus cifras y atraer el
+        interés de los interesados hacia tu propuesta.
 
 - Conectarse emocionalmente
 
