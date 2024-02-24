@@ -3066,7 +3066,14 @@ Como viste anteriormente, los pasos son:
 
 - Conectarse emocionalmente
 
-        El cuarto paso es conectarse emocionalmente con la audiencia. En este paso, demuestras que estás involucrado emocionalmente en la idea que estás presentando. Y lo que es más importante, señala Conger, es que debes hacer todo lo posible para determinar y reflejar el estado emocional de la audiencia.
+        El cuarto paso es conectarse emocionalmente con la audiencia. En este paso, demuestras que estás involucrado
+        emocionalmente en la idea que estás presentando. Y lo que es más importante, señala Conger, es que debes hacer todo
+        lo posible para determinar y reflejar el estado emocional de la audiencia.
+
+Los cuatro pasos de Conger (establecer credibilidad, establecer un marco de intereses comunes, proporcionar evidencia y
+conectarse emocionalmente) deben aplicarse en las conversaciones importantes con aquellos en quienes pretendas influir. Pero,
+para prepararte para el éxito durante estas conversaciones, puedes aplicar los cuatro pasos a la declaración influyente
+que prepara el escenario para tu idea.
 
 ## modulo_4_5
 
