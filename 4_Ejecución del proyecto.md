@@ -2919,15 +2919,10 @@ También pueden resistirse al compromiso, que es crucial para cualquier tipo de 
 
 Se concentran demasiado en argumentar a favor de su idea y no lo suficiente en establecer credibilidad, enmarcar intereses
 comunes, proporcionar evidencia y conectarse emocionalmente, y suponen que pueden llegar a un acuerdo a través de
-solo una conversación. Estos errores pueden poner
-en peligro tus intentos de influir en los demás y limitar tu capacidad de
-entablar relaciones, así que ten en cuenta estos
-errores comunes al prepararte para presentar tu gran
-idea a otra persona. Buen trabajo. Ahora conoces los cuatro
-pasos de la influencia, así como algunos errores
-comunes que la gente comete al intentar
-influir en otros. Luego, aprenderás más sobre fuentes de poder de influencia
-personales y organizativas. Nos vemos en el siguiente video.
+solo una conversación.
+
+Estos errores pueden poner en peligro tus intentos de influir en los demás y limitar tu capacidad de entablar relaciones,
+así que ten en cuenta estos errores comunes al prepararte para presentar tu gran idea a otra persona.
 
 #### Usar fuentes de poder para influir
 
