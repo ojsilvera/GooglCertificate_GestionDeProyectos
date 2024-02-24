@@ -2908,19 +2908,17 @@ mensaje a una audiencia aún más amplia”, y luego terminar la nota con un cie
 me encantaría conectarme y compartir de qué se trata nuestro programa de socios”.
 
 *Para recapitular:*
-establecer credibilidad, enmarcar intereses comunes, proporcionar evidencia
-y conectarse emocionalmente son cuatro pasos
-comprobados y eficaces que puedes aplicar cuando
-quieras influir en los demás. El Dr. Conger también identificó cuatro errores comunes que
-cometen las personas cuando tratan de
-influir en los demás. A menudo se acercan a la
-audiencia con demasiada agresividad, lo que desanima
-a la gente por completo. También pueden
-resistirse al compromiso, que es crucial para cualquier
-tipo de acuerdo mutuo. Se concentran demasiado
-en argumentar a favor de su idea y no lo suficiente
-en establecer credibilidad, enmarcar intereses comunes, proporcionar evidencia
-y conectarse emocionalmente, y suponen que pueden llegar a un acuerdo a través de
+
+Establecer credibilidad, enmarcar intereses comunes, proporcionar evidencia y conectarse emocionalmente son cuatro pasos
+comprobados y eficaces que puedes aplicar cuando quieras influir en los demás. El Dr. Conger también identificó cuatro errores
+comunes que cometen las personas cuando tratan de influir en los demás:
+
+A menudo se acercan a la audiencia con demasiada agresividad, lo que desanima a la gente por completo.
+
+También pueden resistirse al compromiso, que es crucial para cualquier tipo de acuerdo mutuo.
+
+Se concentran demasiado en argumentar a favor de su idea y no lo suficiente en establecer credibilidad, enmarcar intereses
+comunes, proporcionar evidencia y conectarse emocionalmente, y suponen que pueden llegar a un acuerdo a través de
 solo una conversación. Estos errores pueden poner
 en peligro tus intentos de influir en los demás y limitar tu capacidad de
 entablar relaciones, así que ten en cuenta estos
