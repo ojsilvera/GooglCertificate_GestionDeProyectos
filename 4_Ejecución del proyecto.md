@@ -2926,6 +2926,16 @@ así que ten en cuenta estos errores comunes al prepararte para presentar tu gra
 
 #### Usar fuentes de poder para influir
 
+En resumen:
+
+las fuentes de poder que pueden influir en nuestra capacidad para influir en los demás. Estas fuentes de poder se dividen
+en dos categorías: organizacionales y personales.
+
+lgunas *fuentes de poder organizacionales* incluyen nuestro rol en la organización, el acceso y control de la información,
+nuestra red de contactos y nuestra reputación
+
+Por otro lado, las fuentes de poder personales incluyen nuestro conocimiento, nuestra capacidad de expresión, nuestra historia personal y nuestro carácter. Es importante reconocer y aprovechar estas fuentes de poder para influir de manera efectiva en los demás.
+
 #### Chris: Influir en otros al demostrar el impacto del proyecto
 
 #### Crear una declaración influyente efectiva
