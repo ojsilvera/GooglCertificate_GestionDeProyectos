@@ -3176,6 +3176,24 @@ necesidades del lector.
       correos electrónicos de más de unas pocas oraciones o hacer clic en enlaces externos para obtener más información,
       Intenta adaptar tus correos electrónicos en consecuencia.
 
+- Estructura la redacción
+
+La estructura tiene que ver con el recorrido visual, o la estética, del correo electrónico. Un correo electrónico bien
+estructurado transmite información crítica al lector rápidamente y le permite escanear el texto explicativo, o bien ignorarlo
+por completo. Estos son algunos consejos para estructurar el correo electrónico de manera eficaz:
+
+    - Usa listas. Las listas interrumpen el recorrido visual. Si tienes que decir más de una cosa sobre algo, considera
+      usar listas.
+
+    - Escribe verbos de acción fuertes al principio de cada línea.
+
+    - Usa etiquetas. Las etiquetas ayudan a orientar al lector hacia la información más importante.
+
+    - Agrega enlaces. Los enlaces permiten a los lectores acceder directamente a la información adicional, en lugar de
+      añadir esos detalles extensos dentro del correo electrónico.
+
+    - Escribe una oración temática fuerte. Incorpora la idea principal del párrafo en la oración temática.
+
 #### Herramientas de comunicación comunes
 
 ### Organizar y realizar reuniones de proyecto
