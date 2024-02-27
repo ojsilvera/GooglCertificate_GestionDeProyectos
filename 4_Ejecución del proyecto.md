@@ -3225,6 +3225,38 @@ y hacer que los demás confíen en tu capacidad.
 
 #### Herramientas de comunicación comunes
 
+Entre las herramientas de comunicación para proyectos tenemos:
+
+Correo electrónico: estándar para comunicaciones comerciales.
+
+    Elije cuidadosamente a quién le envías un correo electrónico y, más que nada, que sepas por qué lo envías.
+    Asegúrate de que el campo de asunto indique claramente de qué se trata el correo.
+    Si es urgente o requiere respuesta, indícalo en el asunto y en la primera línea del cuerpo.
+    Mantén los correos electrónicos breves y concisos.
+    Usa un asunto claro y específico.
+    Resume en qué quieres que se centre el que lo lea.
+    Si necesitas una acción específica del destinatario, indícalo claramente para que entienda qué esperas de él y cuándo.
+    Evita la jerga y los atajos.
+    Sé amigable, motivador y claro.
+
+Mensajería instantánea: Alternativa al correo electrónico para preguntas rápidas o actualizaciones, Google Meet o Slack
+
+    Puede ser informal y distractor.
+    No es adecuado para información confidencial.
+
+Herramientas de reuniones virtuales
+
+    Permiten la interacción en tiempo real.
+    Mejoran la moral y el sentido de equipo.
+    Permiten compartir archivos y colaborar.
+
+Herramientas de gestión del trabajo y colaboración
+
+    Facilitan el intercambio de información entre equipos.
+    Permiten el seguimiento del progreso y la gestión de tareas.
+    Mantienen a los interesados informados.
+    Permiten la colaboración en tiempo real.
+
 ### Organizar y realizar reuniones de proyecto
 
 #### VídeoCómo organizar reuniones eficaces
