@@ -3241,6 +3241,9 @@ Correo electrónico: estándar para comunicaciones comerciales.
 
 Mensajería instantánea: Alternativa al correo electrónico para preguntas rápidas o actualizaciones, Google Meet o Slack
 
+    La mensajería instantánea te ayuda a reducir la recepción y envío de correos electrónicos o llamadas telefónicas
+    Aclarar malentendidos rápidamente
+    Hacerte saber si debes tratar un problema en una reunión y cuándo hacerlo.
     Puede ser informal y distractor.
     No es adecuado para información confidencial.
 
