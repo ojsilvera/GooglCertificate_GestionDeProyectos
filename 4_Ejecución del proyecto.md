@@ -3288,7 +3288,13 @@ Alentar a tus equipos a registrarse y actualizar su progreso regularmente ayuda 
 de trabajo en tiempo real. Hay muchos tipos diferentes de software de gestión de trabajo que facilitan la planificación y
 el seguimiento de proyectos automáticamente. Y son mucho más eficaces que el seguimiento de proyectos manual.
 
-Una breve advertencia antes de pasar al uso, acceso o intercambio de información confidencial o que se necesita conocer desde afuera, incluidos los datos financieros y empresariales, los datos del usuario y la información sobre nuestros productos y servicios que suele estar prohibida si no te otorgan permiso explícito. Al compartir con herramientas de gestión de trabajo, distingue a aquellos que quieren y necesitan acceso de aquellos que no, para cumplir tu parte en la protección de datos importantes. Hay tantas formas diferentes de compartir información con el equipo, ya sea a través de reuniones, correos electrónicos, mensajes instantáneos, hojas de cálculo y rastreadores. Al familiarizarte con algunas de las herramientas de comunicación más comunes, puedes elegir la más adecuada a las necesidades de tu proyecto.
+Una breve advertencia antes de pasar al uso, acceso o intercambio de información confidencial o que se necesita conocer
+desde afuera, incluidos los datos financieros y empresariales, los datos del usuario y la información sobre nuestros productos
+y servicios que suele estar prohibida si no te otorgan permiso explícito.
+
+Al compartir con herramientas de gestión de trabajo, distingue a aquellos que quieren y necesitan acceso de aquellos que
+no, para cumplir tu parte en la protección de datos importantes. Hay tantas formas diferentes de compartir información con
+el equipo, ya sea a través de reuniones, correos electrónicos, mensajes instantáneos, hojas de cálculo y rastreadores.
 
 ### Organizar y realizar reuniones de proyecto
 
