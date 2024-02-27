@@ -3200,6 +3200,12 @@ La gramática, la puntuación y la ortografía son fundamentales. Activar las su
 aplicación de correo electrónico puede ayudarte a identificar los errores rápidamente. Asegúrate de corregir todos los
 errores antes de realizar el envío.
 
+Convirtiendo un correo en un correo eficas:
+
+![ejwmplo de email 1](image-29.png)
+
+![alt text](image-30.png)
+
 #### Herramientas de comunicación comunes
 
 ### Organizar y realizar reuniones de proyecto
