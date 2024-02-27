@@ -3079,4 +3079,8 @@ que prepara el escenario para tu idea.
 
 ## Comunicacion eficaz del proyecto
 
+### Herramientas y técnicas de comunicación
+
+### Organizar y realizar reuniones de proyecto
+
 ## modulo_4_6
