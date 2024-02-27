@@ -3160,6 +3160,22 @@ Estos son algunos consejos sobre cómo indicar claramente lo que quieres en tu c
     - Define los términos. Evita el uso de acrónimos y terminología que los usuarios pueden desconocer. Agrega la información
     que sea necesaria para evitar malentendidos.
 
+- Redacta un texto conciso
+
+Haz que las palabras trabajen para ti. Elimina cualquier texto que no ayude a definir lo que quieres o no contribuya a las
+necesidades del lector.
+
+    - Resume el contenido que quieres transmitir y elimina del correo electrónico todo lo que no contribuya a tu objetivo.
+
+    - Procura escribir correos electrónicos «indudables» y «autosuficientes». Es decir, el mensaje contiene información
+      suficiente para valerse por sí solo.
+    
+    - El lector no debe tener ninguna duda sobre lo que quieres y cuándo lo quieres.
+
+    - Conoce a tu audiencia. Es posible que algunas personas, como los ejecutivos y otros líderes ocupados, no quieran leer
+      correos electrónicos de más de unas pocas oraciones o hacer clic en enlaces externos para obtener más información,
+      Intenta adaptar tus correos electrónicos en consecuencia.
+
 #### Herramientas de comunicación comunes
 
 ### Organizar y realizar reuniones de proyecto
