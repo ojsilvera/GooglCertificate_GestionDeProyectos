@@ -3128,6 +3128,19 @@ en resumen:
 
 #### Principios para redactar correos electrónicos eficazmente
 
+El correo electrónico ha sido durante mucho tiempo el principal método de comunicación para muchas personas en el ámbito
+empresarial, pero los mensajes se malinterpretan o ignoran fácilmente. Los cuatro principios para redactar correos electrónicos
+eficazmente estos principios ayudarán a que tus correos se destaquen, se recuerden y obtengan la respuesta que necesitas,
+Estos principios son los siguientes:
+
+    Indica claramente lo que quieres.
+
+    Redacta un texto breve y conciso.
+
+    Estructura la redacción.
+
+    Revisa la gramática, la puntuación y la ortografía.
+
 #### Herramientas de comunicación comunes
 
 ### Organizar y realizar reuniones de proyecto
