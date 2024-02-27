@@ -2494,6 +2494,7 @@ y conectarlos para ayudar a todos a visualizar el proyecto como un todo. Encuent
 a otros a encontrarlo también.
 
 *Los gerentes de proyectos también lideran a través de la comunicación y la escucha.*
+
 Como gerente de proyectos, tu trabajo es garantizar que todo el equipo esté de acuerdo con respecto al estado del proyecto.
 Por ejemplo, puedes comunicarte con el equipo a través de correos electrónicos de actualización de estado diarios o semanales
 y reuniones periódicas. Las reuniones de equipo también brindan un espacio para escuchar, ya sea que recibas retroalimentación
@@ -2505,6 +2506,7 @@ comunicarse. Lo que es importante saber es que todos se comunican de manera dife
 con los colegas que sé que lo disfrutan. O podría ir directo al grano con colegas que prefieren conversar formalmente.
 
 *Romover la confianza y la seguridad psicológica dentro del equipo.*
+
 Como recordatorio, la seguridad psicológica se refiere a la percepción de un individuo de las consecuencias de tomar riesgos
 interpersonales. Los miembros del equipo deben confiar en que están seguros y hacerse escuchar si tienen comentarios o
 inquietudes sobre todo el proyecto o sobre sus tareas individuales. Tu trabajo es crear un ambiente de equipo donde las
@@ -3075,6 +3077,6 @@ conectarse emocionalmente) deben aplicarse en las conversaciones importantes con
 para prepararte para el éxito durante estas conversaciones, puedes aplicar los cuatro pasos a la declaración influyente
 que prepara el escenario para tu idea.
 
-## modulo_4_5
+## Comunicacion eficaz del proyecto
 
 ## modulo_4_6
