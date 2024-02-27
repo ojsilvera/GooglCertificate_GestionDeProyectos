@@ -3267,6 +3267,29 @@ Herramientas de gestión del trabajo y colaboración
     Mantienen a los interesados informados.
     Permiten la colaboración en tiempo real.
 
+las herramientas de gestión de trabajo y colaboración, como Google Drive, Asana y Smartsheet. Este tipo de herramientas
+facilitan el intercambio de información entre equipos; mejor aún, con herramientas de gestión de trabajo y colaboración
+el intercambio de información fluye en ambos sentidos.
+
+Los miembros del equipo pueden actualizar fácilmente su progreso sin necesidad de reuniones o llamadas telefónicas
+adicionales. Estas herramientas pueden lograr muchas cosas, como el seguimiento del progreso en las tareas, los entregables
+y los hitos. También pueden ayudarte a gestionar un presupuesto, crear gráficos y diagramas útiles, gestionar contratos y
+licencias y mantener a los interesados informados.
+
+Las herramientas de gestión de trabajo y colaboración te permiten orientar las comunicaciones en el contexto de tareas
+específicas, detalles del proyecto y el cronograma.
+
+En lugar de escribir un correo electrónico con enlaces a la información correspondiente, cuando trabajas y te comunicas
+con una de estas herramientas, la información ya está disponible en un lugar para consultarla y tomar decisiones fácilmente,
+Otro gran beneficio de este tipo de herramientas es que el trabajo se hace en tiempo real. Estas herramientas permiten a
+los equipos remotos colaborar y comunicarse como si trabajaran de forma presencial en la misma oficina.
+
+Alentar a tus equipos a registrarse y actualizar su progreso regularmente ayuda a la sensación de interactuar con compañeros
+de trabajo en tiempo real. Hay muchos tipos diferentes de software de gestión de trabajo que facilitan la planificación y
+el seguimiento de proyectos automáticamente. Y son mucho más eficaces que el seguimiento de proyectos manual.
+
+Una breve advertencia antes de pasar al uso, acceso o intercambio de información confidencial o que se necesita conocer desde afuera, incluidos los datos financieros y empresariales, los datos del usuario y la información sobre nuestros productos y servicios que suele estar prohibida si no te otorgan permiso explícito. Al compartir con herramientas de gestión de trabajo, distingue a aquellos que quieren y necesitan acceso de aquellos que no, para cumplir tu parte en la protección de datos importantes. Hay tantas formas diferentes de compartir información con el equipo, ya sea a través de reuniones, correos electrónicos, mensajes instantáneos, hojas de cálculo y rastreadores. Al familiarizarte con algunas de las herramientas de comunicación más comunes, puedes elegir la más adecuada a las necesidades de tu proyecto.
+
 ### Organizar y realizar reuniones de proyecto
 
 #### VídeoCómo organizar reuniones eficaces
