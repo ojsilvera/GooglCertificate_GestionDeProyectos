@@ -3247,11 +3247,18 @@ Mensajería instantánea: Alternativa al correo electrónico para preguntas ráp
     Puede ser informal y distractor.
     No es adecuado para información confidencial.
 
-Herramientas de reuniones virtuales
+Herramientas de reuniones virtuales: Las herramientas de reuniones virtuales, como Google Meet y Zoom, son ideales para
 
+    comunicarse, especialmente cuando el trabajo remoto se vuelve más común.
+    son de fácil acceso y se aprende a usarlas fácilmente.
     Permiten la interacción en tiempo real.
     Mejoran la moral y el sentido de equipo.
     Permiten compartir archivos y colaborar.
+
+Las reuniones en línea bien realizadas pueden tener una gran eficacia: les permiten a ti y al equipo interactuar en tiempo
+real. Esto puede ayudar a aumentar la confianza y crear una sensación de equipo cuando no es posible reunirse en persona,
+Las reuniones virtuales pueden ser muy atractivas, ya que los participantes pueden acceder y compartir archivos durante la
+reunión.
 
 Herramientas de gestión del trabajo y colaboración
 
