@@ -3206,6 +3206,23 @@ Convirtiendo un correo en un correo eficas:
 
 ![alt text](image-30.png)
 
+- Conclusión clave
+
+Al redactar un correo electrónico, considera a quiénes lo envías y qué necesitan para leerlo rápidamente y entenderlo bien,
+Recuerda:
+
+    Indica claramente lo que quieres.
+
+    Redacta un texto conciso.
+
+    Estructura la redacción.
+
+    Revisa la gramática, la puntuación y la ortografía.
+
+Tener en cuenta estos principios al redactar correos electrónicos te ayudará a comunicarte más eficazmente con los miembros
+del equipo, los interesados, los clientes y otros. También te permite demostrar tu nivel de profesionalismo y competencia
+y hacer que los demás confíen en tu capacidad.
+
 #### Herramientas de comunicación comunes
 
 ### Organizar y realizar reuniones de proyecto
