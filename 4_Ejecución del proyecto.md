@@ -3141,6 +3141,25 @@ Estos principios son los siguientes:
 
     Revisa la gramática, la puntuación y la ortografía.
 
+- Indica claramente lo que quieres
+
+Cuando te pones a redactar un correo electrónico, es porque hay algo que quieres solicitar a tu lector. Tal vez quieres
+recibir una respuesta simple, persuadir a alguien de algo o concertar una reunión. Antes de redactar un correo electrónico,
+piensa en lo que quieres, cuándo lo necesitas y la mejor manera de obtenerlo cuando quieras.
+
+Estos son algunos consejos sobre cómo indicar claramente lo que quieres en tu correo electrónico:
+
+    - Incluye tu solicitud en la línea de asunto del correo electrónico.
+
+    - Describe lo que solicitas dentro de los dos primeros párrafos del cuerpo del correo electrónico.
+
+    - Indica la llamada a la acción específica asociada a tu solicitud (por ejemplo, responder, revisar, S. R. C.).
+
+    - Escribe oraciones claras y concisas para brindar detalles.
+
+    - Define los términos. Evita el uso de acrónimos y terminología que los usuarios pueden desconocer. Agrega la información
+    que sea necesaria para evitar malentendidos.
+
 #### Herramientas de comunicación comunes
 
 ### Organizar y realizar reuniones de proyecto
