@@ -3081,6 +3081,12 @@ que prepara el escenario para tu idea.
 
 ### Herramientas y técnicas de comunicación
 
+#### Comunicar de diferentes maneras
+
+#### Principios para redactar correos electrónicos eficazmente
+
+#### Herramientas de comunicación comunes
+
 ### Organizar y realizar reuniones de proyecto
 
 ## modulo_4_6
