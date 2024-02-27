@@ -3194,6 +3194,12 @@ por completo. Estos son algunos consejos para estructurar el correo electrónico
 
     - Escribe una oración temática fuerte. Incorpora la idea principal del párrafo en la oración temática.
 
+- Revisa la gramática, la puntuación y la ortografía.
+
+La gramática, la puntuación y la ortografía son fundamentales. Activar las sugerencias gramaticales y ortográficas en tu
+aplicación de correo electrónico puede ayudarte a identificar los errores rápidamente. Asegúrate de corregir todos los
+errores antes de realizar el envío.
+
 #### Herramientas de comunicación comunes
 
 ### Organizar y realizar reuniones de proyecto
