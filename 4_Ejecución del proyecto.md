@@ -3083,7 +3083,25 @@ que prepara el escenario para tu idea.
 
 #### Comunicar de diferentes maneras
 
+La comunicación efectiva del equipo es fundamental para el éxito de un proyecto, Como gerente de proyecto, eres el enlace
+principal entre tu equipo y la información que necesitan.
 
+Debes asegurarte de transmitir la información de manera coherente y clara para que todos comprendan el estado actual del
+proyecto y lo que sigue.
+
+Los gerentes de proyecto se comunican a través de reuniones, documentos del proyecto y otros medios como correos electrónicos
+y mensajes instantáneos.
+
+Es importante coordinar la información entrante y saliente, conectar a las personas con los detalles necesarios y realizar
+un seguimiento de quién necesita recibir qué información y cuándo.
+
+La comunicación debe realizarse de diferentes formas para adaptarse a las preferencias de aprendizaje de cada miembro del
+equipo.
+
+Existen diversas herramientas de comunicación de equipo, como correo electrónico, reuniones en persona, videoconferencias
+y herramientas de gestión y colaboración en el trabajo.
+
+Es importante estar familiarizado con estas herramientas y utilizar las que sean más efectivas para tu proyecto.
 
 #### Principios para redactar correos electrónicos eficazmente
 
