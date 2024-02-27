@@ -3083,10 +3083,20 @@ que prepara el escenario para tu idea.
 
 #### Comunicar de diferentes maneras
 
+
+
 #### Principios para redactar correos electrónicos eficazmente
 
 #### Herramientas de comunicación comunes
 
 ### Organizar y realizar reuniones de proyecto
+
+#### VídeoCómo organizar reuniones eficaces
+
+#### Realizar reuniones inclusivas y accesibles
+
+#### Lista de verificación para reuniones productivas
+
+#### VídeoTipos comunes de reuniones de proyectos
 
 ## modulo_4_6
