@@ -3306,62 +3306,65 @@ a que el proyecto siga en marcha.
 Si bien el tamaño, el propósito y el formato de las reuniones pueden variar, las reuniones eficaces siempre tienen los
 siguientes factores en común: Son estructuradas, intencionadas, colaborativas e inclusivas.
 
-Reuniones estructuradas. Esto significa que comienzan y
-terminan en un tiempo establecido. Se seleccionaron los
-participantes cuidadosamente. Se priorizaron los temas de la reunión. Y se designó a alguien
-como encargado de tomar notas. Administrar el tiempo de la reunión y la audiencia permite a los participantes
-saber que se los valora y aprecia. Recuerda que el tiempo de todos es valioso. Si la presencia de alguien es innecesaria,
-no tienes que invitarlo a la reunión. Quizás puedas compartirle las notas. Incluye a personas que puedan
-aportar a la conversación y a todos aquellos a quienes los temas
-por tratar afecten directamente. Las reuniones estructuradas también
-tienen una agenda con temas prioritarios. Así que las cuestiones más importantes
-reciben la atención que merecen. Es bueno considerar y
-establecer expectativas sobre cuánto tiempo esperas que el grupo
-dedique a un tema determinado. Esto se define como bloques de tiempo;
-sencillamente, significa que estableces un límite de tiempo para la conversación. En un bloque de tiempo, asignas algunos
-minutos a cada tema para asegurarte de no sobrecargar la agenda. Ten en cuenta el tiempo de reunión y
-asegúrate de que sea suficiente para el tema que tienes que cubrir. Si son varios los temas que debes
-abordar, considera programar algunas reuniones más breves centradas
-en uno o dos temas solamente. Después de las primeras reuniones de equipo,
-considera el ritmo para saber si debes ser más generoso con el tiempo
-que otorgas a cada tema o si el grupo tiene tiempo para algo más. Si cubres los temas
-con tiempo de sobra, puedes finalizar la reunión más temprano. A todos les encanta que
-les devuelvan su tiempo. Por último, una reunión estructurada debe
-tener designado a alguien que tome notas. Así, tú o cualquier otro podrán consultar
-las notas de la reunión después y averiguar lo que se conversó. El encargado de tomar notas puedes
-ser tú u otro participante de la reunión. Por esta razón, ten en claro cómo,
-cuándo y con quién se comparten
-los resultados de la reunión. Una vez más, todo depende del
-tipo de reunión que tengas y de quiénes participen. Volveré a esto cuando describa algunos de
-los diferentes tipos de reuniones de proyecto en el siguiente video. El siguiente punto por considerar es que las
+*Reuniones eficaces son estructuradas.* Esto significa que:
 
-Reuniones intencionadas. Esto significa que tienen propósito
-y expectativas declarados, que deben constar en la agenda
-y la invitación de la reunión. Así, todos comprenden
-por qué participan. La agenda debe establecer
-expectativas claras sobre lo que debe ocurrir antes y
-durante la reunión. Esto ayuda a los participantes a prepararse,
-a que todos se centren en los temas adecuados y aclara las expectativas y objetivos que cumplir. El propósito de la reunión podría ser tomar
-una decisión, asignar tareas, proponer/ inventar una idea o algún otro. El propósito (u objetivo) de la reunión
-describe el motivo por el cual se reúnen y lo que quisieras lograr. Una agenda bien diseñada aumenta la
-capacidad del grupo para abordar problemas y evita la pérdida de tiempo. Por ejemplo, supón que revisas las
-ventas comerciales del último mes y estableces objetivos para el siguiente. Tal vez el grupo necesite elegir
-coordinadores para un próximo evento. O el objetivo puede ser que tu supervisor
-priorice una lista de tareas. El propósito puede variar de una
-reunión a otra o puede ser el mismo. Si los participantes necesitan información,
-envía todo material de lectura introductoria antes de la reunión para que todos
-asistan ya preparados para participar. Según el propósito, las reuniones
-pueden ser formales o informales, con grupos de tan solo dos o tres
-miembros o cientos de participantes. Sea como sea, asegúrate de declarar
-un propósito claro y racional y esfuérzate por lograr ese propósito
-al final del tiempo asignado. Otro factor de las reuniones eficaces
-es fomentar un entorno colaborativo. Existe colaboración cuando las personas
-trabajan juntas para producir o crear algo. Hay muchas maneras de hacer que
+    - Comienzan y terminan en un tiempo establecido.
 
-Reuniones colaborativas, aunque el propósito sea que una persona comparta información
-importante con el resto del grupo. Una forma sencilla de hacerlo
-es asegurarte de que la agenda no esté llena de presentaciones en las
-que los participantes solo escuchen. Asegúrate de que la agenda sea clara
+    - Se seleccionaron los participantes cuidadosamente.
+
+    - Se priorizaron los temas de la reunión.
+
+    - se designó a alguien como encargado de tomar notas.
+
+Administrar el tiempo de la reunión y la audiencia permite a los participantes saber que se los valora y aprecia. Recuerda
+que el tiempo de todos es valioso. Si la presencia de alguien es innecesaria, no tienes que invitarlo a la reunión. Quizás
+puedas compartirle las notas. Incluye a personas que puedan aportar a la conversación y a todos aquellos a quienes los temas
+por tratar afecten directamente.
+
+Las reuniones estructuradas también tienen una agenda con temas prioritarios. Así que las cuestiones más importantes reciben
+la atención que merecen. Es bueno considerar y establecer expectativas sobre cuánto tiempo esperas que el grupo dedique a
+un tema determinado. Esto se define como bloques de tiempo; sencillamente, significa que estableces un límite de tiempo
+para la conversación. En un bloque de tiempo, asignas algunos minutos a cada tema para asegurarte de no sobrecargar la agenda.
+
+Ten en cuenta el tiempo de reunión y asegúrate de que sea suficiente para el tema que tienes que cubrir. Si son varios los
+temas que debes abordar, considera programar algunas reuniones más breves centradas en uno o dos temas solamente. Después
+de las primeras reuniones de equipo, considera el ritmo para saber si debes ser más generoso con el tiempo que otorgas a
+cada tema o si el grupo tiene tiempo para algo más. Si cubres los temas con tiempo de sobra, puedes finalizar la reunión
+más temprano. A todos les encanta que les devuelvan su tiempo.
+
+Por último, una reunión estructurada debe tener designado a alguien que tome notas. Así, tú o cualquier otro podrán consultar
+las notas de la reunión después y averiguar lo que se conversó. El encargado de tomar notas puedes ser tú u otro participante
+de la reunión. Por esta razón, ten en claro cómo, cuándo y con quién se comparten los resultados de la reunión.
+
+*La reuniones eficaces son intencionadas.* Esto significa que:
+
+tienen propósito y expectativas declarados, que deben constar en la agenda y la invitación de la reunión. Así, todos comprenden
+por qué participan.
+
+La agenda debe establecer expectativas claras sobre lo que debe ocurrir antes y durante la reunión. Esto ayuda a los participantes
+a prepararse, a que todos se centren en los temas adecuados y aclara las expectativas y objetivos que cumplir.
+
+El propósito de la reunión podría ser tomar una decisión, asignar tareas, proponer/ inventar una idea o algún otro. El propósito
+(u objetivo) de la reunión describe el motivo por el cual se reúnen y lo que quisieras lograr. Una agenda bien diseñada aumenta
+la capacidad del grupo para abordar problemas y evita la pérdida de tiempo.
+
+Por ejemplo, supón que revisas las ventas comerciales del último mes y estableces objetivos para el siguiente. Tal vez el
+grupo necesite elegir coordinadores para un próximo evento. O el objetivo puede ser que tu supervisor priorice una lista
+de tareas.
+
+El propósito puede variar de una reunión a otra o puede ser el mismo. Si los participantes necesitan información, envía
+todo material de lectura introductoria antes de la reunión para que todos asistan ya preparados para participar.
+
+Según el propósito, *las reuniones pueden ser formales o informales*, con grupos de tan solo dos o tres miembros o cientos
+de participantes. Sea como sea, asegúrate de declarar un propósito claro y racional y esfuérzate por lograr ese propósito
+al final del tiempo asignado.
+
+*Reuniones eficaces fomentan un entorno colaborativo*. Existe colaboración cuando las personas trabajan juntas para producir
+o crear algo. Hay muchas maneras de hacer que reuniones colaborativas, aunque el propósito sea que una persona comparta información
+importante con el resto del grupo.
+
+Una forma sencilla de hacerlo es asegurarte de que la agenda no esté llena de presentaciones en las que los participantes
+solo escuchen. Asegúrate de que la agenda sea clara
 con respecto a los objetivos de la sesión. ¿Se tomará una decisión o la sesión
 es de información y discusión? Además, comparte un documento digital
 sobre la reunión y alienta a los participantes a escribir cualquier comentario o
