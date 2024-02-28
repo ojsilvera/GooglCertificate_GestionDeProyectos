@@ -3298,20 +3298,117 @@ el equipo, ya sea a través de reuniones, correos electrónicos, mensajes instan
 
 ### Organizar y realizar reuniones de proyecto
 
-#### Vídeo: VídeoCómo organizar reuniones eficaces
+#### Cómo organizar reuniones eficaces
 
-#### Lectura: LecturaRealizar reuniones inclusivas y accesibles
+Las reuniones pueden ser un método eficaz para distribuir información, comunicarse con el equipo y los interesados y ayudar
+a que el proyecto siga en marcha.
 
-#### Lectura: LecturaLista de verificación para reuniones productivas
+Si bien el tamaño, el propósito y el formato de las reuniones pueden variar, las reuniones eficaces siempre tienen los
+siguientes factores en común: Son estructuradas, intencionadas, colaborativas e inclusivas.
 
-#### Vídeo: VídeoTipos comunes de reuniones de proyectos
+Reuniones estructuradas. Esto significa que comienzan y
+terminan en un tiempo establecido. Se seleccionaron los
+participantes cuidadosamente. Se priorizaron los temas de la reunión. Y se designó a alguien
+como encargado de tomar notas. Administrar el tiempo de la reunión y la audiencia permite a los participantes
+saber que se los valora y aprecia. Recuerda que el tiempo de todos es valioso. Si la presencia de alguien es innecesaria,
+no tienes que invitarlo a la reunión. Quizás puedas compartirle las notas. Incluye a personas que puedan
+aportar a la conversación y a todos aquellos a quienes los temas
+por tratar afecten directamente. Las reuniones estructuradas también
+tienen una agenda con temas prioritarios. Así que las cuestiones más importantes
+reciben la atención que merecen. Es bueno considerar y
+establecer expectativas sobre cuánto tiempo esperas que el grupo
+dedique a un tema determinado. Esto se define como bloques de tiempo;
+sencillamente, significa que estableces un límite de tiempo para la conversación. En un bloque de tiempo, asignas algunos
+minutos a cada tema para asegurarte de no sobrecargar la agenda. Ten en cuenta el tiempo de reunión y
+asegúrate de que sea suficiente para el tema que tienes que cubrir. Si son varios los temas que debes
+abordar, considera programar algunas reuniones más breves centradas
+en uno o dos temas solamente. Después de las primeras reuniones de equipo,
+considera el ritmo para saber si debes ser más generoso con el tiempo
+que otorgas a cada tema o si el grupo tiene tiempo para algo más. Si cubres los temas
+con tiempo de sobra, puedes finalizar la reunión más temprano. A todos les encanta que
+les devuelvan su tiempo. Por último, una reunión estructurada debe
+tener designado a alguien que tome notas. Así, tú o cualquier otro podrán consultar
+las notas de la reunión después y averiguar lo que se conversó. El encargado de tomar notas puedes
+ser tú u otro participante de la reunión. Por esta razón, ten en claro cómo,
+cuándo y con quién se comparten
+los resultados de la reunión. Una vez más, todo depende del
+tipo de reunión que tengas y de quiénes participen. Volveré a esto cuando describa algunos de
+los diferentes tipos de reuniones de proyecto en el siguiente video. El siguiente punto por considerar es que las
 
-#### VídeoCómo organizar reuniones eficaces
+Reuniones intencionadas. Esto significa que tienen propósito
+y expectativas declarados, que deben constar en la agenda
+y la invitación de la reunión. Así, todos comprenden
+por qué participan. La agenda debe establecer
+expectativas claras sobre lo que debe ocurrir antes y
+durante la reunión. Esto ayuda a los participantes a prepararse,
+a que todos se centren en los temas adecuados y aclara las expectativas y objetivos que cumplir. El propósito de la reunión podría ser tomar
+una decisión, asignar tareas, proponer/ inventar una idea o algún otro. El propósito (u objetivo) de la reunión
+describe el motivo por el cual se reúnen y lo que quisieras lograr. Una agenda bien diseñada aumenta la
+capacidad del grupo para abordar problemas y evita la pérdida de tiempo. Por ejemplo, supón que revisas las
+ventas comerciales del último mes y estableces objetivos para el siguiente. Tal vez el grupo necesite elegir
+coordinadores para un próximo evento. O el objetivo puede ser que tu supervisor
+priorice una lista de tareas. El propósito puede variar de una
+reunión a otra o puede ser el mismo. Si los participantes necesitan información,
+envía todo material de lectura introductoria antes de la reunión para que todos
+asistan ya preparados para participar. Según el propósito, las reuniones
+pueden ser formales o informales, con grupos de tan solo dos o tres
+miembros o cientos de participantes. Sea como sea, asegúrate de declarar
+un propósito claro y racional y esfuérzate por lograr ese propósito
+al final del tiempo asignado. Otro factor de las reuniones eficaces
+es fomentar un entorno colaborativo. Existe colaboración cuando las personas
+trabajan juntas para producir o crear algo. Hay muchas maneras de hacer que
+
+Reuniones colaborativas, aunque el propósito sea que una persona comparta información
+importante con el resto del grupo. Una forma sencilla de hacerlo
+es asegurarte de que la agenda no esté llena de presentaciones en las
+que los participantes solo escuchen. Asegúrate de que la agenda sea clara
+con respecto a los objetivos de la sesión. ¿Se tomará una decisión o la sesión
+es de información y discusión? Además, comparte un documento digital
+sobre la reunión y alienta a los participantes a escribir cualquier comentario o
+idea directamente en el documento. Es importante que les recuerdes
+que se compartirán las notas. Esto alienta la escucha activa y la participación en tiempo
+real durante la reunión. Por último, es importante respetar y
+aceptar a cada persona en su preferencia de estilo comunicativo también en las reuniones,
+especialmente en las reuniones colaborativas. Hazles saber que se agradecen las
+respuestas verbales, a través del chat, en las notas de la reunión o en
+cualquier otro formato que desees incluir.
+
+Reunión inclusiva. La inclusión es la práctica o política de incluir a personas que en otro
+caso quedarían excluidas o marginadas. Un buen uso de la inclusión
+conduce a una excelente colaboración al garantizar que se valoran todos
+los aportes de los participantes. Como gerente de proyectos, tienes la función
+esencial de garantizar que los participantes se sientan respaldados e incluidos. Por lo tanto, es útil ofrecer recursos
+adicionales sobre formas de participar. Tanto para reuniones presenciales como
+virtuales, considera designar un moderador o facilitador de la reunión. Esta persona guiará la reunión y ayudará
+a los participantes con las preguntas en tiempo real mientras otro
+hace una presentación. Así, el presentador puede concentrarse
+en su tema mientras el moderador presta atención a los participantes y puede guiarlos sobre cuándo intervenir. También es una buena idea
+dejar un espacio en la reunión para los participantes que estuvieron callados. Al cerrar un tema o antes
+de finalizar la reunión, podrías considerar recorrer la
+habitación de vez en cuando y preguntar a cada persona su opinión
+sobre un problema o cuestión en particular. Me gusta llamarlo una verificación de vuelo
+final antes de que todos despeguen y tomen rutas diferentes. Un componente clave de la inclusión
+es asegurarse de que las reuniones y las presentaciones sean accesibles. Puedes encontrar más información
+sobre esto en los recursos del curso. Otro tema que debes tener en cuenta es el nivel
+de acceso a Internet cuando se realizan reuniones virtuales. Ofrece una opción de llamada telefónica
+a aquellos sin un buen acceso a internet. Google Meet, Zoom y la mayoría de los servicios
+de reuniones virtuales tienen esta opción. Hazles saber a los participantes que
+pueden apagar sus cámaras si necesitan mejorar la conexión o ajustar la calidad de video. Centrarse en la inclusión ayuda a
+crear sentido de pertenencia y sirve para recordarnos que vivimos en un
+mundo con muchos tipos de personas diferentes. Crear un espacio de reunión donde las personas
+tengan diferentes perspectivas, antecedentes y experiencias puede rendir frutos,
+y el apoyo mutuo es primordial.
+
+Estos consejos no agotan el tema en absoluto, pero con suerte pueden ser útiles para empezar a empoderar a otros para que
+se unan y contribuyan significativamente. Cuando se hacen bien, las reuniones pueden ser herramientas de comunicación de
+gran utilidad. Por eso, es importante actuar con decisión al diseñar reuniones que sean estructuradas, intencionadas,
+colaborativas e inclusivas. Esto te dará la reputación de alguien que escribe reuniones eficaces, inclusivas y exitosas en
+las que todos se sienten apreciados, lo cual es grandioso para tu proyecto y tu carrera.
 
 #### Realizar reuniones inclusivas y accesibles
 
 #### Lista de verificación para reuniones productivas
 
-#### VídeoTipos comunes de reuniones de proyectos
+#### Tipos comunes de reuniones de proyectos
 
 ## modulo_4_6
