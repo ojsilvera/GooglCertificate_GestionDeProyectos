@@ -3500,7 +3500,7 @@ Folletos y materiales impresos
 
     Usa 1.25 para duplicar el interlineado.
 
-- Personas hipoacúsicas
+Personas hipoacúsicas
 
     Siempre mira a la persona con la que te estás comunicando. Esto es especialmente útil para los miembros de la audiencia
     que leen los labios.
@@ -3513,6 +3513,16 @@ Folletos y materiales impresos
     Incluye toda la información presentada en una presentación hablada con diapositivas.
 
     Añade subtítulos a los vídeos. La Ayuda de YouTube  ofrece instrucciones para añadir tus propios subtítulos a los videos.
+
+Personas con problemas motrices
+
+    Ofrece un amplio espacio de circulación en la sala de reuniones para que las personas que usan dispositivos de movilidad
+    puedan pasar fácilmente.
+
+    Ofrece asientos accesibles en toda la habitación.
+
+    En las presentaciones, usa asientos semicirculares para que todos los participantes puedan mirar en la dirección del
+    orador.
 
 #### Lista de verificación para reuniones productivas
 
