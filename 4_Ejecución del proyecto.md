@@ -3562,6 +3562,28 @@ productivas tienen tres factores en común:
 Sigue esta lista de verificación para ayudar a lograr estos objetivos y realizar reuniones más productivas para ti y el
 equipo del proyecto:
 
+- Antes de la reunión
+
+    Prepara una agenda que establezca el propósito y los objetivos de la reunión y compártela con los participantes.
+
+    Solo invita a personas que necesiten estar presentes y que puedan ayudar a alcanzar los objetivos de la reunión.
+
+    Aclara las funciones y responsabilidades de los participantes en la reunión.
+
+    Agrega a los participantes no esenciales como opcionales en la invitación a la reunión.
+
+    Si trabajas con personas en zonas horarias diferentes, comparte la carga de la zona horaria al variar las horas de reunión
+    regulares.
+
+    Evalúa la necesidad de la reunión y suspéndela si no es necesaria. Considera si el contenido de la reunión se puede cubrir
+    por correo electrónico.
+
+    Programa reuniones más cortas. Las reuniones tienden a sobrepasar el tiempo asignado, así que procura hacer más en menos
+    tiempo.
+
+    Asigna cierto tiempo a tu preparación para la reunión. Lee los materiales necesarios, revisa la agenda y prepárate para
+    participar.
+
 #### Tipos comunes de reuniones de proyectos
 
 ## modulo_4_6
