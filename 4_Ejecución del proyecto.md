@@ -3377,31 +3377,28 @@ Por último, es importante respetar y aceptar a cada persona en su preferencia d
 especialmente en las reuniones colaborativas. Hazles saber que se agradecen las respuestas verbales, a través del chat,
 en las notas de la reunión o en cualquier otro formato que desees incluir.
 
-*Reunión eficaces son inclusiva.* La inclusión es la práctica o política de incluir a personas que en otro
-caso quedarían excluidas o marginadas. Un buen uso de la inclusión
-conduce a una excelente colaboración al garantizar que se valoran todos
-los aportes de los participantes. Como gerente de proyectos, tienes la función
-esencial de garantizar que los participantes se sientan respaldados e incluidos. Por lo tanto, es útil ofrecer recursos
-adicionales sobre formas de participar. Tanto para reuniones presenciales como
-virtuales, considera designar un moderador o facilitador de la reunión. Esta persona guiará la reunión y ayudará
-a los participantes con las preguntas en tiempo real mientras otro
-hace una presentación. Así, el presentador puede concentrarse
-en su tema mientras el moderador presta atención a los participantes y puede guiarlos sobre cuándo intervenir. También es una buena idea
-dejar un espacio en la reunión para los participantes que estuvieron callados. Al cerrar un tema o antes
-de finalizar la reunión, podrías considerar recorrer la
-habitación de vez en cuando y preguntar a cada persona su opinión
-sobre un problema o cuestión en particular. Me gusta llamarlo una verificación de vuelo
-final antes de que todos despeguen y tomen rutas diferentes. Un componente clave de la inclusión
-es asegurarse de que las reuniones y las presentaciones sean accesibles. Puedes encontrar más información
-sobre esto en los recursos del curso. Otro tema que debes tener en cuenta es el nivel
-de acceso a Internet cuando se realizan reuniones virtuales. Ofrece una opción de llamada telefónica
-a aquellos sin un buen acceso a internet. Google Meet, Zoom y la mayoría de los servicios
-de reuniones virtuales tienen esta opción. Hazles saber a los participantes que
-pueden apagar sus cámaras si necesitan mejorar la conexión o ajustar la calidad de video. Centrarse en la inclusión ayuda a
-crear sentido de pertenencia y sirve para recordarnos que vivimos en un
-mundo con muchos tipos de personas diferentes. Crear un espacio de reunión donde las personas
-tengan diferentes perspectivas, antecedentes y experiencias puede rendir frutos,
-y el apoyo mutuo es primordial.
+*Reunión eficaces son inclusiva.* La inclusión es la práctica o política de incluir a personas que en otro caso quedarían
+excluidas o marginadas. Un buen uso de la inclusión conduce a una excelente colaboración al garantizar que se valoran todos
+los aportes de los participantes.
+
+Como gerente de proyectos, tienes la función esencial de garantizar que los participantes se sientan respaldados e incluidos,
+Por lo tanto, es útil ofrecer recursos adicionales sobre formas de participar. Tanto para reuniones presenciales como
+virtuales, considera designar un moderador o facilitador de la reunión. Esta persona guiará la reunión y ayudará a los
+participantes con las preguntas en tiempo real mientras otro hace una presentación. Así, el presentador puede concentrarse
+en su tema mientras el moderador presta atención a los participantes y puede guiarlos sobre cuándo intervenir.
+
+También es una buena idea dejar un espacio en la reunión para los participantes que estuvieron callados. Al cerrar un tema
+o antes de finalizar la reunión, podrías considerar recorrer la habitación de vez en cuando y preguntar a cada persona su opinión
+sobre un problema o cuestión en particular. Me gusta llamarlo una verificación de vuelo final antes de que todos despeguen
+y tomen rutas diferentes. Un componente clave de la inclusión es asegurarse de que las reuniones y las presentaciones sean
+accesibles.
+
+Otro tema que debes tener en cuenta es el nivel de acceso a Internet cuando se realizan reuniones virtuales. Ofrece una
+opción de llamada telefónica a aquellos sin un buen acceso a internet. Google Meet, Zoom y la mayoría de los servicios
+de reuniones virtuales tienen esta opción. Hazles saber a los participantes que pueden apagar sus cámaras si necesitan
+mejorar la conexión o ajustar la calidad de video. Centrarse en la inclusión ayuda a crear sentido de pertenencia y sirve
+para recordarnos que vivimos en un mundo con muchos tipos de personas diferentes. Crear un espacio de reunión donde las personas
+tengan diferentes perspectivas, antecedentes y experiencias puede rendir frutos, y el apoyo mutuo es primordial.
 
 Estos consejos no agotan el tema en absoluto, pero con suerte pueden ser útiles para empezar a empoderar a otros para que
 se unan y contribuyan significativamente. Cuando se hacen bien, las reuniones pueden ser herramientas de comunicación de
