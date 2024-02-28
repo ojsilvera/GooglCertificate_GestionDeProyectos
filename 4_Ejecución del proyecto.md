@@ -3564,6 +3564,8 @@ equipo del proyecto:
 
 - Antes de la reunión
 
+Lo que debenos realizar antes de la reunion:
+
     Prepara una agenda que establezca el propósito y los objetivos de la reunión y compártela con los participantes.
 
     Solo invita a personas que necesiten estar presentes y que puedan ayudar a alcanzar los objetivos de la reunión.
@@ -3583,6 +3585,40 @@ equipo del proyecto:
 
     Asigna cierto tiempo a tu preparación para la reunión. Lee los materiales necesarios, revisa la agenda y prepárate para
     participar.
+
+- Durante la reunión
+
+Durante el transcurso de la reunion se recomienda:
+
+    Declarar los objetivos de la reunión al iniciarla. Obedece la agenda durante toda la reunión para no perder el rumbo.
+    
+    En el caso de reuniones regulares, revisa los elementos de acción de la reunión anterior para garantizar la rendición
+    de cuentas.
+
+    Alentar a los participantes a guardar teléfonos y computadoras portátiles durante las reuniones y silenciar las notificaciones,
+    si es posible.
+
+    Practicar y demostrar la escucha activa. Responde verbalmente (p. ej.: «Eso tiene sentido. Cuéntanos más») y no verbalmente
+    (al asentir con la cabeza y hacer contacto visual) para mostrar compromiso.
+
+    Fomenta la participación y da a todos la oportunidad de hablar, incluidos los participantes remotos. Haz preguntas abiertas,
+    como: «¿Qué piensan todos?» en lugar de «¿Todos están de acuerdo?».
+
+    Ayuda a que todos se relajen y se sientan más cómodos al comenzar las reuniones con preguntas abiertas y personales,
+    por ejemplo: «¿Cómo estuvo tu fin de semana?».
+
+    Captura los puntos clave, elementos de acción y decisiones de la reunión y asigna elementos de acción a los participantes
+    de la reunión indicados.
+
+- Después de la reunión
+
+Posterior a la reunion es reomendable:
+
+    Resume las decisiones clave, los elementos de acción, los cronogramas y las notas y envíalos a los participantes.
+
+    Programa las reuniones siguientes necesarias según el contexto correspondiente.
+
+    Evalúa la necesidad y la frecuencia de las reuniones regulares. Si es posible, programa reuniones con menos frecuencia.
 
 #### Tipos comunes de reuniones de proyectos
 
