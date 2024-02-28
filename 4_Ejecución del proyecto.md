@@ -3430,6 +3430,26 @@ sigan de manera coherente.
     siempre consulta al equipo e inspira profesionalismo, vulnerabilidad y empatía. Las consignas populares incluyen:
     «Lo destacado de mi semana fue...» y «Esta semana agradezco...»
 
+    Presta tu atención total a todos. Escucha atentamente lo que todos tienen que decir y ten cuidado de no interrumpir a
+    nadie mientras habla. El lenguaje corporal, como mantener el contacto visual y girar el cuerpo en la dirección de un
+    hablante, puede ayudar a que alguien se sienta seguro al expresar su opinión. Evita sacudir la cabeza, mirar hacia otro
+    lado o fijarte en el teléfono cuando alguien habla.
+
+    Procura que todos los participantes sean escuchados. Pide ideas a los participantes y haz preguntas para fomentar la
+    participación. Si interrumpen a una persona, redirige la atención de todos hacia ella y pídele que complete su idea. Si
+    alguien aún no ha hablado, pregúntale qué piensa. Es importante tener en cuenta que algunas personas tienen temor de
+    hablar en las reuniones. Esto puede ocurrir más que nada en reuniones virtuales o conferencias telefónicas. También
+    ocurre en el caso de personas que no son la mayoría en la sala y pueden sentir que representan a todo un grupo de
+    personas que se ven, suenan o se muestran como ellos. También puedes notar que quienes están en el nivel inicial pueden
+    tener miedo de hablar, ya que recién comienzan sus carreras. Puede ayudar a las personas a sentirse más cómodas y
+    respaldadas si les avisas anticipadamente que se les pedirá que hablen durante una reunión. Entonces, podrán prepararse
+    con anticipación. Al finalizar la reunión, también puedes pedirle la opinión a alguien que no habló.
+
+    Ayuda a los participantes a sentirse cómodos al compartir diferentes perspectivas. Para alentar la diferencia o
+    contraposición de ideas, aclara que se valoran los puntos de vista alternativos. Puedes preparar el terreno al alentar
+    perspectivas en competencia al comienzo de la reunión. Trata de obtener al menos tres puntos de vista sobre algún tema
+    que pueda tener cierta variación en la sala. Continúa después de la reunión mediante la solicitud de ideas adicionales.
+
 #### Lista de verificación para reuniones productivas
 
 #### Tipos comunes de reuniones de proyectos
