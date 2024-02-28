@@ -3408,6 +3408,28 @@ las que todos se sienten apreciados, lo cual es grandioso para tu proyecto y tu 
 
 #### Realizar reuniones inclusivas y accesibles
 
+las reuniones eficaces generalmente tienen cuatro factores en común: son estructuradas, intencionadas, colaborativas e
+inclusivas.
+
+- Crear un entorno inclusivo
+
+La inclusión de empleados de diferentes orígenes e identidades es extremadamente importante para cualquier organización
+que busque crear un fuerte sentido de pertenencia en el ámbito laboral. Además, cuando los miembros del equipo se sienten
+incluidos, tienden a querer hacer su mejor trabajo. Esto también es perfecto para la organización.
+
+Crear un ambiente inclusivo puede ser particularmente desafiante en las reuniones porque estas les pueden resultar intimidantes
+a los participantes. Como gerente de proyectos, es parte de tu trabajo realizar reuniones que incluyan a todos los participantes
+y que creen una sensación de seguridad emocional y valor para la participación activa de todos. Para ayudar a realizar
+reuniones inclusivas en las que todos se sientan fortalecidos, debes implementar procedimientos que sean predecibles y se
+sigan de manera coherente.
+
+    Formaliza consignas iniciales para el grupo que fomenten la comprensión y aseguren que todos sepan que se necesita su
+    opinión. Crea un proceso que pida constantemente a cada persona que comente sobre su trabajo o cómo le va en su vida
+    cotidiana. Las preguntas deben ser abiertas y variar con el tiempo para incluir algo de humor, analogías y oportunidades
+    de "terminar la oración". Como gerente de proyectos, tu ejemplo prepara el terreno de la dinámica del equipo, así que
+    siempre consulta al equipo e inspira profesionalismo, vulnerabilidad y empatía. Las consignas populares incluyen:
+    «Lo destacado de mi semana fue...» y «Esta semana agradezco...»
+
 #### Lista de verificación para reuniones productivas
 
 #### Tipos comunes de reuniones de proyectos
