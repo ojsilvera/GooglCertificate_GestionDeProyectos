@@ -3524,6 +3524,30 @@ Personas con problemas motrices
     En las presentaciones, usa asientos semicirculares para que todos los participantes puedan mirar en la dirección del
     orador.
 
+En resumen:
+
+Para crear reuniones inclusivas
+
+    - Establece pautas claras: Fomenta la comprensión y asegura que todos se sientan valorados.
+
+    - Escucha activamente: Presta atención a todos, evita interrumpir y utiliza el lenguaje corporal para demostrar interés.
+
+    - Involucra a todos: Pide ideas, haz preguntas y redirige la atención hacia quienes no han hablado.
+
+    - Valora las perspectivas diversas: Aclara que se valoran los puntos de vista alternativos y prepara el terreno para
+      perspectivas en competencia.
+
+    - Usa imágenes inclusivas: Representa la diversidad en los materiales de presentación para que todos se sientan bienvenidos.
+
+Hacer que las reuniones sean accesibles
+
+    - Para personas con discapacidad visual: Usa fuentes grandes, colores de alto contraste y descripciones de texto alternativas.
+
+    - Para personas con discapacidad auditiva: Mira a la persona, habla con claridad, añade subtítulos a los vídeos y proporciona
+      información escrita.
+
+    - Para personas con discapacidad motriz: Ofrece espacio de circulación, asientos accesibles y asientos semicirculares.
+
 #### Lista de verificación para reuniones productivas
 
 #### Tipos comunes de reuniones de proyectos
