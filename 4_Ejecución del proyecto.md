@@ -3550,6 +3550,18 @@ Hacer que las reuniones sean accesibles
 
 #### Lista de verificación para reuniones productivas
 
+Muchas cosas pueden hacer que las reuniones sean improductivas, pero un estudio interno de Google reveló que las reuniones
+productivas tienen tres factores en común:
+
+    Participación activa de los asistentes
+
+    Una agenda clara y concisa que se sigue completamente
+
+    Los participantes correctos (lo cual significa que los participantes pueden contribuir a lograr el objetivo de la reunión)
+
+Sigue esta lista de verificación para ayudar a lograr estos objetivos y realizar reuniones más productivas para ti y el
+equipo del proyecto:
+
 #### Tipos comunes de reuniones de proyectos
 
 ## modulo_4_6
