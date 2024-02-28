@@ -3450,6 +3450,46 @@ sigan de manera coherente.
     perspectivas en competencia al comienzo de la reunión. Trata de obtener al menos tres puntos de vista sobre algún tema
     que pueda tener cierta variación en la sala. Continúa después de la reunión mediante la solicitud de ideas adicionales.
 
+    Usa imágenes que reflejen la diversidad del mundo. En los materiales y folletos de tu presentación, selecciona imágenes
+    que ilustren la diversidad en cuanto a raza, género, edad, capacidad, antecedentes culturales, religión, ubicación
+    geográfica, etc. Las personas de tus imágenes deben representar orígenes diversos para respaldar aún más la inclusión
+    y que todos en la sala se sientan bienvenidos y representados.
+
+- Hacer que las reuniones sean accesibles para todos
+
+Las reuniones no pueden ser inclusivas si todos no pueden participar plenamente. Es importante que te asegures de que las
+reuniones sean accesibles para todos. Accesible significa que algo resulta fácil de usar, acceder o adaptar a las personas
+con discapacidades. En las reuniones, significa que las personas con discapacidades puedan participar o comprender la
+información compartida.
+
+Al planificar las reuniones, debes tener en cuenta las necesidades de las personas que tienen los siguientes tipos de
+discapacidad:
+
+    - Deficiencia visual o ceguera
+
+    - Hipoacusia o sordera
+
+    - Discapacidad motriz, lo que implica dificultades para moverse, como las que padecen personas que usan sillas de
+      ruedas o bastones
+
+Estos consejos pueden ayudarte a asegurarte de que en las reuniones puedan participar:
+
+- Personas con deficiencia visual
+
+Materiales de la presentación:
+
+    Usa un tamaño de fuente grande (mínimo 22 puntos).
+
+    Usa colores de contraste alto.
+
+    Ofrece descripciones de texto alternativas para todas las imágenes, fotografías, gráficos, tablas, etc.
+
+    Ofrece a los asistentes con deficiencia visual o ceguera una versión de la presentación en formato electrónico accesible.
+
+    Ofrece a los participantes los materiales de presentación en un formato electrónico accesible con anticipación.
+
+    Describe todos los gráficos significativos de tu presentación (tales como fotos, imágenes, gráficos e ilustraciones).
+
 #### Lista de verificación para reuniones productivas
 
 #### Tipos comunes de reuniones de proyectos
