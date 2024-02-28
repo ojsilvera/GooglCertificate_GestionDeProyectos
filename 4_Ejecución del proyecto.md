@@ -3490,6 +3490,30 @@ Materiales de la presentación:
 
     Describe todos los gráficos significativos de tu presentación (tales como fotos, imágenes, gráficos e ilustraciones).
 
+Folletos y materiales impresos
+
+    Usa un tamaño de fuente grande (mínimo 18 puntos).
+
+    Usa letras negras sobre papel blanco mate.
+
+    Usa una fuente simple y evita las fuentes comprimidas y las cursivas.
+
+    Usa 1.25 para duplicar el interlineado.
+
+- Personas hipoacúsicas
+
+    Siempre mira a la persona con la que te estás comunicando. Esto es especialmente útil para los miembros de la audiencia
+    que leen los labios.
+
+    Habla con claridad, a un ritmo y volumen moderados, y da tiempo a la otra persona para que responda. Evita exagerar,
+    ralentizar el discurso o levantar la voz.
+
+    Pide aclaraciones si no entiendes algo que la persona te dice.
+
+    Incluye toda la información presentada en una presentación hablada con diapositivas.
+
+    Añade subtítulos a los vídeos. La Ayuda de YouTube  ofrece instrucciones para añadir tus propios subtítulos a los videos.
+
 #### Lista de verificación para reuniones productivas
 
 #### Tipos comunes de reuniones de proyectos
