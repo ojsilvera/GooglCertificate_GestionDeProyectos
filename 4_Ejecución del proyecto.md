@@ -3298,6 +3298,14 @@ el equipo, ya sea a través de reuniones, correos electrónicos, mensajes instan
 
 ### Organizar y realizar reuniones de proyecto
 
+#### Vídeo: VídeoCómo organizar reuniones eficaces
+
+#### Lectura: LecturaRealizar reuniones inclusivas y accesibles
+
+#### Lectura: LecturaLista de verificación para reuniones productivas
+
+#### Vídeo: VídeoTipos comunes de reuniones de proyectos
+
 #### VídeoCómo organizar reuniones eficaces
 
 #### Realizar reuniones inclusivas y accesibles
