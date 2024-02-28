@@ -3364,19 +3364,20 @@ o crear algo. Hay muchas maneras de hacer que reuniones colaborativas, aunque el
 importante con el resto del grupo.
 
 Una forma sencilla de hacerlo es asegurarte de que la agenda no esté llena de presentaciones en las que los participantes
-solo escuchen. Asegúrate de que la agenda sea clara
-con respecto a los objetivos de la sesión. ¿Se tomará una decisión o la sesión
-es de información y discusión? Además, comparte un documento digital
-sobre la reunión y alienta a los participantes a escribir cualquier comentario o
-idea directamente en el documento. Es importante que les recuerdes
-que se compartirán las notas. Esto alienta la escucha activa y la participación en tiempo
-real durante la reunión. Por último, es importante respetar y
-aceptar a cada persona en su preferencia de estilo comunicativo también en las reuniones,
-especialmente en las reuniones colaborativas. Hazles saber que se agradecen las
-respuestas verbales, a través del chat, en las notas de la reunión o en
-cualquier otro formato que desees incluir.
+solo escuchen.
 
-Reunión inclusiva. La inclusión es la práctica o política de incluir a personas que en otro
+Asegúrate de que la agenda sea clara con respecto a los objetivos de la sesión. ¿Se tomará una decisión o la sesión es de
+información y discusión? Además, comparte un documento digital sobre la reunión y alienta a los participantes a escribir
+cualquier comentario o idea directamente en el documento.
+
+Es importante que les recuerdes que se compartirán las notas. Esto alienta la escucha activa y la participación en tiempo
+real durante la reunión.
+
+Por último, es importante respetar y aceptar a cada persona en su preferencia de estilo comunicativo también en las reuniones,
+especialmente en las reuniones colaborativas. Hazles saber que se agradecen las respuestas verbales, a través del chat,
+en las notas de la reunión o en cualquier otro formato que desees incluir.
+
+*Reunión eficaces son inclusiva.* La inclusión es la práctica o política de incluir a personas que en otro
 caso quedarían excluidas o marginadas. Un buen uso de la inclusión
 conduce a una excelente colaboración al garantizar que se valoran todos
 los aportes de los participantes. Como gerente de proyectos, tienes la función
