@@ -3835,4 +3835,43 @@ enganchado por no haber completado los contratos o el alcance, o por no haber cu
 
 #### Caso práctico: El impacto de saltarse los pasos del cierre de un proyecto
 
+*Importancia del cierre del proyecto.*
+
+El cierre del proyecto es la fase final del ciclo de vida del proyecto y es tan importante como las demás fases. Asegurarse
+de que el proyecto se cierre correctamente puede ayudar a evitar problemas como:
+
+    Retrasos en el lanzamiento del producto o servicio
+
+    Riesgos legales
+
+    Pérdidas financieras
+
+    Daño a la reputación
+
+- Pasos para cerrar un proyecto correctamente
+
+Para cerrar un proyecto correctamente, debes asegurarte de que:
+
+    Todo el trabajo esté completo
+
+    Se hayan completado todos los procesos de gestión de proyectos acordados
+
+    Los interesados y el gerente del proyecto hayan reconocido formalmente y acordado que el proyecto está completo
+
+Ejemplo de descuido en el cierre del proyecto
+
+Tilly's Toys, un fabricante de juguetes, no completó correctamente el cierre del proyecto para su nueva alcancía interactiva. Esto provocó:
+
+Cajas sin el descargo de responsabilidad de seguridad, lo que generó costos adicionales y retrasos
+Un contratista que compartió información sobre el juguete antes de su lanzamiento, lo que generó un riesgo legal
+El cliente solicitó cambios adicionales después de que el proyecto se considerara completo, lo que generó insatisfacción
+Cómo evitar descuidos en el cierre del proyecto
+
+Para evitar descuidos en el cierre del proyecto, es importante:
+
+Planificar la fase de cierre como cualquier otra fase del proyecto
+Asegurarse de que todo el trabajo esté completo
+Completar todos los procesos de gestión de proyectos acordados
+Obtener el reconocimiento formal y el acuerdo de los interesados de que el proyecto está completo
+
 ### Los pasos de cierre
