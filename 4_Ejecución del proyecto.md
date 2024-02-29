@@ -3873,9 +3873,12 @@ Esto provocó:
 
 Para evitar descuidos en el cierre del proyecto, es importante:
 
-Planificar la fase de cierre como cualquier otra fase del proyecto
-Asegurarse de que todo el trabajo esté completo
-Completar todos los procesos de gestión de proyectos acordados
-Obtener el reconocimiento formal y el acuerdo de los interesados de que el proyecto está completo
+    Planificar la fase de cierre como cualquier otra fase del proyecto
+
+    Asegurarse de que todo el trabajo esté completo
+
+    Completar todos los procesos de gestión de proyectos acordados
+    
+    Obtener el reconocimiento formal y el acuerdo de los interesados de que el proyecto está completo
 
 ### Los pasos de cierre
