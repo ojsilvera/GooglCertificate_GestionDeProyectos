@@ -3678,9 +3678,35 @@ particular. Otras veces tendrás que involucrar a los interesados en grupos. Si 
 interesados, centra la reunión en los interesados con mayor influencia en tu proyecto. Identifica a los interesados adecuados
 para una comunicación intensa.
 
-Por ejemplo, puedes centrar la reunión en los altos directivos de cada uno de los grupos a los que necesitas cautivar. Puedes informar a otros interesados mediante otros métodos, como correos electrónicos o notas de reuniones. Si bien hay una serie de temas que puedes tratar al reunirte con los interesados, la mayoría de las reuniones se limitan a la comunicación de información esencial. Siempre debes poder presentar una actualización del proyecto. Comienza la reunión con una breve actualización general del estado del proyecto en 2 a 5 minutos. Otra razón clave para reunirte con los interesados es pedir y escuchar opiniones. O puedes reunirte con los interesados para tomar una decisión o resolver un problema importante en torno al proyecto. En este caso, te reunirás a menudo con los altos líderes y con el patrocinador del proyecto. Las decisiones podrían incluir escoger si ir o no ir, una elección entre opciones o firmar inversiones. Las reuniones con los interesados son, en general, más formales. Es normal preparar materiales de lectura y documentos para revisar anticipadamente e inculcar a los participantes la mentalidad adecuada para la reunión. Las reuniones con los interesados pueden ser regulares y recurrentes o reuniones del proyecto ocasionales. La frecuencia dependerá de por qué el interesado participa en el proyecto. ¿Desempeña una función consultiva, por ejemplo, es un consultor en una RACI, o simplemente es alguien a quien hay que mantener informado? ¿Su participación se centra en torno a una sola actividad del proyecto o tiene que seguir participando a largo plazo? Deberás decidirlo caso por caso. El final del proyecto o el final de la fase del proyecto es una excelente oportunidad para revisar cómo se desarrolló el proyecto. Esto se conoce como retrospectiva y aprenderás más sobre ello en otras secciones de este curso. Una retrospectiva típica de la agenda de reunión incluye revisar las lecciones aprendidas sobre lo que va bien, lo que debes seguir haciendo y lo que se puede mejorar. Tan importante como revisar las lecciones aprendidas es aprovechar la oportunidad para celebrar el éxito del proyecto. Conocer la diferencia entre estos tipos de reuniones de proyecto te permite maximizar la productividad y asegurarte de no perder el tiempo. Obtendrás el resultado deseado en cada tipo de reunión, lo que te ayudará a impulsar las decisiones y las acciones proactivas positivas. Increíble: acabas de aprender los tipos de reunión de proyectos más comunes y a hacerlas eficaces para todos los presentes. En el siguiente video, repasaremos lo que has aprendido en los últimos videos. Nos vemos ahí.
+Por ejemplo, puedes centrar la reunión en los altos directivos de cada uno de los grupos a los que necesitas cautivar. Puedes
+informar a otros interesados mediante otros métodos, como correos electrónicos o notas de reuniones. Si bien hay una serie
+de temas que puedes tratar al reunirte con los interesados, la mayoría de las reuniones se limitan a la comunicación de
+información esencial.
 
-En resumen los tipos comunes de reunion de proyectos son:
+Siempre debes poder presentar una actualización del proyecto. Comienza la reunión con una breve actualización general del
+estado del proyecto en 2 a 5 minutos. Otra razón clave para reunirte con los interesados es pedir y escuchar opiniones. O
+puedes reunirte con los interesados para tomar una decisión o resolver un problema importante en torno al proyecto.
+
+En este caso, te reunirás a menudo con los altos líderes y con el patrocinador del proyecto. Las decisiones podrían incluir
+escoger si ir o no ir, una elección entre opciones o firmar inversiones. Las reuniones con los interesados son, en general,
+más formales. Es normal preparar materiales de lectura y documentos para revisar anticipadamente e inculcar a los participantes
+la mentalidad adecuada para la reunión.
+
+Las reuniones con los interesados pueden ser regulares y recurrentes o reuniones del proyecto ocasionales. La frecuencia
+dependerá de por qué el interesado participa en el proyecto. ¿Desempeña una función consultiva, por ejemplo, es un consultor
+en una RACI, o simplemente es alguien a quien hay que mantener informado? ¿Su participación se centra en torno a una sola
+actividad del proyecto o tiene que seguir participando a largo plazo? Deberás decidirlo caso por caso.
+
+*El final del proyecto* o el final de la fase del proyecto es una excelente oportunidad para revisar cómo se desarrolló el
+proyecto. Una retrospectiva típica de la agenda de reunión incluye revisar las lecciones aprendidas sobre lo que va bien,
+lo que debes seguir haciendo y lo que se puede mejorar. Tan importante como revisar las lecciones aprendidas es aprovechar
+la oportunidad para celebrar el éxito del proyecto. Conocer la diferencia entre estos tipos de reuniones de proyecto te
+permite maximizar la productividad y asegurarte de no perder el tiempo.
+
+Obtendrás el resultado deseado en cada tipo de reunión, lo que te ayudará a impulsar las decisiones y las acciones proactivas
+positivas.
+
+*En resumen los tipos comunes de reunion de proyectos son:*
 
 - Reunión de inicio del proyecto:
 
