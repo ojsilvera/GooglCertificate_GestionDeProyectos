@@ -4061,6 +4061,43 @@ En tu informe, también debes responder a la pregunta:
 
 Esto te ayudará a mostrar el valor que el resultado de tu proyecto aportó a la empresa.
 
+Destaca estas áreas clave de rendimiento para demostrar a los interesados cómo lograste obtener resultados exitosos:
+
+    Describe las metas y los objetivos que estableciste para el proyecto y lo que esperabas haber logrado al final.
+
+    Describe cómo cumpliste con esos objetivos en comparación con tus KPI. Un KPI es un valor medible que demuestra la
+    eficacia de una empresa para lograr sus objetivos. En tu informe de impacto, revisa cómo definiste el éxito de tu
+    proyecto al principio y destaca los resultados que lograste que demuestran este éxito.
+
+    Muestra el rendimiento de tu cronograma y presupuesto describiendo los ahorros de costos y eficiencias. Demuestra que
+    cumpliste con los plazos establecidos en el alcance de tu proyecto y que tu proyecto se completó respetando el presupuesto.
+
+*Utiliza métricas para mostrar tus resultados:*
+
+Usa datos y estadísticas para resaltar los resultados que lograste en relación con las áreas de rendimiento descritas en
+la sección anterior. Algunos ejemplos de métricas comunes que puedes incluir para demostrar un impacto positivo pueden ser
+los siguientes:
+
+    Mejora en el rendimiento del cronograma
+
+    Aumento de ingresos
+
+    Retorno positivo de la inversión (ROI)
+
+    Mayor cantidad de usuarios externos
+
+    Aumento del porcentaje de usuarios internos
+
+    Costos frente a márgenes
+
+    Alto porcentaje de satisfacción del cliente
+
+    Reducción de los gastos generales
+
+    Reducción de problemas técnicos
+
+    Ahorro de tiempo
+
 #### El proceso de cierre para el equipo
 
 #### Sarah: Por qué me encantan las retrospectivas
