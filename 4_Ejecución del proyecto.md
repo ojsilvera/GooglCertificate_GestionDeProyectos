@@ -4042,6 +4042,11 @@ el éxito del proyecto y su impacto en el negocio.
 
 #### Demostrar el impacto del proyecto a los interesados
 
+¿Qué es un informe de impacto?
+
+Es una presentación o informe formal que se prepara para los interesados clave al final de un proyecto. Destaca las áreas
+clave de rendimiento y demuestra el impacto del proyecto en la organización.
+
 #### El proceso de cierre para el equipo
 
 #### Sarah: Por qué me encantan las retrospectivas
