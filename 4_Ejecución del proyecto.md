@@ -3913,11 +3913,20 @@ Cerrar un proyecto formalmente es crucial para los clientes y las partes interes
 
 El proceso de cierre del proyecto puede variar según el proyecto, pero generalmente incluye los siguientes pasos:
 
-Evaluación del cumplimiento de objetivos: Asegurarse de que el proyecto haya cumplido con sus objetivos estratégicos.
-Documentación del cierre: Crear informes de cierre, revisar la documentación y realizar retrospectivas.
+*Evaluación del cumplimiento de objetivos:*
+
+    Asegurarse de que el proyecto haya cumplido con sus objetivos estratégicos.
+
+*Documentación del cierre:*
+
+    Crear informes de cierre, revisar la documentación y realizar retrospectivas.
+
 Cierre administrativo: Cerrar contratos, realizar pagos y recuperar entregables.
+
 Reconocimiento formal: Notificar a las partes interesadas sobre la finalización del proyecto.
-Seguimiento: Recopilar comentarios y brindar apoyo continuo.
+
+*Seguimiento:* Recopilar comentarios y brindar apoyo continuo.
+
 Cierre del proyecto al final del proyecto
 
 Además de los pasos anteriores, el cierre del proyecto al final del proyecto puede incluir:
