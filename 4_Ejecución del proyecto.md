@@ -3793,7 +3793,10 @@ cumpliste con sus requisitos. Presta especial atención a proteger el alcance de
 cierres un proyecto con éxito. Si sientes que el cliente quiere mucho más de tu parte de lo que se acordó entregar en este
 proyecto, tal vez la mejor opción sea comprometerse con un proyecto de seguimiento y cerrar el actual.
 
-En un proyecto abandonado, hay una entrega insuficiente de los entregables del proyecto. Básicamente, el entregable final nunca llega a tu cliente. No tendría sentido crear un producto y luego no poder comercializarlo o venderlo. Hacer planes para garantizar una entrega o una transición adecuada de los entregables es crucial para garantizar que los clientes estén satisfechos y que los proyectos se cierren correctamente. En resumen, deberás hacer todo lo que puedas para cerrar correctamente un proyecto porque, de lo contrario, podrías quedar enganchado por no haber completado los contratos o el alcance, o por no haber cumplido con las prácticas. En el siguiente video, analizaremos los pasos necesarios incluidos en un proceso de cierre integral para los clientes e interesados.
+*En un proyecto abandonado,* hay una entrega insuficiente de los entregables del proyecto. Básicamente, el entregable final
+nunca llega a tu cliente. No tendría sentido crear un producto y luego no poder comercializarlo o venderlo. Hacer planes
+para garantizar una entrega o una transición adecuada de los entregables es crucial para garantizar que los clientes estén
+satisfechos y que los proyectos se cierren correctamente.
 
 - Resumen del cierre del proyecto
 
@@ -3826,6 +3829,9 @@ Los siguientes tipos de proyectos deben ser evitados a toda costa:
 
     - Proyectos abandonados: Proyectos en los que los entregables no se entregan al cliente debido a una transferencia
       inadecuada.
+
+En resumen, deberás hacer todo lo que puedas para cerrar correctamente un proyecto porque, de lo contrario, podrías quedar
+enganchado por no haber completado los contratos o el alcance, o por no haber cumplido con las prácticas.
 
 #### Caso práctico: El impacto de saltarse los pasos del cierre de un proyecto
 
