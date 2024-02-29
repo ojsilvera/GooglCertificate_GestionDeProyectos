@@ -3650,4 +3650,14 @@ En resumen los tipos comunes de reunion de proyectos son:
     Revisar lecciones aprendidas y celebrar el éxito del proyecto.
     Identificar áreas de mejora.
 
-## modulo_4_6
+## Cerrar un proyecto
+
+### Comprender como se cierra un proyecto
+
+#### Introducción: Cerrar un proyecto
+
+#### La importancia del cierre de un proyecto
+
+#### Caso práctico: El impacto de saltarse los pasos del cierre de un proyecto
+
+### Los pasos de cierre
