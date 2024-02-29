@@ -3921,24 +3921,46 @@ El proceso de cierre del proyecto puede variar según el proyecto, pero generalm
 
     Crear informes de cierre, revisar la documentación y realizar retrospectivas.
 
-Cierre administrativo: Cerrar contratos, realizar pagos y recuperar entregables.
+*Cierre administrativo:*
 
-Reconocimiento formal: Notificar a las partes interesadas sobre la finalización del proyecto.
+    Cerrar contratos, realizar pagos y recuperar entregables.
 
-*Seguimiento:* Recopilar comentarios y brindar apoyo continuo.
+*Reconocimiento formal:*
 
-Cierre del proyecto al final del proyecto
+    Notificar a las partes interesadas sobre la finalización del proyecto.
+
+*Seguimiento:*
+
+    Recopilar comentarios y brindar apoyo continuo.
+
+- Cierre del proyecto al final del proyecto
 
 Además de los pasos anteriores, el cierre del proyecto al final del proyecto puede incluir:
 
-Proporcionar capacitación y documentación: Garantizar que los clientes y usuarios tengan los recursos necesarios para utilizar el producto o servicio.
-Documentación de la aceptación: Obtener la aceptación formal de las partes interesadas sobre los entregables y resultados.
-Revisión de contratos y documentación: Revisar todos los documentos del proyecto para garantizar que no se haya omitido nada.
-Retrospectiva formal: Realizar una reunión de retrospectiva para identificar lecciones aprendidas y áreas de mejora.
-Disolución del equipo del proyecto: Agradecer al equipo del proyecto y disolverlo.
-Informe de impacto
+*Proporcionar capacitación y documentación:*
 
-El informe de impacto es una presentación que se brinda a las partes interesadas clave al final del proyecto. Demuestra el éxito del proyecto y su impacto en el negocio.
+    Garantizar que los clientes y usuarios tengan los recursos necesarios para utilizar el producto o servicio.
+
+*Documentación de la aceptación:*
+
+    Obtener la aceptación formal de las partes interesadas sobre los entregables y resultados.
+
+*Revisión de contratos y documentación:*
+
+    Revisar todos los documentos del proyecto para garantizar que no se haya omitido nada.
+
+*Retrospectiva formal:*
+
+    Realizar una reunión de retrospectiva para identificar lecciones aprendidas y áreas de mejora.
+
+*Disolución del equipo del proyecto:*
+
+    Agradecer al equipo del proyecto y disolverlo.
+
+- Informe de impacto
+
+El informe de impacto es una presentación que se brinda a las partes interesadas clave al final del proyecto. Demuestra
+el éxito del proyecto y su impacto en el negocio.
 
 #### Demostrar el impacto del proyecto a los interesados
 
