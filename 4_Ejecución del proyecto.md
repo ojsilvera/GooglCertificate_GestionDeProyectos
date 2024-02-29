@@ -3885,6 +3885,52 @@ Para evitar descuidos en el cierre del proyecto, es importante:
 
 #### El proceso de cierre para clientes e interesados
 
+En resumen:
+
+- Importancia del cierre del proyecto para los clientes y las partes interesadas
+
+Cerrar un proyecto formalmente es crucial para los clientes y las partes interesadas por varias razones:
+
+*Satisfacción de las necesidades:*
+
+    Un cierre adecuado garantiza que las necesidades de los clientes y las partes interesadas se hayan cumplido.
+
+*Relaciones sólidas:*
+
+    Un cierre positivo fortalece las relaciones con los clientes y las partes interesadas, lo que puede conducir a futuras
+    oportunidades.
+
+*Credibilidad del equipo:*
+
+    Un cierre exitoso demuestra la competencia y confiabilidad del equipo del proyecto.
+
+*Prevención de problemas legales:*
+
+    Un cierre formal ayuda a evitar disputas legales al documentar la finalización del proyecto y la aceptación de los
+    entregables.
+
+- Proceso de cierre del proyecto
+
+El proceso de cierre del proyecto puede variar según el proyecto, pero generalmente incluye los siguientes pasos:
+
+Evaluación del cumplimiento de objetivos: Asegurarse de que el proyecto haya cumplido con sus objetivos estratégicos.
+Documentación del cierre: Crear informes de cierre, revisar la documentación y realizar retrospectivas.
+Cierre administrativo: Cerrar contratos, realizar pagos y recuperar entregables.
+Reconocimiento formal: Notificar a las partes interesadas sobre la finalización del proyecto.
+Seguimiento: Recopilar comentarios y brindar apoyo continuo.
+Cierre del proyecto al final del proyecto
+
+Además de los pasos anteriores, el cierre del proyecto al final del proyecto puede incluir:
+
+Proporcionar capacitación y documentación: Garantizar que los clientes y usuarios tengan los recursos necesarios para utilizar el producto o servicio.
+Documentación de la aceptación: Obtener la aceptación formal de las partes interesadas sobre los entregables y resultados.
+Revisión de contratos y documentación: Revisar todos los documentos del proyecto para garantizar que no se haya omitido nada.
+Retrospectiva formal: Realizar una reunión de retrospectiva para identificar lecciones aprendidas y áreas de mejora.
+Disolución del equipo del proyecto: Agradecer al equipo del proyecto y disolverlo.
+Informe de impacto
+
+El informe de impacto es una presentación que se brinda a las partes interesadas clave al final del proyecto. Demuestra el éxito del proyecto y su impacto en el negocio.
+
 #### Demostrar el impacto del proyecto a los interesados
 
 #### El proceso de cierre para el equipo
