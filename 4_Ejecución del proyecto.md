@@ -3858,14 +3858,18 @@ Para cerrar un proyecto correctamente, debes asegurarte de que:
 
     Los interesados y el gerente del proyecto hayan reconocido formalmente y acordado que el proyecto está completo
 
-Ejemplo de descuido en el cierre del proyecto
+- Ejemplo de descuido en el cierre del proyecto:
 
-Tilly's Toys, un fabricante de juguetes, no completó correctamente el cierre del proyecto para su nueva alcancía interactiva. Esto provocó:
+Tilly's Toys, un fabricante de juguetes, no completó correctamente el cierre del proyecto para su nueva alcancía interactiva,
+Esto provocó:
 
-Cajas sin el descargo de responsabilidad de seguridad, lo que generó costos adicionales y retrasos
-Un contratista que compartió información sobre el juguete antes de su lanzamiento, lo que generó un riesgo legal
-El cliente solicitó cambios adicionales después de que el proyecto se considerara completo, lo que generó insatisfacción
-Cómo evitar descuidos en el cierre del proyecto
+    Cajas sin el descargo de responsabilidad de seguridad, lo que generó costos adicionales y retrasos
+    
+    Un contratista que compartió información sobre el juguete antes de su lanzamiento, lo que generó un riesgo legal
+    
+    El cliente solicitó cambios adicionales después de que el proyecto se considerara completo, lo que generó insatisfacción
+
+- Cómo evitar descuidos en el cierre del proyecto:
 
 Para evitar descuidos en el cierre del proyecto, es importante:
 
