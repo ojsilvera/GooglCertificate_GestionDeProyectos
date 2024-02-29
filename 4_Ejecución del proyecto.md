@@ -3885,6 +3885,53 @@ Para evitar descuidos en el cierre del proyecto, es importante:
 
 #### El proceso de cierre para clientes e interesados
 
+Un proceso de cierre formal es importante no solo porque un cierre inadecuado puede dejarte atrapado por no haber completado
+los contratos o el alcance, sino también porque es recomendable que los interesados sientan que se han satisfecho sus
+necesidades.
+
+Como mencionamos anteriormente, la relación del equipo de un proyecto con los clientes, usuarios, proveedores, etc. puede
+verse afectada por los cabos sueltos. Si las relaciones se ven perjudicadas, la credibilidad de tu equipo podría verse
+afectada, Normalmente, los interesados establecen los objetivos y el alcance del proyecto junto con el gerente de proyectos,
+de modo que un buen gerente de proyectos siempre se asegurará de que los interesados queden satisfechos con la calidad de
+los entregables y el producto final también.
+
+Entonces, ¿cómo puedes asegurarte de que los clientes y los interesados clave queden satisfechos con el cierre del proyecto?
+Primero, debes decidir si tu proyecto amerita un breve proceso de cierre al final de cada hito o una fase de cierre formal
+y más integral cerca del final. Puede que incluso decidas hacer tanto el breve proceso de cierre al final de cada hito y
+una fase de cierre más formal al final de todo el proceso. Determinarás esto preguntándote si un hito particular es definitivo,
+lo que quiere decir que el hito no deberá abordarse en un momento posterior del proyecto. De ser así, tener un cierre formal
+y breve garantizará que todos conozcan los resultados de ese hito en particular.
+
+Por ejemplo, imaginémoslo en el contexto del lanzamiento del sitio web del proyecto Plant Pals. El lanzamiento del sitio
+web es un hito oficial, de modo que tener un cierre formal para el lanzamiento del sitio web podría tener sentido. Sí,
+seguirá habiendo actualizaciones y mantenimiento continuos del sitio, pero no se volverá a lanzar. El lanzamiento es un
+evento único. Debes asegurarte de que estás proveyendo los entregables, recopilando la documentación correspondiente y
+comunicando a los interesados que alcanzaste ese hito y que esa parte del el proyecto ya está cerrada.
+
+Si decides llevar a cabo procesos de cierre después cada fase o hito, así es como será eso para tu equipo. Primero, te
+asegurarás de que el proyecto cumpla con los objetivos estratégicos que se pretendían cumplir. Para comenzar, debes hacer
+referencia a la documentación previa, como tu declaración de trabajo, tu solicitud de propuesta, el registro de riesgos y
+el gráfico RACI. Mientras lo haces, pregúntate:
+
+¿se hizo todo el trabajo requerido en la fase transcurrida?
+¿Se abordaron todos problemas identificados?
+¿Todos los miembros del equipo completaron sus tareas asignadas?
+
+Luego reunirás la documentación de cierre, como informes de cierre, Recopilarás y revisarás esa documentación con los miembros
+del equipo para asegurarte de que se hayan analizado todos los aspectos del proyecto. También revisarás las notas de cualquier
+retrospectiva en la que tú y tu equipo hayan participado. De esta manera, los miembros de tu equipo tendrán la oportunidad
+de hablar sobre los aspectos que les gustaron o no les gustaron y quedarán con una sensación de cierre.
+
+A continuación, realizarás el cierre administrativo del proceso de contratación. Cierra los contratos necesarios, emite los
+pagos a los proveedores y recupera todos los entregables finales de los trabajadores contratados. Esto es muy importante
+para que los interesados externos y los trabajadores contratados puedan entender que la fase o el proyecto ha terminado
+oficialmente. En este punto, deberás reconocer formalmente la finalización de la fase, de ser necesario, Asegúrate de que
+todos los interesados estén al tanto de que una fase o proyecto está finalizando. Esto puede ser tan simple como enviar un
+correo electrónico que les informe que alcanzaste este hito o podría requerir una reunión más grande.
+
+Por último, completarás cualquier trabajo de seguimiento necesario. Esto incluye acciones como reunir comentarios finales
+y realizar encuestas de cierre. De esta manera, ayudarás de manera proactiva a los interesados con problemas futuros mediante el seguimiento y el apoyo. Si, en lugar de hacer un cierre después de ciertas fases o hitos, decidiste hacer el cierre al final de tu proyecto, el proceso podría diferir un poco. Podría verse de este modo. Primero, proporciona las herramientas de capacitación, la documentación y las capacidades necesarias para usar tu producto. Esto incluye elementos como manuales y guías prácticas, que ofrezcan a tus clientes y usuarios una comprensión de cómo usar tu producto o servicio una vez que se cierre el proyecto. A continuación, asegúrate de que el proyecto cumpla con los objetivos y resultados deseados. Revisa el proyecto para asegurarte de que todas las tareas y entregables se hayan completado y no falte nada. ¿Lograste lo que te propusiste hacer? ¿Se completó todo el alcance del trabajo? También deberás documentar la aceptación de todos los interesados, como los clientes y los patrocinadores. Asegurarte de tener una prueba escrita de que los interesados están satisfechos con los entregables y los resultados es muy importante. Esto podría ser a través de retrospectivas, un documento de finalización del proyecto o cualquier otra aprobación formal. A continuación, revisa todos los contratos y la documentación con tu equipo de proyecto. Esto incluye documentos como SOW, RFP, gráfico RACI, registro de riesgos, y otros documentos de adquisiciones que ya analizamos. Incluir a todo tu equipo en este proceso de revisión te ayudará a asegurarte de que no falte nada. Documenta siempre tus lecciones aprendidas realizando una retrospectiva formal. Incluye a tu equipo, otros equipos involucrados, los interesados y proveedores externos en esta reunión. Repasaremos esto en más detalle en el siguiente video. Por último, puedes disolver y agradecer al equipo del proyecto. El siguiente paso importante para cerrar un proyecto para los interesados es realizar un informe de impacto. Los informes de impacto son una presentación que se brinda al final de un proyecto para los interesados clave, que normalmente incluye a los interesados que había en la reunión inicial. El propósito de los informes de impacto es demostrar cómo les fue en el proyecto y analizar el impacto de tu producto o servicio. Es importante para el gerente de proyectos porque podrás demostrar el éxito de tu proyecto en tus propios términos y presentar el trabajo que hiciste para agregar valor a la empresa. En esta presentación, veremos cómo se lanza el proyecto en términos de tiempo, alcance y presupuesto. Determinarás cuándo se lanzará el nuevo servicio o producto, analizarás los comentarios disponibles de los usuarios y explicarás cómo se lograron los resultados deseados. Ahora sabes más sobre cómo los interesados y clientes pueden obtener una comprensión clara de que tu proyecto está cerrado. Analizamos por qué es necesario y cómo tu reputación y credibilidad pueden verse afectadas si no haces un trabajo integral para cerrar el proyecto por completo. En el siguiente video, analizaremos cómo tu equipo puede verse afectado por cerrar un proyecto de forma correcta e incorrecta. Nos vemos ahí.
+
 En resumen:
 
 - Importancia del cierre del proyecto para los clientes y las partes interesadas
