@@ -3622,4 +3622,30 @@ Posterior a la reunion es reomendable:
 
 #### Tipos comunes de reuniones de proyectos
 
+En resumen los tipos comunes de reunion de proyectos son:
+
+- Reunión de inicio del proyecto:
+
+Alineación del equipo sobre los objetivos y planes del proyecto.
+Participación de miembros del equipo, alta dirección y partes interesadas clave.
+
+- Reuniones de actualización de estado:
+
+Actualizaciones regulares sobre progreso, desafíos y próximos pasos.
+Distribución de informes de rendimiento del proyecto.
+Discusión de actualizaciones de estado sobre tareas, cronograma, presupuesto y problemas.
+Asignación de elementos de acción.
+
+- Reuniones de revisión de las partes interesadas:
+
+Obtener apoyo y participación de las partes interesadas.
+Comprender y abordar los desafíos de las partes interesadas.
+Comunicar información crítica del proyecto.
+Buscar comentarios y tomar decisiones.
+
+- Reuniones de revisión del proyecto:
+
+Revisar lecciones aprendidas y celebrar el éxito del proyecto.
+Identificar áreas de mejora.
+
 ## modulo_4_6
