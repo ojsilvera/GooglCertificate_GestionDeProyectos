@@ -4098,6 +4098,35 @@ los siguientes:
 
     Ahorro de tiempo
 
+Las métricas y los puntos de datos son una de las mejores formas de presentar el impacto. A lo largo de tu proyecto, recopila
+datos y realiza un seguimiento del progreso en cada una de las áreas que deseas medir. Si puedes complementar tus métricas
+con las imágenes adecuadas y vincularlas a los objetivos más amplios del proyecto, puedes demostrar rápidamente el éxito
+y el valor de tu proyecto.
+
+*Preparar una presentación eficaz del informe de impacto:*
+
+Una presentación eficaz puede ayudar a los interesados a entender el impacto del proyecto. Para transmitir con éxito toda
+la información que preparaste:
+
+    Sé conciso. Si bien debes compartir métricas que ilustren cómo lograste los objetivos de tu proyecto, no es necesario
+    que incluyas detalles superfluos. Para una mayor claridad, organiza la información usando viñetas en lugar de párrafos.
+
+    Conoce a tu público. Asegúrate de que tu informe no incluya demasiado lenguaje técnico o jerga para que los interesados lo entiendan.
+
+    Usa elementos visuales. Usa una aplicación de presentación digital, como Google Slides, Microsoft PowerPoint o Canva, para presentar tu informe de impacto. Agrega diagramas, como tablas y gráficos, para ilustrar tus resultados. Usa imágenes para añadir interés visual. Agrega íconos para llamar la atención y ayudar a los interesados a comprender rápidamente la información.
+
+    Describe tus aprendizajes. Analiza las lecciones que aprendiste durante el transcurso del proyecto y cualquier área
+    que hayas identificado para mejorar.
+
+    Capta la atención de los interesados. Capta y mantén la atención de los interesados variando la forma en que presentas
+    tus datos:
+
+        Haz demostraciones. Reproduce videos de demostraciones, testimonios o casos prácticos.
+
+        Narra una historia. Narra una historia o anécdota relacionada con los datos del informe.
+
+        Capta a tu público. Solicita la participación de tu público a través de preguntas, encuestas o cuestionarios.
+
 #### El proceso de cierre para el equipo
 
 #### Sarah: Por qué me encantan las retrospectivas
