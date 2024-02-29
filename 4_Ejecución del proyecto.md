@@ -3878,7 +3878,19 @@ Para evitar descuidos en el cierre del proyecto, es importante:
     Asegurarse de que todo el trabajo esté completo
 
     Completar todos los procesos de gestión de proyectos acordados
-    
+
     Obtener el reconocimiento formal y el acuerdo de los interesados de que el proyecto está completo
 
 ### Los pasos de cierre
+
+#### El proceso de cierre para clientes e interesados
+
+#### Demostrar el impacto del proyecto a los interesados
+
+#### El proceso de cierre para el equipo
+
+#### Sarah: Por qué me encantan las retrospectivas
+
+#### El proceso de cierre para el gerente de proyectos
+
+#### Explorar: El proceso de cierre
