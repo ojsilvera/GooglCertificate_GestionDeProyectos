@@ -4042,10 +4042,24 @@ el éxito del proyecto y su impacto en el negocio.
 
 #### Demostrar el impacto del proyecto a los interesados
 
-¿Qué es un informe de impacto?
+*¿Qué es un informe de impacto?:*
 
 Es una presentación o informe formal que se prepara para los interesados clave al final de un proyecto. Destaca las áreas
 clave de rendimiento y demuestra el impacto del proyecto en la organización.
+
+*Destaca las áreas clave de rendimiento:*
+
+El propósito de tu informe de impacto es mostrar a tus interesados clave el impacto que tuvo tu proyecto en la organización,
+esto incluye Las metas, los objetivos, el presupuesto, los cronogramas y los indicadores clave de rendimiento (KPI) deben
+determinarse al comienzo del proyecto.
+
+Tu informe de impacto debe demostrar los buenos resultados que tuviste en relación con esos objetivos iniciales.
+
+En tu informe, también debes responder a la pregunta:
+
+    ¿Cuál era el problema que intentábamos resolver y cómo lo resolvimos?
+
+Esto te ayudará a mostrar el valor que el resultado de tu proyecto aportó a la empresa.
 
 #### El proceso de cierre para el equipo
 
