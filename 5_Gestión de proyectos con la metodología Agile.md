@@ -1,9 +1,9 @@
 # Gestión de proyectos con la metodología Agile
 
-## modulo_5_1
+## Aspectos basicos de las metodologias agiles
 
-## modulo_5_2
+## Scrum 101
 
-## modulo_5_3
+## Implementacion de Scrum
 
-## modulo_5_4
+## Aplicar la metodologia Agile en la organizacion
