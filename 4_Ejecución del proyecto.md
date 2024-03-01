@@ -4129,6 +4129,37 @@ la información que preparaste:
 
 #### El proceso de cierre para el equipo
 
+Hola de nuevo. En el último video, nos centramos en cómo cerrar un proyecto para tus clientes e interesados. En este video, analizaremos las mejores prácticas para cerrar un proyecto con tu equipo. También aprenderás a usar una retrospectiva para cerrar tu proyecto y celebrar los logros de tu equipo. Ya hablamos sobre las retrospectivas durante este programa y se debe a que realmente no hay mejor herramienta para propiciar la reflexión y la mejora. Las retrospectivas son un aspecto tan importante del proyecto, y es importante enfatizarlo para que lo incorpores. Durante todo el curso, hago referencia a la práctica formal, pero muchos de nosotros realizamos retrospectivas informales a diario sin siquiera saberlo. Ya sea que estemos hablando de nuestro día con nuestros amigos o familiares o pensando en cómo podemos mejorar las interacciones pasadas, estamos constantemente reflexionando y trabajando para progresar. Revisemos las retrospectivas formales por un momento para explorar cómo se vinculan con el proceso de cierre formal de un proyecto. Tal vez recuerdes que una retrospectiva es una reunión destinada a analizar los éxitos, los fracasos y las posibles mejoras en el proyecto. Puede realizarse después de lograr un hito importante y al final de un proyecto. Con el fin de entender la importancia de cerrar un proyecto, analicemos los tres principales beneficios de las retrospectivas para tu equipo. Las retrospectivas alientan el trabajo en equipo porque permiten que los miembros del equipo conozcan otras perspectivas. Las retrospectivas facilitan una mejor colaboración en proyectos futuros y promueven cambios positivos en procedimientos y procesos futuros. Por ende, no nos sorprende que una retrospectiva sea una parte fundamental del cierre de un proyecto. Si tu equipo decidió cerrar el proyecto después de cada fase o de forma integral al final, realizarás retrospectivas como parte de ese proceso. Tu equipo del proyecto podría tentarse y negarse a reflexionar antes de seguir adelante con la siguiente fase, pero no puedes crecer y mejorar si no dedicas tiempo a reflexionar. Reflexionar es una excelente manera de aprender cuáles son las prácticas que debes seguir implementando y cuáles puedes mejorar. Como gerente de proyectos, debes construir una cultura dentro de tu equipo y empresa que los guíe a aspirar a lograr mejoras constantes. Esto significa que deberás pedir comentarios que te ayudarán a mejorar en tu próximo proyecto. Estos comentarios pueden referirse a cualquier aspecto del proyecto, incluidas la planificación, la programación, la ejecución, la comunicación o la dinámica del equipo. Es posible que recibas comentarios sobre procesos que lideraste, y está bien. Analizar los comentarios es crucial para tu crecimiento como gerente de proyectos. Es importante crear un espacio seguro para esos comentarios, de modo que la gente realmente pueda compartir lo que piensa y el equipo pueda crecer en conjunto. Esta es una pieza clave para ayudar a mejorar la colaboración en proyectos futuros. Parte de alentar el crecimiento continuo es reconocer y celebrar un trabajo bien hecho. La forma en que lo celebres cambiará según dónde te encuentres en el proyecto y lo que consideres que es más apropiado para tu equipo. Tomarte un momento para recompensarte con una muestra de de reconocimiento convierte a la celebración en un ejercicio para el desarrollo del equipo. Reconocer el trabajo garantiza que lo que haces se siente inspirador y gratificante, en lugar de monótono y agotador. También impulsa un cambio positivo. Por lo tanto, al cerrar un proyecto, no te olvides de los elementos divertidos. Asegúrate de jugar un juego, comer pastel y celebrar un momento de calidad juntos, porque te lo has ganado. Repasemos. Las retrospectivas alientan el trabajo en equipo porque permiten a los miembros del equipo conocer otras perspectivas. Facilitan una colaboración mejorada en proyectos futuros, y promueven cambios positivos en los procedimientos y procesos futuros. Ahora que sabes cómo hacer el cierre para tu equipo, analicemos cómo hacer el cierre para el gerente de proyectos.
+
+En resumen:
+
+Retrospectivas para cerrar proyectos
+
+Las retrospectivas son reuniones donde el equipo discute:
+
+    Éxitos: Qué salió bien
+    Fracasos: Qué salió mal
+    Mejoras: Cómo mejorar en el futuro
+
+Beneficios de las retrospectivas:
+
+    Fomentan el trabajo en equipo: Permiten que los miembros del equipo comprendan diferentes perspectivas.
+    Mejoran la colaboración: Facilitan una mejor colaboración en proyectos futuros.
+    Promueven cambios positivos: Impulsan cambios positivos en los procesos y procedimientos futuros.
+
+Cómo realizar una retrospectiva:
+
+    Crea un espacio seguro para que los miembros del equipo compartan sus opiniones.
+    Solicita comentarios sobre todos los aspectos del proyecto.
+    Reconoce y celebra los logros del equipo.
+    Utiliza juegos o actividades divertidas para hacer que la celebración sea un ejercicio de trabajo en equipo.
+
+Importancia de las retrospectivas:
+
+    Ayudan a identificar prácticas que deben mantenerse y mejorar.
+    Fomentan una cultura de mejora continua.
+    Garantizan que el trabajo se sienta gratificante y no agotado
+
 #### Sarah: Por qué me encantan las retrospectivas
 
 #### El proceso de cierre para el gerente de proyectos
