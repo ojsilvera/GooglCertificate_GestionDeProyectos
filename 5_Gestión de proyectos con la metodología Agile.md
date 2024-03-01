@@ -36,6 +36,20 @@ Roles en un equipo Agile:
 
 ### Introducción a Agile
 
+#### Una breve historia de Agile
+
+#### Diferencia entre Agile y Waterfall
+
+#### Los cuatro valores del Manifiesto de la metodología Agile
+
+#### 12 principios del Manifiesto de la metodología Agile
+
+#### Adopción de una mentalidad Agile: Manifiesto de la metodología Agile
+
+#### Adopción de una mentalidad Agile
+
+#### Aplicación de Agile en un entorno VUCA
+
 ### Frameworks populares de la metodología Agile
 
 ## Scrum 101
