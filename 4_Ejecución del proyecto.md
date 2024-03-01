@@ -4274,6 +4274,14 @@ efectos de las áreas problemáticas clave, como la corrupción del alcance y el
 tus hitos y cómo los elegiste. ¿Cuánto tiempo llevó completar el proyecto? ¿El proyecto se mantuvo encaminado?
 
 *cualquier información sobre contratiempos importantes. Asegúrate de enumerar los recursos y miembros del equipo:* Explica
-quién estuvo involucrado y cuáles eran sus funciones. Esta también es una forma clave de reconocer a las personas que contribuyeron a la finalización del proyecto. Y por último, incluye una sección de recursos y archivo del proyecto. Esto incluirá vínculos a información como tu plan de proyecto original, las comunicaciones y los comentarios documentados de los interesados (como notas de reuniones), la documentación utilizada para rastrear, supervisar e informar y cualquier información técnica relacionada con los entregables del proyecto, como guías y manuales de usuario. Es de esperar que a estas alturas ya comprendas cómo los informes de cierre de proyectos benefician no solo a la organización, sino también al gerente de proyectos. Los informes de cierre del proyecto promueven la visibilidad entre los miembros del equipo y permiten crear proyectos futuros más eficientes. Muy bien, revisamos mucha información. ¡Buen trabajo de concentración! En el siguiente video, revisaremos los conceptos que aprendiste mientras repasamos el módulo.
+quién estuvo involucrado y cuáles eran sus funciones. Esta también es una forma clave de reconocer a las personas que
+contribuyeron a la finalización del proyecto.
 
-#### Explorar: El proceso de cierre
+*Incluye una sección de recursos y archivo del proyecto.* Esto incluirá vínculos a información como tu plan de proyecto
+original, las comunicaciones y los comentarios documentados de los interesados (como notas de reuniones), la documentación
+utilizada para rastrear, supervisar e informar y cualquier información técnica relacionada con los entregables del proyecto,
+como guías y manuales de usuario.
+
+Es de esperar que a estas alturas ya comprendas cómo los informes de cierre de proyectos benefician no solo a la organización,
+sino también al gerente de proyectos. Los informes de cierre del proyecto promueven la visibilidad entre los miembros del
+equipo y permiten crear proyectos futuros más eficientes.
