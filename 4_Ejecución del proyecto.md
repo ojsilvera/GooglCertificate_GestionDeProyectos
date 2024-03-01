@@ -4226,4 +4226,54 @@ coordinados y motivados. Aquí tienes algunos consejos para mejorar la comunicac
 
 #### El proceso de cierre para el gerente de proyectos
 
+Analicemos qué significa el proceso de cierre del proyecto para el gerente de proyectos. Para un gerente de proyectos, es
+importante cerrar el proyecto correctamente por una serie de motivos. El cierre brinda una oportunidad para reflexionar
+sobre tu rendimiento y el de tu equipo, garantizar que todas las tareas se hayan completado y evitar la confusión en torno
+al proyecto en el futuro.
+
+Uno de los aspectos más importantes de cerrar por completo un proyecto es *el informe de cierre del proyecto*. Un informe
+de cierre de proyecto es un documento creado por los gerentes de proyectos para los gerentes de proyectos. Un informe de
+cierre de proyecto tiene tres propósitos principales:
+
+    Primero, es un modelo para documentar lo que hizo el equipo, cómo lo hizo y qué entregó.
+    En segundo lugar, proporciona una evaluación de la calidad del trabajo.
+    en tercer lugar, evalúa el rendimiento del proyecto con respecto al presupuesto y al cronograma.
+
+Al igual que la retrospectiva, el informe de cierre del proyecto se puede utilizar para determinar las mejores prácticas
+cuando se trata de proyectos futuros. Piensa en ello como una transferencia de conocimientos a los futuros gerentes de
+proyectos. Por ejemplo, una vez que se cierra un proyecto, existe la posibilidad de que un proyecto similar o una continuación
+de ese proyecto surjan dentro de la organización, y tal vez se asigne otro gerente de proyecto a este nuevo proyecto mientras
+tú pasas a otras cosas. Si creas un informe de cierre detallado, ayudará mucho a los gerentes de proyectos nuevos a saber
+lo que sucedió antes en un proyecto similar.
+
+El informe de cierre puede incluir cosas que hayan funcionado bien y cosas que no hayan funcionado tan bien. La creación
+de un informe de cierre también reduce el tiempo que dedicas a responder preguntas mientras el nuevo gerente de proyectos
+se pone al día.
+
+Podemos suponer que las personas que lean tu informe en el futuro no estarán familiarizadas con el proyecto, de modo que
+debe ser lo más detallado posible. De esa manera, el nuevo equipo del proyecto podrá comprender el propósito, la ejecución
+y el resultado del proyecto basándose únicamente en tu informe.
+
+En el informe de cierre de tu proyecto, deberás incluir lo siguiente:
+
+*Un resumen ejecutivo:* es una descripción del proceso y del propósito del proyecto. Debe ser breve y conciso; unas pocas
+frases en un párrafo como máximo. Si un ejecutivo no tuvo tiempo de leer el documento completo y solo tuvo tiempo de leer
+este resumen ejecutivo, ¿sería capaz de entender los aspectos destacados del proyecto?
+
+*Una lista de logros clave:* piensa en esto como una forma de destacar los logros del equipo, así como el impacto general
+del proyecto.
+
+*Incluye las lecciones aprendidas*, como: ¿qué salió bien y por qué? ¿Qué salió mal y por qué? ¿Cuáles fueron los principales
+efectos de las áreas problemáticas clave, como la corrupción del alcance y el incumplimiento del cronograma?
+
+*Elementos abiertos:* cosas que no llegaste a hacer o ideas para cambios que harías si hubieras tenido tiempo.
+
+*Tus próximos pasos:* cosas como si se planean proyectos de seguimiento y si se requiere algún mantenimiento continuo.
+
+*También debes incluir información importante sobre el cronograma y las fechas límite importantes,* como: cuáles fueron
+tus hitos y cómo los elegiste. ¿Cuánto tiempo llevó completar el proyecto? ¿El proyecto se mantuvo encaminado?
+
+*cualquier información sobre contratiempos importantes. Asegúrate de enumerar los recursos y miembros del equipo:* Explica
+quién estuvo involucrado y cuáles eran sus funciones. Esta también es una forma clave de reconocer a las personas que contribuyeron a la finalización del proyecto. Y por último, incluye una sección de recursos y archivo del proyecto. Esto incluirá vínculos a información como tu plan de proyecto original, las comunicaciones y los comentarios documentados de los interesados (como notas de reuniones), la documentación utilizada para rastrear, supervisar e informar y cualquier información técnica relacionada con los entregables del proyecto, como guías y manuales de usuario. Es de esperar que a estas alturas ya comprendas cómo los informes de cierre de proyectos benefician no solo a la organización, sino también al gerente de proyectos. Los informes de cierre del proyecto promueven la visibilidad entre los miembros del equipo y permiten crear proyectos futuros más eficientes. Muy bien, revisamos mucha información. ¡Buen trabajo de concentración! En el siguiente video, revisaremos los conceptos que aprendiste mientras repasamos el módulo.
+
 #### Explorar: El proceso de cierre
