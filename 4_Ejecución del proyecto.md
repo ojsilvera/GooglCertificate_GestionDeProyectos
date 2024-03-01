@@ -4198,6 +4198,32 @@ Importancia de las retrospectivas:
 
 #### Sarah: Por qué me encantan las retrospectivas
 
+Comunicación eficaz del proyecto
+
+La comunicación eficaz es crucial para el éxito de cualquier proyecto. Permite a los miembros del equipo mantenerse informados,
+coordinados y motivados. Aquí tienes algunos consejos para mejorar la comunicación del proyecto:
+
+    Establece canales de comunicación claros: Determina cómo se comunicará el equipo (por ejemplo, correo electrónico,
+    mensajería instantánea, reuniones).
+
+    Define la frecuencia y el formato de las comunicaciones: Decide con qué frecuencia se comunicará el equipo y qué formato
+    utilizará (por ejemplo, informes de estado, actualizaciones verbales).
+
+    Utiliza herramientas de colaboración: Aprovecha las herramientas de colaboración como Google Drive o Trello para compartir
+    documentos, realizar un seguimiento del progreso y facilitar la comunicación.
+
+    Fomenta la comunicación abierta y honesta: Crea un entorno en el que los miembros del equipo se sientan cómodos compartiendo
+    ideas, preocupaciones y actualizaciones.
+
+    Escucha activamente: Presta atención a lo que dicen los demás y haz preguntas aclaratorias para asegurarte de que entiendes
+    su perspectiva.
+
+    Proporciona comentarios constructivos: Ofrece comentarios específicos y útiles para ayudar a los miembros del equipo
+    a mejorar su comunicación.
+
+    Documenta las decisiones y los acuerdos: Registra las decisiones y los acuerdos importantes para evitar malentendidos
+    y garantizar la coherencia.
+
 #### El proceso de cierre para el gerente de proyectos
 
 #### Explorar: El proceso de cierre
