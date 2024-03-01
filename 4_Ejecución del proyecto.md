@@ -4156,11 +4156,20 @@ para esos comentarios, de modo que la gente realmente pueda compartir lo que pie
 Esta es una pieza clave para ayudar a mejorar la colaboración en proyectos futuros. Parte de alentar el crecimiento continuo
 es reconocer y celebrar un trabajo bien hecho.
 
-La forma en que lo celebres cambiará según dónde te encuentres en el proyecto y lo que consideres que es más apropiado para tu equipo. Tomarte un momento para recompensarte con una muestra de de reconocimiento convierte a la celebración en un ejercicio para el desarrollo del equipo. Reconocer el trabajo garantiza que lo que haces se siente inspirador y gratificante, en lugar de monótono y agotador. También impulsa un cambio positivo. Por lo tanto, al cerrar un proyecto, no te olvides de los elementos divertidos. Asegúrate de jugar un juego, comer pastel y celebrar un momento de calidad juntos, porque te lo has ganado. Repasemos. Las retrospectivas alientan el trabajo en equipo porque permiten a los miembros del equipo conocer otras perspectivas. Facilitan una colaboración mejorada en proyectos futuros, y promueven cambios positivos en los procedimientos y procesos futuros. Ahora que sabes cómo hacer el cierre para tu equipo, analicemos cómo hacer el cierre para el gerente de proyectos.
+La forma en que lo celebres cambiará según dónde te encuentres en el proyecto y lo que consideres que es más apropiado para
+tu equipo. Tomarte un momento para recompensarte con una muestra de de reconocimiento convierte a la celebración en un
+ejercicio para el desarrollo del equipo. Reconocer el trabajo garantiza que lo que haces se siente inspirador y gratificante,
+en lugar de monótono y agotador. También impulsa un cambio positivo. Por lo tanto, al cerrar un proyecto, no te olvides de
+los elementos divertidos. Asegúrate de jugar un juego, comer pastel y celebrar un momento de calidad juntos, porque te lo
+has ganado. Repasemos.
 
 En resumen:
 
-Retrospectivas para cerrar proyectos
+Retrospectivas para cerrar proyectos.
+
+Las retrospectivas alientan el trabajo en equipo porque permiten a los miembros del equipo conocer otras perspectivas,
+Facilitan una colaboración mejorada en proyectos futuros, y promueven cambios positivos en los procedimientos y procesos
+futuros.
 
 Las retrospectivas son reuniones donde el equipo discute:
 
