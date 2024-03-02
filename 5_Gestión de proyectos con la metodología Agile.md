@@ -245,6 +245,12 @@ legal, diseñar un espacio de oficinas o preparar una presentación de ventas.
 Lo que crea valor es aquello que tu proyecto está intentando entregar. En otras palabras: es más importante entregar el
 producto que el cliente quiere que documentar exhaustivamente el proceso que usaste.
 
+*colaboración con el cliente por sobre la negociación del contrato.* En los proyectos Agile, la satisfacción del cliente
+se considera como la máxima prioridad, que consiste en construir un producto valioso y de alta calidad. En definitiva,
+si no es valioso para el cliente, entonces no tiene mucho sentido dedicarle tiempo.
+
+
+
 En resumen El Manifiesto Ágil es un conjunto de principios que guían el desarrollo de proyectos ágiles.
 Estos principios enfatizan:
 
