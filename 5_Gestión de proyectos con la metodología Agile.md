@@ -73,15 +73,9 @@ equipo como los usuarios, y no tanto en los productos finales o los entregables.
 
 Ahora bien, este es el punto en que Agile se vuelve aún más interesante. Puedes usar Agile incluso si no planeas trabajar
 en proyectos de software. Agile ha tenido tanto éxito en la industria del software que sus valores, principios y frameworks
-se han aplicado a casi todas las industrias. De hecho, los métodos Agile
-que aprenderás también se basan en gran medida en los principios de fabricación Lean que se originaron
-en las fábricas de automóviles de Toyota en la década de 1930. También encontrarás métodos Agile
-aplicados en las industrias aeronáutica, sanitaria, educativa y financiera,
-entre muchas más. Es genial, ¿no? Agile está en todas partes. Ahora ya conoces un poco sobre
-la historia de Agile, el origen del Manifiesto de la metodología Agile y algunas de las
-industrias que la utilizan para la gestión de proyectos. A continuación, contrastaremos otras diferencias
-entre Waterfall y Agile para que te familiarices bien
-con estos estilos de gestión de proyectos.
+se han aplicado a casi todas las industrias. De hecho, los métodos Agile se basan en gran medida en los principios de fabricación
+Lean que se originaron en las fábricas de automóviles de Toyota en la década de 1930. También encontrarás métodos Agile
+aplicados en las industrias aeronáutica, sanitaria, educativa y financiera, entre muchas más.
 
 En resumen Metodologías de gestión de proyectos: Agile vs. Cascada
 
