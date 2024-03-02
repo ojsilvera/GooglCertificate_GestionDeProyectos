@@ -259,6 +259,17 @@ en el cliente. Se alienta a los equipos Agile a buscar todas las oportunidades p
 la ejecución del proyecto. Por ejemplo, podría ser presentar prototipos anticipadamente, hacer preguntas o reunirse para
 hacer algunas pruebas iniciales del producto.
 
+*Responder al cambio por sobre seguir un plan.* Este último valor es crucial para un proyecto Agile, ya que, Agile surgió
+de un mundo que estaba cambiando tan rápido que las organizaciones no podían adaptarse y luchaban por sobrevivir. En
+consecuencia, este valor enfatiza que cada equipo Agile debe reconocer que el cambio es inevitable. Cuanto más grande, más
+largo y más complejo sea tu proyecto, más incertidumbre habrá. Para muchos proyectos, finalizar un plan consolidado al
+comienzo del proyecto probablemente conllevará una entrega a tiempo dentro del presupuesto, pero puedes correr el riesgo
+de no satisfacer las necesidades del cliente o agregar el máximo valor.
+
+Como gerente de proyectos, la enseñanza clave que debes recordar es que los proyectos más exitosos son aquellos que pueden
+integrar el cambio sin problemas. Los gerentes de proyectos que usan la metodología Agile crean y valoran sus planes, pero
+pueden asumir el cambio y adaptarse si es necesario revisar los planes en cualquier momento durante el proyecto.
+
 En resumen El Manifiesto Ágil es un conjunto de principios que guían el desarrollo de proyectos ágiles.
 Estos principios enfatizan:
 
