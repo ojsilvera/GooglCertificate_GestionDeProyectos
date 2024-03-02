@@ -224,11 +224,19 @@ A partir de los cuatro valores, se desarrolló un conjunto de 12 principios que 
 valores y principios especifican el porqué, el cómo y el qué de los procesos y la planificación de la gestión de proyectos
 con la metodología Agile.
 
-Los individuos y las interacciones por sobre los procesos y las herramientas. En esencia, este valor enfatiza que las personas
+*Los individuos y las interacciones* por sobre los procesos y las herramientas. En esencia, este valor enfatiza que las personas
 se comuniquen entre sí, en lugar de usar muchos procesos y herramientas para forzar que las cosas sucedan de cierta manera,
 Por ejemplo, ¿alguna vez le has enviado un correo electrónico a alguien con una pregunta y terminaron en un largo intercambio
 de ida y vuelta debido a simples preguntas de seguimiento o aclaraciones? Lo más probable es que podrías haber obtenido la
 misma información en menos tiempo con una breve conversación.
+
+Agile quiere asegurarse de que los equipos trabajen juntos, colaboren y se ayuden entre sí para lograr los mejores resultados
+posibles. Agile también valora las perspectivas individuales y la creatividad. Esto no significa que todos los equipos sean
+aóticos. El valor solo significa que los procesos y las herramientas deben usarse para facilitar e impulsar una buena gestión
+de proyectos y una mejor colaboración dentro del equipo, y nunca deben usarse como un obstáculo para que los equipos trabajen
+bien entre sí.
+
+*El software funcional por sobre la documentación exhaustiva*, lo que significa que los equipos deben priorizar pasar tiempo trabajando en cosas que realmente crean valor y evitar dedicar más tiempo del realmente necesario a debatir, redactar y revisar documentos. Ahora bien, este valor puede parecer que solo se aplica a proyectos de software, pero reemplaza el término “software funcional” con lo que sea que tu proyecto esté intentando entregar. Tal vez el proyecto sea redactar un resumen legal, diseñar un espacio de oficinas o preparar una presentación de ventas.
 
 En resumen El Manifiesto Ágil es un conjunto de principios que guían el desarrollo de proyectos ágiles.
 Estos principios enfatizan:
