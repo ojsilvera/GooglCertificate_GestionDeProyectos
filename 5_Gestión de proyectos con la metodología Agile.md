@@ -236,7 +236,14 @@ aóticos. El valor solo significa que los procesos y las herramientas deben usar
 de proyectos y una mejor colaboración dentro del equipo, y nunca deben usarse como un obstáculo para que los equipos trabajen
 bien entre sí.
 
-*El software funcional por sobre la documentación exhaustiva*, lo que significa que los equipos deben priorizar pasar tiempo trabajando en cosas que realmente crean valor y evitar dedicar más tiempo del realmente necesario a debatir, redactar y revisar documentos. Ahora bien, este valor puede parecer que solo se aplica a proyectos de software, pero reemplaza el término “software funcional” con lo que sea que tu proyecto esté intentando entregar. Tal vez el proyecto sea redactar un resumen legal, diseñar un espacio de oficinas o preparar una presentación de ventas.
+*El software funcional por sobre la documentación exhaustiva*, lo que significa que los equipos deben priorizar pasar tiempo
+trabajando en cosas que realmente crean valor y evitar dedicar más tiempo del realmente necesario a debatir, redactar y
+revisar documentos. Ahora bien, este valor puede parecer que solo se aplica a proyectos de software, pero reemplaza el término
+“software funcional” con lo que sea que tu proyecto esté intentando entregar. Tal vez el proyecto sea redactar un resumen
+legal, diseñar un espacio de oficinas o preparar una presentación de ventas.
+
+Lo que crea valor es aquello que tu proyecto está intentando entregar. En otras palabras: es más importante entregar el
+producto que el cliente quiere que documentar exhaustivamente el proceso que usaste.
 
 En resumen El Manifiesto Ágil es un conjunto de principios que guían el desarrollo de proyectos ágiles.
 Estos principios enfatizan:
