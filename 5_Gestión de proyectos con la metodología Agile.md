@@ -209,6 +209,27 @@ volatilidad, incertidumbre, complejidad y ambigüedad.
 
 #### Los cuatro valores del Manifiesto de la metodología Agile
 
+El Manifiesto de la metodología Agile se escribió en 2001 y reúne la sabiduría colectiva de las personas que lo idearon
+a partir de su vasta experiencia y liderazgo intelectual en la industria tecnológica.
+
+El Manifiesto para el desarrollo de software con metodología Agile establece lo siguiente: Estamos descubriendo mejores
+formas de desarrollar software haciéndolo y ayudando a otros a hacerlo. Gracias a este trabajo, hemos llegado a:
+
+    valorar a las personas y las interacciones por sobre los procesos y las herramientas
+    el software funcional por sobre la documentación exhaustiva
+    la colaboración con el cliente por sobre la negociación de contratos
+    responder al cambio por sobre seguir un plan.
+
+A partir de los cuatro valores, se desarrolló un conjunto de 12 principios que recalcaron el mensaje del Manifiesto. Estos
+valores y principios especifican el porqué, el cómo y el qué de los procesos y la planificación de la gestión de proyectos
+con la metodología Agile.
+
+Los individuos y las interacciones por sobre los procesos y las herramientas. En esencia, este valor enfatiza que las personas
+se comuniquen entre sí, en lugar de usar muchos procesos y herramientas para forzar que las cosas sucedan de cierta manera,
+Por ejemplo, ¿alguna vez le has enviado un correo electrónico a alguien con una pregunta y terminaron en un largo intercambio
+de ida y vuelta debido a simples preguntas de seguimiento o aclaraciones? Lo más probable es que podrías haber obtenido la
+misma información en menos tiempo con una breve conversación.
+
 En resumen El Manifiesto Ágil es un conjunto de principios que guían el desarrollo de proyectos ágiles.
 Estos principios enfatizan:
 
