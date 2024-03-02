@@ -110,82 +110,75 @@ No solo para proyectos de software. Se utiliza en diversas industrias, como:
 
 #### Diferencia entre Agile y Waterfall
 
-¡Hola!
-En el último video, te di una breve lección de historia de Agile
-e introduje el Manifiesto de la metodología Agile, que establece los valores
-y principios de Agile. En breve, veremos con más detalle
-el Manifiesto, los valores y los principios. Pero antes, dediquemos más tiempo
-a comparar Agile y Waterfall. Quiero mostrarte los elementos clave
-de Agile que la distinguen de Waterfall. Así podrás aprovechar este conocimiento
-cuando veamos más adelante el Manifiesto. Entonces, como mencioné en la lección de historia, Agile se creó en respuesta
-al estricto proceso lineal de Waterfall. Mientras que Waterfall apunta a la previsibilidad
-y trata de evitar el cambio, Agile acepta la realidad de que el mundo, los mercados
-y los usuarios son inciertos e impredecibles. Por ejemplo, tu cliente podría decir
-que quiere la característica A, pero al momento de entregarle el resultado final,
-se da cuenta de que en realidad quería la característica B. Agile tiene como objetivo resolver ese problema
-obteniendo comentarios de los clientes más rápidamente para garantizar que el equipo construya
-lo que el cliente realmente quiere. Parte de trabajar con una mentalidad Agile consiste
-siempre en buscar formas de trabajar más eficientemente. Lo conseguimos buscando formas
-de optimizar los procesos sin reducir la calidad o el valor del producto. La clave para optimizar
-es reducir el desperdicio. Por ejemplo, la documentación innecesaria
-es una forma de desperdicio. Otra forma de desperdicio es pasar semanas o meses trabajando en una característica y, luego,
-descubrir que a los clientes, que también podrían ser usuarios o interesados,
-definitivamente no les gusta la característica. Podrías reducir o eliminar ambas formas
-de desperdicio aumentando la colaboración entre el equipo y los interesados. Más colaboración significa
-menos documentación y comentarios anticipados sobre el producto. Consideremos algunas diferencias más
-entre Waterfall y Agile. Los tres aspectos importantes de un proyecto
-son los requisitos, la documentación y los entregables. Los requisitos son condiciones
-que deben cumplirse o tareas que deben terminarse para asegurar
-la culminación exitosa del proyecto. Piensa en ellos como el conjunto de criterios
-que se encuentran dentro del alcance de tu proyecto o una lista de especificaciones que deben cumplirse. En un proyecto Waterfall, probablemente necesitarás
-un documento de requisitos del producto, que enumera el alcance
-y los requisitos del proyecto. Necesitas tener varios planes de proyecto
-aprobados formalmente, y es posible que tengas un equipo de personas
-cuyo trabajo sea solo escribir y aprobar estos planes. También podrías establecer una junta de control
-de cambios, y un proceso formal y riguroso para gestionar
-cualquier cambio en los requisitos. Todo esto está diseñado para evitar que el equipo
-construya algo que el cliente o los interesados no quieren y apunta a minimizar cualquier cambio
-que pueda provocar la corrupción del alcance. Los planes de proyecto aprobados formalmente
-funcionan bien cuando el producto final deseado se conoce y comprende. Un ejemplo de esto podría ser dirigir
-un proyecto con requisitos y objetivos claros basados en la norma exigida. Pero si ese no es el caso, un equipo de Waterfall corre el riesgo
-de construir un entregable completo y, luego, descubrir que al cliente
-no le gusta el resultado final. En Agile, los requisitos
-se tratan como más dinámicos y se espera que cambien conforme el equipo
-recibe comentarios y nueva información. Por lo general, hay
-un conjunto inicial de requisitos o ideas destacadas cuando el proyecto comienza, pero esa lista de requisitos
-y características crece continuamente y cambia durante todo el proyecto. El equipo trabaja con los interesados
-para priorizar los requisitos, moviendo siempre los elementos más urgentes
-o valiosos al principio de la lista. Luego, el equipo sigue el orden de la lista y
-trabaja en los requisitos por iteraciones. Gracias a que sigue el orden de la lista, el equipo puede
-recibir comentarios sobre su trabajo de manera rápida y frecuente. Al final de cada iteración,
-el equipo recibe comentarios y puede hacer los ajustes necesarios
-a los requisitos antes de continuar. Bien, el segundo aspecto es la documentación. Todos los proyectos requieren documentación,
-planes de proyecto, mapas de interesados, cronogramas, estatutos, contratos... y la lista sigue. Los proyectos de Waterfall usan
-mucha documentación, ya que hay mucha cantidad de traspasos entre fases y traspasos
-entre diferentes equipos dentro del proyecto. Además, debido a que el trabajo
-se realiza en porciones más grandes, deberás dejar atrás más partes de documentación
-en cada etapa del proyecto. Pero con Agile, se pone énfasis en
-las conversaciones en tiempo real. Esto no significa
-que no haya documentación; simplemente está presente de una forma diferente. En lugar de grandes documentos formales
-con una gestión de cambios y un proceso de aprobación rigurosos, hay documentos más cortos que tienen
-los detalles justos para lograr su propósito. Estos documentos están mucho más enfocados
-en lo que el lector necesita saber para hacer el trabajo y
-se redactan solo cuando es necesario. Finalmente, analicemos los entregables. Un entregable es un resultado
-tangible de un proyecto. En los proyectos de Waterfall, es común presentar
-el entregable al final de todo. La presentación del producto final se siente
-como un gran evento, un gran anuncio, mucho alboroto y a menudo resulta
-sumamente divertida y emocionante. Agile es igual de emocionante, pero
-tiene presentaciones más pequeñas y frecuentes. Así que cada presentación tiene
-una celebración menos formal, pero con la importancia necesaria
-para ser igual de emocionante. Cuando hay mucha incertidumbre
-en un proyecto, como en una industria o un mercado
-nuevos y emergentes, la presentación constante de entregables del proyecto permite que el equipo Agile
-reciba comentarios y aprenda sobre la marcha. Sin comentarios frecuentes, el equipo podría terminar entregando
-algo que el cliente no quiere. Ahora tienes una mejor idea de algunos
-elementos clave de la metodología Agile que la distinguen de Waterfall. Tres diferencias entre estos
-dos enfoques de gestión de proyectos son la forma en la cual cada uno se ocupa de los requisitos,
-la documentación y los entregables. Sígueme al siguiente video, donde conocerás
-el Manifiesto de la metodología Agile en detalle.
+Agile se creó en respuesta al estricto proceso lineal de Waterfall.
+
+Mientras que Waterfall apunta a la previsibilidad y trata de evitar el cambio, Agile acepta la realidad de que el mundo,
+los mercados y los usuarios son inciertos e impredecibles.
+
+Por ejemplo, tu cliente podría decir que quiere la característica A, pero al momento de entregarle el resultado final, se
+da cuenta de que en realidad quería la característica B. Agile tiene como objetivo resolver ese problema obteniendo
+comentarios de los clientes más rápidamente para garantizar que el equipo construya lo que el cliente realmente quiere.
+
+Parte de trabajar con una mentalidad Agile consiste siempre en buscar formas de trabajar más eficientemente. Lo conseguimos
+buscando formas de optimizar los procesos sin reducir la calidad o el valor del producto. La clave para optimizar es reducir
+el desperdicio.
+
+Por ejemplo, la documentación innecesaria es una forma de desperdicio. Otra forma de desperdicio es pasar semanas o meses
+trabajando en una característica y, luego, descubrir que a los clientes, que también podrían ser usuarios o interesados,
+definitivamente no les gusta la característica.
+
+Podrías reducir o eliminar ambas formas de desperdicio aumentando la colaboración entre el equipo y los interesados. Más
+colaboración significa menos documentación y comentarios anticipados sobre el producto.
+
+Consideremos algunas diferencias más entre Waterfall y Agile.
+
+Los tres aspectos importantes de un proyecto son los requisitos, la documentación y los entregables.
+
+Los requisitos son condiciones que deben cumplirse o tareas que deben terminarse para asegurar la culminación exitosa del
+proyecto. Piensa en ellos como el conjunto de criterios que se encuentran dentro del alcance de tu proyecto o una lista de
+especificaciones que deben cumplirse.
+
+En un proyecto Waterfall, probablemente necesitarás un documento de requisitos del producto, que enumera el alcance y los
+requisitos del proyecto. Necesitas tener varios planes de proyecto aprobados formalmente, y es posible que tengas un equipo
+de personas cuyo trabajo sea solo escribir y aprobar estos planes. También podrías establecer una junta de control de cambios,
+y un proceso formal y riguroso para gestionar cualquier cambio en los requisitos. Todo esto está diseñado para evitar que
+el equipo construya algo que el cliente o los interesados no quieren y apunta a minimizar cualquier cambio que pueda provocar
+la corrupción del alcance.
+
+Los planes de proyecto aprobados formalmente funcionan bien cuando el producto final deseado se conoce y comprende. Un
+ejemplo de esto podría ser dirigir un proyecto con requisitos y objetivos claros basados en la norma exigida. Pero si ese
+no es el caso, un equipo de Waterfall corre el riesgo de construir un entregable completo y, luego, descubrir que al cliente
+no le gusta el resultado final.
+
+En Agile, los requisitos se tratan como más dinámicos y se espera que cambien conforme el equipo recibe comentarios y nueva
+información. Por lo general, hay un conjunto inicial de requisitos o ideas destacadas cuando el proyecto comienza, pero
+esa lista de requisitos y características crece continuamente y cambia durante todo el proyecto. El equipo trabaja con los
+interesados para priorizar los requisitos, moviendo siempre los elementos más urgentes o valiosos al principio de la lista,
+Luego, el equipo sigue el orden de la lista y trabaja en los requisitos por iteraciones. Gracias a que sigue el orden de
+la lista, el equipo puede recibir comentarios sobre su trabajo de manera rápida y frecuente.
+
+Al final de cada iteración, el equipo recibe comentarios y puede hacer los ajustes necesarios a los requisitos antes de
+continuar.
+
+el segundo aspecto es la documentación. Todos los proyectos requieren documentación, planes de proyecto, mapas de interesados,
+cronogramas, estatutos, contratos... y la lista sigue. Los proyectos de Waterfall usan mucha documentación, ya que hay mucha
+cantidad de traspasos entre fases y traspasos entre diferentes equipos dentro del proyecto. Además, debido a que el trabajo
+se realiza en porciones más grandes, deberás dejar atrás más partes de documentación en cada etapa del proyecto.
+
+Pero con Agile, se pone énfasis en las conversaciones en tiempo real. Esto no significa que no haya documentación; simplemente
+está presente de una forma diferente. En lugar de grandes documentos formales con una gestión de cambios y un proceso de
+aprobación rigurosos, hay documentos más cortos que tienen los detalles justos para lograr su propósito. Estos documentos
+están mucho más enfocados en lo que el lector necesita saber para hacer el trabajo y se redactan solo cuando es necesario.
+
+Los entregables. Un entregable es un resultado tangible de un proyecto. En los proyectos de Waterfall, es común presentar
+el entregable al final de todo. La presentación del producto final se siente como un gran evento, un gran anuncio, mucho
+alboroto y a menudo resulta sumamente divertida y emocionante. Agile es igual de emocionante, pero tiene presentaciones
+más pequeñas y frecuentes. Así que cada presentación tiene una celebración menos formal, pero con la importancia necesaria
+para ser igual de emocionante.
+
+Cuando hay mucha incertidumbre en un proyecto, como en una industria o un mercado nuevos y emergentes, la presentación
+constante de entregables del proyecto permite que el equipo Agile reciba comentarios y aprenda sobre la marcha. Sin comentarios
+frecuentes, el equipo podría terminar entregando algo que el cliente no quiere.
 
 En resumen las diferencias clave entre Agile y Waterfall
 
