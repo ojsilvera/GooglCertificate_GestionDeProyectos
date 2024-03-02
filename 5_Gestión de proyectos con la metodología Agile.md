@@ -38,6 +38,33 @@ Roles en un equipo Agile:
 
 #### Una breve historia de Agile
 
+En resumen Metodologías de gestión de proyectos: Agile vs. Cascada
+
+Cascada
+
+    Secuencial: las fases se completan una a la vez.
+    Rígido: el proceso no se puede cambiar una vez iniciado.
+
+Agile
+
+    Iterativo: el proyecto se divide en ciclos más pequeños (iteraciones).
+    Flexible: el proceso se puede adaptar a los cambios.
+    Enfocado en el cliente: prioriza la satisfacción del cliente.
+
+Historia de Agile
+
+    Surgió en la década de 1990 en la industria del software.
+    Las empresas necesitaban desarrollar software más rápido y mejor.
+    El Manifiesto Ágil (2001) definió los valores y principios de Agile.
+    Aplicación de Agile
+
+No solo para proyectos de software. Se utiliza en diversas industrias, como:
+
+    Fabricación
+    Atención médica
+    Educación
+    Finanzas
+
 #### Diferencia entre Agile y Waterfall
 
 #### Los cuatro valores del Manifiesto de la metodología Agile
