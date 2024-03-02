@@ -63,20 +63,17 @@ tiempo. Mientras tanto, los gigantes tecnológicos de la época estaban experime
 software y mantenerse competitivos. Y, por cierto, el software no consiste solo en las aplicaciones y los sitios web que
 todos usamos día a día. El software también incluye el código detrás de las innovaciones en la agricultura, dispositivos
 médicos, fabricación y más. Entonces, en este entorno de crecimiento competitivo, las empresas no podían únicamente crear
-productos nuevos e innovadores. También debían innovar los mismos
-procesos que estaban usando para desarrollar estos nuevos productos. En 2001, intelectuales y creadores
-de algunos de estos nuevos procesos, también llamados metodologías, se reunieron
-para encontrar un punto común entre sus métodos y resolver un problema. Acordaron que el problema era
-que las empresas estaban tan concentradas en planificar y documentar sus proyectos que
-habían perdido de vista lo que realmente importaba: complacer a sus clientes. Por tal motivo, estos líderes idearon el
-Manifiesto de la metodología Agile para guiar y enseñar lo que realmente importa
-al desarrollar software, que es mantener el proceso flexible y
-concentrarse en las personas, tanto del equipo como los usuarios, y no tanto en los productos finales o
-los entregables. Ahora bien, este es el punto en que Agile
-se vuelve aún más interesante. Puedes usar Agile incluso si no planeas
-trabajar en proyectos de software. Agile ha tenido tanto éxito
-en la industria del software que sus valores, principios y frameworks se han aplicado
-a casi todas las industrias. De hecho, los métodos Agile
+productos nuevos e innovadores. También debían innovar los mismos procesos que estaban usando para desarrollar estos nuevos
+productos. En 2001, intelectuales y creadores de algunos de estos nuevos procesos, también llamados metodologías, se reunieron
+para encontrar un punto común entre sus métodos y resolver un problema. Acordaron que el problema era que las empresas estaban
+tan concentradas en planificar y documentar sus proyectos que habían perdido de vista lo que realmente importaba: complacer
+a sus clientes. Por tal motivo, estos líderes idearon el Manifiesto de la metodología Agile para guiar y enseñar lo que
+realmente importa al desarrollar software, que es mantener el proceso flexible y concentrarse en las personas, tanto del
+equipo como los usuarios, y no tanto en los productos finales o los entregables.
+
+Ahora bien, este es el punto en que Agile se vuelve aún más interesante. Puedes usar Agile incluso si no planeas trabajar
+en proyectos de software. Agile ha tenido tanto éxito en la industria del software que sus valores, principios y frameworks
+se han aplicado a casi todas las industrias. De hecho, los métodos Agile
 que aprenderás también se basan en gran medida en los principios de fabricación Lean que se originaron
 en las fábricas de automóviles de Toyota en la década de 1930. También encontrarás métodos Agile
 aplicados en las industrias aeronáutica, sanitaria, educativa y financiera,
