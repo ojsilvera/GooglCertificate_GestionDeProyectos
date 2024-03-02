@@ -1,6 +1,8 @@
 # Gestión de proyectos con la metodología Agile
 
-*Introducción a la Metodología Agile:*
+## Aspectos basicos de las metodologias agiles
+
+### Introducción a Agile
 
 ¿Qué es Agile?
 
@@ -32,22 +34,10 @@ Roles en un equipo Agile:
     Product Owner: Representa las necesidades del cliente.
     Equipo de desarrollo: Construye y entrega el producto.
 
-## Aspectos basicos de las metodologias agiles
-
-### Introducción a Agile
-
 #### Una breve historia de Agile
 
-Hola de nuevo. Es posible que recuerdes
-cursos anteriores de este programa en los que hicimos una introducción a las metodologías
-de gestión de proyectos Waterfall y Agile. Ahora vamos a profundizar en ellas para ampliar tu comprensión
-de estos enfoques populares. En este video, te contaré
-una breve historia de Agile y te presentaré los valores y principios
-de Agile. Además, aprenderás que Agile puede usarse
-y se usa en muchas industrias diferentes. ¿Estás listo? ¡Empecemos! Como repaso rápido: Waterfall es una metodología
-popular de gestión de proyectos que alude al orden secuencial
-o lineal de las fases. Completas una fase a la vez y
-no pasas a la siguiente hasta que hayas terminado. Luego, te mueves en la línea como una cascada:
+Waterfall es una metodología popular de gestión de proyectos que alude al orden secuencial o lineal de las fases. Completas
+una fase a la vez y no pasas a la siguiente hasta que hayas terminado. Luego, te mueves en la línea como una cascada:
 comienzas en la parte superior de la montaña y vas hacia abajo. El término “ágil” se refiere a la capacidad
 de moverse rápida y fácilmente. También se refiere a la flexibilidad,
 a la disposición y a la capacidad para el cambio y la adaptación. Los proyectos que adoptan una gestión de proyectos
