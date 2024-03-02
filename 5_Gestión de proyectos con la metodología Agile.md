@@ -204,7 +204,40 @@ Otros aspectos:
     Waterfall: Adecuado para proyectos con requisitos claros y estables.
     Agile: Adecuado para proyectos con incertidumbre y requisitos cambiantes.
 
+El término VUCA (entornos V.U.C.A) es el acrónimo inglés de Volatility, Uncertainty, Complexity y Ambiguity, es decir
+volatilidad, incertidumbre, complejidad y ambigüedad.
+
 #### Los cuatro valores del Manifiesto de la metodología Agile
+
+En resumen El Manifiesto Ágil es un conjunto de principios que guían el desarrollo de proyectos ágiles.
+Estos principios enfatizan:
+
+    Individuos e interacciones sobre procesos y herramientas: Priorizar la comunicación y la colaboración entre los miembros
+    del equipo.
+
+    Software funcional sobre documentación exhaustiva: Centrarse en crear productos valiosos en lugar de documentar excesivamente
+    el proceso.
+
+    Colaboración con el cliente sobre negociación de contratos: Involucrar al cliente en el proceso de desarrollo para garantizar
+    que se satisfagan sus necesidades.
+
+    Respuesta al cambio sobre seguir un plan: Adaptarse a los cambios inevitables y priorizar la flexibilidad.
+
+Cómo equilibrar los valores ágiles
+
+Los equipos ágiles deben encontrar un equilibrio entre estos valores:
+
+    Individuos e interacciones vs. Procesos y herramientas: Utilizar procesos y herramientas para facilitar la colaboración,
+    pero no permitir que obstaculicen la comunicación.
+
+    Software funcional vs. Documentación exhaustiva: Crear productos valiosos sin dedicar demasiado tiempo a la documentación.
+    
+    Colaboración con el cliente vs. Negociación de contratos: Colaborar con el cliente para comprender sus necesidades,
+    pero establecer acuerdos claros para evitar malentendidos.
+    
+    Respuesta al cambio vs. Seguir un plan: Adaptarse a los cambios, pero mantener un plan general para guiar el proyecto.
+    Al comprender y equilibrar estos valores, los equipos ágiles pueden crear productos valiosos, satisfacer las necesidades
+    del cliente y adaptarse a los cambios.
 
 #### 12 principios del Manifiesto de la metodología Agile
 
