@@ -36,41 +36,34 @@ Roles en un equipo Agile:
 
 #### Una breve historia de Agile
 
-Waterfall es una metodología popular de gestión de proyectos que alude al orden secuencial o lineal de las fases. Completas
+Waterfall es una metodología popular de gestión de proyectos que alude al orden secuencial o lineal de las fases, Completas
 una fase a la vez y no pasas a la siguiente hasta que hayas terminado. Luego, te mueves en la línea como una cascada:
-comienzas en la parte superior de la montaña y vas hacia abajo. El término “ágil” se refiere a la capacidad
-de moverse rápida y fácilmente. También se refiere a la flexibilidad,
-a la disposición y a la capacidad para el cambio y la adaptación. Los proyectos que adoptan una gestión de proyectos
-con la metodología Agile aplican un enfoque iterativo, lo que significa que los procesos del proyecto
-suelen repetirse muchas veces durante el ciclo de vida del proyecto. En este caso, el equipo opera en muchos
-bloques de tiempo más cortos, llamados iteraciones. Cada una de las iteraciones pueden repetirse
-según los comentarios recibidos. Durante cada iteración, el equipo toma
-un subconjunto de todas las actividades del proyecto y hace todo el trabajo requerido para completar
-ese subconjunto de actividades. Puedes entenderlo como muchas
-“minicascadas” para cada actividad. Con este enfoque iterativo,
-el proyecto puede avanzar rápidamente, además de que se vuelve mucho
-más adaptable al cambio. Por eso, el término “agile” (ágil) significa flexibilidad,
-repetición y apertura al cambio, pero, ¿qué entendemos por
-gestión de proyectos con la metodología Agile? La gestión de proyectos con la metodología Agile
-es un enfoque para la gestión de proyectos y la gestión de equipos basado
-en el Manifiesto de la metodología Agile. El manifiesto es una colección
-de 4 valores y 12 principios que definen la mentalidad que todos los
-equipos de metodología Agile deben procurar desarrollar. Entonces, en términos muy básicos,
-Waterfall es lineal y secuencial, y no anima a cambiar el proceso
-una vez que se ha iniciado. Agile, por otro lado, es iterativo,
-flexible e incorpora los cambios necesarios
-a lo largo del proceso. Ahora, te presentamos una breve lección de
-historia para que tengas una mejor idea de cómo y por qué Agile se ha convertido en un enfoque
-tan popular para la gestión de proyectos. Las metodologías Agile surgieron orgánicamente
-durante la década de 1990, cuando la industria del software estaba en auge. Las startups de software,
-como Google, estaban abriendo camino para conseguir desarrollar más productos de software
-en menos tiempo. Mientras tanto, los gigantes tecnológicos de la época
-estaban experimentando con formas más rápidas de crear un mejor software
-y mantenerse competitivos. Y, por cierto,
-el software no consiste solo en las aplicaciones y los sitios web que todos usamos día a día. El software también incluye el código
-detrás de las innovaciones en la agricultura, dispositivos médicos, fabricación y más. Entonces, en este entorno
-de crecimiento competitivo, las empresas no podían únicamente
-crear productos nuevos e innovadores. También debían innovar los mismos
+comienzas en la parte superior de la montaña y vas hacia abajo.
+
+El término “ágil” se refiere a la capacidad de moverse rápida y fácilmente. También se refiere a la flexibilidad, a la
+disposición y a la capacidad para el cambio y la adaptación. Los proyectos que adoptan una gestión de proyectos con la
+metodología Agile aplican un enfoque iterativo, lo que significa que los procesos del proyecto suelen repetirse muchas
+veces durante el ciclo de vida del proyecto. En este caso, el equipo opera en muchos bloques de tiempo más cortos, llamados
+iteraciones. Cada una de las iteraciones pueden repetirse según los comentarios recibidos. Durante cada iteración, el
+equipo toma un subconjunto de todas las actividades del proyecto y hace todo el trabajo requerido para completar ese subconjunto
+de actividades. Puedes entenderlo como muchas “minicascadas” para cada actividad. Con este enfoque iterativo, el proyecto
+puede avanzar rápidamente, además de que se vuelve mucho más adaptable al cambio. Por eso, el término “agile” (ágil) significa
+flexibilidad, repetición y apertura al cambio, pero, ¿qué entendemos por gestión de proyectos con la metodología Agile?
+
+La gestión de proyectos con la metodología Agile es un enfoque para la gestión de proyectos y la gestión de equipos basado
+en el Manifiesto de la metodología Agile. El manifiesto es una colección de 4 valores y 12 principios que definen la mentalidad
+que todos los equipos de metodología Agile deben procurar desarrollar.
+
+    Entonces, en términos muy básicos, Waterfall es lineal y secuencial, y no anima a cambiar el proceso una vez que se ha
+    iniciado. Agile, por otro lado, es iterativo, flexible e incorpora los cambios necesarios a lo largo del proceso.
+
+Las metodologías Agile surgieron orgánicamente durante la década de 1990, cuando la industria del software estaba en auge,
+Las startups de software, como Google, estaban abriendo camino para conseguir desarrollar más productos de software en menos
+tiempo. Mientras tanto, los gigantes tecnológicos de la época estaban experimentando con formas más rápidas de crear un mejor
+software y mantenerse competitivos. Y, por cierto, el software no consiste solo en las aplicaciones y los sitios web que
+todos usamos día a día. El software también incluye el código detrás de las innovaciones en la agricultura, dispositivos
+médicos, fabricación y más. Entonces, en este entorno de crecimiento competitivo, las empresas no podían únicamente crear
+productos nuevos e innovadores. También debían innovar los mismos
 procesos que estaban usando para desarrollar estos nuevos productos. En 2001, intelectuales y creadores
 de algunos de estos nuevos procesos, también llamados metodologías, se reunieron
 para encontrar un punto común entre sus métodos y resolver un problema. Acordaron que el problema era
