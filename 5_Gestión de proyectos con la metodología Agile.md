@@ -249,7 +249,15 @@ producto que el cliente quiere que documentar exhaustivamente el proceso que usa
 se considera como la máxima prioridad, que consiste en construir un producto valioso y de alta calidad. En definitiva,
 si no es valioso para el cliente, entonces no tiene mucho sentido dedicarle tiempo.
 
-
+Cuando en el Manifiesto se habla de contratos, se hace referencia a los documentos oficiales que requieren la aprobación
+del cliente y un acuerdo formal con este, como esos extensos documentos de requisitos o solicitudes de cambio formales. Agile
+valora la libertad de colaborar con los clientes desde el principio y a menudo. Al hacerlo, los equipos pueden reaccionar
+rápidamente y adaptarse a las necesidades de los clientes, en lugar de esperar a negociar las condiciones del contrato solo
+para hacer algunos cambios o solicitar recursos. La gestión de proyectos con la metodología Agile sí incluye contratos,
+pero se hace hincapié en identificar lo que realmente se necesita y dejar espacio para el trabajo colaborativo y centrado
+en el cliente. Se alienta a los equipos Agile a buscar todas las oportunidades para incluir al cliente o interesado durante
+la ejecución del proyecto. Por ejemplo, podría ser presentar prototipos anticipadamente, hacer preguntas o reunirse para
+hacer algunas pruebas iniciales del producto.
 
 En resumen El Manifiesto Ágil es un conjunto de principios que guían el desarrollo de proyectos ágiles.
 Estos principios enfatizan:
