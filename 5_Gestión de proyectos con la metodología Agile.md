@@ -302,9 +302,35 @@ Los equipos ágiles deben encontrar un equilibrio entre estos valores:
 
 #### 12 principios del Manifiesto de la metodología Agile
 
-¡Hola! En el último video, presenté el Manifiesto de la metodología Agile y los cuatro valores de Agile. A continuación, te voy a contar sobre los 12 principios de Agile. Estos principios refuerzan el mensaje de los cuatro valores y aportan algo más de claridad. Definitivamente, resulta positivo estudiar cada uno de ellos de forma independiente. He compartido recursos complementarios para que estudies por tu cuenta. Para este curso, he agrupado los 12 principios en cuatro temas. Estos son diferentes de los cuatro valores. Los cuatro temas de los principios de Agile son los siguientes: Entrega de valor, o ¿cómo hacen los equipos Agile para entregar productos de gran valor a sus clientes? Colaboración de negocios, o ¿cómo colaboran los equipos Agile con sus socios comerciales e interesados para crear valor comercial para la organización y sus usuarios? Cultura de equipo, o ¿cómo hace un equipo para crear y mantener la dinámica interpersonal y de equipo adecuada para entregar valor a los clientes y al negocio? Y retrospectiva, o ¿cómo hace el proyecto para aprender a aumentar continuamente el rendimiento de una organización y un negocio? Como dije, he agrupado cada uno de los 12 principios en estos temas, por lo que son más fáciles de aprender y recordar. Analicémoslos en detalle. El primer tema es la entrega de valor, que incluye cinco principios. Tómate unos segundos para revisarlos.
+Los cuatro temas de los principios de Agile son los siguientes:
 
-Este tema se trata de entregar el trabajo lo más rápido posible. ¿Recuerdas por qué? Para que podamos recibir comentarios y mitigar el riesgo de dedicar demasiado tiempo a generar algo equivocado. Además, nadie obtiene ningún valor de tu trabajo, incluida tu empresa, hasta que lo entregas. Así que, cuanto más tardes en entregarlo, más deberás esperar para recibir ingresos, y tal vez más tiempo tendrá la competencia para adelantarse. Pueden parecer muy orientados al software, pero si reemplazas la palabra “software” por “entregables” o “soluciones”, pueden aplicarse a casi cualquier proyecto. Por ejemplo: entregar soluciones funcionales con frecuencia. ¿Ves? El tema del valor también tiene que ver con la simplicidad. ¿Cuánto tiempo crees que les lleva a los ingenieros agregar botones y características a los productos que finalmente terminan confundiendo al usuario? La simplicidad permite que un equipo se concentre y trabaje en lo que más importa. Un ejemplo práctico de este tema podría ser priorizar el recibir comentarios sobre el prototipo de un producto para saber qué características son realmente importantes o para asegurarte de que el equipo solo trabaje en características aprobadas y no pierda tiempo en las innecesarias. Otro ejemplo podría ser reservar el diez por ciento del tiempo del equipo para trabajar en la corrección de errores o el pulido de un proceso, lo cual debería ayudarte a ir más rápido en futuras iteraciones. El siguiente tema es la colaboración de negocios, que incluye dos principios más.
+Entrega de valor, o ¿cómo hacen los equipos Agile para entregar productos de gran valor a sus clientes?
+Colaboración de negocios, o ¿cómo colaboran los equipos Agile con sus socios comerciales e interesados para crear valor
+comercial para la organización y sus usuarios?
+Cultura de equipo, o ¿cómo hace un equipo para crear y mantener la dinámica interpersonal y de equipo adecuada para entregar
+valor a los clientes y al negocio?
+retrospectiva, o ¿cómo hace el proyecto para aprender a aumentar continuamente el rendimiento de una organización y un
+negocio?
+
+El primer tema es la entrega de valor, que incluye cinco principios.
+
+Este tema se trata de entregar el trabajo lo más rápido posible. ¿Recuerdas por qué? Para que podamos recibir comentarios
+y mitigar el riesgo de dedicar demasiado tiempo a generar algo equivocado. Además, nadie obtiene ningún valor de tu trabajo,
+incluida tu empresa, hasta que lo entregas. Así que, cuanto más tardes en entregarlo, más deberás esperar para recibir ingresos,
+y tal vez más tiempo tendrá la competencia para adelantarse. Pueden parecer muy orientados al software, pero si reemplazas
+la palabra “software” por “entregables” o “soluciones”, pueden aplicarse a casi cualquier proyecto.
+
+Por ejemplo: entregar soluciones funcionales con frecuencia. ¿Ves? El tema del valor también tiene que ver con la simplicidad.
+¿Cuánto tiempo crees que les lleva a los ingenieros agregar botones y características a los productos que finalmente terminan
+confundiendo al usuario? La simplicidad permite que un equipo se concentre y trabaje en lo que más importa. Un ejemplo práctico
+de este tema podría ser priorizar el recibir comentarios sobre el prototipo de un producto para saber qué características
+son realmente importantes o para asegurarte de que el equipo solo trabaje en características aprobadas y no pierda tiempo
+en las innecesarias.
+
+Otro ejemplo podría ser reservar el diez por ciento del tiempo del equipo para trabajar en la corrección de errores o el
+pulido de un proceso, lo cual debería ayudarte a ir más rápido en futuras iteraciones.
+
+El siguiente tema es la colaboración de negocios, que incluye dos principios más.
 
 Nota rápida: uno de los principios usa el término “gente de negocios” para referirse a aquellas personas involucradas en actividades como ventas, marketing, atención al cliente y administración de cuentas. Usaremos el término “desarrolladores” para referirnos a aquellas personas involucradas en la generación y creación de productos. Bien. Hablamos de la colaboración con el cliente en la charla sobre valores y aquí lo vemos otra vez. Colaborar con tus clientes ayuda al equipo a obtener información comercial crítica de inmediato, lo que le permite ajustarse y adaptarse a cualquier información nueva al instante. No importa si se realiza temprano o tarde en el proyecto, los clientes obtendrán lo que quieren para alcanzar sus objetivos comerciales. Puedes lograr una buena colaboración asegurándote de que la gente de negocios trabaje cerca del equipo de desarrollo, idealmente en la misma oficina o espacio virtual. Si eso no es posible, se puede intentar compartir el espacio un día a la semana, fomentar el uso de mensajería instantánea o programar tiempo en los calendarios de tu equipo cada día o semana para colaborar. El objetivo es facilitar el acceso para la gente de negocios y los desarrolladores. Otro ejemplo podría ser cómo manejas los comentarios y los cambios de prioridades. En lugar de tratar de mantener al cliente alejado de los desarrolladores debido a preocupaciones sobre la corrupción del alcance, crea una reunión semanal en la que los clientes y la gente de negocios puedan estudiar los comentarios y las ideas nuevas con el equipo. Esta podría ser una gran manera de descubrir que una característica realmente valiosa es muy fácil de construir, mientras que otra característica que los usuarios pensaron que sería fácil es realmente muy difícil. Nuestro tercer tema es la dinámica y la cultura del equipo e incluye cuatro principios más.
 
