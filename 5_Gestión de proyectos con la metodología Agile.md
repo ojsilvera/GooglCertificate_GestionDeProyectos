@@ -576,13 +576,20 @@ adaptarse, utilizaron Agile para:
 Para quienes no están familiarizados con el rugby, es similar al fútbol americano, un deporte de contacto que se juega en
 una cancha con una pelota de forma similar. “Scrum” se refiere a una formación en rugby en la que todos los jugadores del
 equipo se inclinan hacia adelante, unen sus cabezas y, luego, trabajan como una unidad para tratar de ganar yardas preciadas
-para pasar la línea de anotación.
+para pasar la línea de anotación. Los creadores de la metodología Scrum vieron a sus equipos muy concentrados con la cabeza
+agachada y trabajando muy estrechamente para sacar adelante los proyectos, como en un scrum de un partido de rugby.
 
-Los creadores de la metodología Scrum vieron a sus equipos muy concentrados con la cabeza agachada y trabajando muy estrechamente para sacar adelante los proyectos, como en un scrum de un partido de rugby. Entonces, ¿cómo funciona la metodología Scrum para la gestión de proyectos? Veremos ahora una breve descripción y e indagaremos más en ella a lo largo de este curso.
+¿cómo funciona la metodología Scrum para la gestión de proyectos? Si trabajas en la gestión de proyectos con la metodología
+Agile, es muy probable que utilices Scrum o un enfoque basado en Scrum. Según el informe State of Agile de 2019, el 72% de
+los equipos que utilizan métodos Agile usaban Scrum o una forma híbrida.
 
-Si trabajas en la gestión de proyectos con la metodología Agile, es muy probable que utilices Scrum o un enfoque basado en Scrum. Según el informe State of Agile de 2019, el 72% de los equipos que utilizan métodos Agile usaban Scrum o una forma híbrida.
-Cuando usas Scrum para la gestión de proyectos, formas un equipo que trabajará en conjunto para desarrollar y probar rápidamente un entregable. El trabajo se completa en ciclos cortos, y el equipo se reúne diariamente para discutir las tareas actuales y aclarar cualquier cosa que esté trabando su progreso.
-Primero, revisemos algunos términos y conceptos específicos de Scrum. La Lista de tareas del producto es el artefacto central en Scrum, donde todas las ideas posibles, los entregables, las características o las tareas se capturan para que el equipo trabaje en ellos. El equipo se encarga de priorizarla y administrarla proactivamente de forma continua a lo largo del proyecto.
+Cuando usas Scrum para la gestión de proyectos, formas un equipo que trabajará en conjunto para desarrollar y probar
+rápidamente un entregable.
+
+El trabajo se completa en ciclos cortos, y el equipo se reúne diariamente para discutir las tareas actuales y aclarar
+cualquier cosa que esté trabando su progreso.
+
+Conceptos específicos de Scrum. La Lista de tareas del producto es el artefacto central en Scrum, donde todas las ideas posibles, los entregables, las características o las tareas se capturan para que el equipo trabaje en ellos. El equipo se encarga de priorizarla y administrarla proactivamente de forma continua a lo largo del proyecto.
 El Sprint es el nombre del tiempo máximo en Scrum durante el cual se realiza el trabajo. Este Sprint puede durar entre una y cuatro semanas, pero la mayoría de los Sprints duran alrededor de dos semanas. Esto a menudo se llama “iteración”.
 Y, luego, hay una práctica llamada Scrum diario o reunión diaria. Es cuando el equipo se reúne durante 15 minutos o menos cada día del Sprint para revisar el avance hacia su meta.
 A continuación están los roles, el primero de los cuales es el Scrum Master. Es responsable de garantizar que el equipo se ciña a los valores y principios de Agile, y siga los procesos y las prácticas que el equipo acordó mediante el intercambio de información con el equipo de proyecto más grande, y, además, ayuda al equipo a concentrarse en dar lo mejor de sí. El otro rol notable en Scrum es el encargado del producto, quien es responsable de maximizar el valor del producto y el trabajo del equipo.
