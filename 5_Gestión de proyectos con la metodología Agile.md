@@ -770,7 +770,10 @@ Factores a considerar al combinar métodos
 
 Ejemplo
 
-Imagina que estás gestionando un proyecto para desarrollar un nuevo software. Puedes utilizar Agile para planificar y desarrollar el software, pero utilizar Waterfall para gestionar los requisitos y la entrega. Esto te permite aprovechar la flexibilidad de Agile para el desarrollo, mientras mantienes la estructura y previsibilidad de Waterfall para la gestión de requisitos.
+Imagina que estás gestionando un proyecto para desarrollar un nuevo software. Puedes utilizar Agile para planificar y
+desarrollar el software, pero utilizar Waterfall para gestionar los requisitos y la entrega. Esto te permite aprovechar la
+flexibilidad de Agile para el desarrollo, mientras mantienes la estructura y previsibilidad de Waterfall para la gestión
+de requisitos.
 
 #### El modelo de Spotify
 
