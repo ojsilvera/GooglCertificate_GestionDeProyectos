@@ -1035,7 +1035,18 @@ tal vez un miembro del equipo esté teniendo dificultades para superar algo que 
 tecnología que le resulta difícil de aprender. En este caso, otro miembro del equipo que esté familiarizado con la tecnología
 puede dejar su propio trabajo a un lado para intervenir y ayudar a su compañero de equipo a aprender la tecnología.
 
-El segundo valor es el coraje. Los miembros del equipo de Scrum deben tener el coraje de hacer lo correcto e intentar solucionar los problemas difíciles. En cualquier proyecto, hay un cuerpo de trabajo que debe realizarse. Parte del trabajo será relativamente simple y otra parte será muy compleja con muchos riesgos. Un ejemplo de coraje incluye asumir una tarea difícil que sabes que requerirá aprender una nueva habilidad. El coraje podría implicar decirle a tu equipo que estás atascado y necesitas ayuda. También podría significar denunciar un comportamiento negativo dentro del equipo para analizarlo abiertamente y abordar ese comportamiento. Demostrar coraje al responder a situaciones desafiantes puede fortalecer la resiliencia del equipo.
+*El coraje.* Los miembros del equipo de Scrum deben tener el coraje de hacer lo correcto e intentar solucionar los problemas
+difíciles. En cualquier proyecto, hay un cuerpo de trabajo que debe realizarse. Parte del trabajo será relativamente simple
+y otra parte será muy compleja con muchos riesgos. Un ejemplo de coraje incluye asumir una tarea difícil que sabes que
+requerirá aprender una nueva habilidad. El coraje podría implicar decirle a tu equipo que estás atascado y necesitas ayuda.
+También podría significar denunciar un comportamiento negativo dentro del equipo para analizarlo abiertamente y abordar
+ese comportamiento. Demostrar coraje al responder a situaciones desafiantes puede fortalecer la resiliencia del equipo.
+
+*El enfoque*. Esto se refiere a que todos se centren en el trabajo necesario dentro del Sprint y en los objetivos generales
+del equipo de Scrum. Por ejemplo, un miembro del equipo está trabajando en una solución que implica el uso de una nueva
+tecnología, y es muy difícil aprender a usarla. Permitir que ese miembro del equipo se concentre en esa parte de la solución
+que es difícil pero necesaria es clave, y sus compañeros de equipo lo ayudan a llegar a la meta. Saben que centrarse en la
+solución acelerará el progreso del equipo a largo plazo, por lo que vale la pena la inversión ahora.
 
 En resumen los salores de Scrum son:
 
