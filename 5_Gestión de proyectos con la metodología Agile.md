@@ -982,6 +982,32 @@ cosas realmente valiosas para ayudar a mejorar el proyecto.
 El empirismo se construye sobre tres pilares fundamentales: la transparencia, la inspección y la adaptación. Estos también
 son los tres pilares de Scrum.
 
+*la transparencia.* La transparencia implica hacer visibles los aspectos más significativos de nuestro trabajo para los
+responsables del resultado. Todos deben ser transparentes. Esto incluye a todos, desde los miembros del equipo de Scrum
+hasta los patrocinadores principales e incluso a nuestros usuarios. Es más fácil ser transparente con un equipo pequeño.
+Y, afortunadamente, los equipos de Scrum son deliberadamente pequeños y están conformados por entre tres y nueve personas.
+De esta forma, evitas señales confusas, interrupciones en la comunicación y complicaciones innecesarias. La transparencia
+dentro de un equipo de Scrum es fundamental para la productividad del equipo y la finalización del proyecto.
+
+En términos de transparencia fuera del equipo, ser transparente con todos los interesados, incluidos clientes, patrocinadores
+y la gerencia, construye un nivel de confianza entre todos los involucrados. La transparencia también fomenta una mayor
+colaboración y menos errores.
+
+*la inspección.* La inspección implica realizar verificaciones oportunas del resultado de un objetivo de un Sprint para
+detectar variaciones indeseables. Esto significa que siempre estamos revisando nuestro progreso y los entregables para
+detectar cualquier cambio no deseado. Cuando los equipos trabajan según Agile, una revisión de su trabajo por parte de los
+interesados es una oportunidad necesaria para el crecimiento y el progreso. Cuantas más inspecciones se realicen, más mejora
+experimenta un equipo en su trabajo. Se puede obtener un valor real de una inspección deliberada mientras haya oportunidad
+de cambiar y mejorar.
+
+*la adaptación.* La adaptación implica buscar continuamente formas de ajustar nuestro proyecto, producto o proceso para
+minimizar las desviaciones o los problemas. En Scrum, y en Agile como un todo, aceptamos el cambio para propiciar la mejora
+continua. Entonces, cuando nos adaptamos, cambiamos aspectos que no funcionan o podrían ser mejores.
+
+La transparencia y la inspección brindan a los equipos de Scrum la información y la oportunidad necesarias para identificar
+mejoras o cambios. Aunque la adaptación incluye soluciones inmediatas a los problemas, también puede tratarse de implementar
+un cambio para que los proyectos futuros no repitan los errores del pasado.
+
 En resumen los pilares de Scrum son:
 
 Scrum se basa en tres pilares fundamentales:
