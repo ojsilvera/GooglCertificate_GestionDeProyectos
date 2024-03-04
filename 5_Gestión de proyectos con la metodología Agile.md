@@ -572,6 +572,38 @@ adaptarse, utilizaron Agile para:
 
 #### Introducción a Scrum
 
+En resumen:
+
+¿Qué es Scrum?
+
+    No es un acrónimo.
+    Proviene del deporte del rugby, donde los jugadores se unen para avanzar juntos.
+
+Cómo funciona Scrum:
+
+    Backlog: Lista de tareas y características priorizadas.
+    Sprint: Período de tiempo (1-4 semanas) para completar el trabajo.
+    Daily Scrum: Reunión diaria de 15 minutos para discutir el progreso.
+
+Roles en Scrum:
+
+    Scrum Master: Garantiza que el equipo siga los principios ágiles.
+    Product Owner: Prioriza el trabajo y maximiza el valor del producto.
+    Equipo de desarrollo: Responsable de entregar el producto.
+
+Beneficios de Scrum:
+
+    Roles y responsabilidades claras.
+    Reuniones y entregas predecibles.
+    Apoya los valores ágiles.
+    Estructura y soporte para equipos nuevos y experimentados.
+    Gratuito y de uso abierto.
+
+Proyectos adecuados para Scrum:
+
+    Equipos multifuncionales (3-9 miembros).
+    Proyectos donde el equipo y la gerencia son adaptables y abiertos al aprendizaje.
+
 #### Los principios fundamentales de Scrum
 
 #### Introducción a Kanban, XP y Lean
