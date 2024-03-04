@@ -386,28 +386,43 @@ plantear preguntas como las siguientes:
 
 Valores de la Metodología Agile
 
-    Individuos e interacciones sobre procesos y herramientas: Priorizar a las personas y la colaboración por encima de las reglas y los procedimientos.
+    Individuos e interacciones sobre procesos y herramientas: Priorizar a las personas y la colaboración por encima de las
+    reglas y los procedimientos.
 
-    Software funcional sobre documentación completa: Entregar software que funcione en lugar de centrarse en una documentación exhaustiva.
+    Software funcional sobre documentación completa: Entregar software que funcione en lugar de centrarse en una documentación
+    exhaustiva.
 
-    Colaboración con el cliente sobre la negociación del contrato: Trabajar estrechamente con los clientes para comprender sus necesidades y brindarles valor.
+    Colaboración con el cliente sobre la negociación del contrato: Trabajar estrechamente con los clientes para comprender
+    sus necesidades y brindarles valor.
 
-    Responder al cambio por sobre seguir un plan: Adaptarse a los cambios y estar dispuesto a modificar los planes según sea necesario.
+    Responder al cambio por sobre seguir un plan: Adaptarse a los cambios y estar dispuesto a modificar los planes según
+    sea necesario.
 
 Principios de la Metodología Agile
 
-Satisfacer al cliente mediante la entrega temprana y continua de software valioso.
-Aceptar los requisitos cambiantes, incluso al final del desarrollo.
-Entregar software funcional con frecuencia, desde un par de semanas hasta un par de meses.
-Los empresarios y los desarrolladores deben trabajar juntos todos los días.
-Construir proyectos en torno a personas motivadas.
-La comunicación cara a cara es el método más eficiente y efectivo.
-El software funcional es la medida principal del progreso.
-Los procesos Agile promueven el desarrollo sostenible.
-La atención a la excelencia técnica y al buen diseño mejora la agilidad.
-La simplicidad es esencial.
-Los mejores requisitos, arquitecturas y diseños surgen de equipos autoorganizados.
-Los equipos reflexionan regularmente sobre cómo mejorar su eficacia.
+    Satisfacer al cliente mediante la entrega temprana y continua de software valioso.
+
+    Aceptar los requisitos cambiantes, incluso al final del desarrollo.
+
+    Entregar software funcional con frecuencia, desde un par de semanas hasta un par de meses.
+
+    Los empresarios y los desarrolladores deben trabajar juntos todos los días.
+
+    Construir proyectos en torno a personas motivadas.
+
+    La comunicación cara a cara es el método más eficiente y efectivo.
+
+    El software funcional es la medida principal del progreso.
+
+    Los procesos Agile promueven el desarrollo sostenible.
+
+    La atención a la excelencia técnica y al buen diseño mejora la agilidad.
+
+    La simplicidad es esencial.
+
+    Los mejores requisitos, arquitecturas y diseños surgen de equipos autoorganizados.
+
+    Los equipos reflexionan regularmente sobre cómo mejorar su eficacia.
 
 #### Adopción de una mentalidad Agile
 
