@@ -765,7 +765,7 @@ de forma remota.
 *La integración continua y la refactorización continua.* Esta es la práctica de fusionar los cambios del producto en una
 versión compartida varias veces al día para obtener comentarios rápidos sobre la calidad del código o producto.
 
-E*vitar hacer un diseño complejo al principio.* Se relaciona con el diseño y significa que el bosquejo debe bastar para
+*Evitar hacer un diseño complejo al principio.* Se relaciona con el diseño y significa que el bosquejo debe bastar para
 comenzar y se debe mejorar continuamente a medida que el producto evoluciona.
 
 *Pruebas de escritura,* no los requisitos. Esto significa que, en lugar de escribir un documento con los requisitos del
@@ -790,9 +790,9 @@ de residuos a lo largo del ciclo. Trabaja para eliminar las interrupciones, los 
 trabajo.
 
 - Sistema pull (jalar), es como pedirle a alguien que saque algo de un estante. Quieres asegurarte de que el cliente “jale”
-- el producto o lo solicite a lo largo de la cadena de valor. Podría jalar o solicitar funciones y entregas incrementales,
-- La idea es hacer que tu proceso sea lo más sencillo posible para que el cliente pueda jalar el producto en cualquier
-- momento, para que puedas presentar tu trabajo o agregar una función solicitada.
+el producto o lo solicite a lo largo de la cadena de valor. Podría jalar o solicitar funciones y entregas incrementales,
+La idea es hacer que tu proceso sea lo más sencillo posible para que el cliente pueda jalar el producto en cualquier
+momento, para que puedas presentar tu trabajo o agregar una función solicitada.
 
 - Perseguir la perfección: Esto significa presionar a tu equipo para que mejore continuamente los primeros cuatro pasos
   del proceso.
