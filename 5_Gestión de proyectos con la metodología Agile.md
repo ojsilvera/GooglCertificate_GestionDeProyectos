@@ -1026,6 +1026,17 @@ Estos pilares permiten a los equipos Scrum:
 
 #### Los cinco valores de Scrum
 
+Los equipos de Scrum trabajan y se comportan de acuerdo con cinco valores fundamentales:
+
+    compromiso, coraje, enfoque, apertura y respeto.
+
+*El compromiso.* Esto significa comprometerse personalmente con el logro de los objetivos del equipo de Scrum. Por ejemplo,
+tal vez un miembro del equipo esté teniendo dificultades para superar algo que le impide hacer su trabajo, como una nueva
+tecnología que le resulta difícil de aprender. En este caso, otro miembro del equipo que esté familiarizado con la tecnología
+puede dejar su propio trabajo a un lado para intervenir y ayudar a su compañero de equipo a aprender la tecnología.
+
+El segundo valor es el coraje. Los miembros del equipo de Scrum deben tener el coraje de hacer lo correcto e intentar solucionar los problemas difíciles. En cualquier proyecto, hay un cuerpo de trabajo que debe realizarse. Parte del trabajo será relativamente simple y otra parte será muy compleja con muchos riesgos. Un ejemplo de coraje incluye asumir una tarea difícil que sabes que requerirá aprender una nueva habilidad. El coraje podría implicar decirle a tu equipo que estás atascado y necesitas ayuda. También podría significar denunciar un comportamiento negativo dentro del equipo para analizarlo abiertamente y abordar ese comportamiento. Demostrar coraje al responder a situaciones desafiantes puede fortalecer la resiliencia del equipo.
+
 En resumen los salores de Scrum son:
 
 Scrum se basa en cinco valores fundamentales que guían el comportamiento y las acciones de los equipos:
