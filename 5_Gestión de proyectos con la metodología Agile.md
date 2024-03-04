@@ -955,6 +955,50 @@ Podemos concluir que:
 
 ## Scrum 101
 
+### Pilares y valores de scrum
+
+En resumen los pilares de Scrum son:
+
+Scrum se basa en tres pilares fundamentales:
+
+    Transparencia: Hacer visible el trabajo para todos los involucrados.
+    Inspección: Revisar regularmente el progreso para detectar desviaciones.
+    Adaptación: Ajustar el proyecto, producto o procesos según sea necesario para mejorar.
+
+Estos pilares permiten a los equipos Scrum:
+
+    Tomar decisiones basadas en la experiencia real.
+    Identificar y corregir problemas rápidamente.
+    Mejorar continuamente sus procesos y resultados.
+
+#### Introducción: Scrum 101
+
+#### Los tres pilares de Scrum
+
+#### Los cinco valores de Scrum
+
+#### Identificar los pilares y valores de Scrum
+
+#### La Guía Scrum
+
+#### Aplicar los valores de Scrum
+
+### Funciones y responsabilidades en scrum
+
+#### Funciones esenciales de Scrum
+
+#### Características de un Scrum Master eficaz
+
+#### Lo que hace a un Scrum Master eficaz
+
+#### Características de un encargado del producto eficaz
+
+#### Características de un equipo de desarrollo eficaz
+
+#### Comprender las funciones de un equipo de Scrum
+
+#### Características de un gran equipo de Scrum
+
 ## Implementacion de Scrum
 
 ## Aplicar la metodologia Agile en la organizacion
