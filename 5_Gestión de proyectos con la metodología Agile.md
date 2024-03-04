@@ -1048,6 +1048,16 @@ tecnología, y es muy difícil aprender a usarla. Permitir que ese miembro del e
 que es difícil pero necesaria es clave, y sus compañeros de equipo lo ayudan a llegar a la meta. Saben que centrarse en la
 solución acelerará el progreso del equipo a largo plazo, por lo que vale la pena la inversión ahora.
 
+El Scrum Master, una función que a menudo asume el gerente de proyectos, ayuda al equipo a centrarse en el Sprint y los
+objetivos del producto organizando sus actividades y eventos a diario.
+
+*La apertura.* Para que Scrum funcione, el equipo y sus interesados acuerdan ser abiertos sobre todo el trabajo y los
+diversos desafíos que conlleva realizar el trabajo. La apertura es esencial para un equipo de Scrum productivo. Para recopilar
+datos, los miembros del equipo deben estar dispuestos a compartir sus observaciones y experiencias. Si un miembro del equipo
+tiene un problema dentro del proyecto pero no está seguro de cómo solucionarlo, debe compartirlo con el equipo. Otro miembro
+del equipo puede tener una solución muy rápida y fácil, o al menos información valiosa sobre algunas opciones sobre cómo
+lidiar con su problema.
+
 En resumen los salores de Scrum son:
 
 Scrum se basa en cinco valores fundamentales que guían el comportamiento y las acciones de los equipos:
