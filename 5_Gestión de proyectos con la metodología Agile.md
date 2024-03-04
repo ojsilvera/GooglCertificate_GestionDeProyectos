@@ -454,13 +454,36 @@ Principios de la Metodología Agile
 
     Los procesos Agile promueven el desarrollo sostenible.
 
+        Mantener un ritmo constante y prudente a la vez evitará cometer errores en el camino. Además, no es recomendable
+        que tu equipo se sienta sobrecargado de trabajo o abrumado. Por el contrario, un equipo subutilizado puede aburrirse
+        y perder la chispa creativa para innovar. El ideal de Agile es lograr un ritmo constante de esfuerzo para el equipo
+        que evite las horas extras y el agotamiento.
+
     La atención a la excelencia técnica y al buen diseño mejora la agilidad.
+
+        Este principio expresa que el hecho de que el equipo esté trabajando rápido no significa que sacrifique la calidad,
+        Al enfatizar la calidad y el diseño a lo largo de la fase de desarrollo del proyecto, se incrementará la agilidad,
+        la eficiencia y la velocidad del equipo. Cuando un equipo ofrece una solución bien construida, puede responder
+        rápidamente a los comentarios de los usuarios y a la nueva información. Sin embargo, si el producto es de baja
+        calidad, implementar cambios puede volverse problemático, complejo y ralentizar a todo el equipo.
 
     La simplicidad es esencial.
 
+        El equipo debe evitar implementar funciones adicionales que no hayan sido solicitadas explícitamente por el usuario
+        o el propietario del producto. Esto incluye eliminar procedimientos que ya no son necesarios y reducir la documentación
+        excesiva.
+
     Los mejores requisitos, arquitecturas y diseños surgen de equipos autoorganizados.
 
+        Los miembros del equipo deben poder realizar su trabajo diseñando sus propios procesos y prácticas de trabajo, sin
+        un gerente que dicte cómo trabajar. Los miembros del equipo también deben sentirse empoderados para hablar, plantear
+        preguntas e inquietudes o dar su opinión.
+
     Los equipos reflexionan regularmente sobre cómo mejorar su eficacia.
+
+        En Agile, es importante reconocer que el aprendizaje de los éxitos y los fracasos es continuo. Ningún equipo es
+        perfecto. Habrá errores, desafíos, pruebas y triunfos. Los equipos deben reflexionar sobre todos estos diferentes
+        aspectos de sus actividades para que puedan hacer los ajustes necesarios.
 
 #### Adopción de una mentalidad Agile
 
