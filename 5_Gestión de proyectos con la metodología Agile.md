@@ -957,6 +957,16 @@ Podemos concluir que:
 
 ### Pilares y valores de scrum
 
+¿qué es Scrum?
+
+La Guía Scrum define a Scrum como un framework para desarrollar, entregar y mantener productos complejos. Eso significa
+que un equipo puede usar Scrum para crear productos valiosos para sus usuarios, incluso cuando el entorno o la industria
+en la que se encuentran son difíciles de predecir y hay muchos riesgos. Scrum usa un enfoque iterativo e incremental.
+
+Iterativo se refiere al hecho de que los procesos del proyecto se repiten. iterativo significa que el proyecto funciona
+en bloques de tiempo o iteraciones. Incremental se refiere a que el trabajo se divide en partes más pequeñas que se sustentan
+entre sí. El producto se crea con el tiempo a través del trabajo realizado durante cada iteración.
+
 En resumen los pilares de Scrum son:
 
 Scrum se basa en tres pilares fundamentales:
