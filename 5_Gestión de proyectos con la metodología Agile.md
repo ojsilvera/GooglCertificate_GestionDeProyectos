@@ -402,9 +402,25 @@ Principios de la Metodología Agile
 
     Satisfacer al cliente mediante la entrega temprana y continua de software valioso.
 
+        Así sea que estés trabajando para crear un producto para tu empresa o para un cliente, lo más probable es que
+        alguien esté a la espera de tu entrega. Si esa entrega se retrasa, el resultado es que el cliente, el usuario o
+        la organización se quedan esperando ese valor agregado a sus vidas y flujos de trabajo. Agile enfatiza que entregar
+        valor a los usuarios de manera temprana y frecuente crea un flujo de valor constante, lo que aumenta tu éxito y
+        el de tus clientes. Esto generará confianza y seguridad por medio de comentarios continuos, así como la concreción
+        temprana del valor comercial.
+
     Aceptar los requisitos cambiantes, incluso al final del desarrollo.
 
+        Cuando se trabaja con Agile, es importante ser ágil. Eso significa poder moverse rápidamente y cambiar de dirección
+        siempre que sea necesario. Eso también significa que tú y tu equipo están constantemente analizando el entorno para
+        asegurarse de que los cambios necesarios se tengan en cuenta en los planes. Reconocer y aceptar que tus planes pueden
+        cambiar (una, dos o varias veces) garantiza que tanto tú como tus clientes maximicen su éxito.
+
     Entregar software funcional con frecuencia, desde un par de semanas hasta un par de meses.
+
+        Entregar tu producto en incrementos pequeños y frecuentes es importante, ya que permite ahorrar tiempo y te ofrece
+        oportunidades regulares para que los interesados, incluidos los clientes, den su opinión sobre el progreso. Esto
+        asegura que el equipo nunca pierda tiempo yendo por el camino equivocado.
 
     Los empresarios y los desarrolladores deben trabajar juntos todos los días.
 
