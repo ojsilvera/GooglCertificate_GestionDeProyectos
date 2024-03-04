@@ -312,13 +312,12 @@ valor a los clientes y al negocio?
 retrospectiva, o ¿cómo hace el proyecto para aprender a aumentar continuamente el rendimiento de una organización y un
 negocio?
 
-El primer tema es la entrega de valor, que incluye cinco principios.
-
-Este tema se trata de entregar el trabajo lo más rápido posible. ¿Recuerdas por qué? Para que podamos recibir comentarios
-y mitigar el riesgo de dedicar demasiado tiempo a generar algo equivocado. Además, nadie obtiene ningún valor de tu trabajo,
-incluida tu empresa, hasta que lo entregas. Así que, cuanto más tardes en entregarlo, más deberás esperar para recibir ingresos,
-y tal vez más tiempo tendrá la competencia para adelantarse. Pueden parecer muy orientados al software, pero si reemplazas
-la palabra “software” por “entregables” o “soluciones”, pueden aplicarse a casi cualquier proyecto.
+*El primer tema es la entrega de valor,* que incluye cinco principios, Este tema se trata de entregar el trabajo lo más rápido
+posible. ¿Recuerdas por qué? Para que podamos recibir comentarios y mitigar el riesgo de dedicar demasiado tiempo a generar
+algo equivocado. Además, nadie obtiene ningún valor de tu trabajo, incluida tu empresa, hasta que lo entregas. Así que, cuanto
+más tardes en entregarlo, más deberás esperar para recibir ingresos, y tal vez más tiempo tendrá la competencia para adelantarse,
+Pueden parecer muy orientados al software, pero si reemplazas la palabra “software” por “entregables” o “soluciones”, pueden
+aplicarse a casi cualquier proyecto.
 
 Por ejemplo: entregar soluciones funcionales con frecuencia. ¿Ves? El tema del valor también tiene que ver con la simplicidad.
 ¿Cuánto tiempo crees que les lleva a los ingenieros agregar botones y características a los productos que finalmente terminan
@@ -330,7 +329,7 @@ en las innecesarias.
 Otro ejemplo podría ser reservar el diez por ciento del tiempo del equipo para trabajar en la corrección de errores o el
 pulido de un proceso, lo cual debería ayudarte a ir más rápido en futuras iteraciones.
 
-El siguiente tema es la colaboración de negocios, que incluye dos principios más. Nota rápida: uno de los principios usa
+*El segundo tema es la colaboración de negocios*, que incluye dos principios más. Nota rápida: uno de los principios usa
 el término “gente de negocios” para referirse a aquellas personas involucradas en actividades como ventas, marketing, atención
 al cliente y administración de cuentas. Usaremos el término “desarrolladores” para referirnos a aquellas personas involucradas
 en la generación y creación de productos.
@@ -351,7 +350,7 @@ los clientes y la gente de negocios puedan estudiar los comentarios y las ideas 
 gran manera de descubrir que una característica realmente valiosa es muy fácil de construir, mientras que otra característica
 que los usuarios pensaron que sería fácil es realmente muy difícil.
 
-Nuestro tercer tema es la dinámica y la cultura del equipo e incluye cuatro principios más. Recuerda que el primer valor
+*El tercerercer tema es la dinámica y la cultura del equipo* e incluye cuatro principios más. Recuerda que el primer valor
 de Agile prioriza a los individuos y las interacciones por sobre procesos y herramientas. Ten en cuenta que los principios
 de este tema reflejan dicho valor. Este tema enfatiza la creación de una cultura de equipo eficaz que sea inclusiva, solidaria
 y empoderadora. Tener una cultura de equipo eficaz es esencial para el éxito de un proyecto.
@@ -366,9 +365,49 @@ propios procesos y plantillas, en lugar de obligarlos a usar algo de la oficina 
 sienten que sus aportes se valoran, por lo que tú, como gerente de proyectos, debes dejar margen para que tu equipo se
 comprometa y contribuya activamente a la cultura del equipo.
 
-Desarrollarás confianza y lo empoderarás para que aborde su trabajo de la manera que más le convenga, lo que, a su vez, le permitirá trabajar de manera más productiva. Finalmente, el cuarto tema es retrospectiva y aprendizaje continuo. El último principio se basa únicamente en este tema, así que lo leeré en voz alta. De manera regular, el equipo reflexiona sobre cómo lograr mayor eficacia para, luego, ajustar y perfeccionar su comportamiento en consecuencia. Este queda solo, porque quiero que prestemos atención a lo importante que es que los equipos Agile aprendan continuamente y se adapten a lo que les funciona bien y a lo que no. Los equipos siempre deben encontrar mejores formas de trabajar. Vale la pena reservar este tiempo después de cada iteración para concentrarse por completo en cómo mejorar. En estas sesiones, el equipo puede dar un paso atrás y plantear preguntas como las siguientes: ¿Cómo le está yendo al equipo? ¿Los clientes están satisfechos? ¿Hay procesos que podríamos optimizar? ¿Nuestras herramientas nos funcionan bien? ¿Estamos siguiendo los valores? ¿Estamos acumulando alguna deuda? Y por “deuda” me refiero a procesos o tecnología que nos ralentiza. Oficialmente, hemos terminado de explicar el Manifiesto de la metodología Agile. Es increíble pensar que estos 4 valores y 12 principios son los cimientos de tantos avances en la gestión de proyectos. Retomaré estos valores y principios durante el resto de este curso para demostrar qué relación guardan con las actividades del día a día de un proyecto Agile. En el próximo video, exploraremos qué tipos de industrias se benefician más de un enfoque Agile.
+Desarrollarás confianza y lo empoderarás para que aborde su trabajo de la manera que más le convenga, lo que, a su vez,
+le permitirá trabajar de manera más productiva.
+
+*El cuarto tema es retrospectiva y aprendizaje continuo.* El último principio se basa únicamente en este tema, De manera
+regular, el equipo reflexiona sobre cómo lograr mayor eficacia para, luego, ajustar y perfeccionar su comportamiento en
+consecuencia. lo importante que es que los equipos Agile aprendan continuamente y se adapten a lo que les funciona bien
+y a lo que no. Los equipos siempre deben encontrar mejores formas de trabajar. Vale la pena reservar este tiempo después
+de cada iteración para concentrarse por completo en cómo mejorar. En estas sesiones, el equipo puede dar un paso atrás y
+plantear preguntas como las siguientes:
+
+¿Cómo le está yendo al equipo?
+¿Los clientes están satisfechos?
+¿Hay procesos que podríamos optimizar?
+¿Nuestras herramientas nos funcionan bien?
+¿Estamos siguiendo los valores?
+¿Estamos acumulando alguna deuda? Y por “deuda” me refiero a procesos o tecnología que nos ralentiza.
 
 #### Adopción de una mentalidad Agile: Manifiesto de la metodología Agile
+
+Valores de la Metodología Agile
+
+    Individuos e interacciones sobre procesos y herramientas: Priorizar a las personas y la colaboración por encima de las reglas y los procedimientos.
+
+    Software funcional sobre documentación completa: Entregar software que funcione en lugar de centrarse en una documentación exhaustiva.
+
+    Colaboración con el cliente sobre la negociación del contrato: Trabajar estrechamente con los clientes para comprender sus necesidades y brindarles valor.
+
+    Responder al cambio por sobre seguir un plan: Adaptarse a los cambios y estar dispuesto a modificar los planes según sea necesario.
+
+Principios de la Metodología Agile
+
+Satisfacer al cliente mediante la entrega temprana y continua de software valioso.
+Aceptar los requisitos cambiantes, incluso al final del desarrollo.
+Entregar software funcional con frecuencia, desde un par de semanas hasta un par de meses.
+Los empresarios y los desarrolladores deben trabajar juntos todos los días.
+Construir proyectos en torno a personas motivadas.
+La comunicación cara a cara es el método más eficiente y efectivo.
+El software funcional es la medida principal del progreso.
+Los procesos Agile promueven el desarrollo sostenible.
+La atención a la excelencia técnica y al buen diseño mejora la agilidad.
+La simplicidad es esencial.
+Los mejores requisitos, arquitecturas y diseños surgen de equipos autoorganizados.
+Los equipos reflexionan regularmente sobre cómo mejorar su eficacia.
 
 #### Adopción de una mentalidad Agile
 
