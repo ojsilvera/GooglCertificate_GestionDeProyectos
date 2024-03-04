@@ -971,6 +971,17 @@ Cada una de estas instancias del producto se denomina un incremento. Las iteraci
 controlando nuestro progreso a lo largo todo el ciclo de vida del proyecto. Esto nos ayuda a ser más predecibles y a
 gestionar la incertidumbre de nuestro proyecto.
 
+Scrum se basa en una teoría científica llamada empirismo. Esta es una palabra elegante para un concepto simple: la idea
+de que el verdadero conocimiento proviene de la experiencia real y vivida. Los fundadores de Scrum enfatizan que no debemos
+tratar de suponer que las cosas sucederán exactamente según lo planeado o intentar predecir el futuro en un mundo incierto.
+
+En cambio, si usas Scrum, te aseguras de que cada decisión que tomes en tu proyecto esté basada en experiencias reales y
+datos concretos. Por lo tanto, cada iteración e incremento se entiende como un mini experimento en el que podemos aprender
+cosas realmente valiosas para ayudar a mejorar el proyecto.
+
+El empirismo se construye sobre tres pilares fundamentales: la transparencia, la inspección y la adaptación. Estos también
+son los tres pilares de Scrum.
+
 En resumen los pilares de Scrum son:
 
 Scrum se basa en tres pilares fundamentales:
