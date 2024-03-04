@@ -424,9 +424,22 @@ Principios de la Metodología Agile
 
     Los empresarios y los desarrolladores deben trabajar juntos todos los días.
 
+        Eliminar los obstáculos entre los desarrolladores y las personas centradas en el aspecto comercial del proyecto
+        genera confianza y comprensión, y garantiza que los desarrolladores, o quienes crean la solución, estén en sintonía
+        con las necesidades de los usuarios.
+
     Construir proyectos en torno a personas motivadas.
 
+        Un equipo que aplica exitosamente la metodología Agile cuenta con miembros del equipo que no solo confían entre
+        sí para realizar el trabajo, sino que también cuentan con la confianza de sus patrocinadores y ejecutivos para
+        hacerlo. Los equipos generan mejores soluciones cuando están empoderados y motivados para entregar proyectos difíciles.
+
     La comunicación cara a cara es el método más eficiente y efectivo.
+
+        No hay nada como la comunicación cara a cara. La comunicación en persona nos permite captar ciertas señales, lenguaje
+        corporal y expresiones faciales que a veces se pierden al usar otras formas de comunicación, como el correo electrónico,
+        el chat o el teléfono. Sin embargo, no siempre podemos reunirnos físicamente. Establecer normas para una comunicación
+        efectiva, sin importar el formato, es esencial para la efectividad de un equipo.
 
     El software funcional es la medida principal del progreso.
 
