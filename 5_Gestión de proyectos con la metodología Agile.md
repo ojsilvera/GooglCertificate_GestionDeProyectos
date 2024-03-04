@@ -1058,6 +1058,19 @@ tiene un problema dentro del proyecto pero no está seguro de cómo solucionarlo
 del equipo puede tener una solución muy rápida y fácil, o al menos información valiosa sobre algunas opciones sobre cómo
 lidiar con su problema.
 
+*El respeto.* Los miembros del equipo deben respetar las opiniones, las habilidades y la independencia de sus compañeros
+de equipo. Cuando respetas la independencia y las contribuciones de los demás, y te sientes respetado, es más probable que
+escuches los comentarios. Esto es crucial para que el producto o negocio sea lo más exitoso posible.
+
+Para que un equipo ponga en práctica los tres pilares de Scrum, deben actuar de acuerdo con los cinco valores de Scrum.
+Por ejemplo, si un equipo tiene como objetivo lograr la transparencia entre ellos y los interesados, deben estar abiertos
+a compartir información sin dejar de estar enfocados en compartir la información más relevante. Para que un equipo inspeccione
+eficazmente su trabajo y sus procesos, debe tener el coraje de hacer comentarios difíciles y respetarse mutuamente lo suficiente
+para escuchar realmente lo que otros tienen que decir.
+
+Para que un equipo se adapte a los resultados de su inspección, debe tener el coraje de hacer cambios y aprender de ellos,
+También debe estar comprometido con los objetivos del equipo y dar seguimiento a la adaptación.
+
 En resumen los salores de Scrum son:
 
 Scrum se basa en cinco valores fundamentales que guían el comportamiento y las acciones de los equipos:
