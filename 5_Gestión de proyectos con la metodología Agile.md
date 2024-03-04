@@ -957,6 +957,8 @@ Podemos concluir que:
 
 ### Pilares y valores de scrum
 
+#### Los tres pilares de Scrum
+
 ¿qué es Scrum?
 
 La Guía Scrum define a Scrum como un framework para desarrollar, entregar y mantener productos complejos. Eso significa
@@ -1022,11 +1024,35 @@ Estos pilares permiten a los equipos Scrum:
     Identificar y corregir problemas rápidamente.
     Mejorar continuamente sus procesos y resultados.
 
-#### Introducción: Scrum 101
-
-#### Los tres pilares de Scrum
-
 #### Los cinco valores de Scrum
+
+En resumen los salores de Scrum son:
+
+Scrum se basa en cinco valores fundamentales que guían el comportamiento y las acciones de los equipos:
+
+    Compromiso: Dedicarse a lograr los objetivos del equipo.
+    Coraje: Abordar problemas difíciles y hacer lo correcto.
+    Enfoque: Concentrarse en el trabajo esencial y las metas generales.
+    Apertura: Compartir información y desafíos abiertamente.
+    Respeto: Valorar las opiniones, habilidades e independencia de los demás.
+
+Relación con los pilares de Scrum
+
+Estos valores apoyan los tres pilares de Scrum:
+
+    Transparencia: La apertura fomenta la transparencia.
+    Inspección: El coraje y el respeto permiten la retroalimentación y la mejora.
+    Adaptación: El compromiso y el enfoque impulsan la adaptación a los cambios.
+
+Ejemplo
+
+Un equipo de desarrollo de software que sigue los valores de Scrum:
+
+    Se compromete a entregar un producto de alta calidad.
+    Tiene el coraje de abordar errores y buscar soluciones.
+    Se enfoca en completar las tareas del sprint y alcanzar los objetivos del proyecto.
+    Comparte abiertamente información sobre el progreso y los desafíos.
+    Respeta las habilidades y opiniones de cada miembro del equipo.
 
 #### Identificar los pilares y valores de Scrum
 
