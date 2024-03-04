@@ -675,6 +675,20 @@ Proyectos adecuados para Scrum:
 
 #### Los principios fundamentales de Scrum
 
+Las principales caracteristicas o principios de la metodologia scrum son:
+
+Inestabilidad incorporada: En el mundo de Scrum, los equipos tienen la libertad de lograr resultados importantes con “requisitos desafiantes”. Takeuchi y Nonaka explican que esto les da a los equipos “un elemento de tensión” necesario para “llevar a cabo un proyecto de importancia estratégica para la empresa”.
+
+Equipos auto-organizados: El objetivo de los equipos que trabajaban con Scrum era operar como su propia empresa emergente, con un orden único que carece de una verdadera jerarquía. Estos equipos se consideran auto-organizados cuando exhiben autonomía, crecimiento continuo y colaboración.
+
+Fases de desarrollo superpuestas: Las personas en un equipo Scrum deben “trabajar para sincronizar su ritmo para cumplir los plazos”. En algún momento del proceso, el ritmo de cada individuo comienza a superponerse con el de los demás, y, finalmente, se forma un ritmo colectivo dentro del equipo.
+
+Aprendizaje múltiple: Scrum es un framework que se basa en gran medida en el ensayo y error. Los miembros de un equipo Scrum también tienen como objetivo mantenerse actualizados con las condiciones cambiantes del mercado para luego poder responder rápidamente a dichas condiciones.
+
+Control sutil: Como mencionamos, los equipos Scrum se organizan a sí mismos y funcionan como una empresa emergente, pero eso no significa que no tengan ninguna estructura. Gracias a los puntos de control a lo largo del proyecto cuya finalidad es analizar las interacciones y el progreso del equipo, los equipos Scrum mantienen el control sin obstaculizar la creatividad.
+
+Transferencia organizacional del aprendizaje: En los equipos Scrum, se alienta a todos a aprender habilidades que pueden ser nuevas para ellos y que sirvan para los otros miembros del equipo.
+
 #### Introducción a Kanban, XP y Lean
 
 #### Combinación de enfoques de gestión de proyectos
