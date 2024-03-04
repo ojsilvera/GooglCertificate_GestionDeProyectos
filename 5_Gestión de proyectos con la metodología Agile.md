@@ -702,6 +702,36 @@ ser nuevas para ellos y que sirvan para los otros miembros del equipo.
 
 #### Introducción a Kanban, XP y Lean
 
+Además de Scrum, existen otras metodologías ágiles populares que comparten los valores y principios ágiles, pero tienen
+prácticas y aplicaciones específicas.
+
+Kanban
+
+    Se centra en la visualización del progreso del trabajo.
+    Utiliza tableros o gráficos para mostrar las tareas como "por hacer", "en progreso" y "hecho".
+    Limita la cantidad de tareas en progreso para garantizar un ritmo de trabajo sostenible.
+
+Programación extrema (XP)
+
+    Enfatiza las pruebas tempranas y frecuentes.
+    Promueve la colaboración en pareja y la integración continua.
+    Se centra en la simplicidad del diseño y la claridad del código.
+
+Lean
+
+    Se centra en la creación de valor para el cliente.
+    Identifica y elimina el desperdicio en los procesos.
+    Promueve la mejora continua y la colaboración con el cliente.
+
+Cómo se relacionan con Agile
+
+    Agile se basa en los principios de Lean.
+
+    Las metodologías ágiles comparten valores como la colaboración, la comunicación frecuente y la retroalimentación
+    regular.
+
+    Los equipos ágiles pueden mezclar y combinar métodos para crear procesos que se adapten a sus necesidades específicas.
+
 #### Combinación de enfoques de gestión de proyectos
 
 #### El modelo de Spotify
