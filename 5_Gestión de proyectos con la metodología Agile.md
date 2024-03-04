@@ -443,6 +443,15 @@ Principios de la Metodología Agile
 
     El software funcional es la medida principal del progreso.
 
+        En los equipos que aplican la metodología Agile, la principal forma de demostrar la finalización significativa del
+        trabajo es mostrar una parte funcional de la solución. En los equipos de software, eso podría significar una pieza
+        de software funcional. En los equipos que trabajan en otras disciplinas, eso podría significar una parte crítica
+        de la solución que está lista para demostrarse ante los usuarios o sus representantes con el fin de escuchar opiniones,
+        Esto contrasta con los proyectos tradicionales o de la metodología Waterfall, en los que la finalización de los
+        documentos del proyecto podría usarse para medir el progreso. En la gestión de proyectos Agile, no basta con decir
+        que el equipo ha terminado un 80% de una actividad si no hay un recurso demostrable y en funcionamiento disponible
+        para revisar.
+
     Los procesos Agile promueven el desarrollo sostenible.
 
     La atención a la excelencia técnica y al buen diseño mejora la agilidad.
