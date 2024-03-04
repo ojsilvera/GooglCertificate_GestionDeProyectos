@@ -540,6 +540,34 @@ para determinar la mejor manera de abordar los proyectos.
 
 #### Aplicación de Agile en un entorno VUCA
 
+VUCA es un acrónimo que significa:
+
+    Volatilidad
+    Uncertidumbre
+    Complejidad
+    Ambigüedad
+
+Agile es una metodología de gestión de proyectos que se adapta bien a entornos VUCA. Esto se debe a que Agile se centra
+en:
+
+    Flexibilidad: Adaptarse rápidamente a los cambios.
+    Iteración: Dividir el proyecto en partes más pequeñas y trabajar en ellas de forma incremental.
+    Colaboración: Trabajar en equipo para resolver problemas y tomar decisiones.
+
+Ejemplo de VUCA y Agile
+
+Office Green, una empresa de paisajismo, se enfrentó a un entorno VUCA cuando el trabajo desde casa se hizo más común. Para
+adaptarse, utilizaron Agile para:
+
+    Dividir el proyecto en partes más pequeñas: Crearon equipos para centrarse en diferentes aspectos del nuevo servicio,
+    Virtual Verde.
+
+    Iterar rápidamente: Probaron diferentes ideas y recibieron comentarios de los clientes para mejorar el servicio.
+
+    Colaborar estrechamente: Los equipos trabajaron juntos para resolver problemas y tomar decisiones.
+
+    Al utilizar Agile, Office Green pudo adaptarse a los cambios del mercado y lanzar Virtual Verde con éxito.
+
 ### Frameworks populares de la metodología Agile
 
 ## Scrum 101
