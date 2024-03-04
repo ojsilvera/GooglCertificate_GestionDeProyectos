@@ -835,7 +835,58 @@ Cómo se relacionan con Agile
 
 #### Combinación de enfoques de gestión de proyectos
 
-¡Hola! En el último video, repasamos algunos de los métodos más conocidos para aplicar los valores y principios de Agile a tus proyectos. Analizamos Kanban, que se centra en la visualización y la gestión del flujo; XP, que se encarga de llevar las mejores prácticas de desarrollo de productos al máximo, y Lean que, de hecho, es anterior a Agile y tiene como objetivo capturar los principios fundamentales que eliminan lo innecesario y aportan valor a los clientes. También comparamos Agile con Waterfall para tener una mejor comprensión de lo que cada enfoque valora o intenta lograr y en qué tipo de proyectos funcionan mejor. A lo largo de estos videos, analizamos la gestión de proyectos con Agile de dos formas diferentes. Primero, exploramos Agile como una forma de concebir el proceso de entrega de proyectos a través de los valores y principios descritos en el Manifiesto de la metodología Agile. En segundo lugar, analizamos Agile a través de diferentes frameworks de entrega de proyectos y de métodos como Kanban, XP y Lean y, especialmente, a través de Scrum. Estas dos formas de aplicar Agile demuestran que el verdadero poder de Agile proviene no solo de adoptar ciertos procesos o estrategias, sino también de adoptar cierto tipo de mentalidad que es necesariamente diferente de los modelos de Waterfall tradicionales. Esto significa que puedes obtener algunos beneficios de pensar en forma Agile e intentar aplicar esos valores y principios Agile, que están en el Manifiesto, aún cuando necesites usar un enfoque de entrega Waterfall. Entonces, con todas estas cuestiones Agile efervescentes en la cabeza, repasemos algunos de los principios clave de la gestión de proyectos tradicional con Waterfall. Luego, analizaremos algunas de las formas en que puedes combinar los métodos y enfoques que acabas de aprender para adaptarlos a un producto específico de la mejor manera. Como aprendimos en cursos anteriores, un ciclo de vida del proyecto Waterfall se compone de las siguientes fases: iniciación, planificación, ejecución y finalización de tareas, cierre del proyecto y todas las tareas que integran cada una de estas fases, como la identificación de los objetivos y del alcance, la planificación, la elaboración de presupuestos y la gestión de riesgos. La gestión de proyectos con Agile incluye la mayor parte de las mismas fases y tareas, solo que se realizan de maneras diferentes. Entonces, aunque estos dos enfoques tienen diferencias claras, combinarlos podría tener mucho sentido, según el tipo de proyecto o el equipo de proyecto con el que trabajes. Aquí hay algunas razones por las cuales querrías combinar los estilos de Agile y Waterfall. Los interesados, clientes y patrocinadores están más cómodos con enfoques tradicionales y el uso de flujos de trabajo, o bien la entrega de productos de trabajo tradicionales les resulta más fácil de comprender y seguir, pero tu equipo de proyecto ya se estableció en Scrum y los miembros desean continuar. Puede haber exigencias normativas que insistan en ciertos procesos de trabajo tradicionales, tales como los grandes documentos que exigen certificaciones. O podría ser que uno de los proveedores involucrado en un proyecto grande ya haya adoptado un enfoque tradicional, y la integración entre los equipos demanda la combinación de ciertos métodos. En estos casos, el gerente de proyectos podría optar por combinar aspectos de Waterfall y Agile para que las diferentes partes del proyecto se puedan adaptar de manera que cumplan con los requisitos del proyecto, pero no tengan un impacto negativo en otras partes del proyecto o en el proyecto en su totalidad. Analicemos algunos ejemplos sobre cómo combinar los métodos. Supongamos que tu proyecto consiste en desarrollar un producto de software. Durante la retrospectiva sobre el último Sprint, un miembro del equipo dice: "Necesito implementar una característica determinada, pero no tengo mucha experiencia en la creación de esa característica en particular". Otro miembro del equipo es un experto en esa característica, así que decides emparejarlos para que puedan trabajar en la creación de la característica juntos durante el próximo Sprint. Acabas de combinar XP y Scrum. XP brinda la base para trabajar en pareja desde la Programación en pareja y las retrospectivas son un componente clave de Scrum. Aquí hay otro ejemplo bastante común. La mayoría de los equipos Scrum que conozco usan un tablero Kanban para supervisar el progreso en su Sprint. Sin embargo, hay una advertencia: cuidado con cambiar demasiado la forma en que se hacen las cosas. Los equipos funcionan mejor cuando son constantes. Volvamos a Office Green. Como gerente de proyectos de Virtual Verde, ¿qué tipos de métodos desearías utilizar para iniciar el proyecto? ¿Dónde combinarías algunos métodos tradicionales con métodos Agile? Aquí hay algunos factores a considerar. Los proveedores de plantas existentes están acostumbrados a tratar con el equipo de entrega original de la oficina de Plant Pals. Posiblemente, algunos de ellos estén interesados en experimentar con un enfoque Agile, pero no todos. En este caso, querrás incluir a esos proveedores en las primeras discusiones sobre cómo obtener aceptación y abordar cualquier inquietud. Office Green también necesita controlar bien los costos, así que desearás aplicar controles tradicionales de gestión presupuestaria para asegurarte de que no excedan el presupuesto del programa. Bueno, con esto llegamos al final de este video. Repasemos los puntos clave que quiero que te lleves. En primer lugar, Agile es una mentalidad, una manera de concebir el proceso de entrega de proyectos a través de los valores y principios descritos en el Manifiesto de la metodología Agile. En segundo lugar, los valores y principios Agile se pueden alcanzar a través de ciertos frameworks y métodos de entrega, como Scrum, Kanban, XP y Lean. Finalmente, tanto Agile como Waterfall son formas efectivas de abordar la gestión de proyectos que agregan valor específico. Hay momentos en que la combinación de estos estilos aportará incluso más valor que si usáramos solo uno, así que no temas combinarlos. Siempre que las diferentes partes del proyecto puedan beneficiarse de ciertos procesos sin tener un impacto negativo en el proyecto en su totalidad, hazlo. A continuación, te enseñaré todo sobre Equipos Scrum y cómo utilizar Scrum como framework para ejecutar un proyecto exitoso. Será divertido acompañarte en este recorrido.
+Puedes obtener algunos beneficios de pensar en forma Agile e intentar aplicar esos valores y principios Agile, que están
+en el Manifiesto, aún cuando necesites usar un enfoque de entrega Waterfall.
+
+Un ciclo de vida del proyecto Waterfall se compone de las siguientes fases:
+
+    iniciación, planificación, ejecución y finalización de tareas, cierre del proyecto y todas las tareas que integran cada
+    una de estas fases, como la identificación de los objetivos y del alcance, la planificación, la elaboración de presupuestos
+    y la gestión de riesgos.
+
+La gestión de proyectos con Agile incluye la mayor parte de las mismas fases y tareas, solo que se realizan de maneras
+diferentes. Entonces, aunque estos dos enfoques tienen diferencias claras, combinarlos podría tener mucho sentido, según
+el tipo de proyecto o el equipo de proyecto con el que trabajes.
+
+Aquí hay algunas razones por las cuales querrías combinar los estilos de Agile y Waterfall:
+
+Los interesados, clientes y patrocinadores están más cómodos con enfoques tradicionales y el uso de flujos de trabajo,
+o bien la entrega de productos de trabajo tradicionales les resulta más fácil de comprender y seguir, pero tu equipo de
+proyecto ya se estableció en Scrum y los miembros desean continuar.
+
+Puede haber exigencias normativas que insistan en ciertos procesos de trabajo tradicionales, tales como los grandes
+documentos que exigen certificaciones. O podría ser que uno de los proveedores involucrado en un proyecto grande ya haya
+adoptado un enfoque tradicional, y la integración entre los equipos demanda la combinación de ciertos métodos.
+
+En estos casos, el gerente de proyectos podría optar por combinar aspectos de Waterfall y Agile para que las diferentes
+partes del proyecto se puedan adaptar de manera que cumplan con los requisitos del proyecto, pero no tengan un impacto
+negativo en otras partes del proyecto o en el proyecto en su totalidad.
+
+Por ejemplo: Supongamos que tu proyecto consiste en desarrollar un producto de software. Durante la retrospectiva sobre
+el último Sprint, un miembro del equipo dice: "Necesito implementar una característica determinada, pero no tengo mucha
+experiencia en la creación de esa característica en particular". Otro miembro del equipo es un experto en esa característica,
+así que decides emparejarlos para que puedan trabajar en la creación de la característica juntos durante el próximo Sprint.
+Acabas de combinar XP y Scrum. XP brinda la base para trabajar en pareja desde la Programación en pareja y las retrospectivas
+son un componente clave de Scrum.
+
+Otro ejemplo bastante común. La mayoría de los equipos Scrum usan un tablero Kanban para supervisar el progreso en su
+Sprint. Sin embargo, hay una advertencia: cuidado con cambiar demasiado la forma en que se hacen las cosas. Los equipos
+funcionan mejor cuando son constantes.
+
+Volvamos a Office Green. Como gerente de proyectos de Virtual Verde, ¿qué tipos de métodos desearías utilizar para iniciar
+el proyecto? ¿Dónde combinarías algunos métodos tradicionales con métodos Agile? Aquí hay algunos factores a considerar.
+Los proveedores de plantas existentes están acostumbrados a tratar con el equipo de entrega original de la oficina de Plant
+Pals. Posiblemente, algunos de ellos estén interesados en experimentar con un enfoque Agile, pero no todos. En este caso,
+querrás incluir a esos proveedores en las primeras discusiones sobre cómo obtener aceptación y abordar cualquier inquietud,
+Office Green también necesita controlar bien los costos, así que desearás aplicar controles tradicionales de gestión
+presupuestaria para asegurarte de que no excedan el presupuesto del programa.
+
+Recapitulando Agile es una mentalidad, una manera de concebir el proceso de entrega de proyectos a través de los valores
+y principios descritos en el Manifiesto de la metodología Agile. los valores y principios Agile se pueden alcanzar a través
+de ciertos frameworks y métodos de entrega, como Scrum, Kanban, XP y Lean. Finalmente, tanto Agile como Waterfall son
+formas efectivas de abordar la gestión de proyectos que agregan valor específico. Hay momentos en que la combinación de
+estos estilos aportará incluso más valor que si usáramos solo uno, así que no temas combinarlos. Siempre que las diferentes
+partes del proyecto puedan beneficiarse de ciertos procesos sin tener un impacto negativo en el proyecto en su totalidad.
 
 En resumen, Agile y Waterfall: Métodos de gestión de proyectos
 
