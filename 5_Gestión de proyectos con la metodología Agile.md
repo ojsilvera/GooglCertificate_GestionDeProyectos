@@ -534,7 +534,9 @@ Finalmente, tenemos la ambigüedad. La ambigüedad se refiere a la posibilidad d
 raíz de hechos o circunstancias. En un proyecto que adoleciera de ambigüedad, sería difícil identificar las causas de los
 retrasos, lo que dificultaría el diseño de planes de mitigación para reducir los riesgos.
 
-Recapitulemos. VUCA significa volatilidad, incertidumbre, complejidad y ambigüedad. Es un concepto que fue desarrollado para lidiar con estas fuerzas en un mundo cambiante e incierto. Las empresas pueden aplicar el concepto de VUCA como una herramienta para determinar la mejor manera de abordar los proyectos. Es muchísima información, pero todos son datos muy útiles. Entender a la perfección estos conceptos te ayudará a tomar decisiones en todo tipo de proyectos. La adopción de un enfoque Agile aumenta tus posibilidades de éxito, a pesar de esta incertidumbre. Estos conceptos se aplican al mundo de los negocios en general, no solo a los proyectos. Tomemos un pequeño descanso para luego concluir esta sección. Vamos a repasar Office Green, el ejemplo de negocio para este curso, para averiguar cómo se pueden aplicar estos nuevos conceptos de Agile y VUCA a un proyecto nuevo.
+Recapitulando. VUCA significa volatilidad, incertidumbre, complejidad y ambigüedad. Es un concepto que fue desarrollado para
+lidiar con estas fuerzas en un mundo cambiante e incierto. Las empresas pueden aplicar el concepto de VUCA como una herramienta
+para determinar la mejor manera de abordar los proyectos.
 
 #### Aplicación de Agile en un entorno VUCA
 
