@@ -627,9 +627,20 @@ nuevos equipos Agile a comenzar y a los equipos más experimentados a mejorar.
 Es gratis y está abierto para que todos lo usen. Dado que es el framework de entrega Agile más utilizado, también hay una
 gran cantidad de guías y soporte en línea, así como capacitaciones y certificaciones específicas de Scrum.
 
-Scrum se presta mejor a los siguientes tipos de proyectos y equipos. Idealmente, un equipo Scrum debe ser multidisciplinario, compuesto de entre tres y nueve miembros. Algunos lo llaman un “equipo del tamaño de una pizza”, porque tiene la misma cantidad de personas que podrían compartir una pizza grande. Si el equipo es demasiado pequeño, es posible que no tenga la diversidad de habilidades para culminar el trabajo. Si el equipo es demasiado grande, se hace difícil distribuir la información. Por último, Scrum se adapta mejor a los proyectos en los que el equipo y la dirección tienen la mente abierta, son adaptables y valoran aprender continuamente cómo ser un mejor equipo. Intentar obligar a un equipo a hacer Scrum casi siempre fallará. Ten en cuenta que en todos estos ejemplos nunca mencioné la palabra “software”. Si bien Scrum surgió de proyectos de software, la gente ha ajustado Scrum para adaptarlo a todo tipo de proyectos, desde la planificación de bodas a las mudanzas y la construcción de cohetes. ¡Excelente! Ahora conoces algunas de las características clave de Scrum y qué tipos de proyectos realmente pueden beneficiarse de él. Es un método interesante, y, si bien tenemos mucho más que analizar antes de que puedas implementar Scrum completamente, primero discutiremos algunas otras metodologías Agile populares.
-Aprender acerca de estos enfoques te ayudará a convertirte en un miembro equilibrado y versátil de cualquier equipo de proyecto. ¿Qué esperas? Nos vemos en el siguiente video.
-Bienvenido de nuevo. Hasta ahora hemos indagado un poco sobre la historia de Agile, el Manifiesto de la metodología Agile y algunos de los tipos de proyectos que se benefician de un enfoque Agile. A continuación, te presentaré algunas metodologías específicas dentro del marco de Agile. La más popular es, por mucho, Scrum. En este video, te contaré brevemente los orígenes de Scrum y te explicaré los conceptos básicos de esta metodología. Entonces, ¿qué es Scrum? Bueno, en primer lugar, no es un acrónimo. Si alguien ha jugado o visto rugby alguna vez, seguramente reconocerá el término. Para quienes no están familiarizados con el rugby, es similar al fútbol americano, un deporte de contacto que se juega en una cancha con una pelota de forma similar. “Scrum” se refiere a una formación en rugby en la que todos los jugadores del equipo se inclinan hacia adelante, unen sus cabezas y, luego, trabajan como una unidad para tratar de ganar yardas preciadas para pasar la línea de anotación. Los creadores de la metodología Scrum vieron a sus equipos muy concentrados con la cabeza agachada y trabajando muy estrechamente para sacar adelante los proyectos, como en un scrum de un partido de rugby. Entonces, ¿cómo funciona la metodología Scrum para la gestión de proyectos? Veremos ahora una breve ​
+Scrum se presta mejor a los siguientes tipos de proyectos y equipos:
+
+Idealmente, un equipo Scrum debe ser multidisciplinario, compuesto de entre tres y nueve miembros. Algunos lo llaman un
+“equipo del tamaño de una pizza”, porque tiene la misma cantidad de personas que podrían compartir una pizza grande. Si
+el equipo es demasiado pequeño, es posible que no tenga la diversidad de habilidades para culminar el trabajo. Si el equipo
+es demasiado grande, se hace difícil distribuir la información.
+
+Por último, Scrum se adapta mejor a los proyectos en los que el equipo y la dirección tienen la mente abierta, son adaptables
+y valoran aprender continuamente cómo ser un mejor equipo.
+
+Intentar obligar a un equipo a hacer Scrum casi siempre fallará. Ten en cuenta que en todos estos ejemplos nunca mencioné
+la palabra “software”. Si bien Scrum surgió de proyectos de software, la gente ha ajustado Scrum para adaptarlo a todo tipo
+de proyectos, desde la planificación de bodas a las mudanzas y la construcción de cohetes.
+
 *En resumen:*
 
 ¿Qué es Scrum?
