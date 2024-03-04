@@ -1099,11 +1099,35 @@ Un equipo de desarrollo de software que sigue los valores de Scrum:
     Comparte abiertamente información sobre el progreso y los desafíos.
     Respeta las habilidades y opiniones de cada miembro del equipo.
 
-#### Identificar los pilares y valores de Scrum
-
 #### La Guía Scrum
 
-#### Aplicar los valores de Scrum
+Pilares y valores
+
+En resumen, cada persona de un equipo de Scrum debe cumplir los tres pilares y los cinco valores de Scrum. Los tres pilares
+de Scrum son los siguientes:
+
+    Transparencia
+
+    Inspección
+
+    Adaptación
+
+Los cinco valores de Scrum son los siguientes:
+
+    Coraje
+
+    Compromiso
+
+    Enfoque
+
+    Apertura
+
+    Respeto
+
+Para que un equipo tenga éxito, es muy importante que cada miembro del equipo respete estos pilares y valores fundamentales.
+
+Scrum solo tiene algunas reglas y prácticas fáciles de seguir. También es fácil de entender. Sin embargo, puede ser difícil
+dominar Scrum porque depende de poder representar, vivir y promover sus pilares y valores.
 
 ### Funciones y responsabilidades en scrum
 
