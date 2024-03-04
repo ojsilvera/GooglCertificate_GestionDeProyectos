@@ -967,6 +967,10 @@ Iterativo se refiere al hecho de que los procesos del proyecto se repiten. itera
 en bloques de tiempo o iteraciones. Incremental se refiere a que el trabajo se divide en partes más pequeñas que se sustentan
 entre sí. El producto se crea con el tiempo a través del trabajo realizado durante cada iteración.
 
+Cada una de estas instancias del producto se denomina un incremento. Las iteraciones y los incrementos nos permiten seguir
+controlando nuestro progreso a lo largo todo el ciclo de vida del proyecto. Esto nos ayuda a ser más predecibles y a
+gestionar la incertidumbre de nuestro proyecto.
+
 En resumen los pilares de Scrum son:
 
 Scrum se basa en tres pilares fundamentales:
