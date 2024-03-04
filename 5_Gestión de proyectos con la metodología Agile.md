@@ -774,6 +774,34 @@ Imagina que estás gestionando un proyecto para desarrollar un nuevo software. P
 
 #### El modelo de Spotify
 
+El modelo de Spotify fomenta la innovación, la colaboración y la productividad y, al mismo tiempo, mantiene la autonomía,
+la calidad y la comunicación necesaria. Lo hace mediante el uso de un sistema de organización único que incluye Squads
+(Escuadrones), Tribes (Tribus), Chapters (Divisiones) y Guilds (Gremios).
+
+En Spotify, los equipos se dividen en lo que llaman Squads (Escuadrones). Un Escuadrón es como un equipo Scrum y se supone
+que debe sentirse como su propia empresa emergente dentro de la empresa. Los Escuadrones se auto-organizan y se coordinan
+de forma autónoma. Trabajan juntos para lograr una misión a largo plazo. En Spotify, un Escuadrón puede estar a cargo de
+una tarea específica, como mejorar la usabilidad de la aplicación para Android, mejorar la experiencia de radio de Spotify
+o proporcionar soluciones de pago.
+
+Al igual que un equipo Scrum, el Escuadrón no tiene un líder formal, pero sí un propietario del producto. Los propietarios
+de productos colaboran entre sí para mantener una hoja de ruta para seguir el progreso de Spotify en su conjunto. Cada
+equipo también tiene acceso a un coach de Agile, quien se encarga de fomentar la mejora continua.
+
+Podemos concluir que:
+
+    Siempre debes poder adaptarte en función de las preferencias y objetivos de tu equipo. El equipo de Spotify comenzó
+    con Escuadrones, pero a medida que escalaba, agregó nuevos tipos de grupos dentro de la organización, sin alterar los
+    Escuadrones existentes. Continuó haciéndolo hasta que encontró el equilibrio perfecto entre colaboración y propiedad.
+
+    Analiza siempre las necesidades de tu proyecto y organización. Lo que funciona para Spotify puede no encajar a la perfección
+    en tu equipo. Si estás en un equipo que necesita escalar, inspírate en este modelo, pero usa los aspectos que funcionan
+    mejor para tu organización.
+
+    No tengas miedo del ensayo y error. Si intentas algo y el resultado no te convence, puedes ajustarlo sin problemas.
+
+    Nunca pienses que has terminado de mejorar. Siempre hay cambios que se pueden hacer para mejorar.
+
 ## Scrum 101
 
 ## Implementacion de Scrum
