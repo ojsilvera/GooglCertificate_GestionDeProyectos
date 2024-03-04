@@ -702,6 +702,8 @@ ser nuevas para ellos y que sirvan para los otros miembros del equipo.
 
 #### Introducción a Kanban, XP y Lean
 
+En resumen:
+
 Además de Scrum, existen otras metodologías ágiles populares que comparten los valores y principios ágiles, pero tienen
 prácticas y aplicaciones específicas.
 
