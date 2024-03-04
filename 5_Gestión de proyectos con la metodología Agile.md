@@ -570,6 +570,16 @@ adaptarse, utilizaron Agile para:
 
 ### Frameworks populares de la metodología Agile
 
+#### Introducción a Scrum
+
+#### Los principios fundamentales de Scrum
+
+#### Introducción a Kanban, XP y Lean
+
+#### Combinación de enfoques de gestión de proyectos
+
+#### El modelo de Spotify
+
 ## Scrum 101
 
 ## Implementacion de Scrum
