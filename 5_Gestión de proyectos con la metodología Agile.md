@@ -1276,8 +1276,6 @@ Habilidades de un Scrum Master:
     Coaching
     Excelentes habilidades de comunicación
 
-#### Lo que hace a un Scrum Master eficaz
-
 #### Características de un encargado del producto eficaz
 
 #### Características de un equipo de desarrollo eficaz
