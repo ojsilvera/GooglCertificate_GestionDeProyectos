@@ -1238,6 +1238,15 @@ deben ser buenos comunicadores, particularmente cuando se trata de los interesad
 en relacionarse con diversos interesados que pueden tener perspectivas y estilos opuestos. Un Scrum Master que puede
 relacionarse con muchos tipos diferentes de personas es un compañero de equipo valioso y esencial para tener en un proyecto.
 
+Como responsabilidad principal, el Scrum Master actúa como organizador y entrenador del equipo de Scrum, y debe asegurarse
+de tener el tiempo suficiente durante el día para hacer este trabajo primero que nada. Si la empresa requiere la gestión
+de muchas actividades adicionales de gestión de proyectos, el equipo podría contratar gerentes de proyectos que hagan más
+trabajo tradicional orientado a la gestión de proyectos. Ese trabajo puede incluir cosas como gestión de presupuestos,
+hojas de cálculo de riesgos o diagramas de Gantt. Sin embargo, como he dicho, es común que los gerentes de proyectos
+tradicionales asuman la función de Scrum Master. Cuentan con habilidades de toma de decisiones, flexibilidad comunicativa,
+organizativas y de otra índole, y el puesto de Scrum Master es una opción natural para muchos de los que somos gerentes
+de proyectos.
+
 - En resumen ¿Qué es un Scrum Master?
 
 Un Scrum Master es un facilitador y entrenador que ayuda a los equipos a utilizar la metodología Scrum de manera efectiva.
