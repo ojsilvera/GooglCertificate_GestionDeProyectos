@@ -1133,6 +1133,36 @@ dominar Scrum porque depende de poder representar, vivir y promover sus pilares 
 
 #### Funciones esenciales de Scrum
 
+los equipos de Scrum. Y al igual que la inspiración de nuestro nombre Scrum, relativo al rugby, el equipo trabaja hacia
+un objetivo específico para ganar. Empecemos analizando la misión y visión del producto del equipo. Recuerda, Scrum es una
+metodología Agile, por lo que representa los valores y principios de Agile.
+
+Uno de los principios de Agile establece lo siguiente: construir proyectos en torno a personas motivadas. Ofréceles el
+entorno y el apoyo que necesitan, y confía en ellos para hacer el trabajo. La mejor manera de motivar a las personas es
+darles una misión y una visión del producto que realmente les importe, para que puedan sentirse bien al momento de trabajar
+para lograrlo. En Agile, una misión es una breve declaración que se mantiene constante para tu equipo durante todo el proceso
+y les da algo en lo que deben trabajar.
+
+Scrum simplificado
+
+Imagina un equipo de fútbol. Cada jugador tiene un papel específico: delantero, defensa, portero, etc. Todos trabajan
+juntos para ganar el partido.
+
+Scrum es similar. Un equipo Scrum tiene tres roles principales:
+
+    Product Owner: Es como el entrenador. Decide qué jugadas hacer (características del producto) y por qué.
+    Development Team: Son los jugadores. Construyen el producto (marcan goles).
+    Scrum Master: Es como el árbitro. Se asegura de que el equipo siga las reglas y resuelve cualquier problema.
+
+Los equipos Scrum también tienen una misión (por qué están jugando) y una visión de producto (cómo se ve el éxito). Esto
+los mantiene motivados y enfocados.
+
+A diferencia de los equipos tradicionales, los equipos Scrum son multifuncionales (tienen diferentes habilidades) y
+autoorganizados (deciden cómo hacer las cosas). Esto les permite ser más flexibles y eficientes.
+
+En resumen, Scrum es una forma de trabajar en equipo que enfatiza la colaboración, la motivación y la entrega rápida de
+valor.
+
 #### Características de un Scrum Master eficaz
 
 #### Lo que hace a un Scrum Master eficaz
