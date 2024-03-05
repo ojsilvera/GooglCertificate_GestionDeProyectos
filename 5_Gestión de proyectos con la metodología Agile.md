@@ -1207,7 +1207,28 @@ valor.
 
 #### Características de un Scrum Master eficaz
 
-¿Qué es un Scrum Master?
+El Scrum Master promueve y apoya el proceso de Scrum ayudando a todos a comprender e implementar Scrum. Esto incluye sus
+prácticas, reglas y valores. La función de un Scrum Master es explicar que es el responsable de ayudar al equipo a dar lo
+mejor de sí. Puede lograr esto entrenando a los miembros del equipo para que manejen los factores externos, así como
+maximizando el potencial interno del equipo.
+
+Las responsabilidades del Scrum Master incluyen entrenar a los miembros del equipo sobre las prácticas, las reglas y los
+valores de Agile y Scrum, y ayudar a encontrar maneras de gestionar el Backlog del producto de manera efectiva. El Backlog
+del producto es la única fuente autorizada para todo aquello en lo que trabaja un equipo. Contiene todas las características
+del producto, los requisitos del producto y las actividades asociadas con los entregables para alcanzar la meta del proyecto.
+
+El Scrum Master organiza eventos de Scrum, como las retrospectivas de Sprint que se llevan a cabo al final de cada Sprint.
+
+El Scrum Master ayuda al equipo a eliminar cualquier obstáculo para su progreso, como información faltante, o acceso a
+capacitación o herramientas. El Scrum Master también evita interacciones inútiles o interrupciones provenientes de factores
+ajenos al equipo.
+
+Para ejecutar sus funciones los scrum master necesitan las siguiente características. Un Scrum Master debe ser organizado
+y solidario al tiempo que lidera. También son organizadores, entrenadores y excelentes comunicadores.
+
+Los Scrum Master deben tener buenas habilidades de organización que los ayuden a organizar de manera efectiva los artefactos del proyecto y gestionar los eventos de Scrum. Los Scrum Master deben ser líderes solidarios que se centren en las necesidades de los demás y las del equipo antes que en sus propias necesidades. No tienen la intención de erigirse como gerentes del equipo y dar órdenes. Más bien, siempre hacen preguntas como: "¿Cómo puedo ayudar?" o "¿Qué ayudaría al equipo a seguir adelante con este proyecto?" Los Scrum Master promueven la productividad y la colaboración. Esta es una habilidad crítica para garantizar que se tenga en cuenta la perspectiva de cada miembro del equipo y que se aborde su aporte. Los Scrum Master deben asesorar a los miembros del equipo sobre la teoría y la aplicación de Scrum. La habilidad de asesoramiento fomenta el diálogo y el debate sobre algo tan sencillo como dar respuestas de la manera correcta. Finalmente, los Scrum Master deben ser buenos comunicadores, particularmente cuando se trata de los interesados. Los Scrum Master tienen experiencia en relacionarse con diversos interesados que pueden tener perspectivas y estilos opuestos. Un Scrum Master que puede relacionarse con muchos tipos diferentes de personas es un compañero de equipo valioso y esencial para tener en un proyecto.
+
+- En resumen ¿Qué es un Scrum Master?
 
 Un Scrum Master es un facilitador y entrenador que ayuda a los equipos a utilizar la metodología Scrum de manera efectiva.
 
