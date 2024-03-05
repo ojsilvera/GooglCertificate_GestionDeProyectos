@@ -1207,6 +1207,35 @@ valor.
 
 #### Características de un Scrum Master eficaz
 
+¿Qué es un Scrum Master?
+
+Un Scrum Master es un facilitador y entrenador que ayuda a los equipos a utilizar la metodología Scrum de manera efectiva.
+
+Responsabilidades de un Scrum Master:
+
+    Promover y apoyar el proceso Scrum.
+    Ayudar al equipo a comprender e implementar las prácticas, reglas y valores de Scrum.
+    Ayudar al equipo a ser lo mejor posible.
+    Entrenar a los miembros del equipo sobre las prácticas, reglas y valores de Agile y Scrum.
+    Ayudar a encontrar formas de gestionar eficazmente el Product Backlog.
+    Facilitar eventos Scrum, como las retrospectivas de Sprint.
+    Eliminar cualquier obstáculo para el progreso del equipo.
+    Prevenir interacciones o interrupciones externas que no sean útiles.
+
+Diferencias entre un Scrum Master y un gerente de proyecto:
+
+    El Scrum Master se centra principalmente en facilitar y entrenar al equipo Scrum.
+    Los gerentes de proyecto pueden ser responsables de actividades adicionales de gestión de proyectos, como la gestión
+    del presupuesto y la creación de gráficos de Gantt.
+
+Habilidades de un Scrum Master:
+
+    Organización
+    Liderazgo de apoyo
+    Facilitación
+    Coaching
+    Excelentes habilidades de comunicación
+
 #### Lo que hace a un Scrum Master eficaz
 
 #### Características de un encargado del producto eficaz
