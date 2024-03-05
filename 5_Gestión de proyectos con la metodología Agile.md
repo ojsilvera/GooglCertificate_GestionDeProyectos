@@ -1147,7 +1147,45 @@ Además de la misión, un equipo Agile también establecerá una visión del pro
 responsable el equipo y cuáles son los límites de tu equipo. Una misión me dice por qué estamos haciendo el trabajo. Una
 visión del producto me ayuda a imaginar cómo quedará el trabajo cuando lo terminemos.
 
-Scrum simplificado
+Cada equipo de Scrum está conformado por tres funciones definidas: un Scrum Master, un encargado del producto y el equipo
+de desarrollo. Estas funciones trabajan juntas para lograr los objetivos del equipo y concretar la misión y la visión. El
+encargado del producto es responsable de lo que crea un equipo. También debe asegurarse de que todos entiendan el porqué.
+El trabajo del encargado del producto es crear el producto correcto.
+
+El equipo de desarrollo es responsable de cómo un equipo entregará ese producto. Por ejemplo, crear un nuevo sitio web es
+lo siguiente en nuestra lista de tareas pendientes para que los clientes puedan pedir plantas para la oficina en el hogar,
+El equipo de desarrollo está creando sitios web, integrando sistemas de facturación y resolviendo problemas. El trabajo del
+equipo de desarrollo es crear el producto correctamente.
+
+El Scrum Master es responsable de cuándo un equipo aportará valor a sus usuarios. Esta función es más o menos equivalente
+a la función del gerente de proyectos en los proyectos tradicionales.
+
+El Scrum Master está ayudando a destrabar al equipo y se ocupa de ciertas tareas, como averiguar por qué un proveedor llegó
+tarde o ayudar al equipo a priorizar los problemas de los usuarios u organizar la demostración para el CEO. El trabajo del
+Scrum Master es crear el producto rápido.
+
+Aunque hay funciones bien definidas en un equipo de Scrum, es importante tener en cuenta que todo el equipo trabaja en
+conjunto para lograr sus objetivos. En otras palabras, aunque existen expectativas específicas para cada función, el equipo
+de desarrollo aun puede aportar ideas para el "qué" y el "cuándo" de un proyecto, mientras que el encargado del producto
+puede hacer aportes en los debates sobre el "cómo" del proyecto.
+
+Como grupo, los equipos de Scrum deben contar con algunas habilidades específicas. La Guía Scrum detalla estas habilidades
+de la siguiente manera. Los equipos de Scrum son multidisciplinarios. Cuando un equipo de Scrum entrega algo, el logro es
+de todo el equipo, sin importar en qué función u organización se encuentren.
+
+En tu equipo de Scrum, puedes tener un desarrollador de software, un especialista en marketing, un experto en control de
+calidad y un experto en logística.
+
+Los equipos de Scrum son autoorganizados. Esto puede sonar radicalmente diferente de otras organizaciones en las que trabajaste
+antes, donde tus gerentes dictan sus tareas y solicitan actualizaciones frecuentes. Sin embargo, dado que los equipos de
+Scrum se basan en esos cinco valores (compromiso, coraje, enfoque, apertura y respeto), pueden trabajar en conjunto para
+ofrecer resultados sorprendentes en un entorno más orgánico y flexible.
+
+Aunque los equipos se organizan por sí solos, los equipos de Scrum de alto rendimiento suelen tener un gerente ajeno al
+equipo que aporta un liderazgo estratégico y desarrollo profesional individual sin interrumpir la naturaleza de autoorganización
+de Scrum.
+
+- Scrum simplificado
 
 Imagina un equipo de fútbol. Cada jugador tiene un papel específico: delantero, defensa, portero, etc. Todos trabajan
 juntos para ganar el partido.
