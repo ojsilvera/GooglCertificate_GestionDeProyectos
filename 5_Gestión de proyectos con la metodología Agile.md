@@ -1485,6 +1485,199 @@ ansiosas por trabajar juntas y que no teman comprometerse para beneficiar la cre
 
 ### La lista de producto
 
+#### Introducción: Implementación de Scrum
+
+Scrum es un marco de trabajo ágil que ayuda a los equipos a trabajar de manera más eficiente y efectiva.
+
+Se basa en los siguientes valores:
+
+    Compromiso: El equipo está comprometido a lograr el objetivo del proyecto.
+    
+    Coraje: El equipo está dispuesto a asumir riesgos y probar cosas nuevas.
+    
+    Enfoque: El equipo se centra en completar una tarea a la vez.
+    
+    Respeto: El equipo respeta las opiniones y contribuciones de los demás.
+    
+    Apertura: El equipo está abierto a la retroalimentación y al cambio.
+
+- Roles en Scrum
+
+Hay tres roles principales en un equipo Scrum:
+
+    Propietario del producto: Es responsable de definir y priorizar los requisitos del proyecto.
+    
+    Scrum Master: Es responsable de facilitar el proceso de Scrum y eliminar los obstáculos.
+    
+    Equipo de desarrollo: Es responsable de completar el trabajo del proyecto.
+
+- Eventos de Scrum
+
+Hay cinco eventos principales en Scrum:
+
+    Sprint: Es un período de tiempo (generalmente de 2 a 4 semanas) durante el cual el equipo trabaja para completar una
+    lista de tareas.
+
+    Planificación del sprint: Es una reunión en la que el equipo planifica el trabajo que se completará durante el sprint.
+
+    Scrum diario: Es una reunión diaria en la que el equipo discute su progreso y los obstáculos que enfrenta.
+
+    Revisión del sprint: Es una reunión en la que el equipo demuestra el trabajo que ha completado durante el sprint.
+
+    Retrospectiva del sprint: Es una reunión en la que el equipo reflexiona sobre el sprint y busca formas de mejorar.
+
+- Artefactos de Scrum
+
+Hay tres artefactos principales en Scrum:
+
+    Lista de producto: Es una lista de todas las características y requisitos del proyecto.
+
+    Lista de sprint: Es una lista de las tareas que el equipo planea completar durante el sprint.
+
+    Gráfico de quemado: Es un gráfico que muestra el progreso del equipo hacia la finalización del sprint.
+
+- Beneficios de Scrum
+
+Scrum puede proporcionar varios beneficios, entre ellos:
+
+    Mayor productividad
+    
+    Mejor calidad
+    
+    Mayor satisfacción del cliente
+    
+    Mayor capacidad de respuesta al cambio
+    
+    Herramientas de Scrum
+
+Hay varias herramientas que se pueden utilizar para apoyar a los equipos Scrum, entre ellas:
+
+    Google Docs: Se puede utilizar para crear y compartir documentos.
+    
+    JIRA: Se puede utilizar para rastrear el progreso del proyecto.
+    
+    Asana: Se puede utilizar para gestionar tareas.
+    
+    Trello: Se puede utilizar para crear tableros Kanban.
+    
+    Tableros Kanban: Se pueden utilizar para visualizar el flujo de trabajo.
+
+#### Crear una lista de producto
+
+Se define la lista de producto como la única fuente autorizada para las tareas en las que trabaja un equipo. Contiene todas
+las funciones, los requisitos, y las actividades asociados con entregables para lograr el objetivo del proyecto.
+
+El equivalente tradicional a Agile para la gestión de proyectos sería el conjunto de requisitos del proyecto. Hay tres
+características clave de una lista de producto.
+
+    Primero, la lista de producto es un artefacto vivo, lo que significa que se agregan elementos a la lista en cualquier
+    momento. La lista de producto evoluciona a lo largo de todo el ciclo de vida del proyecto y sirve como una guía central
+    para el equipo para saber en qué trabajar a continuación.
+
+    Segundo, la lista de producto es propiedad del propietario del producto, que también hace los ajustes.
+
+    Tercero, la lista de producto es siempre una lista priorizada de características.
+
+Entonces, cuando hay nueva información o nuevas características, estas se agregan a la lista en orden de importancia. Los
+elementos en la parte superior de la lista son muy específicos y bien definidos, y los elementos menos definidos quedan
+al final de la lista.
+
+La lista de producto es la guía y hoja de ruta de tu producto. Es el artefacto central de Scrum, donde todas las ideas
+posibles, entregables, características, o tareas se capturan para que el equipo trabaje en ellas.
+
+Debido a que la lista es tan importante, hay algunas mejores prácticas y datos para capturar cuando se trabaja con listas
+de producto. Entre ellos, está la descripción, el valor, el pedido y la estimación.
+
+La descripción del elemento. La descripción del elemento es exactamente eso, la descripción de un elemento. Al escribir
+la descripción de un elemento, es conveniente ser muy claro al agregar elementos de la lista de producto, por lo que se
+fomenta la inclusión de detalles, el siguiente es un formato inicial de la toma de requisitos o tareas o un ejemplo de
+item para la lista de producto o backlog:
+
+    Como el actor(cliente/PO/SM/DT) de (Aqui la organizacion o nombre del cliente)
+    pienso/Necesito (Aqui lo que el actor desea realizar, para que desea realizarlo y en donde se realizara o ejecutara).
+
+La descripción de este elemento incluye detalles esenciales, como una acción y una ubicación desde la perspectiva del cliente,
+esto asegura que el Equipo de Desarrollo tenga suficiente información para satisfacer las necesidades del usuario.
+
+A continuación, tenemos:
+
+    El campo de valor. Este campo nos dice cuánto valor comercial aporta el elemento a los clientes, al equipo, o a los
+    usuarios.
+
+Cómo indicar el valor es una decisión que el Equipo de Scrum debe tomar en conjunto, se sugiere establecer el valor con
+signos de dólar, que van desde un signo de dólar para el valor bajo, hasta cuatro signos de dólar para el alto valor
+comercial agregado.
+
+A continuación, tenemos:
+
+    La estimación. Una estimación es cuánto esfuerzo cree el Equipo de Scrum que un elemento necesitará para completarse.
+
+la estimación del esfuerzo relativo se captura en cada elemento de la lista. Este campo de la lista es propiedad del Equipo
+de Desarrollo.
+
+A continuacion, la lista siempre se debe priorizar. Los campos de estimación y de valor que acabamos de discutir ayudan
+al propietario del producto a determinar dónde colocar un elemento en el orden de jerarquía de la lista. El propietario del
+producto puede preguntarse,
+
+    ¿qué tan importante es este elemento de la lista en comparación con todos los demás elementos?
+
+La lista de producto ordena los elementos de mayor a menor prioridad. Esto se llama un rango apilado. Ordenar los elementos
+de esta manera permite que los equipos operen de manera más eficiente. Al crear elementos de la lista, el objetivo es
+incluir todo lo que se pueda sin estresarse demasiado por las incógnitas.
+
+*En rusumen:*
+
+¿Qué es el Product Backlog?
+
+El Product Backlog es una lista de todas las características, requisitos y actividades necesarias para completar un
+proyecto. Es como un mapa que guía al equipo sobre qué hacer a continuación.
+
+Características clave del Product Backlog:
+
+    Vivo: Se actualiza constantemente a medida que surgen nuevas ideas o requisitos.
+    Propiedad: Es propiedad del Product Owner, quien es responsable de priorizar y gestionar el Backlog.
+    Priorizado: Los elementos se ordenan de mayor a menor importancia.
+
+Campos de un elemento del Product Backlog:
+
+    Descripción: Una breve descripción del elemento.
+    Valor: El valor comercial que aporta el elemento.
+    Estimación: El esfuerzo estimado para completar el elemento.
+    Orden: La prioridad del elemento en el Backlog.
+
+Cómo crear un Product Backlog:
+
+    Describe los elementos: Sé claro y detallado en las descripciones de los elementos.
+    Indica el valor: Asigna un valor a cada elemento para ayudar a priorizar.
+    Estima el esfuerzo: Estima cuánto esfuerzo llevará completar cada elemento.
+    Prioriza los elementos: Ordena los elementos de mayor a menor importancia.
+
+Beneficios del Product Backlog:
+
+    Proporciona una visión clara del proyecto.
+    Ayuda al equipo a centrarse en las tareas más importantes.
+    Permite al equipo adaptarse a los cambios rápidamente.
+
+#### Lista de producto: Descripción general de la guía de Scrum
+
+#### Escribir historias de usuario
+
+#### Los componentes de historias de usuario y epopeyas
+
+#### Completar la historia de usuario/coincidir con los criterios de aceptación
+
+#### Crear una lista de producto en Asana
+
+#### Actividad: Crear una lista de producto en Asana
+
+#### Técnicas de Agile para la estimación del esfuerzo
+
+#### Tallas de camisetas y puntos de historia
+
+#### Actividad: Añadir estimación
+
+#### Añadir estimación en Asana
+
 ### Eventos de Scrum
 
 ### Herramientas de Scrum
