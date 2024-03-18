@@ -1387,6 +1387,19 @@ eventos de Scrum se lleven a cabo y ayuda al equipo a concentrarse en brindar va
 a diferencia de un gerente de proyectos tradicional, no se encarga de gestionar los cambios en el alcance o las prioridades.
 Además, los Scrum Master no llevan artefactos de proyecto tradicionales como los diagramas de GANTT.
 
+- Product owner o El encargado del producto
+
+De acuerdo con la Guía Scrum:
+
+    “El Encargado del producto es responsable de maximizar el valor del producto resultante del trabajo generado por el
+    equipo de Scrum. La forma de hacerlo puede variar ampliamente según las organizaciones, los equipos de Scrum y las
+    personas”.
+
+Los encargados del producto maximizan el valor del producto representando y expresando la perspectiva del cliente a lo
+largo de la duración del proyecto. Un producto no es útil para sus clientes si no cumple con sus expectativas y necesidades.
+
+Las tareas del encargado del producto incluyen lo siguiente:
+
 #### Características de un gran equipo de Scrum
 
 ## Implementacion de Scrum
