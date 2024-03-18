@@ -1278,6 +1278,57 @@ Habilidades de un Scrum Master:
 
 #### Características de un encargado del producto eficaz
 
+¡Hola de nuevo! En el último video, revisamos
+la función del Scrum Master. Ahora, te daré una
+idea de lo que hace el encargado del producto. También comenzarás a notar cómo funciona
+la relación entre el encargado del producto y el equipo de desarrollo. Un encargado del producto debe
+garantizar que el equipo esté creando el producto o servicio correcto. Un equipo de Scrum eficaz no es útil
+para nadie si crea un producto que los usuarios no quieren. El encargado del producto se asegura de que
+el equipo esté construyendo el producto correcto. Un encargado del producto es responsable de maximizar continuamente el valor del
+producto entregado por el equipo de Scrum. Su actividad clave es representar la
+perspectiva del cliente dentro del equipo. Representa y expresa esta perspectiva al ser
+responsable del Backlog del producto. Como recordatorio rápido, el Backlog del
+producto es la única fuente autorizada para cosas en las que trabaja un equipo de
+Scrum con el fin de lograr el objetivo del proyecto. Las responsabilidades del encargado del producto también
+incluyen ayudar al equipo de Scrum a comprender por qué su trabajo es importante
+dentro del objetivo y la misión generales. También prioriza el Backlog del producto
+para optimizar el logro de los objetivos y aportar valor a los clientes. El encargado del producto se asegura de que el Backlog
+del producto sea visible y transparente para todos. Por último, es responsable de
+asegurarse de que el producto o servicio satisfaga las necesidades del cliente. ¡Son muchas responsabilidades! Entonces, ¿cómo logran todo eso
+los encargados del producto? Confían en sus características clave. La función de un encargado del producto
+requiere que se enfoque en el cliente, por lo que debe comprender
+muy bien las necesidades de los clientes y la
+industria de su negocio. Los encargados del producto también deben
+ser decididos y buenos comunicadores, y deben entender ambos lados del problema para poder defender sus
+decisiones ante el equipo. Deben ser flexibles y estar abiertos a recibir nueva información que
+pueda generar un cambio rentable para el equipo. También tienen que ser
+optimistas y positivos, especialmente porque deben mostrar
+la visión del producto al equipo. Deben inspirar al equipo
+a creer en su misión. Los encargados del producto
+también deben estar disponibles. La naturaleza iterativa de Scrum implica que
+el equipo necesita que el encargado del producto ayude a inspeccionar, adaptar y planificar
+la próxima iteración de forma regular. Por último, deben ser colaboradores. Los encargados del producto tendrán que trabajar
+con su equipo para asegurarse de que las necesidades del cliente se satisfagan, y
+eso requerirá reunirse y trabajar con varios interesados. Como habrás notado, los encargados
+del producto son responsables de gran parte del proyecto, al
+igual que el Scrum Master. Imaginemos un ejemplo de cómo trabajará un
+encargado del producto dentro de Virtual Verde. Por ejemplo, supongamos que el encargado
+del producto de Virtual Verde le indicó al equipo de desarrollo que debe trabajar en las
+siguientes funciones en este orden: arreglos florales, suculentas en macetas,
+plantas grandes en macetas y jardines de hierbas. Cuando el equipo de
+desarrollo revisa la lista, le comunica al encargado del producto
+que al principio parecía difícil trabajar en los jardines de hierbas porque
+se consideran alimentos regulados. Pero en realidad, el especialista en proveedores del
+equipo de desarrollo sabe que los jardines de hierbas son mucho más fáciles de
+conseguir de lo que pensábamos, dado que nuestro proveedor ya tiene
+muchos jardines de hierbas en stock. Por lo tanto, el equipo de desarrollo sugiere
+centrarse primero en los jardines de hierbas. Un encargado del producto flexible y enfocado en el cliente ajustará las prioridades
+en función de esta nueva información. Entonces, a modo de resumen, analizamos que un
+encargado del producto representa la perspectiva del cliente y se centra en el
+cliente. Es decidido, flexible, optimista,
+accesible y colaborador. A continuación, analizaremos la función
+y las características del equipo de desarrollo.
+
 #### Características de un equipo de desarrollo eficaz
 
 #### Comprender las funciones de un equipo de Scrum
