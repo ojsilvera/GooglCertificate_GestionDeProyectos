@@ -1278,19 +1278,20 @@ Habilidades de un Scrum Master:
 
 #### Características de un encargado del producto eficaz
 
-¡Hola de nuevo! En el último video, revisamos
-la función del Scrum Master. Ahora, te daré una
-idea de lo que hace el encargado del producto. También comenzarás a notar cómo funciona
-la relación entre el encargado del producto y el equipo de desarrollo. Un encargado del producto debe
-garantizar que el equipo esté creando el producto o servicio correcto. Un equipo de Scrum eficaz no es útil
-para nadie si crea un producto que los usuarios no quieren. El encargado del producto se asegura de que
-el equipo esté construyendo el producto correcto. Un encargado del producto es responsable de maximizar continuamente el valor del
-producto entregado por el equipo de Scrum. Su actividad clave es representar la
-perspectiva del cliente dentro del equipo. Representa y expresa esta perspectiva al ser
-responsable del Backlog del producto. Como recordatorio rápido, el Backlog del
-producto es la única fuente autorizada para cosas en las que trabaja un equipo de
-Scrum con el fin de lograr el objetivo del proyecto. Las responsabilidades del encargado del producto también
-incluyen ayudar al equipo de Scrum a comprender por qué su trabajo es importante
+Un encargado del producto debe garantizar que el equipo esté creando el producto o servicio correcto. Un equipo de Scrum
+eficaz no es útil para nadie si crea un producto que los usuarios no quieren.
+
+    - El encargado del producto se asegura de que el equipo esté construyendo el producto correcto.
+    - Un encargado del producto es responsable de maximizar continuamente el valor del producto entregado por el equipo de
+      Scrum.
+
+Su actividad clave es representar la perspectiva del cliente dentro del equipo. Representa y expresa esta perspectiva al ser
+responsable del Backlog del producto.
+
+    El Backlog del producto es la única fuente autorizada para cosas en las que trabaja un equipo de Scrum
+    con el fin de lograr el objetivo del proyecto.
+
+Las responsabilidades del encargado del producto también incluyen ayudar al equipo de Scrum a comprender por qué su trabajo es importante
 dentro del objetivo y la misión generales. También prioriza el Backlog del producto
 para optimizar el logro de los objetivos y aportar valor a los clientes. El encargado del producto se asegura de que el Backlog
 del producto sea visible y transparente para todos. Por último, es responsable de
