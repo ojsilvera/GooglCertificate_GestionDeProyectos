@@ -1481,8 +1481,12 @@ efectiva al equipo de desarrollo, organizar eventos y eliminar las distracciones
 producto final superior. Dado que el equipo es de autoorganización y multifuncional, debes contar con personas que estén
 ansiosas por trabajar juntas y que no teman comprometerse para beneficiar la creación del producto.
 
-#### Características de un gran equipo de Scrum
-
 ## Implementacion de Scrum
+
+### La lista de producto
+
+### Eventos de Scrum
+
+### Herramientas de Scrum
 
 ## Aplicar la metodologia Agile en la organizacion
