@@ -1347,6 +1347,46 @@ equipos.
 Cada miembro de un equipo de Scrum desempeña una función fundamental en el éxito del proyecto, para ayudar a que un proyecto
 llegue a la meta tenemos tres roles definidos, Product owner o propietario de producto, Scrum master y Equipo de desarrollo.
 
+- El Scrum Master
+
+Una responsabilidad clave del Scrum Master es ayudar al equipo a comprender y respetar la teoría de Scrum. Más específicamente,
+de acuerdo con la Guía Scrum:
+
+    “El Scrum Master es responsable de establecer Scrum tal como se define en la Guía Scrum Lo hace ayudando a todos a
+    comprender la teoría y la práctica de Scrum, tanto dentro del equipo de Scrum como en la rganización".
+
+    "El Scrum Master es responsable de la efectividad del equipo de Scrum. Lo hace permitiendo que el equipo de Scrum mejore
+    sus prácticas, dentro del framework de Scrum”.
+
+El Scrum Master se asegura de que se lleven a cabo reuniones importantes, como el Scrum diario. De la misma manera en que
+un entrenador estaría pendiente del reloj del juego, el Scrum Master debe asegurarse de que la reunión se mantenga dentro
+del timebox apropiado. Un timebox es un concepto de Scrum que se refiere a la duración estimada de un evento.
+
+El Scrum Master actúa como un entrenador del equipo de Scrum: alienta al equipo a construir el producto dentro del marco
+de tiempo. También apoya al equipo creando un entorno colaborativo para que se logren los objetivos del proyecto. Las
+tareas del Scrum Master incluyen lo siguiente:
+
+    Entrenar a los miembros del equipo en autogestión y funcionalidad cruzada
+
+    Ayudar al equipo de Scrum a concentrarse en crear incrementos de alto valor que cumplan con la Definición de hecho
+    (un conjunto acordado de elementos que deben completarse antes de que un proyecto o una historia de usuario puedan
+    considerarse completos)
+
+    los impedimentos para el progreso del equipo de Scrum
+
+    Asegurarse de que se lleven a cabo todos los eventos de Scrum, que sean positivos y productivos, y que se mantengan
+    dentro del timebox (un concepto de Scrum que se refiere a la duración estimada de un evento)
+
+- El Scrum Master vs. el gerente de proyectos
+
+A veces, la función del Scrum Master se confunde con la del gerente de proyectos. Si bien las dos funciones comparten
+habilidades y cualidades relacionadas, son muy diferentes.
+
+Un Scrum Master es responsable de ayudar al equipo a comprender la teoría y la práctica de Scrum. Se asegura de que los
+eventos de Scrum se lleven a cabo y ayuda al equipo a concentrarse en brindar valor eliminando los impedimentos. Sin embargo,
+a diferencia de un gerente de proyectos tradicional, no se encarga de gestionar los cambios en el alcance o las prioridades.
+Además, los Scrum Master no llevan artefactos de proyecto tradicionales como los diagramas de GANTT.
+
 #### Características de un gran equipo de Scrum
 
 ## Implementacion de Scrum
