@@ -1140,8 +1140,10 @@ metodología Agile, por lo que representa los valores y principios de Agile.
 Uno de los principios de Agile establece lo siguiente: construir proyectos en torno a personas motivadas. Ofréceles el
 entorno y el apoyo que necesitan, y confía en ellos para hacer el trabajo. La mejor manera de motivar a las personas es
 darles una misión y una visión del producto que realmente les importe, para que puedan sentirse bien al momento de trabajar
-para lograrlo. En Agile, una misión es una breve declaración que se mantiene constante para tu equipo durante todo el proceso
-y les da algo en lo que deben trabajar.
+para lograrlo.
+
+    En Agile, una misión es una breve declaración que se mantiene constante para tu equipo durante todo el proceso
+    y les da algo en lo que deben trabajar.
 
 Además de la misión, un equipo Agile también establecerá una visión del producto y dejará en claro de qué resultados es
 responsable el equipo y cuáles son los límites de tu equipo. Una misión me dice por qué estamos haciendo el trabajo. Una
