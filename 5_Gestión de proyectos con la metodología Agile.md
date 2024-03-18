@@ -1625,6 +1625,10 @@ La lista de producto ordena los elementos de mayor a menor prioridad. Esto se ll
 de esta manera permite que los equipos operen de manera más eficiente. Al crear elementos de la lista, el objetivo es
 incluir todo lo que se pueda sin estresarse demasiado por las incógnitas.
 
+![ejemplo de un backlog de producto](image-31.png)
+
+[plantilla](<PMOInformatica Plantilla de Product Backlog.xlsx>)
+
 *En rusumen:*
 
 ¿Qué es el Product Backlog?
