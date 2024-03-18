@@ -1344,6 +1344,9 @@ equipos.
 
 #### Comprender las funciones de un equipo de Scrum
 
+Cada miembro de un equipo de Scrum desempeña una función fundamental en el éxito del proyecto, para ayudar a que un proyecto
+llegue a la meta tenemos tres roles definidos, Product owner o propietario de producto, Scrum master y Equipo de desarrollo.
+
 #### Características de un gran equipo de Scrum
 
 ## Implementacion de Scrum
