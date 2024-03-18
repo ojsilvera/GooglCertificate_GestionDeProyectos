@@ -1450,6 +1450,35 @@ tener un desarrollador web, un desarrollador de bases de datos y un especialista
 de marketing, eso podría significar tener escritores, editores, especialistas en optimización de motores de búsqueda y
 analistas de negocios.
 
+- El trabajo conjunto de las funciones
+
+Las funciones de Scrum se complementan entre sí y cada una aporta sus cualidades, habilidades y responsabilidades únicas
+en conjunto para lograr proyectos de Scrum exitosos. Es crucial que todos en el equipo entiendan su función y cómo trabajan
+juntos para brindar valor a sus usuarios y clientes. Cuando el equipo tiene este entendimiento compartido, pueden apoyarse
+mejor durante las prácticas de Scrum.
+
+- Características necesarias de cada función
+
+En general, es recomendable que tu equipo esté formado por personas que estén interesadas en la colaboración y la mejora
+constantes. Más específicamente, es bueno tener miembros en el equipo que valoren los comentarios, aporten energía y
+diversión al equipo, y puedan admitir sus errores y aprender de ellos.
+
+Veamos qué características debe exhibir cada miembro del equipo:
+
+*El encargado del producto* debe poder proporcionar al equipo con total seguridad instrucciones, requisitos y objetivos
+generales del proyecto, pero permitirá que el equipo determine cómo lograr estos objetivos. Tu equipo debe contar con un
+encargado del producto que promueva la visión del producto y priorice el Backlog del producto para maximizar el valor
+para el cliente. Para cumplir con esto, el encargado del producto debe ser organizado y tener buenas habilidades de
+comunicación.
+
+*El Scrum Master* debe tener buenas habilidades de liderazgo que le permitan ser un facilitador y un negociador eficiente
+que sepa cómo resolver conflictos. Tu equipo debe contar con un Scrum Master que tenga como objetivo entrenar de manera
+efectiva al equipo de desarrollo, organizar eventos y eliminar las distracciones que puedan impedir el progreso del equipo.
+
+*El equipo de desarrollo*, se recomienda contar con personas que estén enfocadas en completar los entregables y crear un
+producto final superior. Dado que el equipo es de autoorganización y multifuncional, debes contar con personas que estén
+ansiosas por trabajar juntas y que no teman comprometerse para beneficiar la creación del producto.
+
 #### Características de un gran equipo de Scrum
 
 ## Implementacion de Scrum
