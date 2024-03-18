@@ -1400,6 +1400,29 @@ largo de la duración del proyecto. Un producto no es útil para sus clientes si
 
 Las tareas del encargado del producto incluyen lo siguiente:
 
+    Desarrollar y comunicar explícitamente el objetivo del producto
+
+    Crear y comunicar claramente los elementos del Backlog del producto (el Backlog del producto contiene todas las
+    características, los requisitos y las actividades asociadas con los entregables para lograr el objetivo del proyecto)
+
+    Garantizar que el Backlog del producto sea transparente, visible y comprensible
+
+- El encargado del producto vs. el gerente de proyectos
+
+En la gestión de proyectos tradicional, la gestión del alcance es la principal responsabilidad del gerente de proyectos,
+Sin embargo, en Scrum, la definición y gestión del alcance del producto recae en el encargado del producto. Por el contrario,
+el encargado del producto no es responsable del rendimiento del equipo: no se lo considera un gerente. El gerente de proyectos
+dirige al equipo del proyecto para cumplir con los objetivos del proyecto y supervisa las tareas y el progreso.
+
+También hay similitudes entre las funciones del encargado del producto y el gerente de proyectos. Por ejemplo, ambas funciones
+tienen la tarea de gestionar a los interesados. Esto significa que ambos deben poner en práctica y propiciar la comunicación
+efectiva entre los miembros del equipo y los interesados.
+
+Además, en muchas empresas, incluida Google, la definición del alcance del producto o la solución es la responsabilidad
+de una función diferente llamada un gerente de producto. Por lo tanto,cuando te incorporas a una nueva empresa, es importante
+descubrir cómo esa empresa aborda el área de definición de productos, desarrollo de requisitos e investigación de usuarios
+para comprender lo que consideran que está a cargo del gerente de proyectos.
+
 #### Características de un gran equipo de Scrum
 
 ## Implementacion de Scrum
