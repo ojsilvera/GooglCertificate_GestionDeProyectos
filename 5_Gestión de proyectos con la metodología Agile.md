@@ -1320,6 +1320,31 @@ Como habrás notado, los encargados del producto son responsables de gran parte 
 
 #### Características de un equipo de desarrollo eficaz
 
+El equipo de desarrollo está conformado por las personas que trabajan para crear el producto.
+
+Un equipo puede estar conformado por entre tres y nueve personas. Esto permite garantizar que el equipo sea lo suficientemente
+pequeño para mantenerse ágil, pero lo suficientemente grande para completar un trabajo considerable dentro de cada Sprint.
+
+Es importante contar con un equipo del tamaño adecuado. Los equipos más pequeños pueden tener dificultades con la diversidad
+de habilidades e ideas, mientras que los equipos más grandes pueden encontrarse con problemas en los que hay demasiadas
+opiniones y corrientes de comunicación.
+
+El equipo de desarrollo debe ser multidisciplinario para poder crear el producto o servicio internamente, ya que cuenta
+con todas las habilidades necesarias.
+
+El equipo de desarrollo también posee sus propios procesos y estructuras. Debe ser autoorganizado y no puede depender de
+que otros le indiquen cómo organizarse. Las personas que lo conforman trabajan continuamente como un equipo, no en forma
+individual, y se apoyan mutuamente para alcanzar los objetivos del equipo.
+
+Por último, el equipo de desarrollo reconoce que los mejores productos surgen de los equipos que están orientados al cliente
+y se enfocan en el usuario al momento de crear sus productos. Muchos equipos de Scrum prefieren tener la misma ubicación,
+lo que significa que trabajan juntos en el mismo espacio físico. Muchos creen que el equipo logra un trabajo de mayor
+calidad y mejora más rápido si están ubicados en el mismo lugar. Sin embargo, esto no siempre es posible para todos los
+equipos.
+
+Veamos este ejemplo. Supongamos que el equipo de Virtual Verde descubre un problema con uno de los proveedores de sus plantas. No puede hacer frente al furor de las fiestas debido a algunos problemas de calidad del producto. El especialista de control de calidad del equipo puede atravesar el país y ayudar al proveedor, pero eso significa que no estará disponible para completar las tareas que tiene asignadas. Si el equipo está ubicado en el mismo lugar, puede reunirse rápidamente en una sala de conferencias y escribir algunas ideas para terminar el trabajo o reorganizar el trabajo de modo que esto no afecte los objetivos del Sprint. Si el equipo no se reúne o trabaja en diferentes zonas horarias, esta colaboración es un poco más difícil: tiene que hacerse por teléfono o correo electrónico, o deben coordinar los horarios para una reunión, y es posible que tengas que proponer soluciones que, en última instancia, llevarán a retrasos generales en el proyecto. Por otro lado, vivimos en un mundo donde es posible trabajar virtualmente. Entonces, si el especialista de control de calidad debe participar de una llamada, pueden llamar o unirse a través de plataformas de videoconferencia como Zoom o Skype. Tanto estar ubicados en el mismo espacio como trabajar virtualmente tienen sus pros y sus contras, por lo que debes asegurarte de usar el método que más beneficie a tu equipo. En este punto, analizamos cada función dentro de un equipo de Scrum. Un encargado del producto es responsable de satisfacer las necesidades de los clientes, lo que también se conoce como "crear el producto correcto". Un equipo de desarrollo es responsable de crear el producto, lo que también se conoce como "crear el producto correctamente". El Scrum Master es responsable de mejorar la eficiencia, lo que también se conoce como "crear el producto rápido". Sabemos que cada función es de vital importancia para lograr los objetivos de un proyecto de Scrum. Ninguna persona es más o menos importante que las demás. Todas trabajan juntas como equipo para crear valor para sus usuarios y clientes. En la siguiente serie de videos, repasaremos lo que aprendiste hasta ahora.
+​
+
 #### Comprender las funciones de un equipo de Scrum
 
 #### Características de un gran equipo de Scrum
