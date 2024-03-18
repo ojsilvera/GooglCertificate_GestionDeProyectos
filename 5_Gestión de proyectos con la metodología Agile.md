@@ -1807,6 +1807,76 @@ la experiencia general del usuario.
 
 Las epopeyas son una colección de historias de usuario.
 
+- Historias de usuario
+
+El factor impulsor detrás de cada proyecto de Scrum es poner al cliente primero. Las historias de usuario son un componente
+clave para garantizar que los clientes estén satisfechos con el producto. Un equipo escribe una historia de usuario desde
+la perspectiva del posible usuario. Las historias de usuario no solo brindan información sobre los objetivos que el usuario
+desea lograr, sino que también permiten la colaboración, inspiran soluciones creativas y generan impulso al brindarle al
+equipo una pequeña victoria cuando se desarrollan las historias.
+
+Al escribir historias de usuario, deberás incluir los siguientes componentes:
+
+Representación del usuario. ¿Cómo es tu usuario? ¿Cuál es su relación con el proyecto? ¿Qué objetivos tiene?
+
+Definición de Listo. Un conjunto acordado de elementos que deben completarse antes de que una historia de usuario pueda
+considerarse completa.
+
+Tareas. ¿Cuáles son las actividades clave necesarias para completar la historia de usuario?
+
+Cualquier retroalimentación ya proporcionada. Si estás agregando funciones a un producto existente y ya recibiste
+retroalimentación de los clientes sobre una iteración anterior, asegúrate de considerar esta retroalimentación.
+
+IINVEST
+
+Recuerda, las historias de usuario deben cumplir con los criterios INVEST:
+
+    Independent (Independiente): La finalización de la historia no depende de otra historia.
+
+    Negotiable (negociable): Hay lugar para el debate sobre este elemento.
+
+    Valuable (Valioso): Completar la historia de usuario tiene que aportar valor.
+
+    Estimable (Estimable): La Definición de Listo debe ser clara para que el equipo pueda dar una estimación a cada
+                           historia de usuario.
+
+    Small (Pequeño): Cada historia de usuario debe poder encajar dentro de un Sprint planificado.
+
+    Testable (Comprobable): Se puede realizar una prueba para comprobar que cumple los criterios.
+
+por ejemplo, imaginemos que estás trabajando en un proyecto para una biblioteca local:
+
+La biblioteca espera lanzar un sitio web para que los clientes puedan leer reseñas antes de sacar libros de la sucursal,
+La plantilla típica para una historia de usuario se ve así:
+
+       Como <rol de usuario> quiero esta <acción> para poder obtener este <valor>.
+
+Por lo tanto, una historia de usuario de ejemplo para esta situación podría decir:
+
+       Como lector ávido, quiero poder leer reseñas antes de sacar un libro de mi sucursal local para saber que estoy
+       recibiendo un libro que me interesa.
+
+- Epopeyas
+
+El propósito de una epopeya es ayudar a gestionar historias de usuario relacionadas entre sí. En esta
+[publicación]([https://](https://www.mountaingoatsoftware.com/blog/stories-epics-and-themes)) , Mike Cohn, el inventor del
+término "epopeya" en relación con Scrum, describe la epopeya como una "historia de usuario muy extensa", una que no se puede
+entregar en una sola iteración y es posible que deba dividirse en historias más breves.
+
+Los miembros del equipo deben discutir juntos y llegar a una visión compartida de cómo escribir y capturar sus historias
+de usuario y epopeyas. Ten en cuenta que las epopeyas son solo historias de usuarios más extensas que están ahí para ayudar
+a organizar el proyecto.
+
+Imaginemos que estás creando historias de usuario y epopeyas basadas en el ejemplo anterior. Las historias de usuario pueden
+incluir clientes que desean leer reseñas de libros en el sitio web o que desean agregar libros a su carrito. Estas historias
+de usuario podrían incluirse en la epopeya "creación de sitios web".
+
+Otra historia de usuario podría ser que los clientes quieran entrar a la biblioteca y encontrar fácilmente la sección de
+no ficción. Esto podría incluirse en la epopeya “organización del espacio físico”.
+
+Entonces, en lugar de que esas diversas historias de usuarios aparezcan juntas en una lista, están organizadas en secciones
+o epopeyas.
+
 #### Completar la historia de usuario/coincidir con los criterios de aceptación
 
 #### Crear una lista de producto en Asana
