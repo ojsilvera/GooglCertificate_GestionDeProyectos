@@ -1801,6 +1801,12 @@ Criterios de aceptación:
 
 #### Los componentes de historias de usuario y epopeyas
 
+Las historias de usuario son descripciones breves y sencillas de un producto contadas desde la perspectiva del usuario. La
+creación de historias de usuario ayuda al equipo a desarrollar una solución que siempre se centra en las necesidades y
+la experiencia general del usuario.
+
+Las epopeyas son una colección de historias de usuario.
+
 #### Completar la historia de usuario/coincidir con los criterios de aceptación
 
 #### Crear una lista de producto en Asana
