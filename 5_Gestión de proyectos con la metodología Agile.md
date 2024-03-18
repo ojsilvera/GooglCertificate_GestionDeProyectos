@@ -1423,6 +1423,33 @@ de una función diferente llamada un gerente de producto. Por lo tanto,cuando te
 descubrir cómo esa empresa aborda el área de definición de productos, desarrollo de requisitos e investigación de usuarios
 para comprender lo que consideran que está a cargo del gerente de proyectos.
 
+- El equipo de desarrollo
+
+El equipo de desarrollo, también denominado los desarrolladores, está conformado por las personas trabajan en construir
+el producto. De acuerdo con la Guía Scrum:
+
+    los desarrolladores son “las personas del equipo de Scrum que se comprometen a crear los aspectos de un incremento
+    usable en cada Sprint”.
+
+Sus responsabilidades incluyen lo siguiente:
+
+    Crear un plan para el Sprint, el Backlog del Sprint (el conjunto de elementos del Backlog del producto que se
+    seleccionan para completar durante el próximo Sprint)
+
+    Infundir calidad adhiriéndose a una Definición de hecho
+
+    Adaptar su plan cada día según el objetivo del Sprint
+
+    Rendirse cuentas unos a otros como profesionales
+
+    Ejecutar los sprint diseñando, creando y probando los elementos del Backlog del producto en incrementos
+
+Un aspecto importante del equipo de desarrollo que vale la pena destacar es que son multifuncionales, lo que significa
+que tendrá miembros del equipo especialistas en diferentes disciplinas. En un equipo de software, eso podría significar
+tener un desarrollador web, un desarrollador de bases de datos y un especialista en experiencia del usuario. En un equipo
+de marketing, eso podría significar tener escritores, editores, especialistas en optimización de motores de búsqueda y
+analistas de negocios.
+
 #### Características de un gran equipo de Scrum
 
 ## Implementacion de Scrum
