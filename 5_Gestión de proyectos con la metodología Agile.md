@@ -1668,7 +1668,92 @@ Beneficios del Product Backlog:
 
 #### Escribir historias de usuario
 
-En el último video, aprendiste sobre una lista de producto. Vimos que para crear correctamente la lista, el gerente de proyectos debe considerar factores como las descripciones, el valor, el orden y las estimaciones. Esto garantiza que tú, como gerente de proyectos, incluirás suficiente información para cumplir la visión del propietario del producto para el valor del usuario. Ahora que conoces los diversos campos asociados con cada elemento de la lista, analicemos una forma popular de capturar y administrar esos elementos de la lista, las historias de usuario. Las historias de usuario son descripciones breves y simples de una característica desde la perspectiva del usuario. Esto ayuda al equipo a crear una solución centrada siempre en el usuario y en la experiencia del usuario. Las historias de usuarios pueden comenzar grandes y amplias o pueden resumirse y ser tan breves o específicas como sea posible. En esta lección, te daremos algunas ideas sobre cómo escribir historias de usuario y cómo desglosarlas. Las historias de usuario constan de tres elementos diferentes: el usuario, la acción que realizará, y el beneficio para ellos. Estos elementos pueden tener varios formatos diferentes, pero el más común es "Como <user role>, quiero esta <acción> para poder obtener este <valor>". Para escribir historias de usuario efectivas, el equipo debe tener un usuario en mente. Imagina que el usuario interactuará con el producto para lograr un resultado específico. Lo que realmente me gusta hacer en esta etapa es crear perfiles o descripciones detalladas de los diferentes usuarios. A veces incluso les asigno nombres. En Virtual Verde, podemos asignar a nuestros usuarios nombres y algo de información sobre ellos. Aquí hay algunas ideas de perfiles de usuario. Leo es mi proveedor de plantas, gestiona la adquisición de las plantas, la cadena de suministro y la logística de entrega. Felicity es experta en jardinería y ayuda al equipo de atención al cliente a dar consejos realmente excelentes sobre cómo cuidar las plantas. Zach es mi horticultor aficionado, que quiere usar las plantas que compra para hacer la cena. Nia es consultora de gestión, trabaja desde casa y quiere establecer un telón de fondo profesional para videoconferencias en su oficina en casa. Reena es aficionada a las flores, quiere tener un arreglo floral diferente cada semana para alegrar su hogar. Al dar a estos usuarios un nombre y una historia de fondo, podemos imaginarlos y así diseñar mejores productos para ellos. Disfruté mucho escribiendo historias de usuario porque me pone en el lugar de los usuarios. Cada historia de usuario debe cumplir seis criterios diferentes, representados por las siglas INVEST, o invertir en inglés. I, por <i>independent</i> (independiente): la historia debe poder iniciar y terminar por su cuenta. No depende de otra historia para terminar. La N es por <i>negotiable</i> (negociable): hay espacio para la negociación y el debate sobre este elemento. La V es de <i>valuable</i> (valioso): esto significa que completar la historia de usuario tiene que aportar valor. La E es por <i>estimable</i> (estimable): nuestra Definición de Listo debe ser clara para que el equipo pueda asignar una estimación a cada historia de usuario. La S es por <i>small </i>(pequeño): cada historia de usuario debe entrar en un Sprint planificado. Si la historia de usuario es demasiado grande, se la debe dividir en historias más pequeñas. Las historias con prioridad baja en la lista pueden ser grandes hasta que se convierten en una prioridad para un próximo Sprint. Finalmente, la T es por <i>testable</i> (comprobable): se puede crear una prueba para comprobar y asegurar el cumplimiento de los criterios de aceptación. Mientras que el propietario del producto es el principal responsable de escribir historias de usuario, el equipo tiene la responsabilidad de aportar retroalimentación sobre la historia de usuario para garantizar la claridad y el cumplimiento de los criterios de inversión antes de invertir tiempo en ello. Además de las historias de usuario, necesitas conocer el término epopeya, que simplemente representa un grupo o una colección de historias de usuario. Algunos títulos de epopeya para Virtual Verde pueden ser la entrega de plantas vivas, el servicio de asesoramiento sobre plantas para oficinas, la gestión de proveedores o la gestión de datos de clientes. Ahora crearemos una historia de usuario de muestra para los clientes de Virtual Verde en el título de epopeya de entrega de plantas vivas. Como cliente de Virtual Verde, me gustaría adquirir un árbol bonsái para tener una hermosa planta y poder meditar mientras podo las ramas. Pensé en esto porque compré un árbol bonsái para mi sobrino de 12 años el año pasado. Investigó un poco y aprendió que en Japón, podar árboles bonsái es una práctica meditativa. Está aprendiendo a hacer eso. Con esa historia de usuario de muestra, el propietario del producto crea algo llamado criterios de aceptación, que es una lista de verificación que se usa para decidir si la historia de usuario está terminada. Para que la historia de usuario esté terminada, se debe cumplir la lista de verificación de criterios de aceptación. Este es un ejemplo de criterios de aceptación para la historia de usuario del árbol bonsái. Los usuarios pueden: Buscar tres tipos diferentes de árboles bonsái para comprar. Comparar los tres árboles para saber cuáles son más fáciles y más difíciles de cultivar en su hogar. Tal vez cada planta tiene un indicador de jardinero principiante, intermedio y avanzado junto a ella. Comprar paquetes específicos para el cuidado de árboles bonsái con fertilizante, tijeras de podar, etc. Acceder en línea a un cuadernillo de cuidados de bonsái, y a un folleto de cuidado empaquetado con el árbol. Encontrar una página de resolución de problemas de árboles bonsái en la página de preguntas frecuentes de Virtual Verde. Suena como una historia increíble, ¿no? Parece algo real que un usuario pueda interactuar con esto y emocionarse. Cada historia de usuario en la lista debe escribirse de esta manera. Es natural que los artículos que figuran primero en la lista de prioridades tengan más detalles y menos áreas grises. Al evitar las precisiones en los elementos de baja prioridad, se ahorra al equipo tiempo de trabajo en elementos que pueden terminar perdiendo prioridad más adelante. Fantástico. Ahora ya sabes cómo explicar las historias de usuario, los criterios de evaluación de la preparación de las historias de usuario para el equipo y puedes explicar los criterios de aceptación de títulos de epopeya e historias de usuario. En el siguiente video, discutiremos el refinamiento de la lista y explicaremos la estimación del esfuerzo relativo, las tallas de camisetas y los puntos de la historia. Nos vemos ahí.
+Para crear correctamente la lista, el gerente de proyectos debe considerar factores como las descripciones, el valor, el
+orden y las estimaciones. Esto garantiza que tú, como gerente de proyectos, incluirás suficiente información para cumplir
+la visión del propietario del producto para el valor del usuario. Una forma popular de capturar y administrar esos elementos
+de la lista, son las historias de usuario.
+
+*Las historias de usuario* son descripciones breves y simples de una característica desde la perspectiva del usuario. Esto
+ayuda al equipo a crear una solución centrada siempre en el usuario y en la experiencia del usuario. Las historias de
+usuarios pueden comenzar grandes y amplias o pueden resumirse y ser tan breves o específicas como sea posible.
+
+Las historias de usuario constan de tres elementos diferentes: el usuario, la acción que realizará, y el beneficio para
+ellos. Estos elementos pueden tener varios formatos diferentes, pero el más común es:
+
+    "Como (user role), quiero (la acción) para (como aporta valor la acion)".
+
+Para escribir historias de usuario efectivas, el equipo debe tener un usuario en mente. Imagina que el usuario interactuará
+con el producto para lograr un resultado específico, es sugerible hacer en esta etapa perfiles o descripciones detalladas
+de los diferentes usuarios.
+
+Por ejemplo: En Virtual Verde, podemos asignar a nuestros usuarios nombres y algo de información sobre ellos. Algunas ideas
+de perfiles de usuario.
+
+    Leo es mi proveedor de plantas, gestiona la adquisición de las plantas, la cadena de suministro y la logística de entrega.
+
+    Felicity es experta en jardinería y ayuda al equipo de atención al cliente a dar consejos realmente excelentes sobre
+    cómo cuidar las plantas.
+
+    Zach es mi horticultor aficionado, que quiere usar las plantas que compra para hacer la cena.
+
+    Nia es consultora de gestión, trabaja desde casa y quiere establecer un telón de fondo profesional para videoconferencia
+    en su oficina en casa.
+
+    Reena es aficionada a las flores, quiere tener un arreglo floral diferente cada semana para alegrar su hogar.
+
+Al dar a estos usuarios un nombre y una historia de fondo, podemos imaginarlos y así diseñar mejores productos para ellos.
+
+Cada historia de usuario debe cumplir seis criterios diferentes, representados por las siglas INVEST, o invertir en inglés:
+
+    La I es por: <i>independent</i> (independiente): la historia debe poder iniciar y terminar por su cuenta. No depende de
+                otra historia para terminar.
+
+    La N es por: <i>negotiable</i> (negociable): hay espacio para la negociación y el debate sobre este elemento.
+
+    La V es por: <i>valuable</i> (valioso): esto significa que completar la historia de usuario tiene que aportar valor.
+
+    La E es por: <i>estimable</i> (estimable): nuestra Definición de Listo debe ser clara para que el equipo pueda asignar
+                una estimación a cada historia de usuario.
+
+    La S es por: <i>small </i>(pequeño): cada historia de usuario debe entrar en un Sprint planificado. Si la historia de
+                usuario es demasiado grande, se la debe dividir en historias más  pequeñas. Las historias con prioridad
+                baja en la lista pueden ser grandes hasta que se convierten en una prioridad para un próximo Sprint.
+
+    La T es por <i>testable</i> (comprobable): se puede crear una prueba para comprobar y asegurar el cumplimiento de los
+                criterios de aceptación.
+
+Mientras que el propietario del producto es el principal responsable de escribir historias de usuario, el equipo tiene la
+responsabilidad de aportar retroalimentación sobre la historia de usuario para garantizar la claridad y el cumplimiento
+de los criterios de inversión antes de invertir tiempo en ello.
+
+Además de las historias de usuario, necesitas conocer el término epopeya, que simplemente representa un grupo o una
+colección de historias de usuario.
+
+Ahora crearemos una historia de usuario de muestra para los clientes de Virtual Verde:
+
+en el título de epopeya de entregade plantas vivas.
+Como cliente de Virtual Verde, me gustaría adquirir un árbol bonsái para tener una hermosa planta y poder meditar mientras
+podo las ramas.
+
+El propietario del producto crea algo llamado criterios de aceptación, que es una lista de verificación que se usa para
+decidir si la historia de usuario está terminada. Para que la historia de usuario esté terminada, se debe cumplir la lista
+de verificación de criterios de aceptación.
+
+Este es un ejemplo de criterios de aceptación para la historia de usuario del árbol bonsái. Los usuarios pueden:
+
+    Buscar tres tipos diferentes de árboles bonsái para comprar. Comparar los tres árboles para saber cuáles son más fáciles
+    y más difíciles de cultivar en su hogar. Tal vez cada planta tiene un indicador de jardinero principiante, intermedio
+    y avanzado junto a ella.
+
+    Comprar paquetes específicos para el cuidado de árboles bonsái con fertilizante, tijeras de podar, etc.
+
+    Acceder en línea a un cuadernillo de cuidados de bonsái, y a un folleto de cuidado empaquetado con el árbol.
+
+    Encontrar una página de resolución de problemas de árboles bonsái en la página de preguntas frecuentes de Virtual Verde.
+
+Cada historia de usuario en la lista debe escribirse de esta manera. Es natural que los artículos que figuran primero en
+la lista de prioridades tengan más detalles y menos áreas grises. Al evitar las precisiones en los elementos de baja prioridad,
+se ahorra al equipo tiempo de trabajo en elementos que pueden terminar perdiendo prioridad más adelante.
 
 En resumen:
 
