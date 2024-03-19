@@ -2191,6 +2191,73 @@ manera más efectiva y a asegurarte de que tienes los recursos necesarios para c
 
 #### Introducción al Sprint
 
+los Sprints, también llamados iteraciones, proporcionan todo el ritmo para el equipo y son uno de los cinco eventos de
+Scrum. Nos permiten obtener retroalimentación más rápido, fomentar la colaboración del equipo, y proporcionar más enfoque
+para los equipos de Scrum.
+
+Dentro de un Sprint, la cantidad de trabajo se planifica en función de la capacidad histórica del equipo y se prepara
+para el evento de Planificación de Sprint. Puede ser útil pensar en cada Sprint como un miniproyecto con planificación,
+ejecución, entrega, cierre y una retrospectiva en un pequeño paquete.
+
+Los Sprints son tan importantes para Scrum, que los otros cuatro eventos de Scrum giran en torno al Sprint. La Guía de
+Scrum define técnicamente cinco eventos:
+
+El propio Sprint, la planificación de Sprint, el Scrum diario, la revisión de Sprint y la retrospectiva de Sprint.
+
+Los bloques de tiempo son un concepto importante en Scrum. Algunos ejemplos de beneficios son el hecho de que crean un
+sentido de urgencia que impulsará la priorización, proporcionan una ventana de enfoque que mejora la productividad, y
+ayudan al equipo a desarrollar un ritmo predecible para su trabajo. El bloque de tiempo de un Sprint puede variar de una
+a cuatro semanas.
+
+¿Cómo eliges? Bueno, hay tres consideraciones:
+
+Primero, piensa cuál esperas que sea la frecuencia de los cambios. ¿Con qué frecuencia crees que podrían cambiar los requisitos?
+Si esperas que tu proyecto tenga nuevas solicitudes cada semana, es posible que desees que la duración del Sprint sea de
+una semana, para que puedas adaptarte más a menudo. Si las necesidades son más estables, tal vez más tiempo estará bien.
+
+En segundo lugar, piensa en cuánto tiempo de atención necesitan los desarrolladores de tu solución para construir un elemento
+de la lista. Si el esfuerzo de referencia para la mayoría de tus actividades requiere al menos una semana para crear algo
+valioso, entonces la longitud de tu Sprint debería ser de al menos dos semanas para que el equipo tenga tiempo de ejecutarlas
+sin sentirse presionados.
+
+Tercero, piensa en cuántos gastos generales se dedican a la entrega del producto. Si tu entregable o solución requiere una
+gran revisión con muchos interesados o pasa por un proceso riguroso de prueba y control de calidad que lleva varios días,
+debes tener eso en cuenta en la duración del Sprint y elegir un Sprint más extenso, por ejemplo, de tres o cuatro semanas
+en su lugar.
+
+Como la mayoría de las cosas en Scrum, no hay un enfoque único para todo. Si estableces una duración de Sprint y determinas
+que es demasiado extensa o demasiado corta después de algunos Sprints, siempre puedes cambiarla.
+
+Los Sprints son períodos de tiempo cortos (generalmente de 1 a 4 semanas) en los que los equipos de Scrum trabajan para
+completar una cantidad definida de trabajo. Son como miniproyectos dentro de un proyecto más grande.
+
+Beneficios de los Sprints:
+
+    Retroalimentación más rápida
+    Mayor colaboración en equipo
+    Enfoque mejorado
+
+Cómo elegir la duración del Sprint:
+
+Considera estos factores:
+
+    Frecuencia de cambios: ¿Con qué frecuencia cambian los requisitos?
+    Tiempo de desarrollo: ¿Cuánto tiempo necesitan los desarrolladores para completar un elemento del Backlog?
+    Gastos generales de entrega: ¿Cuánto tiempo lleva entregar el producto?
+
+Eventos de Scrum relacionados con los Sprints:
+
+    Sprint Planning: Planificación del trabajo para el Sprint.
+    Daily Scrum: Reunión diaria para discutir el progreso y los obstáculos.
+    Sprint Review: Revisión del trabajo completado al final del Sprint.
+    Sprint Retrospective: Reflexión sobre el Sprint y búsqueda de mejoras.
+
+Recuerda:
+
+    No existe una duración de Sprint única para todos.
+    Puedes ajustar la duración del Sprint según sea necesario.
+    Los Sprints son esenciales para el ritmo y el éxito de los equipos de Scrum.
+
 #### El Sprint: Descripción general de la guía de Scrum
 
 #### Planificación de Sprints
