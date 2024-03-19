@@ -2162,6 +2162,31 @@ Algunas mejoras recomendadas, independientemente de la técnica que utilices, in
 
 #### Actividad: Añadir estimación
 
+Asana es una herramienta de gestión de proyectos que te permite estimar el esfuerzo necesario para completar tareas. Esto
+puede ayudarte a planificar tu proyecto de manera más efectiva y a asegurarte de que tienes los recursos necesarios para
+completarlo a tiempo.
+
+Para estimar el esfuerzo en Asana, puedes utilizar el campo "Estimación". Este campo te permite asignar un valor numérico
+a cada tarea, que representa la cantidad de tiempo o esfuerzo que crees que se necesitará para completarla.
+
+Puedes utilizar cualquier escala que desees para tus estimaciones. Por ejemplo, puedes utilizar horas, días o puntos de
+historia. Lo importante es utilizar una escala que sea consistente en todo tu proyecto.
+
+Una vez que hayas estimado el esfuerzo para todas tus tareas, puedes utilizar Asana para generar un cronograma del
+proyecto. Esto te ayudará a visualizar la duración del proyecto y a identificar cualquier cuello de botella potencial.
+
+También puedes utilizar Asana para realizar un seguimiento del progreso de tu proyecto. A medida que completes tareas,
+puedes actualizar el campo "Estimación" para reflejar el esfuerzo real que se necesitó para completarlas. Esto te ayudará
+a identificar áreas donde puedes mejorar tus estimaciones en el futuro.
+
+Ejemplo
+
+Digamos que estás planificando un proyecto para lanzar un nuevo producto. Una de las tareas que necesitas completar es
+crear una campaña de marketing. Estimas que esta tarea requerirá 8 horas de esfuerzo.
+
+Puedes agregar esta estimación al campo "Estimación" de la tarea en Asana. Esto te ayudará a planificar tu proyecto de
+manera más efectiva y a asegurarte de que tienes los recursos necesarios para completarlo a tiempo.
+
 #### Añadir estimación en Asana
 
 ### Eventos de Scrum
