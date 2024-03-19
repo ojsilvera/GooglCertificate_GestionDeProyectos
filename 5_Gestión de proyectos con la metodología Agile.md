@@ -2294,6 +2294,71 @@ para cancelar el Sprint.
 
 #### Planificación de Sprints
 
+La planificación de Sprint, el primer evento dentro del Sprint que prepara a tu equipo para el éxito durante las siguientes
+una a cuatro semanas, dependiendo de la duración que elijas. Para la planificación de Sprint:
+
+Todo el equipo de Scrum se reúne para confirmar cuánta capacidad, es decir, tiempo y personas, están disponibles durante
+este Sprint.
+
+Identifican qué elementos de la lista se realizarán durante el Sprint. Esto se convierte en la lista del Sprint y, en última
+instancia, en el objetivo del Sprint.
+
+El Scrum Master debe facilitar la comunicación del equipo y responder las siguientes preguntas durante el evento:
+
+    ¿Quién está disponible durante este Sprint? ¿Hay vacaciones o conflictos que debamos conocer?
+    ¿Cuál ha sido nuestra velocidad media, es decir, cuántos puntos o elementos de la lista hemos podido completar en un solo
+    Sprint en el pasado?
+    ¿Qué puede y debe lograr el equipo en este próximo Sprint?
+    ¿Cuál es el objetivo final del Sprint?
+    ¿Cómo se hará el trabajo? A lo largo del Sprint,
+    ¿quién es responsable de cada tarea?
+
+La definición de Listo se refiere a un conjunto acordado de elementos que deben completarse antes de que la historia de
+usuario o el elemento de la lista pueda considerarse completo. Algunas cosas que pueden estar dentro de la definición de
+Listo son el código o la solución en sí, revisada por un grupo independiente de pares. El producto o la unidad pasa todos
+los requisitos de prueba, lo que podría incluir pruebas de seguridad o rendimiento. La documentación está completa. Se
+cumplen todos los criterios de aceptación de historias de usuario especificados por el propietario del producto.
+
+El propietario del producto acepta la historia de usuario. Esta lista no es exhaustiva y el equipo debe determinar los contenidos
+de esta lista y mejorarla según sea necesario.
+
+Un entregable clave del evento de planificación del Sprint es la lista de Sprint. La lista de Sprint es el conjunto de elementos
+de la lista de producto que se identifican para la finalización durante el próximo Sprint. En otras palabras, la lista de Sprint es un
+subconjunto de elementos de la lista de producto que intentarás terminar durante ese Sprint en particular.
+
+La meta del Sprint es el objetivo general que el equipo pretende lograr y ayuda al equipo a comprender el por qué del Sprint,
+Esto debe tomarse desde una perspectiva general de los elementos de la lista de Sprint. El beneficio de tener identificado
+un objetivo de Sprint más amplio ayuda al equipo a enfocarse en un objetivo de equipo más amplio, en lugar de separarlos
+en flujos de trabajo diferentes.
+
+En resumen:
+
+Sprint Planning
+
+Objetivo: Preparar al equipo para el próximo Sprint (1-4 semanas).
+
+Participantes: Todo el equipo Scrum
+
+Pasos:
+
+    Confirmar capacidad: Determinar quién está disponible y cualquier conflicto.
+    Revisar velocidad: Estimar cuántos elementos del Backlog se pueden completar en el Sprint.
+    Identificar elementos del Backlog: Seleccionar los elementos del Backlog que se completarán en el Sprint.
+    Crear el Sprint Backlog: Subconjunto de elementos del Backlog para el Sprint.
+    Definir el objetivo del Sprint: Objetivo general que el equipo quiere lograr.
+    Asignar tareas: Determinar quién es responsable de cada tarea.
+
+Definición de Hecho:
+
+    Criterios acordados que deben cumplirse antes de considerar un elemento del Backlog como completo.
+
+Puede incluir:
+
+    Revisión del código por pares
+    Aprobación de pruebas
+    Documentación completa
+    Aceptación del propietario del producto
+
 #### Crear y administrar Sprints en Asana
 
 #### El scrum diario y la revisión de Sprint
