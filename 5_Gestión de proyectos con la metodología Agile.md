@@ -2813,6 +2813,11 @@ También es posible que quieras una herramienta para crear presentaciones, ya se
 Estas herramientas de presentación se utilizan todo el tiempo para, obviamente, presentar información al equipo.
 
 Por último, dado que es Agile, valoramos a las personas y las interacciones, por lo que resulta esencial contar con excelentes
-herramientas de colaboración y comunicación. Los tipos de colaboración que experimentarás en un equipo de Scrum son videoconferencias, chats en línea individuales y en equipo, y correos electrónicos. Estas herramientas darán como resultado grandes mejoras en la productividad del equipo. Permiten que los compañeros de equipo se comuniquen de manera más efectiva, obtengan respuestas más rápidas y superen los obstáculos mucho antes del Scrum diario del día siguiente. Hay tantas aplicaciones útiles para ayudar a que los equipos de Scrum mantengan la deseada transparencia entre los miembros del equipo. En Scrum, deciden qué usar juntos. Ya casi llegas al final del módulo. En el siguiente video, revisaremos y concluiremos lo que has aprendido hasta ahora.
+herramientas de colaboración y comunicación. Los tipos de colaboración que experimentarás en un equipo de Scrum son
+videoconferencias, chats en línea individuales y en equipo, y correos electrónicos. Estas herramientas darán como resultado
+grandes mejoras en la productividad del equipo. Permiten que los compañeros de equipo se comuniquen de manera más efectiva,
+obtengan respuestas más rápidas y superen los obstáculos mucho antes del Scrum diario del día siguiente. Hay tantas aplicaciones
+útiles para ayudar a que los equipos de Scrum mantengan la deseada transparencia entre los miembros del equipo. En Scrum,
+deciden qué usar juntos.
 
-### Aplicar la metodologia Agile en la organizacion
+## Aplicar la metodologia Agile en la organizacion
