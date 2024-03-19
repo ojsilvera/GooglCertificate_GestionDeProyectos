@@ -2971,9 +2971,147 @@ Mientras lees, pregúntate:
 
 #### Camron: Cómo Agile puede generar valor
 
+Agile es un enfoque de gestión de proyectos que se centra en la flexibilidad, la colaboración y la entrega incremental. Se
+basa en la idea de que los requisitos cambian con frecuencia y que es mejor adaptarse a estos cambios que intentar predecirlos
+y planificarlos con anticipación.
+
+Beneficios de Agile:
+
+    Flexibilidad: Permite realizar cambios fácilmente a medida que avanza el proyecto.
+    Colaboración: Fomenta la colaboración entre los miembros del equipo y las partes interesadas.
+    Entrega incremental: Permite entregar valor al cliente de forma regular, en lugar de esperar hasta el final del proyecto.
+
+Principios clave de Agile:
+
+    Iterativo: El proyecto se divide en iteraciones cortas, cada una de las cuales produce un incremento de valor.
+    Incremental: El valor se entrega al cliente en incrementos pequeños y regulares.
+    Adaptativo: El proyecto se adapta a los cambios en los requisitos y las circunstancias.
+    Colaborativo: Los miembros del equipo y las partes interesadas trabajan juntos para lograr los objetivos del proyecto.
+
+Términos clave de Agile:
+
+    Sprint: Una iteración corta, generalmente de 1 a 4 semanas.
+    Scrum: Un marco Agile popular que utiliza sprints y otros elementos.
+    Kanban: Un sistema de gestión visual que ayuda a rastrear el progreso del proyecto.
+
+Ejemplos de Agile en la vida real:
+
+    Desarrollo de software: Los equipos de desarrollo de software utilizan Agile para crear y entregar software de forma
+    iterativa e incremental.
+
+    Gestión de proyectos: Los gerentes de proyectos utilizan Agile para gestionar proyectos de forma flexible y adaptable.
+
+    Marketing: Los equipos de marketing utilizan Agile para desarrollar y ejecutar campañas de marketing de forma iterativa
+    y colaborativa.
+
 #### Componentes de una hoja de ruta de valor
 
+Como gerente de proyectos, parte de tu trabajo es ayudar al equipo a mantenerse enfocado en el valor de la entrega. Una
+excelente manera de hacer esto es crear una hoja de ruta de valor. Es una forma Agile de definir los plazos y los requisitos
+para el proceso de desarrollo de productos, y se puede utilizar en todo tipo de negocios. Esta hoja de ruta es una guía
+que muestra adónde ir, cómo llegar y qué lograr en el proceso para maximizar el valor. Ayuda a trazar una idea de producto
+y definir la estrategia de entrega. A medida que el equipo sigue su hoja de ruta, recopila información de los clientes e
+interesados, y aplica sus conclusiones a cada iteración del producto. Crear una hoja de ruta ayuda al equipo a explicar la
+visión del producto y también se puede utilizar para identificar hitos importantes.
+
+Una hoja de ruta de valor típica tiene tres componentes:
+
+    visión del producto, hoja de ruta del producto y planes de lanzamiento.
+
+El primer componente de una hoja de ruta de valor es la visión del producto. La visión del producto es un paso crítico
+para comenzar cualquier nuevo proyecto de Scrum. Tu visión se basa en tus entrevistas con los usuarios y el análisis de mercado
+y se convierte en el norte de tu equipo. En otras palabras, es lo que guía a tu equipo. La visión del producto define qué
+es el producto, cómo apoya la estrategia comercial del cliente y quiénes la usarán.
+
+A continuación, está la hoja de ruta del producto. El propietario del producto es responsable de crearla y mantenerla,
+Proporciona una vista de alto nivel del producto esperado, sus requisitos y un cronograma estimado para alcanzar hitos,
+Es clave para asegurarte de que tu equipo esté desarrollando lo correcto.
+
+El tercer componente de una hoja de ruta de valor es una serie de planes de lanzamiento. El propietario del producto y el
+gerente de proyectos trabajan juntos para desarrollar estos planes. Los lanzamientos de productos ocurren cuando el equipo
+ha desarrollado una versión funcional básica de una determinada característica o requisito.
+
+Un plan de lanzamiento incluye la fecha aproximada en la que se espera que el equipo lance y entregue ciertas funcionalidades
+al cliente o usuario. Un equipo Agile puede tener varios lanzamientos en el transcurso de un proyecto hasta que su proyecto
+se da por terminado. Por esta razón, solo la primera fecha de lanzamiento debe considerarse inamovible. El resto del plan
+de lanzamiento se basa en estimaciones preliminares y está sujeto a cambios a medida que avanza el proyecto.
+
+Un plan de lanzamiento contiene un objetivo de lanzamiento, que es un objetivo comercial general para las funcionalidades
+que planeas incluir en el lanzamiento; la lista de elementos del Backlog, como epopeyas, historias de usuario o funcionalidades
+que necesitas para ese objetivo de lanzamiento; una fecha estimada de lanzamiento; y cualquier otra fecha relevante que
+afecte al lanzamiento, como una convención o feriado importante.
+
+Es importante agregar todos tus planes de lanzamiento a tu hoja de ruta de valor para mantenerte enfocado en el camino
+hacia tu objetivo de valor general.
+
+En resumen, la hoja de ruta de valor contiene tres componentes clave: la visión del producto, la hoja de ruta del producto
+y el plan de lanzamiento. Estos tres operan juntos para ayudar a un equipo de Agile a alcanzar sus objetivos tras varias
+iteraciones. Una hoja de ruta de valor solo funciona si el equipo es colaborativo y todos los interesados trabajan juntos
+con regularidad. Esto asegurará que el proyecto logre resultados alineados con los valores y principios de Agile.
+
 #### Hojas de ruta de producto: Beneficios, trampas y prácticas recomendadas
+
+Es posible que veas diferentes tipos de hojas de ruta a medida que continúas con tu carrera de gestión de proyectos. Cada
+equipo o empresa puede interpretar la hoja de ruta de forma ligeramente diferente. Estos son algunos de los diversos tipos:
+
+    Hoja de ruta de proyecto
+
+    Hoja de ruta de producto
+
+    Hoja de ruta de valor
+
+    Hoja de ruta Lean
+
+    Hoja de ruta Agile
+
+Las hojas de ruta a menudo se representan visualmente y muchas intentan ajustar la hoja de ruta en una página para que los
+revisores puedan notar el panorama general de la línea de tiempo del producto.
+
+![alt text](image-32.png)
+
+Los beneficios de desarrollar y mantener una hoja de ruta del producto son numerosos:
+
+    Aclarar la secuencia de entregables.
+
+    Mostrar a los equipos cómo se relacionan sus esfuerzos con la visión de la estrella polar. En otras palabras, su objetivo
+    final.
+
+    Mostrar a los interesados el valor incremental que se logrará a lo largo del proyecto (en lugar de revisarlo como una
+    gran entrega al final)
+
+    Ayudar a los interesados a comprender aproximadamente el diseño del trabajo detrás del entregable
+
+También hay algunas trampas en torno a las hojas de ruta que se deben evitar:
+
+    Permitir que los interesados piensen que la hoja de ruta está establecida y es inalterable. Esto puede hacer que los
+    interesados impidan la capacidad de los equipos para adaptarse en respuesta a la nueva información, así como ejercer
+    mucha presión sobre los equipos para cumplir con los plazos sin importar lo que cueste.
+
+    Dedicar demasiado tiempo a ajustar las fechas de entrega en lugar de mantenerlas aproximadas y mejorar la especificidad
+    a medida que se acercan las fechas
+
+    Poner todo el esfuerzo en la creación de la hoja de ruta en lugar de producir los entregables
+
+Estas son algunas de las prácticas recomendadas para ayudarte a aprovechar al máximo tus hojas de ruta:
+
+    Hacer que la hoja de ruta sea muy visible para el equipo y consultarla con frecuencia.
+
+    Indicar claramente los elementos de mayor prioridad.
+
+    Si es posible, indicar con claridad los artículos de mayor valor.
+
+    Hazlo visible para tu grupo más amplio de interesados a fin de que puedan usarlo para su planificación.
+
+    Realiza revisiones periódicas de la hoja de ruta con los patrocinadores, los interesados y el equipo para asegurarte
+    de que todavía proporciona el plan para el proyecto.
+
+Conclusión clave
+
+Las hojas de ruta son importantes para cualquier proyecto bien administrado, pero son especialmente útiles para los equipos
+Agile. Tener una hoja de ruta compartida sobre lo que el equipo está entregando durante un período de tiempo más largo es
+una forma importante de conectar el trabajo que el equipo hace en los sprints con la visión más amplia del proyecto. Esto
+ayuda al equipo a mantenerse motivado en los momentos difíciles y conduce a una gran sensación de logro a medida que se
+consiguen los resultados de la hoja de ruta.
 
 #### Crear una hoja de ruta efectiva
 
