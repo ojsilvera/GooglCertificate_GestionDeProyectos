@@ -2561,6 +2561,62 @@ Beneficios de las retrospectivas de Sprint:
 
 #### Retrospectivas de Sprints: Dificultades y prácticas recomendadas
 
+Las retrospectivas son talleres o reuniones que dan tiempo a los equipos de proyecto para reflexionar sobre un proyecto y
+hacer una tormenta de ideas sobre posibles mejoras futuras. En el framework de Scrum, las retrospectivas de Sprint ocurren
+al final de cada Sprint, que suele ser cada una a cuatro semanas.
+
+Las retrospectivas de Sprint son una práctica clave que respalda la teoría y los valores de Scrum. Son un momento crítico
+para inspeccionar y adaptarse a los resultados producidos dentro del bloque de tiempo del Sprint. Las retrospectivas ocurren
+con mucha más frecuencia en Scrum que en la gestión de proyectos tradicional, por lo que es importante tener en cuenta
+algunas de las mejores prácticas y las dificultades que se deben evitar para ayudar a que sean atractivas y productivas
+para todo el equipo.
+
+*Dificultades:*
+
+Evitar usar demasiados trucos. Hay muchos juegos y ejercicios divertidos que un Scrum Master puede usar al facilitar una
+retrospectiva de Sprint. Sin embargo, no todos los equipos disfrutan de este estilo. Considere usar estos ejercicios solo
+ocasionalmente o cuando el equipo solicite nuevas formas de hacer retrospectivas.
+
+Intentar no centrarse solo en lo negativo. No solo es necesario que el equipo reconozca lo que no funciona bien, sino que
+también es importante resaltar dónde superó las expectativas. Esto asegura que el equipo evite fallas y también repita los
+éxitos.
+
+Evitar cambiar los procesos después de cada retrospectiva. Está bien mantener un nuevo proceso durante algunos Sprints
+antes de decidir si fue útil o no. Siempre puedes tomar nota de las oportunidades de cambio, pero intenta esperar algunos
+Sprints antes de implementar nuevos cambios.
+
+*Prácticas recomendadas:*
+
+Hacer preguntas abiertas de sondeo. Haz preguntas que requieran una discusión reflexiva en lugar de una respuesta afirmativa
+o negativa. Por ejemplo, pregunta:
+
+    "¿Cómo podríamos haber logrado mejor nuestro objetivo de Sprint?" en lugar de "¿Logramos el objetivo de Sprint?"
+
+Considerar diversos estilos de comunicación y participación. Facilita la participación de todos los miembros del equipo
+para que puedan contribuir con sus ideas y comentarios. Por ejemplo:
+
+    No todos se sienten cómodos hablando en un grupo grande.
+
+        Intenta cosas como comenzar la retrospectiva con una reflexión silenciosa escribiendo un diario o poniendo al
+        equipo en parejas antes de comenzar una conversación de grupo más grande.
+
+    Cubrir los muchos aspectos del Sprint al realizar una retrospectiva.
+
+        La productividad y eficiencia del equipo.
+
+        El alcance y la comprensión de la definición de listo.
+
+        La comunicación y las interacciones dentro del equipo.
+
+        La comunicación con los interesados.
+
+        El progreso hacia más planes de lanzamiento a largo plazo.
+
+    Considerar reflexionar periódicamente sobre la teoría y los valores de Scrum haciendo preguntas específicas.
+    
+        Por ejemplo, pregunta: "¿Cómo podría el equipo volverse más transparente?" o "¿Cómo cumplimos con nuestros valores
+        de Scrum en este Sprint?"
+
 ### Herramientas de Scrum
 
 ## Aplicar la metodologia Agile en la organizacion
