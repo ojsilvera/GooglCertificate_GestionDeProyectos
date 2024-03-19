@@ -2187,9 +2187,25 @@ crear una campaña de marketing. Estimas que esta tarea requerirá 8 horas de es
 Puedes agregar esta estimación al campo "Estimación" de la tarea en Asana. Esto te ayudará a planificar tu proyecto de
 manera más efectiva y a asegurarte de que tienes los recursos necesarios para completarlo a tiempo.
 
-#### Añadir estimación en Asana
-
 ### Eventos de Scrum
+
+#### Introducción al Sprint
+
+#### El Sprint: Descripción general de la guía de Scrum
+
+#### Planificación de Sprints
+
+#### Crear y administrar Sprints en Asana
+
+#### El scrum diario y la revisión de Sprint
+
+#### Sarah: Los beneficios de una reunión breve diaria
+
+#### Incremento publicable vs. producto mínimo viable
+
+#### La retrospectiva de Sprint
+
+#### Retrospectivas de Sprints: Dificultades y prácticas recomendadas
 
 ### Herramientas de Scrum
 
