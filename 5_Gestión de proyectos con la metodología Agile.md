@@ -2619,4 +2619,12 @@ para que puedan contribuir con sus ideas y comentarios. Por ejemplo:
 
 ### Herramientas de Scrum
 
+#### 12 principios del Manifiesto de la metodología Agiles
+
+#### Interpretando la velocidad: Recomendaciones y restricciones12 principios del Manifiesto de la metodología Agile
+
+#### Uso de tableros Kanban12 principios del Manifiesto de la metodología Agile
+
+#### Herramientas para la transparencia y la colaboración12 principios del Manifiesto de la metodología Agile
+
 ## Aplicar la metodologia Agile en la organizacion
