@@ -2687,8 +2687,132 @@ Beneficios de una velocidad estable:
 
 #### Interpretando la velocidad: Recomendaciones y restricciones12 principios del Manifiesto de la metodología Agile
 
+La velocidad se establece como "La medida de cuántos puntos completa el equipo en promedio en un Sprint determinado". La
+velocidad mide la cantidad de trabajo que se espera que complete un solo equipo durante una iteración. Cuando nos referimos
+a los puntos de historia, nos referimos a una unidad de medida que expresa el esfuerzo estimado requerido para implementar
+ese elemento de la lista de producto. Estos puntos de la historia son calibrados y decididos por el equipo.
+
+- Cálculo de la velocidad
+
+la estimación del esfuerzo se puede hacer en una variedad de unidades. La mayoría de las veces, en los equipos de Agile,
+se utilizan puntos de historia o tallas de camisetas para estimar el esfuerzo. Si usas tallas de camiseta, tu equipo
+asignará esas tallas a un valor numérico con el fin de calcular la velocidad del equipo.
+
+Cuando tu equipo comience a ejecutar Sprints o iteraciones, no podrán determinar con precisión la velocidad porque no
+tendrán una base histórica sobre la cual calcular una cantidad promedio de puntos completados en un Sprint. En su primer
+Sprint, tu equipo hará una estimación aproximada de cuántos elementos pueden completar solo para comenzar. Una vez que se
+hayan completado algunos Sprints, tu equipo tendrá una buena medida de su velocidad y usarán ese número para determinar
+qué elementos incluir en la lista del Sprint. Esto debería ser fácil de hacer si tu equipo tiene una lista correctamente
+priorizada y estimada sobre la cual trabajar. este proceso se denomina refinamiento de la lista.
+
+- Buen uso de la velocidad
+
+Al interpretar la velocidad, es importante tener en cuenta algunas cosas. Puedes sentirte inclinado a compartir la velocidad
+con miembros fuera de tu equipo o usar la velocidad como una métrica de rendimiento o comparación. También puedes sentirte
+inclinado a usarla para determinar una fecha de entrega proyectada. Sin embargo, algunos expertos de Agile advierten sobre
+estas prácticas.
+
+- Recomendación: Ten cuidado al compartir la velocidad con interesados externos
+
+La velocidad puede ser útil para personas ajenas al equipo de Scrum, pero ten mucho cuidado al compartirla con personas
+que no sean miembros del equipo. Dado que la velocidad es diferente para cada equipo, es posible que un interesado no tenga
+suficiente contexto para interpretarla. Asegúrate de compartir los materiales de apoyo relevantes para agregar contexto. Un
+buen ejemplo de esto es compartir la velocidad con un intervalo de fechas correspondiente y una visualización que indique
+las tendencias en el tiempo. Puede haber caídas y picos en la velocidad que aporten información y fomenten las mejoras en
+proyectos futuros.
+
+- Restricción: No uses la velocidad como una métrica de rendimiento
+
+Es lógico que las personas quieran cuantificar el rendimiento a través de los datos, pero puede ser perjudicial para un
+equipo sentir ese tipo de presión durante los Sprints. Puede haber ejecutivos, patrocinadores o interesados que deseen
+utilizar la velocidad como medida de rendimiento, pero esto solo perjudicará al equipo al fomentar tácticas como la
+intimidación. Si al equipo le preocupa que su velocidad haga parecer que su rendimiento es bajo, la cultura del equipo puede
+verse perjudicada como resultado.
+
+- Restricción: No uses la velocidad como métrica de comparación
+
+Si lideras varios equipos de Scrum diferentes, puedes verte tentado a comparar la productividad de los dos equipos en
+función de su velocidad. Puedes tener el impulso de verificar qué equipos están completando la mayor cantidad de puntos de
+historia por iteración. Sin embargo, la ponderación de los diferentes puntos de historia es subjetiva porque es establecida
+por el equipo. Un equipo puede considerar que una historia vale cinco puntos, pero otro equipo puede considerar que está
+más cerca de los tres puntos. Por lo tanto, juzgar la productividad únicamente en función de la velocidad no es exacto ni
+justo. Además, la velocidad no es una medida de valor. La velocidad de un equipo puede diferir de la de otro equipo, pero
+esta variabilidad está bien siempre que ambos equipos brinden valor a los interesados.
+
+- Recomendación: Procede con precaución al usar la velocidad como métrica para la fecha de entrega del proyecto
+
+Usar la velocidad para estimar la fecha de entrega de un proyecto que abarca numerosos Sprints puede ser complicado. Los
+interesados externos que desean establecer una fecha para el lanzamiento de un producto pueden utilizar la velocidad como
+un punto para ejercer presión. La velocidad también puede crear falsas expectativas y una cultura duramente competitiva
+cuando el equipo no cumple con las fechas estimadas. Proyectar fechas de entrega es perjudicial porque un equipo puede
+tardar varios Sprints en comprender realmente lo que son capaces de entregar en cada iteración. Además, si asignas demasiadas
+fechas con anticipación, no podrás tener en cuenta los cambios ni los problemas que surgirán. Por lo tanto, asegúrate de
+tener cuidado de no utilizar las fechas de entrega estimadas como compromisos.
+
 #### Uso de tableros Kanban12 principios del Manifiesto de la metodología Agile
+
+El tablero Kanban. Algunos equipos se refieren a esto como el tablero Scrum en vez del tablero Kanban. Si bien los dos
+tienen diferencias menores, se refieren a la misma herramienta básica. La Guía de Scrum no especifica exactamente qué es
+un tablero Scrum, pero algunas herramientas de Scrum disponibles en el mercado proporcionan un tablero que agrega algunas
+funciones al tablero Kanban. Estas funciones hacen que sea adecuado específicamente para Scrum. Ambos tableros tienen tres
+funciones principales que los convierten en una excelente herramienta de seguimiento de Sprint para los equipos de Scrum.
+
+Hay visualización, límites de trabajo en curso (también conocidos como límites WIP) y flujo de trabajo. La visualización
+puede ser una estrategia importante para el aprendizaje y el seguimiento. Este tablero Kanban comunica todo lo que necesitamos
+saber de un vistazo. Podemos señalar elementos de trabajo específicos en el tablero que queremos discutir, usar imágenes
+con variaciones, colores y tamaños a medida que verificamos los elementos de trabajo, y podemos distinguir dónde se encuentran
+los desafíos en nuestro equipo. Sin esta visualización, no es tan fácil averiguar dónde podemos hacer mejoras. Con estos
+tableros es más fácil ver dónde se rompen los límites de WIP. los límites WIP comunes son restricciones sobre la cantidad
+de elementos de trabajo con los que trabaja activamente el equipo en un momento dado. Esto permite que el equipo se enfoque,
+y aplique uno de los valores de Scrum. ¿Has escuchado la idea de que no existe la multitarea? En Scrum, puede ser muy cierto,
+Y cuanto más trabajo tengas, menos eficiente puedes llegar a ser.
+
+Cuando usas un tablero Kanban o Scrum, cada equipo puede establecer un límite WIP en función de su configuración y contexto,
+De esta manera, es realmente obvio notar cuando el equipo excede el límite de WIP.
+
+Finalmente, usar un tablero Kanban puede darte una mejor idea del flujo de trabajo a través de los procesos de ejecución
+del equipo. Las notas adhesivas físicas o incluso las versiones virtuales de los tableros Kanban o Scrum permiten que el
+equipo experimente el movimiento del trabajo de una fase a otra. Cuando usas un tablero Kanban o Scrum, el equipo pasará
+los elementos por las siguientes etapas: pendiente, en proceso y finalizado. Esta acción a menudo se produce durante el
+Scrum diario, pero el equipo puede mover elementos en cualquier momento.
+
+Entonces, para recapitular, los tableros Kanban y Scrum son realmente útiles porque ayudan a visualizar tu progreso,
+a establecer y mantener la carga de trabajo del equipo y los límites de WIP, y a darte una idea del flujo de trabajo
+durante el proceso de ejecución del equipo.
 
 #### Herramientas para la transparencia y la colaboración12 principios del Manifiesto de la metodología Agile
 
-## Aplicar la metodologia Agile en la organizacion
+A modo de repaso, uno de los pilares de Scrum es la transparencia. Por lo tanto, el éxito de un equipo de Scrum depende
+mucho de la transparencia dentro del equipo, y las herramientas ayudan a todos a estar completamente al tanto del progreso
+y las actualizaciones.
+
+Estas herramientas se utilizarán para almacenar la lista de producto, la lista de Sprint y cualquier otra documentación
+esencial. El uso de las herramientas de Scrum ayudará a tu equipo a mantener organizado todo el progreso en un lugar
+centralizado. hemos oído hablar de las herramientas de programación y gestión del trabajo, de colaboración y productividad,
+Ahora revisemos esas herramientas desde la perspectiva de un equipo de Scrum.
+
+Las herramientas de programación y gestión del trabajo. En la gestión de proyectos tradicional, las aplicaciones como
+Microsoft Project brindan un calendario muy útil y capacidades de gestión de recursos. Sin embargo, en un equipo de Scrum,
+la herramienta más crítica que necesitarás es algo para administrar la lista y los Sprints. Jira de Atlassian es una popular
+herramienta de gestión de proyectos de equipos de Agile y es compatible con todos los aspectos de la gestión de equipos y
+trabajos pendientes. Se puede personalizar para tu equipo y te proporcionará un lugar centralizado para encontrar todo lo
+relacionado con tu equipo de Scrum, tu lista de producto, tus definiciones de Sprint, tu velocidad, tus diagramas de trabajo
+pendiente y mucho más. Además de Jira, hay otras herramientas en el mercado que tu equipo puede comprar y que proporcionan
+capacidades similares. Algunos equipos desarrollan sus propias herramientas de Agile dentro de las hojas de cálculo. Cuando
+llega el momento de elegir una herramienta, la mayoría de estas herramientas pueden usarse por un período de prueba gratuito
+antes de hacer una elección permanente. Si buscas algo simple y divertido para probar, Kanban de Trello, Asana es otra herramienta.
+
+Estas aplicaciones están diseñadas específicamente para ayudar a un equipo a administrar una lista y sus Sprints, pero hay
+muchas actividades que estos productos no pueden realizar. Para esto se necesitan herramientas adicionales para la documentación,
+la colaboración y la productividad. Querrás usar algún tipo de herramienta de documentación o procesamiento de textos. Esto
+asegura la captura de información clave sobre el proyecto en un formato extendido. Muchos productos de este espacio ofrecen
+documentación y colaboración, todo en una sola herramienta. Google Docs es un gran ejemplo de esto, pero no es el único,
+Las hojas de cálculo, como Microsoft Excel o Google Sheets, son útiles para la mayoría de los equipos. Puedes usar hojas
+de cálculo para capturar listas e información del elemento de la lista o cualquier otro tipo de información para tu proyecto,
+También es posible que quieras una herramienta para crear presentaciones, ya sea Google Slides o el equivalente de Microsoft,
+Estas herramientas de presentación se utilizan todo el tiempo para, obviamente, presentar información al equipo.
+
+Por último, dado que es Agile, valoramos a las personas y las interacciones, por lo que resulta esencial contar con excelentes
+herramientas de colaboración y comunicación. Los tipos de colaboración que experimentarás en un equipo de Scrum son videoconferencias, chats en línea individuales y en equipo, y correos electrónicos. Estas herramientas darán como resultado grandes mejoras en la productividad del equipo. Permiten que los compañeros de equipo se comuniquen de manera más efectiva, obtengan respuestas más rápidas y superen los obstáculos mucho antes del Scrum diario del día siguiente. Hay tantas aplicaciones útiles para ayudar a que los equipos de Scrum mantengan la deseada transparencia entre los miembros del equipo. En Scrum, deciden qué usar juntos. Ya casi llegas al final del módulo. En el siguiente video, revisaremos y concluiremos lo que has aprendido hasta ahora.
+
+### Aplicar la metodologia Agile en la organizacion
