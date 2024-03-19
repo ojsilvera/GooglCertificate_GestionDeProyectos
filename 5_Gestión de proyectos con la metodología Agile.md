@@ -2826,7 +2826,48 @@ deciden qué usar juntos.
 
 #### Introducción: Aplicar la metodología Agile en la organización
 
+Los aspectos básicos de la metodología Agile
+
+    Agile es una forma de gestionar proyectos que se centra en la colaboración, la flexibilidad y la entrega rápida de
+    valor.
+
+    Se basa en el principio de que los requisitos cambian con frecuencia y que es mejor adaptarse a estos cambios que
+    intentar predecirlos.
+
+    Agile se divide en varios marcos, como Scrum y Kanban, cada uno con sus propias prácticas y herramientas específicas.
+
+Scrum 101
+
+    Scrum es un marco Agile que se utiliza para gestionar proyectos complejos.
+
+    Se basa en el concepto de Sprints, que son períodos de tiempo cortos (normalmente de 1 a 4 semanas) durante los cuales
+    el equipo trabaja para completar un conjunto específico de objetivos.
+
+    Scrum utiliza varios roles, como el Product Owner, el Scrum Master y el Equipo de Desarrollo, cada uno con responsabilidades
+    específicas.
+
+Implementación de Scrum
+
+Para implementar Scrum, es necesario seguir una serie de pasos, como:
+
+    Definir el Product Backlog, que es una lista de todas las características y funcionalidades que se deben desarrollar.
+    Crear Sprints y planificar el trabajo para cada Sprint.
+    Realizar reuniones diarias para realizar un seguimiento del progreso y abordar cualquier problema.
+    Revisar y adaptar el proceso de Scrum según sea necesario.
+
+Aplicar la metodología Agile en la organización
+
+    Agile se puede aplicar a una variedad de organizaciones, independientemente de su tamaño o industria.
+
+    Para aplicar Agile con éxito, es importante contar con el apoyo de la alta dirección y crear una cultura de colaboración
+    y mejora continua.
+
+    Agile puede ayudar a las organizaciones a ser más receptivas a los cambios, entregar valor más rápidamente y mejorar
+    la satisfacción del cliente.
+
 #### Maximizar la entrega impulsada por el valor
+
+Hola de nuevo. Anteriormente, aprendiste a implementar de manera efectiva Scrum para que tú y tu equipo puedan ofrecer productos sorprendentes a los usuarios. En este video, exploraremos el resultado de un proyecto y el producto final que finalmente entregarás, que es lo que tiene valor para el usuario y el cliente. Definiré el término valor en relación con la gestión de proyectos. Luego, compartiré algunas estrategias y tácticas que puedes emplear para maximizar el valor que ofrece tu equipo. El producto final de un proyecto es lo que aporta valor al usuario. El valor podría ser beneficios financieros, crecimiento y la participación de los usuarios, o la adherencia al cumplimiento. El término "valor" puede significar diferentes cosas para cada cliente en función de lo que esperan que el producto logre. El principio Agile número uno es satisfacer al cliente mediante la entrega de software valioso. Puedes reemplazar el término “software” con las palabras “producto” o “solución” para proyectos no relacionados con el software. Entregar valor rápido y con la mayor eficiencia posible a los usuarios es la razón principal por la que se desarrolló Agile. El término "entrega impulsada por el valor" significa que tú y tu equipo están enfocados en entregar un producto de alto valor. Solo porque entregas un producto, eso no significa que sea valioso. Como expliqué durante la descripción general de la historia de Agile, había un problema creciente de equipos de proyecto que fabricaban productos que no eran muy valiosos. Esto se debe a que los equipos se centraron en el proceso y no se tomaban el tiempo para evaluar la utilidad del producto hasta el final, después de haber sido entregado. Agile redirige el enfoque del equipo para que esté puesto en el producto y asegura que el proceso de producción del producto apoye el objetivo de entregar valor. ¿Cómo puedes asegurarte de que tu equipo esté centrado en la entrega impulsada por el valor? Desarrollar lo correcto y ejecutarlo bien. Recuerda que Agile y Scrum surgieron de la industria del software. Los términos "desarrollar" y "ejecutar" describen procesos para crear o ejecutar un programa de software, máquina u otra tecnología. Puedes reemplazar las palabras "desarrollar" y "ejecutar" por términos como "crear", "producir" o "entregar" para proyectos que no son de software a fin de describir el mismo concepto. Desglosemos eso. En primer lugar, para ofrecer valor, tienes que desarrollar lo correcto. Para estar seguro, debes entender realmente lo que quieren tus clientes. Puedes preguntarle al cliente qué quiere, y tal vez te diga que quiere desarrollar un sitio web para promocionar su nuevo servicio de planta. Puedes ir un poco más allá y preguntar acerca de sus objetivos. ¿Quieren aumentar el reconocimiento de su marca? ¿Quieren conseguir más clientes? Tener una conversación orientada a la solución con tu cliente te ayudará a desarrollar lo correcto. El valor de Agile de "individuos e interacciones sobre procesos y herramientas" se extiende más allá del equipo. Se refiere a tener esas interacciones importantes con nuestros clientes y usuarios también. A continuación, debes desarrollar con dedicación. Esa es la jerga para asegurarte de que tu equipo solo desarrolle las características solicitadas o aprobadas. Trabajar en funcionalidades que no son necesarias puede conducir a complejidades en el producto que no aportan ningún valor a los usuarios. Además, desarrollar más de lo que necesitas retrasa o reduce tu valor en el momento de la entrega. También aumenta el riesgo de experimentar errores u otros problemas en el camino. Finalmente, además de desarrollar lo correcto, tienes que asegurarte de que lo estás haciendo bien. Ejecutarlo bien significa que tu equipo ha pensado bien en cómo el usuario interactuará con el producto una vez entregado. Asegúrate de que tu equipo piense en algunas de las tareas operativas que deberán abordarse después de que el producto haya salido de las instalaciones. Responde las preguntas siguientes: ¿Cómo obtienen soporte los usuarios? ¿Cómo agrega valor el producto a los usuarios mucho después de haberlo recibido inicialmente? ¿Cómo te aseguras de que las nuevas funcionalidades y capacidades lleguen a los usuarios existentes? Al desarrollar lo correcto, hacerlo con dedicación y ejecutarlo bien todos trabajan juntos para asegurar que el equipo genere una entrega constante y continua de valor a los usuarios a lo largo de la vida útil del producto. Veamos cómo el equipo de Virtual Verde puede asegurarse de que se centren en la entrega impulsada por el valor. Primero, ¿cómo podría el equipo de Virtual Verde asegurarse de que construyen lo correcto? ¿Cómo saben que están creando algo que el cliente realmente quiere? En este caso, el equipo debe asegurarse de crear un servicio que proporciona los tipos de plantas que los clientes quieren comprar. Podrían crear una encuesta para preguntar a clientes actuales y potenciales cuáles son sus preferencias de plantas y el tipo de diseño de oficina en casa que quieren crear. Luego usarán estos datos para actualizar las historias de los usuarios en su backlog de producto. A continuación, ¿cómo podría el equipo de Virtual Verde asegurarse de desarrollar con dedicación? Una vez que el equipo sabe qué tipo de plantas y diseños quiere el cliente, ¿cómo se aseguran de que los procesos correctos estén implementados para entregarlos? Bueno, el equipo puede conseguir un proveedor de plantas de confianza que lleve los tipos de plantas deseados y trabajar con diseñadores para hacer macetas, jarrones y otros accesorios para plantas en los diferentes estilos de diseño que gustan a los clientes. El equipo también puede comunicarse con marketing para asegurarse de que los tipos de plantas y los diseños que los clientes quieren se destacan en el sitio web y en el catálogo. Finalmente, ¿cómo puede el equipo de Virtual Verde asegurarse de ejecutarlo bien? ¿Cómo garantizan la satisfacción del cliente una vez que un cliente se ha registrado en el servicio? ¿Cómo retiene el equipo de Virtual Verde a sus clientes mucho después de que se hayan entregado las plantas? El equipo de Virtual Verde puede enviar encuestas de seguimiento de satisfacción del cliente para preguntar acerca de sus ofertas de plantas y diseños, plazos de entrega, calidad de las plantas y otros datos. Luego, el equipo puede usar estos datos para evaluar continuamente a sus proveedores, las ofertas de plantas y diseños, y la estrategia de marketing. Por ejemplo, el equipo podría encontrar maneras de aumentar la calidad de servicio ofreciendo regaderas y sistemas automáticos de sanidad vegetal, o incluso consejos de jardinería mensuales gratuitos, para que el usuario se sienta empoderado y apoyado para mantener sus plantas. Hay muchas maneras de maximizar la entrega de valor de tu equipo. Al desarrollar lo correcto, hacerlo con dedicación, y ejecutarlo bien, todo funciona en conjunto para garantizar que el equipo entregue valor a los usuarios. En el próximo video, les mostraré otra manera comprobada de entregar valor, llamada hoja de ruta de valor. Nos vemos ahí.
 
 #### Caso práctico: Formar un grupo de trabajo impulsado por valores
 
