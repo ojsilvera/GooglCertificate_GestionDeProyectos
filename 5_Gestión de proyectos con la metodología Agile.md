@@ -3257,6 +3257,10 @@ Una vez que se aprueban los cambios, es importante hacer varias cosas:
     Supervisar el cambio durante un cierto período de tiempo. Esto asegura que el equipo brinde apoyo y sea consciente
     del cambio.
 
+Si el cambio no se aprobó durante la etapa de decisión, aún debes documentar la información y la lógica utilizada para tomar
+la decisión. Incluso puedes considerar poner un cambio en espera mientras esperas más información para tomar la decisión
+con mayor confianza.
+
 ### Liderar a través del cambio y los desafíos
 
 ### Oportunidades Agile
