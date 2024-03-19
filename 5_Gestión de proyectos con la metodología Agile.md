@@ -2260,6 +2260,38 @@ Recuerda:
 
 #### El Sprint: Descripción general de la guía de Scrum
 
+Los Sprints son el latido del corazón de Scrum, donde las ideas se convierten en valor.
+
+Son eventos de duración fija de un mes o menos para crear consistencia. Un nuevo Sprint comienza inmediatamente después
+de la conclusión del Sprint anterior.
+
+Todo el trabajo necesario para lograr el objetivo del producto, incluida la planificación de Sprint, los scrums diarios,
+la revisión de Sprint y la retrospectiva de Sprint, se realiza dentro de Sprints.
+
+Durante el Sprint:
+
+    no se realizan cambios que puedan poner en peligro el objetivo del Sprint;
+
+    la calidad no disminuye;
+
+    la lista de producto se refina según sea necesario;
+
+    el alcance puede aclararse y volver a negociarse con el propietario del producto a medida que se aprende más.
+
+Los Sprints permiten la previsibilidad al garantizar la inspección y la adaptación del progreso hacia un objetivo del
+producto al menos cada mes calendario. Cuando el horizonte de un Sprint es demasiado largo, el objetivo del Sprint puede
+volverse inválido, la complejidad puede aumentar y el riesgo puede aumentar. Se pueden emplear Sprints más cortos para
+generar más ciclos de aprendizaje y limitar el riesgo de costo y esfuerzo a un marco de tiempo más breve. Cada Sprint
+puede considerarse un proyecto corto.
+
+Existen varias prácticas para pronosticar el progreso, como los diagramas de trabajo pendiente, los diagramas de trabajo
+realizado o los flujos acumulativos. Si bien han demostrado ser útiles, estos no reemplazan la importancia del empirismo,
+En entornos complejos, se desconoce qué sucederá. Solo lo que ya sucedió puede usarse para la toma de decisiones con vista
+a futuro.
+
+Un Sprint podría cancelarse si el objetivo del Sprint se vuelve obsoleto. Solo el propietario del producto tiene la autoridad
+para cancelar el Sprint.
+
 #### Planificación de Sprints
 
 #### Crear y administrar Sprints en Asana
