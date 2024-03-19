@@ -3223,6 +3223,40 @@ equipo de desarrollo. Las fuentes de cambios identificados podrían incluir:
     Las dependencias críticas del proyecto o las fechas de entrega se han desplazado, lo que ha dado lugar a un cambio en
     la hoja de ruta del proyecto (programación o cambio de hora).
 
+Paso 2: Decidir hacer el cambio
+
+A continuación, ¿cómo decides hacer realmente el cambio? Hay muchos modelos de toma de decisiones disponibles para referencia,
+Estos son los pasos básicos involucrados en la mayoría de estos modelos:
+
+    Identificar al “responsable de tomar decisiones” Lo mejor es tener una sola persona, generalmente el propietario del
+    producto o un interesado de alto nivel, en el papel de responsable de tomar decisiones para garantizar la coherencia
+    y la responsabilidad.
+
+    Desarrollar y compartir qué factores son importantes para la decisión y recopilar datos de respaldo que ayudarán a
+    quien toma la decisión.
+
+    Analizar abiertamente los beneficios y costos de la decisión. Identificar áreas de incertidumbre y capturar supuestos.
+
+    Documentar la decisión.
+
+Paso 3: Implementar el cambio
+
+Una vez que se aprueban los cambios, es importante hacer varias cosas:
+
+    Documentar el cambio y el proceso de toma de decisiones. Incluye notas de reuniones, listas de pros y contras, suposiciones
+    y datos que se utilizaron para tomar la decisión de cambiar el proyecto.
+
+    Capturar el cambio en cualquier artefacto afectado. Actualiza cualquier hoja de ruta, acumulación de productos, planes
+    de dotación de personal y fechas de integración, e incluye una referencia a la fuente del cambio para que los interesados
+    puedan consultarlo. Considera usar etiquetas de revisión o fechas en los documentos afectados como "versión 1.2" o
+    "actualizado el 20 de diciembre" para que el equipo pueda reconocer claramente que el documento ha cambiado.
+
+    Compartir el cambio con todos los interesados afectados. Puedes hacerlo de muchas maneras: en persona en reuniones,
+    en documentación y notas de reuniones, y mediante anuncios por correo electrónico.
+
+    Supervisar el cambio durante un cierto período de tiempo. Esto asegura que el equipo brinde apoyo y sea consciente
+    del cambio.
+
 ### Liderar a través del cambio y los desafíos
 
 ### Oportunidades Agile
