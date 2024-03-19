@@ -3115,6 +3115,38 @@ consiguen los resultados de la hoja de ruta.
 
 #### Crear una hoja de ruta efectiva
 
+una hoja de ruta de valor y sus tres componentes principales. visión del producto, hoja de ruta del producto y planes de
+lanzamiento. Una hoja de ruta de valor te ayuda a determinar rutas específicas para que tu equipo entregue el máximo valor,
+Utiliza los eventos básicos de Scrum para definir los objetivos del producto y los requisitos para que el equipo pueda entregar
+un producto final exitoso.
+
+algunos consejos para crear una hoja de ruta de valor efectiva.
+
+Primero, la creación de la hoja de ruta del producto. La hoja de ruta del producto proporciona una vista de alto nivel del
+producto esperado, sus requisitos y un cronograma estimado para alcanzar los hitos. Muchos de esos hitos serán fechas de
+lanzamiento de productos. Deberás asegurarte de que las fechas de lanzamiento del producto sean solo estimaciones aproximadas,
+Esto se debe a que, como equipo de metodología Agile, las cosas pueden cambiar y lo hacen. Esto es especialmente cierto ya
+que estas fechas pueden ser de varios meses o varios años en el futuro. Si la hoja de ruta es demasiado específica, podría
+orientar al equipo al fracaso porque no se pueden garantizar las fechas.
+
+*En resumen:*
+
+Consejos para crear una hoja de ruta de valor eficaz
+
+    Crea una hoja de ruta de producto: Proporciona una visión general del producto esperado, sus requisitos y un cronograma
+    estimado para alcanzar los hitos.
+    
+    Establece planes de lanzamiento: Conecta la hoja de ruta del producto con la capacidad y velocidad del equipo.
+    
+    Revisa los planes de lanzamiento: Antes de comenzar una sesión de planificación de Sprint, el Scrum Master o el Gerente
+    de Proyecto deben revisar el plan de lanzamiento para verificar si el equipo está encaminado.
+
+Beneficios de una hoja de ruta de valor eficaz
+
+    Ayuda a los equipos a entregar el máximo valor.
+    Permite la flexibilidad y la capacidad de respuesta a los cambios.
+    Proporciona transparencia y responsabilidad.
+
 #### Responder a un cambio antes que seguir un plan
 
 ### Liderar a través del cambio y los desafíos
