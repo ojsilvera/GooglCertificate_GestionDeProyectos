@@ -1969,7 +1969,110 @@ lo hacen como parte de eventos programados, como la planificación del Sprint.
 
 #### Técnicas de Agile para la estimación del esfuerzo
 
-En resumen
+Existen todo tipo de técnicas para utilizar a la hora de estimar el esfuerzo de forma ágil. La estimación efectiva del
+esfuerzo relativo conduce a resultados de Sprint exitosos y predecibles, lo que conduce a un proyecto exitoso en general.
+
+En términos generales, los pasos principales de Agile para la estimación son los mismos, incluso si el enfoque específico
+varía. Algunos ejemplos de técnicas de estimación Agile son:
+
+- Planning Poker™
+
+Este método en particular es reconocido y se utiliza comúnmente cuando los equipos de Scrum tienen que hacer estimaciones
+de esfuerzo para una pequeña cantidad de elementos (menos de 10). Planning Poker se basa en el consenso, lo que significa
+que todos deben ponerse de acuerdo sobre la cantidad elegida. En esta técnica, cada individuo tiene un mazo de cartas con
+números de la secuencia de Fibonacci. La sucesión de Fibonacci es aquella en la que un número es la suma de los dos últimos
+números (p. ej., 0, 1, 2, 3, 5, 8, 13, etc.).
+
+A veces, los mazos de Planning Poker también incluyen cartas con tazas de café y signos de interrogación. La carta con
+signo de interrogación significa que la persona no entiende lo que se está discutiendo o no tiene suficiente información
+para sacar una conclusión. La carta con la taza de café significa que la persona necesita un descanso.
+
+La estrategia de Planning Poker se utiliza en las reuniones de planificación de Sprint. A medida que se analiza cada elemento
+de la lista de producto/historia de usuario, cada miembro del equipo coloca una carta boca abajo sobre la mesa. Luego, todos
+dan la vuelta a su carta al mismo tiempo y el equipo discute las estimaciones, especialmente cuando son muy dispares. Al
+ocultar primero las estimaciones, el grupo evita cualquier sesgo que se presente cuando los números se dicen en voz alta.
+
+A veces, cuando escuchan números en voz alta, tienden a  reaccionar a esa estimación o a la persona que la realiza, y cambia
+lo que pudo haber sido su idea inicial. En Planning Poker, los equipos pueden evitar fácilmente ese sesgo.
+
+- Votación de puntos
+
+La votación de puntos, como Planning Poker, también es útil durante un Sprint con una cantidad baja de elementos de la
+lista de Sprint. En la votación por puntos, cada miembro del equipo comienza con pequeños pegatinas de puntos, codificados
+por colores según el esfuerzo estimado requerido (p. ej., S=verde, M=azul, L=naranja, XL=rojo). Los elementos o historias
+de usuario se escriben en hojas de papel colocadas alrededor de una mesa o en la pared. Luego, los miembros del equipo
+caminan alrededor de la mesa y agregan sus pegatinas de colores a los elementos.
+
+- El sistema de cubetas
+
+El sistema de cubetas es útil para los pedidos atrasados con muchos elementos, ya que se puede hacer muy rápidamente. De
+hecho, se pueden estimar un par de cientos de elementos en solo una hora con el sistema de cubetas. El sistema de cubetas
+es una estrategia eficaz para dimensionar elementos porque explora cada elemento en términos de "cubetas" predeterminadas
+de complejidad. Ten en cuenta que estas cubetas son metafóricas; esta estrategia no requiere el uso de cubetas reales y,
+en su lugar, se utilizan notas adhesivas o tarjetas de notas como cubetas.
+
+En esta técnica, el equipo comienza colocando una línea de tarjetas de notas en el centro de la mesa, cada una marcada con
+un número que representa un nivel de esfuerzo. Luego, el equipo escribe cada elemento o historia de usuario en una tarjeta.
+
+Cada persona toma un elemento y lo lee al azar, luego lo coloca en algún lugar a lo largo de la línea de tarjetas de notas
+numeradas. No hay necesidad de discutir más con el equipo. Si una persona toma un objeto que no entiende, puede ofrecérselo
+a otra persona para que lo coloque donde le parece que corresponde. Además, si una persona encuentra un elemento que cree
+que no encaja donde se colocó, puede discutirlo con el equipo hasta que se llegue a un consenso sobre una ubicación más precisa.
+
+Los miembros del equipo no deben dedicar más de 120 segundos a cada elemento.
+
+- Grande/Incierto/Pequeño
+
+Grande/Incierto/Pequeño es otro método rápido de estimación aproximada. Es excelente para las listas de producto que tienen
+varios elementos similares o comparables entre sí.
+
+Esta es la misma idea general que el sistema de cubetas, pero en lugar de varias cubetas, solo usa tres categorías: grande,
+incierto y pequeño. Comenzando con las historias de usuario más simples y obvias, el equipo coloca los elementos en una de
+las categorías. Luego, el equipo discute y coloca elementos más complejos hasta que cada uno es asignado a una categoría.
+
+- Método de pedido
+
+El método de pedido es ideal para proyectos con un equipo más pequeño y una gran cantidad de elementos de la lista de producto,
+Primero, se prepara una escala y los elementos se colocan al azar, de menor a mayor. Luego, uno a la vez, cada miembro del
+equipo mueve cualquier elemento un lugar hacia abajo o hacia arriba en la escala o pasa su turno. Esto continúa hasta que
+los miembros del equipo ya no quieren mover ningún elemento.
+
+- Mapeo de afinidad
+
+El mapeo de afinidad es útil para equipos que tienen más de 20 elementos en su lista de producto.
+
+Una mejor práctica es llevar a cabo esta técnica utilizando notas adhesivas colocadas en una pared, pizarra o mesa. Cada
+nota adhesiva presenta una historia de usuario o elemento diferente. El uso de notas adhesivas permite al equipo mover las
+historias de los usuarios para agruparlas por tema, grupo y patrón similares. El equipo comienza colocando una nota adhesiva
+en la pizarra. Luego, el equipo toma la siguiente nota adhesiva y analiza si es similar al primer elemento. Según la evaluación
+del equipo, la segunda nota adhesiva se coloca en el primer grupo o en su propio grupo.
+
+Después de agrupar todos los elementos (debe haber entre 3 y 10 grupos en total), el equipo asigna un nombre a cada grupo
+que representa el tema general de los elementos. Luego, los grupos se priorizan por importancia para que el equipo sepa
+qué elementos abordar primero.
+
+Características de la estimación efectiva
+
+Independientemente de la técnica que elija tu equipo, hay varias características importantes que comparten las técnicas
+que conducen a una estimación efectiva:
+
+*Evita recopilar falsa precisión de estimaciones.* En Scrum, la asignación de estimaciones aproximadas da como resultado
+una mayor precisión en todo el proyecto. Por lo tanto, si el equipo se enfoca en identificar estimaciones relativas, en
+lugar de tener un largo debate sobre si una tarea llevará siete o 10 días de trabajo, ahorrará tiempo y evitará posibles
+incumplimientos en los plazos.
+
+*Evita el sesgo de anclaje.* Muchas de estas técnicas (p. ej., Planning Poker) mantienen oculta la estimación inicial, lo
+que permite a los miembros del equipo formar una opinión independiente sobre la estimación antes de compartir sus ideas con
+el equipo. Esto evita un fenómeno conocido como sesgo de anclaje, en el que las personas se ven obligadas a presentar estimaciones
+similares a las de los demás en la sala para evitar sentirse avergonzados.
+
+*Promueve la inclusión.* Estas técnicas de estimación grupal no solo conducen a mejores estimaciones, sino que también
+ayudan al equipo a desarrollar confianza y cohesión.
+
+*Lleva al descubrimiento del esfuerzo.* Estimar de estas formas dinámicas puede ayudar al equipo a descubrir estrategias
+para completar elementos que de otro modo no se habrían revelado.
+
+*En resumen:*
 
 Estimación del esfuerzo en Agile
 
@@ -2006,6 +2109,56 @@ técnicas de estimación efectivas, los equipos pueden mejorar la precisión de 
 plazos y fomentar la colaboración.
 
 #### Tallas de camisetas y puntos de historia
+
+La estimación relativa significa comparar el esfuerzo estimado para completar un elemento del trabajo pendiente con el
+esfuerzo estimado para otro elemento del trabajo pendiente. Hacer esto en lugar de tratar de determinar exactamente cuánto
+tiempo llevará una tarea permite que tus comparaciones y estimaciones sean más precisas entre sí.
+
+Entonces, ¿qué implica el proceso de asignación de tallas de camisetas? Hay varias técnicas específicas que un equipo puede
+probar, pero cada una generalmente sigue estos pasos. El equipo:
+
+    Acuerda la escala elegida y las métricas a utilizar.
+
+    Identifica al menos un elemento de anclaje de la lista. A ese elemento se le asignará una talla de camiseta. Algunos
+    equipos elegirán dos elementos de anclaje: uno en la parte superior del rango y otro en la parte inferior del rango.
+
+    Ordena los elementos restantes y acuerda las tallas de camiseta para cada uno de ellos.
+
+Puntos de historia
+
+Usar los puntos de historia como unidad de estimación es un poco más avanzado que las tallas de camisetas, pero es esencialmente
+el mismo concepto. Este método es bueno para equipos experimentados. Cuando se utilizan puntos de historia, los equipos
+suelen utilizar la secuencia de Fibonacci. Como recordatorio, esta secuencia proviene de sumar los dos números anteriores
+en la secuencia. Por ejemplo, 1 + 2 = 3 y 2 + 3 = 5. Lo importante a tener en cuenta sobre esta secuencia es que, a medida
+que la lista continúa, los números se separan más unos de otros. Debido a esto, los puntos de historia brindan más precisión
+y especificidad que las tallas de camisetas.
+
+Entonces, ¿qué implica el proceso de asignación de puntos de historia? Hay varias técnicas específicas que un equipo puede
+probar, pero los pasos básicos son los mismos que con las tallas de camiseta. El equipo:
+
+    Acuerda los valores de puntos permitidos. Algunos equipos limitan el tamaño a un cierto número, como 21. Algunos equipos
+    deciden saltar de 21 a 100 como el siguiente valor más grande. Esta es una decisión de equipo.
+
+    Identifica al menos un elemento de anclaje de la lista y acepta asignarle un valor en puntos. Algunos equipos elegirán
+    dos elementos de anclaje: uno en la parte superior del rango y otro en la parte inferior del rango.
+
+    Clasifica los elementos restantes como equipo, acuerda un presupuesto para cada elemento y lo captura en el sistema
+    de gestión de pedidos de la lista
+
+Prácticas recomendadas
+
+Algunas mejoras recomendadas, independientemente de la técnica que utilices, incluyen:
+
+    Hacer preguntas al propietario del producto sobre la historia de usuario o el elemento para asegurarse de que haya
+    suficiente información para estimarlo.
+
+    Discutir estimaciones divergentes de varios miembros del equipo para que todos tengan la oportunidad de comprender
+    cómo implementar el elemento.
+
+    Acordar las tallas finales de las camisetas o el valor de los puntos y asentarlo en el sistema.
+
+    Si ciertos elementos pertenecen al tamaño de camiseta o al rango de valor de puntos de historia más grande, analiza
+    si tiene sentido dividirlos en partes más pequeñas antes de continuar.
 
 #### Actividad: Añadir estimación
 
