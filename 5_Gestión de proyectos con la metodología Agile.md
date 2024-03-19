@@ -2476,6 +2476,25 @@ Términos clave:
 
 #### Incremento publicable vs. producto mínimo viable
 
+Incremento del producto potencialmente publicable
+
+    Es el resultado de un Sprint que se puede publicar.
+    Es una adición completa, probada y lista para enviar al producto.
+    Permite al equipo ver una función en su totalidad y obtener comentarios tempranos.
+
+Definición de Listo
+
+    Describe el estado del incremento del producto potencialmente publicable.
+    Define los requisitos para que un elemento se considere "terminado".
+    Garantiza que el trabajo sea de alta calidad y cumpla con las medidas de calidad requeridas.
+
+Comparación con el Producto Mínimo Viable (MVP)
+
+    Un MVP es una versión de un producto con funciones suficientes para satisfacer a los primeros clientes.
+    Un incremento del producto potencialmente publicable puede ser un MVP, pero no siempre es necesario.
+    El propietario del producto determina qué constituye un lanzamiento valioso y viable del producto en
+    función del valor entregado por el usuario y la capacidad de recopilar comentarios.
+
 #### La retrospectiva de Sprint
 
 #### Retrospectivas de Sprints: Dificultades y prácticas recomendadas
