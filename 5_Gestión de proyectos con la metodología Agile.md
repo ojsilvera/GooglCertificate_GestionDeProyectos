@@ -1877,11 +1877,36 @@ no ficción. Esto podría incluirse en la epopeya “organización del espacio f
 Entonces, en lugar de que esas diversas historias de usuarios aparezcan juntas en una lista, están organizadas en secciones
 o epopeyas.
 
-#### Completar la historia de usuario/coincidir con los criterios de aceptación
+#### Refinamiento de la lista y estimación del esfuerzo
 
-#### Crear una lista de producto en Asana
+Refinamiento del Backlog
 
-#### Actividad: Crear una lista de producto en Asana
+El refinamiento del Backlog es el proceso de mantener el Backlog del producto actualizado, estimado y priorizado para que
+el equipo Scrum pueda trabajar de manera efectiva.
+
+Estimación relativa
+
+    En lugar de estimar el tiempo exacto que llevará completar una tarea, la estimación relativa compara el esfuerzo de
+    esa tarea con el esfuerzo de otra tarea.
+
+Métodos de estimación relativa
+
+    Tallas de camisetas: Se asigna a cada elemento del Backlog un tamaño relativo (por ejemplo, pequeño, mediano, grande).
+
+    Puntos de historia: Se utilizan números de la secuencia de Fibonacci (1, 2, 3, 5, 8, 13, 21, etc.) para estimar el
+    esfuerzo y el riesgo.
+
+Beneficios del refinamiento del Backlog
+
+    Mantiene el Backlog actualizado y relevante.
+    Ayuda al equipo a planificar y priorizar el trabajo.
+    Identifica los elementos del Backlog que requieren más investigación o refinamiento.
+    Fomenta la colaboración y la comunicación dentro del equipo.
+
+Frecuencia del refinamiento del Backlog
+
+La frecuencia del refinamiento del Backlog varía según el equipo. Algunos equipos lo hacen regularmente, mientras que otros
+lo hacen como parte de eventos programados, como la planificación del Sprint.
 
 #### Técnicas de Agile para la estimación del esfuerzo
 
