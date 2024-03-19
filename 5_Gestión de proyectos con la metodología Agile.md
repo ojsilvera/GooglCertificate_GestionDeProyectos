@@ -3182,6 +3182,47 @@ Beneficios de una hoja de ruta de valor eficaz
 
 #### Responder a un cambio antes que seguir un plan
 
+La mejor manera de pensar en cambiar tu plan es dividirlo en tres etapas:
+
+    Identificar un cambio necesario
+
+    Decidir hacer el cambio
+
+    Implementar el cambio
+
+Paso 1: Identificar un cambio necesario
+
+Primero, ¿cómo sabes si necesitas cambiar tu plan? Estos son algunos aspectos de tu proyecto que pueden ser candidatos
+para el cambio:
+
+    alcance, tiempo y costos (o recursos).
+
+Como aprendimos anteriormente, estos se denominan "restricciones triples" y proporcionan un gran framework para evaluar
+el cambio en proyectos Agile y tradicionales.
+
+    En Agile, el alcance se refiere al contenido de la hoja de ruta del producto, los elementos del Backlog de producto,
+    los entregables previstos del proyecto y los usuarios o clientes previstos. Este es el “qué” del proyecto.
+
+    El tiempo se refiere a los elementos de tiempo o diseño de los entregables durante un período de tiempo. Esto podría
+    incluir la línea de tiempo de la hoja de ruta del producto, el cronograma de lanzamiento o incluso la duración del
+    Sprint. Este es el “cuándo” del proyecto.
+
+    Los costos o recursos hacen referencia a la composición del Equipo de desarrollo, los gerentes de proyectos y los
+    propietarios de productos y otras "personas de negocios", así como el equipo disponible para crear el entregable. Este
+    es el “cómo” del proyecto.
+
+Los proyectos Agile están abiertos a cambios en cualquiera de estas tres áreas, y cualquier interesado del proyecto podría
+identificar un cambio necesario, incluido el propietario del producto, el gerente de proyectos, el Scrum Master o el propio
+equipo de desarrollo. Las fuentes de cambios identificados podrían incluir:
+
+    Los comentarios de los clientes sobre los primeros prototipos dan como resultado nuevas características y algunas
+    características eliminadas (cambio de alcance).
+
+    La retrospectiva de Sprint identifica un área de escasez de personal (cambio de costos o recursos).
+
+    Las dependencias críticas del proyecto o las fechas de entrega se han desplazado, lo que ha dado lugar a un cambio en
+    la hoja de ruta del proyecto (programación o cambio de hora).
+
 ### Liderar a través del cambio y los desafíos
 
 ### Oportunidades Agile
