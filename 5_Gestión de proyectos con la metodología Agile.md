@@ -2619,7 +2619,71 @@ para que puedan contribuir con sus ideas y comentarios. Por ejemplo:
 
 ### Herramientas de Scrum
 
-#### 12 principios del Manifiesto de la metodología Agiles
+#### Diagrama de trabajo pendiente y de velocidad
+
+Los diagramas de trabajo pendiente y de velocidad.
+
+el propósito de un diagrama de trabajo pendiente y cómo lo usa un Equipo de Scrum. mide el tiempo en función de la cantidad
+de trabajo realizado y la cantidad de trabajo restante. El objetivo de usar un diagrama de trabajo pendiente es mantener
+actualizado al equipo sobre el cumplimiento de los objetivos generales. En un equipo de Scrum, los diagramas de trabajo
+pendiente reflejan cómo le va al equipo al completar historias de usuario durante el Sprint.
+
+El Scrum Master revisará el diagrama de trabajo pendiente, a veces diariamente, para examinar si el equipo alcanzará sus
+objetivos o no. Aquí se presentan algunos cálculos simples. Ahora es un buen momento para mencionar qué hacer si tu equipo
+está usando tallas de camiseta en lugar de puntos de la historia. En ese caso, simplemente asigna los tamaños a un número
+y usa ese número para los cálculos de trabajo pendiente y velocidad. Por ejemplo, tal vez un talle "extra pequeño" es un
+punto, un talle "pequeño" son dos puntos, un talle "medio" son cinco, un talle "grande" ocho, y así sucesivamente.
+
+En Scrum, hay un término para describir cuántos puntos completa un equipo en un Sprint en promedio. Ese término es velocidad,
+En otras palabras, la velocidad mide cuántos puntos completa un equipo en un solo Sprint en promedio. Cuando el equipo está
+realizando la planificación de Sprint, usan la velocidad promedio en al menos tres Sprints para determinar cuántos elementos
+pueden agregar de manera segura a la lista del Sprint. Vale la pena señalar algunos aspectos del cálculo de la velocidad:
+
+En primer lugar, no hay buenas velocidades ni malas velocidades. La velocidad es simplemente lo que ha podido lograr el
+equipo históricamente en un periodo de tiempo predeterminado.
+
+Lo siguiente es que cada equipo tiene una velocidad diferente, en especial porque cada equipo decide su propia calibración
+del sistema de puntos. Es imposible comparar la velocidad de un equipo con la de otro equipo.
+
+Una vez que tengas una velocidad estable y una lista refinada con priorización y estimaciones, se desbloquea un superpoder
+increíblemente valioso. Ahora puedes informar a los interesados y patrocinadores dos cosas importantes. Puedes decirles
+aproximadamente cuánto tiempo llevará completar toda la lista de producto y qué parte de la lista se completará para una
+fecha determinada. Esta capacidad de predecir con confianza cuándo se completan las tareas es una de las herramientas más
+poderosas de Agile y Scrum.
+
+Esa es una estimación bastante confiable basada en el rendimiento pasado del equipo. Esto es bastante poderoso. Si deseas
+acelerar las fechas, puedes usar esta información para decidir si agregar personas al equipo y aumentar la velocidad, reorganizar
+las prioridades o tomar otras decisiones clave para el proyecto. En cualquier equipo dado, puede llevar varios Sprints hasta
+alcanzar una velocidad estable y eso es totalmente normal.
+
+A medida que el equipo se acostumbra a estimar y a trabajar juntos, la velocidad debería comenzar a estabilizarse.
+
+*En resumen:*
+
+Gráficos de evolución
+
+    Miden el tiempo frente a la cantidad de trabajo realizado y restante.
+    Ayudan al equipo a mantenerse al tanto de su progreso hacia los objetivos generales.
+    En Scrum, los gráficos de evolución reflejan el progreso del equipo en la finalización de las historias de usuario
+    durante el Sprint.
+
+Velocidad
+
+    Es el promedio de puntos que un equipo quema en un Sprint.
+    Se utiliza para determinar cuántos elementos se pueden agregar de manera segura al Sprint Backlog durante la planificación
+    del Sprint.
+
+Cómo calcular la velocidad:
+
+    No existe una velocidad buena o mala.
+    Cada equipo tendrá una velocidad diferente según su sistema de puntos.
+    Es imposible comparar la velocidad de un equipo con la de otro.
+
+Beneficios de una velocidad estable:
+
+    Permite predecir aproximadamente cuánto tiempo llevará completar el Product Backlog.
+    Permite estimar cuánto del Backlog se completará en un momento determinado.
+    Facilita la toma de decisiones clave del proyecto, como agregar personas al equipo o reordenar las prioridades.
 
 #### Interpretando la velocidad: Recomendaciones y restricciones12 principios del Manifiesto de la metodología Agile
 
