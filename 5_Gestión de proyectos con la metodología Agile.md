@@ -2386,6 +2386,85 @@ Beneficios de usar sprints en Asana:
 
 #### El scrum diario y la revisión de Sprint
 
+A modo de repaso, uno de los principios del manifiesto de Agile dice: el método más eficiente y efectivo de transmitir
+información dentro de un Equipo de Desarrollo es una conversación cara a cara. Establecemos la comunicación con el equipo
+mediante dos tipos de eventos cara a cara que ocurren durante y después del Sprint, el Scrum diario y la revisión de Sprint.
+
+*Primero, el Scrum diario,* que a veces se conoce como reunión breve, es un momento para que el equipo de Scrum sincronice
+y priorice las actividades del día. En 15 minutos, y a la misma hora y en el mismo lugar todos los días, cada miembro del equipo
+responde las siguientes preguntas:
+
+    ¿Qué hice ayer que ayudó al equipo de desarrollo a alcanzar la meta del Sprint?
+    ¿Qué haré hoy para ayudar al equipo de desarrollo a alcanzar la meta del Sprint?
+    ¿Noté algún impedimento que evite que el equipo de desarrollo o yo alcancemos nuestras metas?
+
+Las reuniones diarias deben brindarle al Scrum Master la oportunidad de desbloquear rápidamente el equipo con poca demora,
+Las reuniones diarias son una oportunidad para reforzar el enfoque en la lista del Sprint y en la meta del Sprint. La Guía
+oficial de Scrum dice que las reuniones diarias deben hacerse todos los días.
+
+*Al cierre de un Sprint, el equipo completará otro evento, conocido como revisión de Sprint.* Este evento de Sprint es crucial
+para los pilares del Scrum de inspección y adaptación, y demuestra los valores de apertura, valentía y respeto. La revisión
+de Sprint es una reunión con todo el equipo de Scrum donde se demuestra el producto para
+determinar qué aspectos están terminados y cuáles no. Durante una revisión de Sprint, el equipo de desarrollo y el propietario del producto jugarán un papel
+clave en esta inspección y discusión. También cubrirán una exploración de qué
+elementos deben considerarse listos en la lista de producto, y ellos demostrarán
+e inspeccionarán el producto. Las revisiones de Sprint deben ser muy divertidas y edificantes. La Revisión de Sprint es cuando
+el equipo comparte los logros conseguidos en las
+últimas 1 a 4 semanas. Estas reuniones con límite de tiempo
+no deben exceder las cuatro horas y son una buena oportunidad para que el equipo
+practique los Valores de Scrum de apertura y respeto al dar retroalimentación
+sobre el trabajo terminado. A menudo, algunas de las mejores ideas
+de productos surgen de la revisión de Sprint. Veamos un ejemplo.
+Con el nuevo servicio, el equipo de Virtual Verde necesita
+lanzar su nueva página web con plantas para la oficina en casa. Imaginemos que el equipo de Scrum tiene
+un especialista en marketing en el equipo. Recuerda que los Equipos de Scrum son multifuncionales. Durante la reunión de revisión de Sprint de agosto,
+uno de los elementos de la lista de Sprint era crear un correo electrónico de lanzamiento
+para enviar a los clientes corporativos de Plant Pals existentes
+sobre la nueva aventura. Durante la reunión de revisión de Sprint, el equipo
+recibe una demostración del correo electrónico. Abren el correo electrónico
+en la pantalla compartida y aportan la retroalimentación del
+especialista allí mismo en la reunión, por ejemplo, Me encanta esa línea de apertura,
+realmente los atrae; agrandemos la imagen de apertura; ¿podemos hacer que sea más fácil para el
+destinatario reenviar esto a sus amigos? ¿Podemos acortar este texto? Es un poco largo. Esta inspección grupal de un producto de
+trabajo del equipo tiene muchos beneficios que van mucho más allá de un mejor
+correo electrónico de marketing. En primer lugar, hace que la retroalimentación
+sea lo más inmediata posible. No es necesario esperar a que las personas
+hagan la revisión por su cuenta y envíen la retroalimentación luego. La retroalimentación y
+los ajustes pueden hacerse allí mismo en la reunión. En segundo lugar, todos tienen voz, lo que genera
+un sentido compartido de propiedad de cada aspecto del lanzamiento del producto. Por último, pero no menos importante, el equipo aprende más sobre cómo trabajan
+sus compañeros del equipo de marketing, lo que aumenta la confianza y la comprensión
+entre los miembros del equipo. La revisión de Sprint es el momento ideal para
+que el equipo demuestre lo que ha logrado. La revisión de Sprint también permite que
+los miembros del equipo revelen lo que se llama el incremento del producto. El incremento del producto se produce
+después de un Sprint específico y se considera publicable. Un producto es publicable cuando el equipo ha desarrollado un
+Producto Mínimo Viable, que tiene un conjunto de características o requisitos implementados. Un Producto Mínimo Viable es una versión
+de un producto con las funciones suficientes para satisfacer a los primeros clientes. Al final de
+cada Sprint, solo los elementos que han cumplido la ddefinición de “listo” se consideran
+parte del Incremento de Producto. Todo lo que no está listo
+vuelve a la lista de producto. ¡Excelente trabajo! Ya hemos cubierto las actividades
+que sucedieron durante un Sprint para asegurarse de que el equipo está enfocado
+y está desarrollando soluciones valiosas. En el próximo video, hablaremos de otra
+reunión importante que se lleva a cabo en un equipo de Scrum: la retrospectiva de Sprint. Nos vemos ahí.
+
+En resumen:
+
+Daily Scrum (Reunión diaria)
+
+Reunión diaria de 15 minutos para sincronizar y priorizar actividades.
+
+Cada miembro del equipo responde a 3 preguntas:
+
+    ¿Qué hice ayer para ayudar al equipo a alcanzar el objetivo del Sprint?
+    ¿Qué haré hoy para ayudar al equipo a alcanzar el objetivo del Sprint?
+    ¿Veo algún impedimento que nos impida alcanzar nuestros objetivos?
+
+Sprint Review (Revisión del Sprint)
+
+    Reunión al final del Sprint para demostrar el producto y determinar qué aspectos están terminados.
+    El equipo de desarrollo y el propietario del producto inspeccionan y discuten el producto.
+    El equipo demuestra el "Incremento del producto", que es lo que se ha producido durante el Sprint y se considera liberable.
+    Los elementos que no se completan vuelven al Product Backlog.
+
 #### Sarah: Los beneficios de una reunión breve diaria
 
 #### Incremento publicable vs. producto mínimo viable
