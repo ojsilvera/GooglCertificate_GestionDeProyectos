@@ -2821,3 +2821,29 @@ obtengan respuestas más rápidas y superen los obstáculos mucho antes del Scru
 deciden qué usar juntos.
 
 ## Aplicar la metodologia Agile en la organizacion
+
+### Comprender la entrega impulsada por el valor
+
+#### Introducción: Aplicar la metodología Agile en la organización
+
+#### Maximizar la entrega impulsada por el valor
+
+#### Caso práctico: Formar un grupo de trabajo impulsado por valores
+
+#### Camron: Cómo Agile puede generar valor
+
+#### Componentes de una hoja de ruta de valor
+
+#### Hojas de ruta de producto: Beneficios, trampas y prácticas recomendadas
+
+#### Crear una hoja de ruta efectiva
+
+#### Responder a un cambio antes que seguir un plan
+
+### Liderar a través del cambio y los desafíos
+
+### Oportunidades Agile
+
+### Repaso del curso: Agile en la práctica
+
+### Opcional: Cómo descubrir oportunidades laborales
