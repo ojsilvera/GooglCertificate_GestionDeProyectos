@@ -1969,6 +1969,42 @@ lo hacen como parte de eventos programados, como la planificación del Sprint.
 
 #### Técnicas de Agile para la estimación del esfuerzo
 
+En resumen
+
+Estimación del esfuerzo en Agile
+
+En Agile, estimar el esfuerzo es importante para planificar y ejecutar proyectos de manera efectiva. Existen varias técnicas
+para estimar el esfuerzo, cada una con sus ventajas y desventajas.
+
+Técnicas de estimación de esfuerzo
+
+    Planning Poker: Los miembros del equipo votan en secreto sobre el esfuerzo estimado utilizando cartas con números de
+                    la secuencia de Fibonacci.
+
+    Votación de puntos: Similar a Planning Poker, pero los miembros del equipo utilizan pegatinas de colores para representar
+                        el esfuerzo estimado.
+
+    Sistema de cubetas: Los elementos se colocan en "cubetas" predefinidas de complejidad.
+
+    Grande/Incierto/Pequeño: Los elementos se clasifican en tres categorías: grande, incierto y pequeño.
+
+    Método de pedido: Los elementos se ordenan de menor a mayor esfuerzo.
+
+    Mapeo de afinidad: Los elementos se agrupan por temas o patrones similares.
+
+Características de la estimación efectiva
+
+    Evita la falsa precisión.
+    Evita el sesgo de anclaje.
+    Promueve la inclusión.
+    Conduce al descubrimiento del esfuerzo.
+
+Conclusión
+
+Elegir la técnica de estimación adecuada depende de las preferencias del equipo y la naturaleza del proyecto. Al utilizar
+técnicas de estimación efectivas, los equipos pueden mejorar la precisión de la planificación, evitar incumplimientos de
+plazos y fomentar la colaboración.
+
 #### Tallas de camisetas y puntos de historia
 
 #### Actividad: Añadir estimación
