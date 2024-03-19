@@ -3129,6 +3129,39 @@ Esto se debe a que, como equipo de metodología Agile, las cosas pueden cambiar 
 que estas fechas pueden ser de varios meses o varios años en el futuro. Si la hoja de ruta es demasiado específica, podría
 orientar al equipo al fracaso porque no se pueden garantizar las fechas.
 
+Segundo, los planes de lanzamiento. Es muy importante que el encargado del producto o el Gerente de proyectos o el Scrum
+Master trabajen en conjunto para desarrollar cada plan de lanzamiento. Esto se debe a que los planes de lanzamiento deben
+conectar la hoja de ruta del producto con la capacidad y la velocidad del equipo.
+
+    La capacidad y la velocidad es la medida de la habilidad del equipo para completar el trabajo a un ritmo determinado.
+
+Un plan de lanzamiento que no esté relacionado con la capacidad del equipo para completar el trabajo podría ser poco realista
+y conducir a un ritmo insostenible para el equipo. Esto violaría uno de nuestros principios de la metodología Agile, que
+establece que los procesos Agile deben promover el desarrollo sostenible. Los patrocinadores, desarrolladores y usuarios
+deberían poder mantener un ritmo constante de manera indefinida. Si hay fechas o plazos estrictos en tu hoja de ruta, es
+decir, una fecha que no se puede cambiar, ten esto en cuenta en cualquier plan de lanzamiento que pueda verse afectado.
+
+Dado que Agile tiene que ver con aceptar y anticipar el cambio, puede parecer que tener un plan de lanzamiento va en contra
+del valor real de responder a un cambio antes que seguir un plan. Pero tener un plan de lanzamiento no significa ser
+resistente al cambio. Y el equipo Agile trata un plan de lanzamiento como un artefacto vivo. Entonces, el plan puede cambiar
+según el entorno y la nueva información que se recibe.
+
+Algunos factores comunes que pueden cambiar el plan de lanzamiento pueden ser un cambio en la velocidad del equipo, o en
+la cantidad de trabajo que puede hacer el equipo en una iteración o Sprint determinado. Esto podría deberse a la adición
+o pérdida de miembros del equipo incluso solo las ganancias de eficiencia respecto de la manera en que funcionan. Un
+segundo factor es un cambio en el alcance del producto. Es decir, si el propietario del producto aprueba el cambio en el
+producto. Y un tercer factor que podría afectar un plan de lanzamiento es mejorar la comprensión de cuánto esfuerzo se
+necesita para crear ciertas funciones. El equipo puede descubrir que una historia de usuario o epopeya es más o menos
+difícil de lo que originalmente pensaron, después de investigar un poco o de comprender mejor el espacio del producto.
+
+Por ultimo, el Scrum Master o gerente de proyectos revisen siempre el plan de lanzamiento antes de iniciar una sesión de
+planificación del Sprint. Revisan el plan de lanzamiento para comprobar si el equipo va por buen camino. Si el equipo está
+desviado, el Scrum Master debe tener una conversación abierta con el encargado del producto y el personal administrativo
+para averiguar qué pueden ajustar para volver a la normalidad. Aquí es donde el valor de Scrum de transparencia es clave.
+
+Una hoja de ruta de valor efectiva es una herramienta poderosa para crear y entregar productos exitosos. Los planes que
+cree lo ayudarán a mantenerse enfocado en brindar el máximo valor y en la capacidad de permanecer flexible y ágil.
+
 *En resumen:*
 
 Consejos para crear una hoja de ruta de valor eficaz
