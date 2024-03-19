@@ -2361,6 +2361,29 @@ Puede incluir:
 
 #### Crear y administrar Sprints en Asana
 
+Sprints en Asana
+
+Los sprints son períodos de tiempo en los que los equipos trabajan para completar un conjunto específico de tareas. En
+Asana, puedes crear y administrar sprints para planificar y realizar un seguimiento del trabajo de tu equipo.
+
+Cómo crear un sprint en Asana:
+
+    Crea un campo personalizado llamado "Sprint".
+    Agrega elementos al sprint arrastrándolos y soltándolos en el campo "Sprint".
+    Ordena el proyecto por sprint para agrupar los elementos del sprint.
+
+Cómo administrar un sprint en Asana:
+
+    Asigna fechas de vencimiento a las tareas.
+    Realiza un seguimiento del progreso del sprint en el panel de control del proyecto.
+    Ajusta el sprint según sea necesario para mantener el rumbo.
+
+Beneficios de usar sprints en Asana:
+
+    Mayor claridad sobre los planes de sprint, los hitos y las fechas de lanzamiento.
+    Mejor colaboración y comunicación del equipo.
+    Mayor productividad y eficiencia.
+
 #### El scrum diario y la revisión de Sprint
 
 #### Sarah: Los beneficios de una reunión breve diaria
