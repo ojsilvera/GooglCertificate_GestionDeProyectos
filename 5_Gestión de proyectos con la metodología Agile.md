@@ -3317,9 +3317,78 @@ Esto no solo te ayuda a priorizar el trabajo, sino que el equipo piense en las p
 es exitoso. Puedes usar estas preguntas más adelante para recopilar comentarios durante el cambio. Volver a estas preguntas
 y demostrar las mejoras incrementales es el verdadero espíritu de Agile.
 
-Volvamos con nuestros amigos de Virtual Verde. Cuando el equipo se dispuso a crear este proyecto de Agile y el cambio hacia un enfoque Agile, se dieron cuenta de que el CEO de Office Green quería asegurarse de que se aprovechasen las tendencias del mercado ya que más personas empezaron a trabajar en oficinas en casa. Crearon un sentido de urgencia al resaltar que la decoración de la oficina en casa se estaba convirtiendo en una tendencia popular en línea, y querían que Office Green aprovechase esta tendencia. Por último, el equipo de Virtual Verde tenía mucha experiencia por su proyecto de Plant Pals, por lo que pudieron reunir un equipo que estaba motivado para aplicar lo que había aprendido y probar un enfoque diferente para aprovechar una nueva oportunidad de mercado. Incorporar la metodología Agile o Scrum a un nuevo equipo podría ser un reto, pero bien valía la pena el esfuerzo. Al aplicar algunas de estas técnicas, aumentarás tus posibilidades de éxito. Descubrí que con un poco de persistencia paciente, puedes superar parte del escepticismo inicial, y los beneficios de un enfoque Agile comenzarán a ser evidentes para el equipo. Una vez que esto suceda, el cambio será más fácil de impulsar a lo largo del tiempo junto con sus compromisos. Una vez tuve un gran equipo global en Google de unos 200 desarrolladores. Mi director y yo queríamos transformarlos en una organización Agile. Nos tomó cerca de dos años y muchos viajes a diferentes lugares de trabajo para que yo y mi equipo de gerentes de proyectos pudiéramos entregar las herramientas, los procesos y el coaching necesarios para que el equipo se pusiera en marcha con una metodología Agile. Abordé esa transformación tal como lo describí aquí y funcionó. En el siguiente video, compartiré algunos consejos para orientar a equipos nuevos y en desarrollo en la metodología Agile. Nos vemos ahí.
+Incorporar la metodología Agile o Scrum a un nuevo equipo podría ser un reto, pero bien valía la pena el esfuerzo. Al aplicar
+algunas de estas técnicas, aumentarás tus posibilidades de éxito. Con un poco de persistencia paciente, puedes superar parte
+del escepticismo inicial, y los beneficios de un enfoque Agile comenzarán a ser evidentes para el equipo. Una vez que esto
+suceda, el cambio será más fácil de impulsar a lo largo del tiempo junto con sus compromisos.
+
+*En sintesis:*
+
+¿Qué es Agile?
+
+Agile es un enfoque de gestión de proyectos que se centra en la flexibilidad, la colaboración y la entrega continua de
+valor.
+
+Beneficios de Agile:
+
+    Mayor velocidad y eficiencia
+    Mejor calidad del producto
+    Mayor satisfacción del cliente
+    Mayor capacidad de respuesta a los cambios
+
+Principios clave de Agile:
+
+    Iterativo e incremental: Los proyectos se dividen en pequeños pasos llamados "sprints".
+    Colaboración: Los equipos trabajan juntos estrechamente para planificar, desarrollar y entregar el producto.
+    Retrospectiva: Los equipos revisan regularmente su progreso y hacen ajustes para mejorar.
+    Enfoque en el valor: Los equipos se centran en entregar valor al cliente lo antes posible.
+
+Metodologías Agile comunes:
+
+    Scrum: Un marco popular que utiliza sprints, reuniones diarias y un "Scrum Master" para guiar al equipo.
+    Kanban: Un sistema visual que ayuda a los equipos a gestionar su flujo de trabajo y limitar el trabajo en progreso.
+    XP (Programación Extrema): Un enfoque que enfatiza las pruebas, la refactorización y la propiedad colectiva del código.
+
+Cómo implementar Agile en tu organización:
+
+    Crea un sentido de propiedad y urgencia: Involucra a las partes interesadas y destaca los beneficios de Agile.
+    Encuentra un patrocinador ejecutivo: Obtén apoyo de la alta dirección para impulsar el cambio.
+    Forma un equipo ágil: Reúne a un equipo multifuncional con las habilidades y la experiencia necesarias.
+    Comienza con un proyecto piloto: Implementa Agile en un proyecto pequeño y manejable para aprender y adaptarte.
+    Iterar y mejorar: Revisa regularmente tu progreso y haz ajustes para optimizar tu proceso Agile.
 
 #### El framework de cambio del influenciador
+
+
+
+*En Resumen:*
+
+Las tres claves para influir
+
+    Aclarar resultados medibles: Define objetivos específicos, medibles, alcanzables, relevantes y limitados en el tiempo (SMART).
+
+    Detectar comportamientos vitales: Identifica las acciones clave que deben realizar los individuos para lograr el cambio
+    deseado.
+
+    Utilizar las seis fuentes de influencia:
+
+        Motivación personal
+
+        Habilidad personal
+
+        Motivación social
+
+        Habilidad social
+
+        Motivación estructural
+
+        Capacidad estructural
+
+
+Conclusión
+
+Al aplicar estas claves, los gerentes de proyectos pueden influir eficazmente en los demás para facilitar el cambio
+organizacional y lograr resultados significativos y sostenibles.
 
 #### Cuadro de aviso de la discusión: Fuentes de influencia
 
