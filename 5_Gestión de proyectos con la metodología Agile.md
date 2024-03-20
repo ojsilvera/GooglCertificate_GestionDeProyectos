@@ -3263,6 +3263,20 @@ con mayor confianza.
 
 ### Liderar a través del cambio y los desafíos
 
+#### Facilitar el cambio organizacional
+
+#### El framework de cambio del influenciador
+
+#### Cuadro de aviso de la discusión: Fuentes de influencia
+
+#### Entrenar a un equipo Agile
+
+#### Coaching versus gestión en Agile
+
+#### Desafíos de equipos Agile
+
+#### Desafíos comunes del coaching Agile
+
 ### Oportunidades Agile
 
 ### Repaso del curso: Agile en la práctica
