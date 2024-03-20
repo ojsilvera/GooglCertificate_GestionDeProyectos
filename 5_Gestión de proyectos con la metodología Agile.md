@@ -3505,7 +3505,32 @@ organizacional y lograr resultados significativos y sostenibles.
 
 #### Entrenar a un equipo Agile
 
-Hola de nuevo. Como gerente de proyectos o Scrum Master, estás en posición de ayudar al equipo a mejorar. En otras palabras, eres el entrenador Agile designado. Estás allí para ayudar al equipo a reconocer las áreas de mejora y a ayudarlos a implementar soluciones. En este video, desglosaré tu papel como entrenador en tres pasos, tal como abordarías el hecho de ser entrenador de un equipo deportivo. Primero, diseñarás las "jugadas" con el equipo. En segundo lugar, proporcionarás retroalimentación al equipo. Por último, celebrarás y aprenderás con el equipo. Permítanme profundizar un poco más en cada área. Primero, el Scrum Master diseña las jugadas. Aunque el Scrum Master posea el libro de jugadas, debería crearse con todo el equipo. El libro de jugadas debe detallar cómo todo el equipo ejecuta una revisión de Sprint, cómo trabaja el equipo día a día, y cómo el equipo informa los planes a los interesados. Cuando se necesitan actualizaciones de las jugadas del equipo, es importante que empieces a involucrar al equipo en cualquier decisión. Haz que atraviesen juntos los procesos, piensa en todas las posiciones del equipo, y asegúrate de que todos noten el flujo. Un ejemplo personal de esto fue cuando facilité una reunión de lluvia de ideas con mi equipo para analizar qué partes de nuestro proceso no estaban funcionando. Usamos notas adhesivas para organizar nuestras ideas a fin de mejorar y luego priorizamos las ideas para implementar los cambios. En segundo lugar, se debe proporcionar retroalimentación. Siempre debes brindar retroalimentación a tu equipo y a los interesados tan pronto como sea posible y a diario. Al igual que un entrenador da instrucciones desde la línea de banda, el Scrum Master debe brindar orientación todo el tiempo. Además de los comentarios proporcionados en el momento, el Scrum Master también tiene una vista panorámica. Esto es similar a cómo un entrenador podría ver un resumen en video del juego para detectar patrones que requieran mejoras o jugadas que funcionaron tan bien que deberían usarlas en todos los partidos. Proporcionar retroalimentación no debe tener por finalidad exclusiva arreglar los errores, sino encontrar procesos y actividades que funcionaron realmente bien, y animar al equipo a seguir usando lo que funciona. Tercero, celebrar y aprender. Felicita al equipo a menudo por un trabajo bien hecho, un cliente satisfecho o el lanzamiento de una gran solución. Si el equipo "pierde", es decir que no tuvo éxito en el cumplimiento de un requisito, debes reconocer esa derrota y tomarla como datos esenciales que ayudarán al equipo a mejorar la próxima vez. Es importante que el equipo se siga sintiendo optimista sobre cualquier decepción y que la tomen como una oportunidad de aprendizaje. Como dijo célebremente Thomas Edison, "No he fracasado, sino que acabo de descubrir 10 000 formas en que no funcionará". Como Scrum Master o administrador de proyectos de Agile, juegas un papel esencial en el equipo y eres una parte fundamental del motivo por el que Scrum y Agile funcionan. Eres responsable de asegurarte de que el equipo mejore constantemente y se convierta en el mejor equipo posible. Excelente. Ahora ya conoces los tres pasos necesarios para entrenar a tu equipo: diseñar las jugadas con el equipo, proporcionar retroalimentación al equipo y celebrar y aprender con el equipo. A continuación, aprenderemos cómo anticipar y responder a los riesgos reales con las implementaciones Agile y Scrum. Nos vemos ahí.
+Como gerente de proyectos o Scrum Master, eres el entrenador Agile designado. Estás allí para ayudar al equipo a reconocer
+las áreas de mejora y a ayudarlos a implementar soluciones.
+
+Primero, el Scrum Master diseña las jugadas. Aunque el Scrum Master posea el libro de jugadas, debería crearse con todo
+el equipo. El libro de jugadas debe detallar cómo todo el equipo ejecuta una revisión de Sprint, cómo trabaja el equipo
+día a día, y cómo el equipo informa los planes a los interesados. Cuando se necesitan actualizaciones de las jugadas del
+equipo, es importante que empieces a involucrar al equipo en cualquier decisión. Haz que atraviesen juntos los procesos,
+piensa en todas las posiciones del equipo, y asegúrate de que todos noten el flujo.
+
+En segundo lugar, se debe proporcionar retroalimentación. Siempre debes brindar retroalimentación a tu equipo y a los
+interesados tan pronto como sea posible y a diario. Al igual que un entrenador da instrucciones desde la línea de banda,
+el Scrum Master debe brindar orientación todo el tiempo. Además de los comentarios proporcionados en el momento, el
+Scrum Master también tiene una vista panorámica. Esto es similar a cómo un entrenador podría ver un resumen en video del
+juego para detectar patrones que requieran mejoras o jugadas que funcionaron tan bien que deberían usarlas en todos los
+partidos. Proporcionar retroalimentación no debe tener por finalidad exclusiva arreglar los errores, sino encontrar
+procesos y actividades que funcionaron realmente bien, y animar al equipo a seguir usando lo que funciona.
+
+Tercero, celebrar y aprender. Felicita al equipo a menudo por un trabajo bien hecho, un cliente satisfecho o el lanzamiento
+de una gran solución. Si el equipo "pierde", es decir que no tuvo éxito en el cumplimiento de un requisito, debes reconocer
+esa derrota y tomarla como datos esenciales que ayudarán al equipo a mejorar la próxima vez. Es importante que el equipo
+se siga sintiendo optimista sobre cualquier decepción y que la tomen como una oportunidad de aprendizaje.
+
+Como dijo célebremente Thomas Edison, "No he fracasado, sino que acabo de descubrir 10 000 formas en que no funcionará",
+Como Scrum Master o administrador de proyectos de Agile, juegas un papel esencial en el equipo y eres una parte fundamental
+del motivo por el que Scrum y Agile funcionan. Eres responsable de asegurarte de que el equipo mejore constantemente y se
+convierta en el mejor equipo posible.
 
 *En resume:*
 
