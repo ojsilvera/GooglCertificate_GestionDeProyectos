@@ -3696,36 +3696,37 @@ Si comienzas a notar que tu equipo tiene dificultades en estas áreas, hay algun
     Asegúrate de centrarte solo en unas pocas historias de usuario por Sprint. Esto asegura que el equipo termine un
     elemento juntos antes de continuar.
 
-Poner todo esto en práctica puede ser más difícil de lo que piensas. A mi equipo actual se le pide
-que cubra mucho terreno en cada Sprint, por lo que puede resultarnos tentador
-tratar de abordar demasiado a la vez. Pero, por lo general, esto solo hace
-que todo tome más tiempo, así que en realidad no es útil. Es mejor mantener el enfoque y entregar menos
-elementos del Backlog en un Sprint que entregar muchos artículos en más Sprints. De acuerdo, otro conjunto de desafíos
-que podrías encontrarte se relacionan con el tema de colaboración del negocio. En resumen, la colaboración empresarial
-se trata de asegurarse de que los desarrolladores colaboren con gente de negocios
-sobre cómo crear el producto correcto. Hay algunas señales comunes de que tu equipo
-podría estar experimentando problemas de colaboración. Tal vez notes que el equipo está abrumado
-con retroalimentación crítica o solicitudes de cambio de los empresarios
-después de revisar la solución de trabajo. Eso podría hacer que los miembros de tu equipo
-eviten pedir retroalimentación o quejarse de los cambios solicitados provenientes
-del propietario del producto o del equipo comercial. O puedes comenzar a detectar una mentalidad
-de "nosotros contra ellos" entre el equipo que hace el trabajo y la gerencia. A veces he notado esto en los comentarios negativos
-de los miembros del equipo, como,"No le des una demostración al vendedor.
-Todavía no está listo y simplemente señalarán lo que está mal". Si notas alguno de estos signos,
-hay algunas cosas que puedes hacer para ayudar a reconstruir la confianza y la colaboración
-entre los desarrolladores y los empresarios. Para empezar, trata de abordar el feedback crítico y las solicitudes de cambio con más demostraciones. Esto asegura que los comentarios
-lleguen a un ritmo constante. y que todos los involucrados tengan una comprensión
-compartida de lo que significa «hecho». A continuación, considera realizar
-un Sprint de diseño de soluciones, es decir, todo un Sprint dedicado
-a trabajar únicamente en el diseño de la solución. Estos son más efectivos cuando el equipo de trabajo y los empresarios realmente se sientan juntos
-y colaboran en la solución. Finalmente, puedes ayudar a tu equipo a concentrarse
-al garantizar que los cambios en el Backlog solo se introduzcan entre Sprints. Esto evita que tu equipo se distraiga
-con posibles cambios que podrían estresarlos y conducir al resentimiento. Por ejemplo, una vez estuve en un Equipo de Scrum en el que al director de ingeniería le encantaba
-pasar por el escritorio del ingeniero para pedir un tablero rápido, que es una página web
-que muestra datos. Pedirle al ingeniero que hiciera esto
-interrumpió por completo el enfoque del equipo y redujo su velocidad. Finalmente decidimos pedirle al director
-que acudiera directamente al Scrum Master si necesitaban algo para que pudiese planificarse correctamente
-sin interrumpir el flujo de trabajo actual del equipo. Bien, pasemos al tercer tema: dinámica y cultura de equipo. Los seres humanos son criaturas complejas
+Poner todo esto en práctica puede ser más difícil de lo que piensas.
+
+Otro conjunto de desafíos que podrías encontrarte se relacionan con el tema de colaboración del negocio:
+
+En resumen, la colaboración empresarial se trata de asegurarse de que los desarrolladores colaboren con gente de negocios
+sobre cómo crear el producto correcto. Hay algunas señales comunes de que tu equipo podría estar experimentando problemas
+de colaboración:
+
+    Tal vez notes que el equipo está abrumado con retroalimentación crítica o solicitudes de cambio de los empresarios
+    después de revisar la solución de trabajo. Eso podría hacer que los miembros de tu equipo eviten pedir retroalimentación
+    o quejarse de los cambios solicitados provenientes del propietario del producto o del equipo comercial.
+
+    Puedes comenzar a detectar una mentalidad de "nosotros contra ellos" entre el equipo que hace el trabajo y la gerencia,
+    por ejemplo al decir,"No le des una demostración al vendedor. Todavía no está listo y simplemente señalarán lo que está
+    mal".
+
+Si notas alguno de estos signos, hay algunas cosas que puedes hacer para ayudar a reconstruir la confianza y la colaboración
+entre los desarrolladores y los empresarios:
+
+    Tratar de abordar el feedback crítico y las solicitudes de cambio con más demostraciones. Esto asegura que los comentarios
+    lleguen a un ritmo constante. y que todos los involucrados tengan una comprensión
+    compartida de lo que significa «hecho».
+
+    A continuación, considera realizar un Sprint de diseño de soluciones, es decir, todo un Sprint dedicado a trabajar únicamente
+    en el diseño de la solución. Estos son más efectivos cuando el equipo de trabajo y los empresarios realmente se sientan
+    juntos y colaboran en la solución.
+
+    Puedes ayudar a tu equipo a concentrarse al garantizar que los cambios en el Backlog solo se introduzcan entre Sprints,
+    Esto evita que tu equipo se distraiga con posibles cambios que podrían estresarlos y conducir al resentimiento.
+
+Tercer tema, dinámica y cultura de equipo: Los seres humanos son criaturas complejas
 con muchas motivaciones y estilos de trabajo, por lo que es probable que encuentres
 al menos algunos desafíos en esta área. Aquí hay algunos signos comunes de dinámica de equipo y cuestiones culturales para tener en cuenta. El primero es la baja moral del equipo. Si las personas están muy malhumoradas, irritadas
 o generalmente de mal humor, entonces es posible que tengas que resolver
