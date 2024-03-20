@@ -3597,6 +3597,67 @@ Los entrenadores confían en que los miembros de su equipo pueden tomar decision
 muy útil. Cuando los miembros del equipo se sienten confiables, aumenta la satisfacción en el lugar de trabajo y mejora
 la calidad del trabajo.
 
+Es apropiado utilizar un enfoque de coaching cuando un miembro del equipo ya tiene experiencia trabajando en proyectos
+similares y se ocupa del desarrollo de nuevas competencias o prueba un nuevo enfoque por primera vez. El coaching se trata
+de generar confianza y capacidades para que las personas puedan crecer y mejorar continuamente. Hay algunos principios que
+se debe tener en cuenta al entrenar:
+
+    Motivar: Los entrenadores motivan a los miembros del equipo a actuar. Señalan el valor del trabajo de los demás y les
+    infunden un sentido de orgullo por lo que hacen.
+
+    Apoyar: Los entrenadores son un recurso accesible para tu equipo cuando experimentan problemas o si tienen una idea
+    sobre la que quieren recibir su opinión.
+
+    Fomentar y valorar: Cuando alguien en su equipo hace frente a una gran carga de trabajo, un entrenador reconocerá y
+    validará el peso de sus esfuerzos y le asegurará que es capaz de manejar los desafíos que se avecinan.
+
+El coaching es apropiado en muchas circunstancias, especialmente cuando necesitas aumentar la confianza de un individuo o
+un equipo. Los líderes más efectivos logran un equilibrio saludable entre la gestión y el entrenamiento en función de las
+necesidades de la situación, el individuo y el proyecto que lideran.
+
+Los ejemplos de dónde sería útil el coaching incluyen cuando un miembro del equipo se está diversificando hacia el uso de
+una nueva tecnología o disciplina que impulsará sus oportunidades profesionales, cuando el comportamiento de un individuo
+tiene consecuencias no deseadas en la dinámica del equipo que no son fácilmente visibles, o si un equipo se está recuperando
+de un revés.
+
+*Caso de estuido:*
+
+Aquí hay una situación en el que un gerente de proyectos o Scrum Master debería intervenir para entrenar a un equipo:
+
+Imagina que un equipo de Scrum no ha podido lanzar un producto que satisfaga las necesidades del cliente Sprint tras
+Sprint. El propietario del producto continúa comunicándole al equipo que las funciones no son del todo correctas y que
+deben volver a trabajar en el producto en el próximo Sprint o lanzamiento. El equipo se siente desinflado y muestra signos
+de agotamiento porque sigue trabajando en las mismas tres características. Esta es una oportunidad perfecta para hacer
+algo de entrenamiento con todo el equipo. Considera la posibilidad de reunirlos para una sesión de trabajo y repasar los
+tres principios del coaching:
+
+    Motivar: Pídele al equipo que haga una lluvia de ideas sobre las razones positivas por las que el cliente proporciona
+    esta retroalimentación y por qué es importante para crear un excelente producto final.
+
+    Apoyar: Trabaja con el equipo para capturar ideas sobre cómo optimizar el proceso de retroalimentación del cliente,
+    como un Sprint de diseño con la presencia del cliente.
+
+    Fomentar y valorar: Organiza un evento en el que el equipo celebre el trabajo que han realizado hasta el momento y haz
+    que el evento sea divertido e inclusivo para todos los miembros del equipo.
+
+Conclusión clave
+
+La gestión y el coaching son enfoques de liderazgo distintos que producen resultados diferentes, y ambos estilos requieren
+una comunicación efectiva. Un estilo de gestión generalmente utiliza la comunicación unidireccional para asignar tareas y
+dar directivas. El coaching se basa en la comunicación abierta en ambas direcciones para ayudar a desarrollar las habilidades
+de un empleado o equipo, para que puedan volverse autosuficientes. Algunos miembros del equipo y las culturas de la empresa
+naturalmente favorecerán un estilo sobre otro, pero ambos son habilidades de liderazgo necesarias. Como gerente de proyectos
+Agile o Scrum Master, utilizarás ambos estilos. Dicho esto, en Agile y Scrum, un estilo de coaching suele ser la mejor opción
+inicial, ya que aumentará las capacidades del equipo, lo que conducirá a una mayor agilidad con el tiempo.
+
+Al decidir qué enfoque utilizar, pregúntate:
+
+    ¿Cuál es el resultado deseado?
+
+    ¿Cuál es el nivel de habilidad del miembro del equipo que ha encontrado un problema?
+
+    ¿Qué necesita la situación ahora para alcanzar los resultados deseados?
+
 #### Desafíos de equipos Agile
 
 #### Desafíos comunes del coaching Agile
