@@ -3546,6 +3546,57 @@ Como Scrum Master o gerente de proyectos Agile, tu función es ayudar al equipo 
 
 #### Coaching versus gestión en Agile
 
+Tanto la gestión como el coaching juegan un papel importante en la gestión de proyectos. La diferencia en cada enfoque está
+en la comunicación. Gestionar se trata de dar dirección; el coaching se trata de enseñar. En la gestión de proyectos, algunas
+situaciones requerirán entrenamiento y otras, gestión. Como gerente de proyectos, es importante que comprendas cuándo cada
+conjunto de habilidades es necesario para el éxito.
+
+Gestionar
+
+Hasta ahora, nos hemos centrado en las responsabilidades de los gerentes de proyectos. Sabemos que los gerentes de proyectos
+tienen la tarea de entregar un objetivo del proyecto y resolver los problemas a medida que surgen. Los gerentes de proyectos
+mantienen a los miembros del equipo organizados y al día. Agilizan la comunicación y dan indicaciones. Esto es muy indicativo
+de un enfoque de gestión tradicional. En esencia, la gestión requiere supervisar el trabajo de otros y puede incluir:
+
+    Incorporación y orientación de nuevos empleados
+
+    Realización de reuniones
+
+    Delegación de tareas y asignaciones
+
+    Supervisión del progreso y el rendimiento frente a esas tareas
+
+    Toma de decisiones de alto nivel
+
+Sin embargo, en la gestión de proyectos Agile, los equipos están diseñados para ser autogestionados. Un equipo autodirigido
+tiene la autonomía para elegir la mejor manera de realizar su trabajo, en lugar de ser dirigido por otros de arriba hacia
+abajo. Los miembros Agile del equipo también deben sentirse empoderados y equipados para resolver problemas por su cuenta.
+
+Aun así, existen algunos casos en los que se requiere la actuación decisiva de un gerente. Los ejemplos incluyen:
+
+    si hay una emergencia que necesita una acción inmediata,
+    si estás atrasado en una fecha límite
+    si un cliente tiene necesidades muy específicas y estás más familiarizado con ellas.
+
+En un proyecto orientado a resultados con poco margen de error, alguien debe intervenir y tomar la iniciativa. Ahí es donde
+entra en juego un enfoque de gestión.
+
+Asesoramiento
+
+Aunque la gestión parece inherente a la gestión de proyectos, el coaching también es una parte importante de la función
+de gestión de proyectos.
+
+El coaching es un estilo de comunicación bidireccional destinado a influir y desarrollar las habilidades, la motivación y
+el juicio de los miembros del equipo. El coaching empodera a los miembros del equipo para llegar a soluciones por sí mismos
+enseñándoles habilidades de pensamiento crítico y toma de decisiones. Esto se logra ofreciendo retroalimentación y brindando
+oportunidades para el desarrollo profesional. Cuando surjan desafíos, los entrenadores ofrecerán orientación y luego se
+apartarán. Los entrenadores no intervienen en tiempos de crisis como lo haría un gerente. Los entrenadores hacen preguntas
+para ayudar a los miembros del equipo a llegar a conclusiones por sí mismos.
+
+Los entrenadores confían en que los miembros de su equipo pueden tomar decisiones inteligentes, y la confianza puede ser
+muy útil. Cuando los miembros del equipo se sienten confiables, aumenta la satisfacción en el lugar de trabajo y mejora
+la calidad del trabajo.
+
 #### Desafíos de equipos Agile
 
 #### Desafíos comunes del coaching Agile
