@@ -3660,6 +3660,145 @@ Al decidir qué enfoque utilizar, pregúntate:
 
 #### Desafíos de equipos Agile
 
+Como gerente de proyectos o Scrum Master. eres responsable de ayudar a los equipos a mejorar su forma de trabajar y entrenarlos
+sobre cómo adoptar efectivamente las prácticas de Scrum. Por lo tanto, anticipar y comprender cómo trabajar a través de
+desafíos comunes antes de que sucedan es muy importante.
+
+Recuerda los cuatro temas de los principios de la metodología Agile son:
+
+    entrega de valor, colaboración comercial, dinámica de equipo, y cultura y retrospectivas.
+
+Los desafíos que puedes encontrarte con un equipo de Agile que se relacionan con los tres primeros temas:
+
+El primer conjunto de desafíos está relacionado con la entrega de valor:
+
+que se trata de asegurarse de que el equipo entregue soluciones de trabajo con frecuencia. Algunas señales de que tu equipo
+está experimentando problemas de entrega de valor podrían incluir aspectos como:
+
+    El equipo ha comenzado a incumplir las fechas de entrega previstas y está tardando mucho más de lo habitual en completar
+    las tareas.
+    
+    El equipo parece estar agotado, trabaja muchas horas y muestra indicios de agotamiento.
+    
+    El equipo tiene demasiados elementos en curso en un momento dado, y esto evita que las tareas realmente lleguen a realizarse.
+
+Si comienzas a notar que tu equipo tiene dificultades en estas áreas, hay algunas cosas que puedes hacer para ayudar:
+
+    Puedes intentar hacer más demostraciones de las soluciones con el equipo para asegurarte de que cumplan con la hoja
+    de ruta de valor. Cuando el equipo hace una pausa para tener una vista panorámica del producto en funcionamiento, a
+    menudo notan áreas en las que pueden mejorar y acelerar el trabajo.
+
+    Puedes usar las retrospectivas para preguntarle al equipo si algo los está ralentizando, como esperar dependencias o
+    desafíos de comunicación.
+
+    Puede ayudar hacer una revisión rápida con el equipo y asegurarte de que todos entiendan lo que significa "hecho".
+
+    Asegúrate de centrarte solo en unas pocas historias de usuario por Sprint. Esto asegura que el equipo termine un
+    elemento juntos antes de continuar.
+
+Poner todo esto en práctica puede ser más difícil de lo que piensas. A mi equipo actual se le pide
+que cubra mucho terreno en cada Sprint, por lo que puede resultarnos tentador
+tratar de abordar demasiado a la vez. Pero, por lo general, esto solo hace
+que todo tome más tiempo, así que en realidad no es útil. Es mejor mantener el enfoque y entregar menos
+elementos del Backlog en un Sprint que entregar muchos artículos en más Sprints. De acuerdo, otro conjunto de desafíos
+que podrías encontrarte se relacionan con el tema de colaboración del negocio. En resumen, la colaboración empresarial
+se trata de asegurarse de que los desarrolladores colaboren con gente de negocios
+sobre cómo crear el producto correcto. Hay algunas señales comunes de que tu equipo
+podría estar experimentando problemas de colaboración. Tal vez notes que el equipo está abrumado
+con retroalimentación crítica o solicitudes de cambio de los empresarios
+después de revisar la solución de trabajo. Eso podría hacer que los miembros de tu equipo
+eviten pedir retroalimentación o quejarse de los cambios solicitados provenientes
+del propietario del producto o del equipo comercial. O puedes comenzar a detectar una mentalidad
+de "nosotros contra ellos" entre el equipo que hace el trabajo y la gerencia. A veces he notado esto en los comentarios negativos
+de los miembros del equipo, como,"No le des una demostración al vendedor.
+Todavía no está listo y simplemente señalarán lo que está mal". Si notas alguno de estos signos,
+hay algunas cosas que puedes hacer para ayudar a reconstruir la confianza y la colaboración
+entre los desarrolladores y los empresarios. Para empezar, trata de abordar el feedback crítico y las solicitudes de cambio con más demostraciones. Esto asegura que los comentarios
+lleguen a un ritmo constante. y que todos los involucrados tengan una comprensión
+compartida de lo que significa «hecho». A continuación, considera realizar
+un Sprint de diseño de soluciones, es decir, todo un Sprint dedicado
+a trabajar únicamente en el diseño de la solución. Estos son más efectivos cuando el equipo de trabajo y los empresarios realmente se sientan juntos
+y colaboran en la solución. Finalmente, puedes ayudar a tu equipo a concentrarse
+al garantizar que los cambios en el Backlog solo se introduzcan entre Sprints. Esto evita que tu equipo se distraiga
+con posibles cambios que podrían estresarlos y conducir al resentimiento. Por ejemplo, una vez estuve en un Equipo de Scrum en el que al director de ingeniería le encantaba
+pasar por el escritorio del ingeniero para pedir un tablero rápido, que es una página web
+que muestra datos. Pedirle al ingeniero que hiciera esto
+interrumpió por completo el enfoque del equipo y redujo su velocidad. Finalmente decidimos pedirle al director
+que acudiera directamente al Scrum Master si necesitaban algo para que pudiese planificarse correctamente
+sin interrumpir el flujo de trabajo actual del equipo. Bien, pasemos al tercer tema: dinámica y cultura de equipo. Los seres humanos son criaturas complejas
+con muchas motivaciones y estilos de trabajo, por lo que es probable que encuentres
+al menos algunos desafíos en esta área. Aquí hay algunos signos comunes de dinámica de equipo y cuestiones culturales para tener en cuenta. El primero es la baja moral del equipo. Si las personas están muy malhumoradas, irritadas
+o generalmente de mal humor, entonces es posible que tengas que resolver
+algunos problemas subyacentes de dinámica de equipo. Luego, ten cuidado con las señales de que el equipo
+está experimentando muchos conflictos. Si las personas discuten mucho y los problemas
+no se resuelven, es probable que el equipo necesite ayuda. No todos se saldrán con la suya. Si los miembros del equipo se sienten resentidos
+o guardan rencores, esto tendrá un impacto negativo
+en el rendimiento del equipo. Por último, y esto puede que te sorprenda, pero un bajo nivel de conflictos también puede ser
+una señal de que el equipo está experimentando problemas. Por lo general, se nos enseña a creer
+que la falta de conflicto es algo bueno, ¿verdad? Pero si un equipo nunca tiene desacuerdos, es una señal de que podrían estar preocupados
+por iniciar un conflicto porque no sienten que sea un ambiente seguro. Ser abierto y valiente son dos
+de nuestros valores de Scrum, pero no siempre es fácil ponerlos en práctica. Como gerente de proyectos, parte de tu rol
+es ayudar a tu equipo a sentirse cómodo y ser francos el uno con el otro
+y trabajar juntos en los conflictos. Si observas estos u otros signos claros
+de angustia en el equipo, aquí hay algunas ideas que puedes probar. Puedes realizar una sesión de lluvia de ideas en equipo
+sobre cómo trabajar mejor juntos. Pídele al equipo que identifique
+algunas áreas para mejorar. Un ejemplo de ejercicio podría consistir
+en pedirle al equipo que escriba historias sobre el peor equipo en el que han trabajado y el mejor equipo en el que han trabajado, y que luego las compartan en una reunión. Luego, puedes hacer que el equipo cree una lista
+de recomendaciones y restricciones para trabajar juntos, basada en las historias que todos compartieron. Otra idea es cambiar los flujos de trabajo. Trata de emparejar a las personas
+para que trabajen juntas en una tarea difícil o de cambiar la forma en que diriges
+una de tus reuniones regulares. También puede ser útil tomar
+una clase de capacitación juntos o mirar un video sobre dinámicas de equipo
+y analizarlo en grupo. También puedes probar una técnica retrospectiva
+de Internet. Hay muchos excelentes recursos por ahí. Una de mis técnicas retrospectivas favoritas se llama Técnica de pensamiento de los seis sombreros. En esta técnica, cada miembro del equipo elige un sombrero para explorar el tema de la retrospectiva. Cada sombrero implica un objetivo diferente, como discutir aspectos positivos o negativos
+que sucedieron durante el Sprint o compartir declaraciones emotivas. Esto ayuda a garantizar que el equipo
+adopte un enfoque completo para la retrospectiva. Muy bien, eso es todo por este video. Ahora tienes una idea de algunos de los desafíos comunes
+que pueden enfrentar los equipos de metodología Agile y cómo abordarlos. Próximamente, exploraremos algunos problemas más
+que puedes encontrarte como gerente de proyectos o Scrum Master,
+
+*En resumen:*
+
+Entrega de valor
+
+    Fechas de entrega incumplidas
+    Tareas que tardan más de lo esperado
+    Agotamiento del equipo
+    Demasiados elementos en progreso
+
+Colaboración empresarial
+
+    Comentarios críticos o solicitudes de cambio abrumadores
+    Evitación de comentarios
+    Mentalidad de "nosotros contra ellos"
+
+Dinámica y cultura del equipo
+
+    Baja moral del equipo
+    Conflictos frecuentes
+    Resentimientos o rencores
+    Bajo conflicto (puede indicar miedo a los conflictos)
+
+Consejos para abordar los desafíos
+
+Entrega de valor
+
+    Realizar más demostraciones
+    Utilizar retrospectivas para identificar obstáculos
+    Definir claramente el significado de "hecho"
+    Centrarse en unas pocas historias de usuario por Sprint
+
+Colaboración empresarial
+
+    Realizar más demostraciones para gestionar los comentarios
+    Realizar un Sprint de diseño de soluciones
+    Introducir cambios en el Backlog solo entre Sprints
+
+Dinámica y cultura del equipo
+
+    Realizar sesiones de lluvia de ideas sobre cómo mejorar el trabajo en equipo
+    Cambiar los flujos de trabajo
+    Realizar capacitaciones o ver videos sobre dinámica de equipos
+    Utilizar técnicas de retrospectiva (por ejemplo, Técnica de pensamiento de los seis sombreros)
+
 #### Desafíos comunes del coaching Agile
 
 ### Oportunidades Agile
