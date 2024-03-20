@@ -3726,23 +3726,30 @@ entre los desarrolladores y los empresarios:
     Puedes ayudar a tu equipo a concentrarse al garantizar que los cambios en el Backlog solo se introduzcan entre Sprints,
     Esto evita que tu equipo se distraiga con posibles cambios que podrían estresarlos y conducir al resentimiento.
 
-Tercer tema, dinámica y cultura de equipo: Los seres humanos son criaturas complejas
-con muchas motivaciones y estilos de trabajo, por lo que es probable que encuentres
-al menos algunos desafíos en esta área. Aquí hay algunos signos comunes de dinámica de equipo y cuestiones culturales para tener en cuenta. El primero es la baja moral del equipo. Si las personas están muy malhumoradas, irritadas
-o generalmente de mal humor, entonces es posible que tengas que resolver
-algunos problemas subyacentes de dinámica de equipo. Luego, ten cuidado con las señales de que el equipo
-está experimentando muchos conflictos. Si las personas discuten mucho y los problemas
-no se resuelven, es probable que el equipo necesite ayuda. No todos se saldrán con la suya. Si los miembros del equipo se sienten resentidos
-o guardan rencores, esto tendrá un impacto negativo
-en el rendimiento del equipo. Por último, y esto puede que te sorprenda, pero un bajo nivel de conflictos también puede ser
-una señal de que el equipo está experimentando problemas. Por lo general, se nos enseña a creer
-que la falta de conflicto es algo bueno, ¿verdad? Pero si un equipo nunca tiene desacuerdos, es una señal de que podrían estar preocupados
-por iniciar un conflicto porque no sienten que sea un ambiente seguro. Ser abierto y valiente son dos
-de nuestros valores de Scrum, pero no siempre es fácil ponerlos en práctica. Como gerente de proyectos, parte de tu rol
-es ayudar a tu equipo a sentirse cómodo y ser francos el uno con el otro
-y trabajar juntos en los conflictos. Si observas estos u otros signos claros
-de angustia en el equipo, aquí hay algunas ideas que puedes probar. Puedes realizar una sesión de lluvia de ideas en equipo
-sobre cómo trabajar mejor juntos. Pídele al equipo que identifique
+Tercer tema, dinámica y cultura de equipo:
+
+Los seres humanos son criaturas complejas con muchas motivaciones y estilos de trabajo, por lo que es probable que encuentres
+al menos algunos desafíos en esta área. Aquí hay algunos signos comunes de dinámica de equipo y cuestiones culturales para
+tener en cuenta:
+
+    El primero es la baja moral del equipo. Si las personas están muy malhumoradas, irritadas o generalmente de mal humor,
+    entonces es posible que tengas que resolver algunos problemas subyacentes de dinámica de equipo.
+
+    Luego, ten cuidado con las señales de que el equipo está experimentando muchos conflictos. Si las personas discuten
+    mucho y los problemas no se resuelven, es probable que el equipo necesite ayuda. No todos se saldrán con la suya. Si
+    los miembros del equipo se sienten resentidos o guardan rencores, esto tendrá un impacto negativo en el rendimiento
+    del equipo.
+
+    Detectar bajo nivel de conflictos también puede ser una señal de que el equipo está experimentando problemas. Por lo
+    general, se nos enseña a creer que la falta de conflicto es algo bueno, Pero si un equipo nunca tiene desacuerdos, es
+    una señal de que podrían estar preocupados por iniciar un conflicto porque no sienten que sea un ambiente seguro. Ser
+    abierto y valiente son dos de nuestros valores de Scrum, pero no siempre es fácil ponerlos en práctica. Como gerente
+    de proyectos, parte de tu rol es ayudar a tu equipo a sentirse cómodo y ser francos el uno con el otro y trabajar
+    juntos en los conflictos.
+
+Si observas estos u otros signos claros de angustia en el equipo, aquí hay algunas ideas que puedes probar:
+
+Puedes realizar una sesión de lluvia de ideas en equipo sobre cómo trabajar mejor juntos. Pídele al equipo que identifique
 algunas áreas para mejorar. Un ejemplo de ejercicio podría consistir
 en pedirle al equipo que escriba historias sobre el peor equipo en el que han trabajado y el mejor equipo en el que han trabajado, y que luego las compartan en una reunión. Luego, puedes hacer que el equipo cree una lista
 de recomendaciones y restricciones para trabajar juntos, basada en las historias que todos compartieron. Otra idea es cambiar los flujos de trabajo. Trata de emparejar a las personas
