@@ -3920,6 +3920,44 @@ e interrumpir el flujo de trabajo. Hay algunas cosas que puedes hacer para abord
 En resumen, los tres desafíos principales que hemos cubierto son la administración de una hoja de ruta de producto estable,
 la implementación incompleta de Scrum y la falta de estabilidad del equipo.
 
+Desafíos comunes de la gestión de equipos Agile
+
+Gestión de una hoja de ruta de producto estable:
+
+    Ambición excesiva del producto.
+    Supuestos del producto.
+
+Implementación incompleta de Scrum:
+
+    Roles y responsabilidades poco claros
+    Eventos omitidos o combinados
+    Falta de coaching de Scrum
+
+Falta de estabilidad del equipo:
+
+    Incorporación y salida frecuentes de miembros
+    Sprints más cortos para facilitar las transiciones
+
+Consejos para abordar estos desafíos
+
+Hoja de ruta del producto:
+
+    Acordar el manejo de nuevas oportunidades
+    Revisar la hoja de ruta regularmente con el equipo
+    Compartir conocimientos entre el Product Owner y el equipo de desarrollo
+
+Implementación de Scrum:
+
+    Definir y asignar roles claramente
+    Mantener eventos separados para transparencia y adaptación
+    Proporcionar coaching de Scrum para comprender y adoptar las prácticas
+
+Estabilidad del equipo:
+
+    Proceso de incorporación rápido
+    Programación en pareja para la capacitación en el trabajo
+    Sprints más cortos para facilitar las transiciones
+
 ### Oportunidades Agile
 
 ### Repaso del curso: Agile en la práctica
