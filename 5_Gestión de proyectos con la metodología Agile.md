@@ -3503,8 +3503,6 @@ Conclusión
 Al aplicar estas claves, los gerentes de proyectos pueden influir eficazmente en los demás para facilitar el cambio
 organizacional y lograr resultados significativos y sostenibles.
 
-#### Cuadro de aviso de la discusión: Fuentes de influencia
-
 #### Entrenar a un equipo Agile
 
 #### Coaching versus gestión en Agile
