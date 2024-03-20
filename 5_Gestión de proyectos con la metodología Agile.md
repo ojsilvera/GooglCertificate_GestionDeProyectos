@@ -3905,21 +3905,20 @@ La solución a todos estos desafíos es implementar Scrum por completo:
 El último gran desafío  on los equipos de Agile y Scrum es la falta de estabilidad del equipo:
 
 Cuando el equipo cambia mucho, y hay gente que se va y se une con frecuencia, esto puede hacer que todo sea impredecible
-e interrumpir el flujo de trabajo. Hay algunas cosas que puedes hacer
-para abordar la inestabilidad en tu equipo. Primero, debes contar con un proceso de incorporación
-rápido de nuevos miembros del equipo para ayudarlos a conocer al resto del equipo y entender el proyecto. En segundo lugar, utiliza un estilo de programación
-en pareja, en el que un nuevo miembro del equipo se reúne
-con un colega y comienza a aprender en el trabajo. Esto también ayuda si las personas abandonan el equipo,
-ya que un compañero debería poder retomar donde lo dejaron. Y tercero, si la composición del equipo cambia
-porque los miembros se van, intenta tener Sprints más cortos. De esta manera, los miembros del equipo
-pueden terminar el trabajo de su último Sprint antes de irse. En resumen, los tres desafíos principales
-que hemos cubierto en este video son la administración de una hoja de ruta de producto estable, la implementación incompleta de Scrum
-y la falta de estabilidad del equipo. Me he encontrado con cada uno de estos desafíos
-y más en muchos de mis equipos. Lo maravilloso de Agile es que hay una gran comunidad
-de impulsores de la metodología Agile que están felices de ayudar con cualquier desafío
-que puedas enfrentar. Incluso un impulsor de la metodología Agile
-experimentado como yo pide ayuda de vez en cuando. Próximamente, exploraremos
-cómo está evolucionando Agile y manteniéndose al día. Ahora, hay una forma de usar Agile.
+e interrumpir el flujo de trabajo. Hay algunas cosas que puedes hacer para abordar la inestabilidad en tu equipo:
+
+    Primero, debes contar con un proceso de incorporación rápido de nuevos miembros del equipo para ayudarlos a conocer
+    al resto del equipo y entender el proyecto.
+
+    En segundo lugar, utiliza un estilo de programación en pareja, en el que un nuevo miembro del equipo se reúne
+    con un colega y comienza a aprender en el trabajo. Esto también ayuda si las personas abandonan el equipo, ya
+    que un compañero debería poder retomar donde lo dejaron.
+
+    tercero, si la composición del equipo cambia porque los miembros se van, intenta tener Sprints más cortos. De
+    esta manera, los miembros del equipo pueden terminar el trabajo de su último Sprint antes de irse.
+
+En resumen, los tres desafíos principales que hemos cubierto son la administración de una hoja de ruta de producto estable,
+la implementación incompleta de Scrum y la falta de estabilidad del equipo.
 
 ### Oportunidades Agile
 
