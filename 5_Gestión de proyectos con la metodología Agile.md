@@ -3749,19 +3749,24 @@ tener en cuenta:
 
 Si observas estos u otros signos claros de angustia en el equipo, aquí hay algunas ideas que puedes probar:
 
-Puedes realizar una sesión de lluvia de ideas en equipo sobre cómo trabajar mejor juntos. Pídele al equipo que identifique
-algunas áreas para mejorar. Un ejemplo de ejercicio podría consistir
-en pedirle al equipo que escriba historias sobre el peor equipo en el que han trabajado y el mejor equipo en el que han trabajado, y que luego las compartan en una reunión. Luego, puedes hacer que el equipo cree una lista
-de recomendaciones y restricciones para trabajar juntos, basada en las historias que todos compartieron. Otra idea es cambiar los flujos de trabajo. Trata de emparejar a las personas
-para que trabajen juntas en una tarea difícil o de cambiar la forma en que diriges
-una de tus reuniones regulares. También puede ser útil tomar
-una clase de capacitación juntos o mirar un video sobre dinámicas de equipo
-y analizarlo en grupo. También puedes probar una técnica retrospectiva
-de Internet. Hay muchos excelentes recursos por ahí. Una de mis técnicas retrospectivas favoritas se llama Técnica de pensamiento de los seis sombreros. En esta técnica, cada miembro del equipo elige un sombrero para explorar el tema de la retrospectiva. Cada sombrero implica un objetivo diferente, como discutir aspectos positivos o negativos
-que sucedieron durante el Sprint o compartir declaraciones emotivas. Esto ayuda a garantizar que el equipo
-adopte un enfoque completo para la retrospectiva. Muy bien, eso es todo por este video. Ahora tienes una idea de algunos de los desafíos comunes
-que pueden enfrentar los equipos de metodología Agile y cómo abordarlos. Próximamente, exploraremos algunos problemas más
-que puedes encontrarte como gerente de proyectos o Scrum Master,
+    Puedes realizar una sesión de lluvia de ideas en equipo sobre cómo trabajar mejor juntos. Pídele al equipo que identifique
+    algunas áreas para mejorar. Un ejemplo de ejercicio podría consistir en pedirle al equipo que escriba historias sobre
+    el peor equipo en el que han trabajado y el mejor equipo en el que han trabajado, y que luego las compartan en una
+    reunión.
+
+    Puedes hacer que el equipo cree una lista de recomendaciones y restricciones para trabajar juntos, basada en las historias
+    que todos compartieron.
+
+    Cambiar los flujos de trabajo. Trata de emparejar a las personas para que trabajen juntas en una tarea difícil o de
+    cambiar la forma en que diriges una de tus reuniones regulares.
+
+    Puede ser útil tomar una clase de capacitación juntos o mirar un video sobre dinámicas de equipo y analizarlo en grupo.
+
+    Puedes probar una técnica retrospectiva de Internet. Hay muchos excelentes recursos por ahí. Una se llama Técnica de
+    pensamiento de los seis sombreros. En esta técnica, cada miembro del equipo elige un sombrero para explorar el tema de la
+    retrospectiva. Cada sombrero implica un objetivo diferente, como discutir aspectos positivos o negativos que sucedieron
+    durante el Sprint o compartir declaraciones emotivas. Esto ayuda a garantizar que el equipo adopte un enfoque completo
+    para la retrospectiva.
 
 *En resumen:*
 
