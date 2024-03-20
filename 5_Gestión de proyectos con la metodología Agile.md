@@ -3265,6 +3265,60 @@ con mayor confianza.
 
 #### Facilitar el cambio organizacional
 
+A medida que realiza una búsqueda de empleo en gestión de proyectos, es probable que descubras que muchas de las organizaciones
+a las que te postulas y ya usan Agile, están haciendo el cambio para implementar Agile, o aún no usan Agile, pero están
+listas para la transición.
+
+Como gerente de proyectos de nivel básico, no es probable que se espere que lideres un cambio completo a Agile en una
+gran organización. Pero puede esperarse que apoyes el proceso de cambio. Por otro lado, puede que te contrate una
+organización más pequeña que quiera que lideres el cambio.
+
+Primero, Cuando una organización cambia la forma en que realiza sus negocios, por lo general, también requiere un cambio
+en su cultura. Entender la cultura de la organización y el proceso de gestión de cambios es fundamental a la hora de
+introducir nuevas formas de trabajar.
+
+La cultura de la organización se basa en valores compartidos en el lugar de trabajo y se evidencia en los comportamientos
+de las personas, las actividades, la forma en que se comunican y cómo trabajan entre sí. Un cambio que no está sincronizado
+con la cultura existente es mucho más difícil de completar.hay investigaciones que demuestran que las empresas que no tienen
+en cuenta los aspectos culturales de la metodología Agile tienen más probabilidades de fallar.
+
+    La gestión de cambios es el proceso de hacer que la gente adopte un nuevo producto, proceso, o en el caso de Agile,
+    un nuevo sistema de valores.
+
+A menos que la organización tenga muchos años de comportamientos y experiencia en metodología Agile, puede que te enfrentes
+a un cambio en la cultura de la organización. Estos cambios toman tiempo, a veces años en completarse. Como gerente de
+proyectos, es posible que solo implementes algunos cambios, y eso está bien. Aun así agregarás valor mostrándole a tu
+equipo u organización formas nuevas y diferentes de abordar el negocio.
+
+    Alguien dijo: "El cambio requiere persistencia paciente".
+
+Puede parecer que todo está tardando demasiado, pero, en muchos casos, los pequeños cambios se suman a un gran cambio a
+largo plazo.
+
+*¿Cuáles son algunas formas en que puedes incorporar Agile o Scrum a un nuevo equipo?*
+
+Primero, está el concepto de crear un sentido de propiedad y urgencia. Cuando las personas tienen una sensación de propiedad
+y urgencia en torno a un proyecto, aumenta el interés, la motivación y el compromiso con el resultado del proyecto. Una manera
+de crear un sentido de propiedad es encontrar un patrocinador ejecutivo que también tenga un sentido de propiedad por el
+cambio que está creando. Siempre que sea posible, señalar conexiones entre los cambios que estan haciendo y la misión o los
+valores declarados de la empresa. Tener la aceptación de alguien de nivel jerárquico superior aumenta tus posibilidades de
+impulsar con éxito cualquier cambio en la cultura de la organización.Idealmente, el patrocinador reforzará los beneficios
+de Agile para la organización y brindará el apoyo y los recursos necesarios.
+
+¿Y si se genera un sentido de la urgencia? para esto preguntar al equipo, a la organización, y a los interesados qué funciona
+y qué no funciona en este momento. Luego asegurarse de que los cambios se relacionan directamente con esas oportunidades, Aquí
+algunas preguntas que podrian hacerse:
+
+    ¿Qué nos impide ofrecer el mejor producto posible para nuestros clientes?
+    ¿Qué permite que nuestros competidores nos superen en este mercado?
+    ¿Cómo podemos ayudar a nuestros equipos a ser más productivos y sentirse apoyados en su trabajo?
+
+Esto no solo te ayuda a priorizar el trabajo, sino que el equipo piense en las posibilidades que disfrutarán si el cambio
+es exitoso. Puedes usar estas preguntas más adelante para recopilar comentarios durante el cambio. Volver a estas preguntas
+y demostrar las mejoras incrementales es el verdadero espíritu de Agile.
+
+Volvamos con nuestros amigos de Virtual Verde. Cuando el equipo se dispuso a crear este proyecto de Agile y el cambio hacia un enfoque Agile, se dieron cuenta de que el CEO de Office Green quería asegurarse de que se aprovechasen las tendencias del mercado ya que más personas empezaron a trabajar en oficinas en casa. Crearon un sentido de urgencia al resaltar que la decoración de la oficina en casa se estaba convirtiendo en una tendencia popular en línea, y querían que Office Green aprovechase esta tendencia. Por último, el equipo de Virtual Verde tenía mucha experiencia por su proyecto de Plant Pals, por lo que pudieron reunir un equipo que estaba motivado para aplicar lo que había aprendido y probar un enfoque diferente para aprovechar una nueva oportunidad de mercado. Incorporar la metodología Agile o Scrum a un nuevo equipo podría ser un reto, pero bien valía la pena el esfuerzo. Al aplicar algunas de estas técnicas, aumentarás tus posibilidades de éxito. Descubrí que con un poco de persistencia paciente, puedes superar parte del escepticismo inicial, y los beneficios de un enfoque Agile comenzarán a ser evidentes para el equipo. Una vez que esto suceda, el cambio será más fácil de impulsar a lo largo del tiempo junto con sus compromisos. Una vez tuve un gran equipo global en Google de unos 200 desarrolladores. Mi director y yo queríamos transformarlos en una organización Agile. Nos tomó cerca de dos años y muchos viajes a diferentes lugares de trabajo para que yo y mi equipo de gerentes de proyectos pudiéramos entregar las herramientas, los procesos y el coaching necesarios para que el equipo se pusiera en marcha con una metodología Agile. Abordé esa transformación tal como lo describí aquí y funcionó. En el siguiente video, compartiré algunos consejos para orientar a equipos nuevos y en desarrollo en la metodología Agile. Nos vemos ahí.
+
 #### El framework de cambio del influenciador
 
 #### Cuadro de aviso de la discusión: Fuentes de influencia
