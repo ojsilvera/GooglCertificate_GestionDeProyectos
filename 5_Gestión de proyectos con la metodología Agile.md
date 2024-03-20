@@ -3814,6 +3814,102 @@ Dinámica y cultura del equipo
 
 #### Desafíos comunes del coaching Agile
 
+Los tres desafíos en los que nos centraremos son:
+
+    la gestión de una hoja de ruta de productos estable
+    la implementación incompleta de Scrum
+    la falta de estabilidad dentro del equipo. Primero, analicemos el desafío de administrar
+
+una hoja de ruta de productos estable:
+
+Los proyectos de Agile casi siempre experimentan cambios en la hoja de ruta del producto. Ser capaz de responder rápida y
+productivamente a estos cambios es un valor central de Agile. Pero es posible que haya demasiados cambios que afecten al
+proyecto, lo que puede conducir a una hoja de ruta del producto inestable.
+
+Hay dos causas principales de una hoja de ruta de producto inestable:
+
+    ambición de producto y supuestos del producto.
+
+Primero hablemos de la ambición del producto. La ambición del producto plantea un desafío cuando el liderazgo del producto
+es demasiado ambicioso sobre lo que el equipo puede ofrecer de manera realista. El propietario del producto es responsable
+de representar el proyecto ante los clientes y ejecutivos porque el propietario del producto quiere hacer felices a los
+interesados. Puede ser fácil para ellos prometer demasiado respecto de lo que puede ofrecer el proyecto.
+
+¿cómo lidias con este desafío? Aquí hay tres ideas para mantener un plan de gestión de hoja de ruta saludable entre tú y
+el encargado del producto.
+
+Primero, acuerda por adelantado cómo manejar las nuevas oportunidades, define cuándo se revisan y estiman, y cómo el
+cliente o la gerencia cumplen con los compromisos.
+
+En segundo lugar, define revisiones periódicas de la hoja de ruta con todo el equipo, al menos trimestralmente, para que
+todos sepan qué esperar.
+
+tercero, promueve el intercambio de conocimientos entre el propietario del producto y el equipo de desarrollo para que el
+propietario del producto sepa cuánto esfuerzo requiere desarrollar el producto y el equipo sea consciente de los cambios
+lo antes posible.
+
+La segunda causa es hacer demasiadas suposiciones sobre el producto:
+
+Cuando hay incertidumbre en un proyecto, es posible que debas hacer
+algunas suposiciones para impulsar el avance. Pero hacer demasiadas suposiciones
+puede poner en peligro el éxito del equipo. Volvamos a nuestro ejemplo de Virtual Verde. Enviar plantas a los hogares de los clientes
+es un proceso complejo. Es necesario tener en cuenta muchos factores diferentes, como qué plantas se venderán mejor, qué plantas
+se mantendrán saludables en una amplia variedad de climas y entornos, y con qué proveedores trabajar. El equipo hace todo lo posible para estudiar el mercado
+y la oportunidad, pero tienen que hacer algunas suposiciones
+y seguir adelante con las decisiones que se basan en información menos que perfecta para lidiar
+con los problemas de supuestos del producto. Documenta los supuestos y hazlos transparentes. Esto te permite analizar los supuestos como equipo
+y acordar que son supuestos seguros o decidir cuestionarlos y verificarlos dos veces. Si decides verificarlos dos veces, puedes utilizar
+una investigación de usuario imparcial. La investigación de usuarios imparcial recopila información
+sobre lo que los usuarios realmente quieren. Te permite confirmar o rechazar suposiciones y te ayuda a avanzar con confianza. La investigación de usuarios podría implicar
+realizar encuestas, organizar grupos de enfoque o utilizar otros métodos para recopilar datos objetivos
+sobre tus usuarios. El próximo gran desafío que podrías encontrarte
+se relaciona con una implementación incompleta de Scrum. Esto sucede cuando las prácticas de Scrum
+solo se implementan parcialmente o cuando las prácticas de Scrum se implementan
+sin el apoyo ni el entrenamiento adecuados. Los roles, artefactos y actividades de Scrum
+están diseñados para trabajar juntos como un conjunto. Si solo los implementas parcialmente,
+podrías terminar reduciendo sus beneficios. La implementación incompleta de Scrum
+puede causar muchos problemas. En primer lugar, puede conducir a la pérdida de funciones
+y responsabilidades claras. Para implementar Scrum por completo, deberías definir los roles del equipo y luego cubrir esos roles con individuos específicos. Por ejemplo, si intentas que un Desarrollador
+también actúe como Scrum Master, es posible que no tengan el ancho de banda suficiente
+para desempeñar muy bien ninguna de las funciones. Es mejor tener desarrolladores en el equipo de desarrollo y que tú, como gerente de proyectos, seas el Scrum Master. También puedes sentirte tentado a omitir
+algunos eventos o combinarlos para ahorrar tiempo, pero la falta de límites claros para la revisión de Sprint,
+la retrospectiva de Sprint y la planificación de Sprint puede conducir a la reducción
+de la transparencia, la inspección y la adaptación, y todos estos son esenciales para experimentar
+todos los beneficios de Scrum. Finalmente, no proporcionar al equipo
+el asesoramiento de Scrum que necesita también significa que no has cumplido
+tu rol como Scrum Master. Es tu trabajo explicar en detalle
+las prácticas de Scrum y proporcionar entrenamiento para que tu equipo entienda el razonamiento
+detrás de las prácticas y pueda aprovechar sus beneficios. La solución a todos estos desafíos
+es implementar Scrum por completo. Ser el Scrum Master es un rol fundamental. Eres el entrenador, por lo que debes
+reforzar las conexiones entre las actividades del equipo
+y los valores de Scrum y Agile. Por ejemplo, si tu equipo se queja
+de las reuniones breves diarias, recuérdales que el propósito de las reuniones breves
+es obtener retroalimentación, desbloquear el trabajo, pedir ayuda y reforzar la importancia
+de mantenerse enfocado en los objetivos del Sprint. También puedes asegurarte de que los roles
+estén bien definidos y se cumplan correctamente. Por ejemplo, asegúrate de que todos los miembros
+del equipo entiendan sus propias funciones, además de los roles de sus compañeros de equipo
+y cómo interactúan esos roles. Por ejemplo, el encargado del producto
+se asegura de que creemos el producto correcto, el equipo de desarrollo se asegura
+de que lo creemos correctamente, y el Scrum Master se asegura
+de que lo creemos rápido. Finalmente, el último gran desafío
+que podrías enfrentar con los equipos de Agile y Scrum es la falta de estabilidad del equipo. Cuando el equipo cambia mucho,
+y hay gente que se va y se une con frecuencia, esto puede hacer que todo sea impredecible
+e interrumpir el flujo de trabajo. Hay algunas cosas que puedes hacer
+para abordar la inestabilidad en tu equipo. Primero, debes contar con un proceso de incorporación
+rápido de nuevos miembros del equipo para ayudarlos a conocer al resto del equipo y entender el proyecto. En segundo lugar, utiliza un estilo de programación
+en pareja, en el que un nuevo miembro del equipo se reúne
+con un colega y comienza a aprender en el trabajo. Esto también ayuda si las personas abandonan el equipo,
+ya que un compañero debería poder retomar donde lo dejaron. Y tercero, si la composición del equipo cambia
+porque los miembros se van, intenta tener Sprints más cortos. De esta manera, los miembros del equipo
+pueden terminar el trabajo de su último Sprint antes de irse. En resumen, los tres desafíos principales
+que hemos cubierto en este video son la administración de una hoja de ruta de producto estable, la implementación incompleta de Scrum
+y la falta de estabilidad del equipo. Me he encontrado con cada uno de estos desafíos
+y más en muchos de mis equipos. Lo maravilloso de Agile es que hay una gran comunidad
+de impulsores de la metodología Agile que están felices de ayudar con cualquier desafío
+que puedas enfrentar. Incluso un impulsor de la metodología Agile
+experimentado como yo pide ayuda de vez en cuando. Próximamente, exploraremos
+cómo está evolucionando Agile y manteniéndose al día. Ahora, hay una forma de usar Agile.
+
 ### Oportunidades Agile
 
 ### Repaso del curso: Agile en la práctica
