@@ -4029,9 +4029,168 @@ En resumen:
 
 - Los profesionales de Agile juegan un papel crucial en la evolución y el avance de Agile.
 
-#### La relación entre Agile y DevOps
-
 #### Escalamiento de Agile
+
+Framework Agile Escalado (SAFe), Scrum de Scrums, Scrum a gran escala (LeSS), Entrega Agile Disciplinada (DAD) y el modelo
+de Spotify.
+
+Framework Agile Escalado (SAFe)
+
+El framework escalado más popular es el *Framework Agile Escalado* o SAFe. SAFe es un framework de escalamiento Lean-Agile
+que se basa en gran medida en conceptos de las metodologías Kanban, Scrum, programación extrema (XP), DevOps y Design
+Thinking.
+
+SAFe pone el objetivo de ofrecer valor por encima de todo: el primer principio de SAFe es "tomar una visión económica". El
+framework organiza todo el trabajo y los equipos en "trenes de lanzamiento Agile" basados en flujos de valor; por ejemplo,
+ventas.
+
+El framework SAFe es maduro y proporciona una guía detallada sobre todos los elementos del uso de SAFe, pero algunos elementos
+son más críticos que otros, SAFe, como la mayoría de las prácticas Agile, se basa en un conjunto de valores fundamentales:
+
+    Alineación: Sincronizar la planificación y ejecución de las actividades SAFe en todos los niveles de la organización.
+
+    Calidad incorporada: Incorporar calidad en todas las etapas del desarrollo de la solución.
+
+    Transparencia: Hacer que las actividades de ejecución sean visibles en todos los niveles para generar confianza entre
+    los equipos y en toda la organización.
+
+    Ejecución del programa: Centrarse en los sistemas de trabajo y los resultados comerciales.
+
+    Liderazgo: Modelar los valores y principios de SAFe.
+
+Scrum de Scrums
+
+Es una técnica para integrar el trabajo de múltiples equipos Scrum más pequeños que trabajan en el mismo proyecto o
+solución. La coordinación entre los equipos es fundamental para garantizar que los entregables de cada equipo se puedan
+integrar en un entregable más grande y cohesivo.
+
+Scrum de Scrums involucra los siguientes elementos:
+
+    Un grupo de al menos 12 o más personas divididas en Equipos Scrum de cinco a diez personas cada uno
+
+    Reuniones de Scrum de Scrums, que se llevan a cabo una vez por semana, dos veces por semana o diariamente. Estas
+    reuniones siguen el mismo formato que una reunión de Scrum diario, pero se enfocan en el equipo Scrum. En estas reuniones
+    discutirás cuestiones como: “¿Qué hizo el equipo ayer? ¿Qué problemas ocurrieron, si los hubo, que están afectando
+    negativamente a tu equipo? ¿Qué quiere lograr tu equipo antes de que nos volvamos a encontrar?
+    ¿Tu equipo no puede avanzar en ninguna tarea?”
+
+    Un Scrum Master o "embajador" designado para cada equipo que participa en las reuniones de Scrum de Scrums y un Scrum
+    de Scrums Master que se enfoca en el proceso general de Scrum en varios equipos.
+
+    Reuniones de planificación de sprint, revisión de sprint y retrospectiva de sprint
+
+Más allá de estas pautas muy básicas, no existe un marco o metodología oficial para implementar Scrum de Scrums. Scrum de
+Scrums asume que los equipos tienen una buena comprensión del trabajo de Scrum y pueden aplicar los principios de escalamiento
+a su forma de trabajar. Sobre la base de este conocimiento, diseñan e iteran su propio enfoque para coordinar varios equipos
+que trabajan en el mismo producto.
+
+Scrum a gran escala (LeSS)
+
+es un marco que tiene como objetivo maximizar la capacidad del equipo Scrum para entregar valor y reducir el desperdicio
+en organizaciones más grandes. LeSS surgió de más de 600 experimentos que expandieron la práctica de Scrum a grupos más
+grandes.
+
+LeSS incluye diez principios para aplicar el valor, los elementos y el propósito general de Scrum en toda la organización,
+Estos principios se diseñaron para crear equipos más centrados en el cliente y la colaboración. Los equipos de LeSS priorizan
+el aprendizaje, la transparencia y las necesidades del cliente. Los diez principios de LeSS son:
+
+    Scrum a gran escala (LeSS) es Scrum: Aplicar los valores y principios de Scrum a un equipo más grande.
+
+    Control empírico de procesos: Inspeccionar, adaptar y aprender de la experiencia para mejorar los procesos.
+
+    Transparencia: Garantizar la claridad y la accesibilidad en todo el proyecto.
+
+    Más con menos: Crear solo los procesos, roles, artefactos y desperdicios necesarios al escalar.
+
+    Enfoque en el producto completo: Adoptar un pensamiento holístico en el producto, asegurándote de que todas las partes
+    sirvan al todo.
+
+    Centrado en el cliente: Priorizar las necesidades y los valores del cliente en el proceso.
+
+    Mejora continua hacia la perfección: Mejorar el producto y tu proceso durante cada Sprint
+
+    Pensamiento sistémico: Pensar en el sistema como un todo; no perderse en los detalles.
+
+    Pensamiento Lean: Buscar la mejora continua, aspirar a la perfección y respetar a las personas.
+
+    Teoría de colas: Adoptar los principios Lean de "flujo", administrar el tamaño de la cola y "minimizar la multitarea"
+    para seguir entregando valor.
+
+Entrega Agile Disciplinada (DAD)
+
+es un enfoque híbrido que combina las estrategias de varios marcos Agile, incluidos Kanban, LeSS, Lean Development,
+programación extrema, metodología Agile y más. DAD guía a las personas a través de las decisiones relacionadas con el
+proceso que los frameworks como SAFe y Scrum de Scrums dejan abiertos. DAD te ayuda a desarrollar una estrategia Agile
+escalada basada en el contexto y los resultados deseados.
+
+DAD está organizado en cuatro "capas":
+
+    Fundamentos analiza los principios, las pautas, los conceptos Agile, las funciones y las definiciones de la estructura
+    del equipo, y la forma de trabajar (WoW).
+
+    DevOps disciplinado garantiza que las soluciones se entreguen a los clientes de manera efectiva y segura, con la gestión
+    de datos y seguridad siempre a la vanguardia.
+
+    Flujos de valor garantiza que las soluciones estén alineadas con la estrategia empresarial de la organización, conectando
+    a los clientes, las ventas y la gestión de portfolio con el framework.
+
+    Empresa Agile Disciplinada (DAE) conecta el mercado de la industria con el gobierno corporativo y las actividades
+    empresariales más grandes.
+
+Ir mas alla de scrum, articulo explica mas en profundidad este framework.
+
+El modelo de Spotify
+
+Otro enfoque que puedes encontrar es el "Modelo de Spotify", Es importante tener en cuenta que el modelo de Spotify no es
+un verdadero framework Agile. No existe una guía estándar sobre cómo implementarlo. El modelo comenzó como una descripción
+de cómo Spotify superó los desafíos de escalar Agile. Al centrar sus esfuerzos en la cultura, la autonomía del equipo, la
+comunicación, la responsabilidad y la calidad, aumentaron su agilidad con el tiempo. El enfoque de Spotify ha tenido un
+gran impacto en los flujos de trabajo y las estructuras de los equipos en todo el mundo de la tecnología. Algunos de los
+componentes clave incluyen:
+
+    Escuadrones: Al igual que los equipos Scrum, los escuadrones son equipos autónomos de 6 a 12 personas que trabajan
+    para lograr el mismo resultado. Todos los escuadrones incluyen un entrenador (similar a un Scrum Master) y un propietario
+    del producto.
+
+    Tribus: Cuando varios escuadrones trabajan en la misma área característica, forman una tribu de 40 a 150 personas. Cada
+    tribu tiene un líder de tribu que fomenta la colaboración y la coordinación.
+
+    Capítulos: Los escuadrones pueden ser autónomos, pero los especialistas (p. ej., desarrolladores de JavaScript) aún
+    deben alinearse en una organización. Los capítulos establecen las mejores prácticas y, cuando es necesario, establecen
+    estándares.
+
+    Gremios: Cualquier grupo de personas interesadas en un tema determinado puede formar un gremio, en el que las personas
+    con intereses compartidos pueden unirse como comunidad.
+
+Si bien algunas organizaciones han tenido éxito con este modelo, debe tenerse en cuenta que evolucionó a partir de la ya
+significativa experiencia Agile de Spotify. Es el producto de una amplia introspección y adaptación y se basa en gran medida
+en la cultura de confianza, transparencia y autonomía de la empresa. Por lo tanto, el valor del enfoque de Spotify para
+escalar no está en los nombres de equipos como Escuadrones y Tribus, sino en cómo desarrollaron prácticas que apoyaron y
+sirvieron a su cultura de la organización.
+
+Mejores prácticas para escalar Agile
+
+Independientemente del framework que elijas, es importante tener en cuenta algunos principios básicos:
+
+    Trata los modelos de escala como SAFe, Scrum de Scrums, LeSS, etc., como frameworks generales, no como manuales de
+    instrucciones.
+
+    Diferentes situaciones requieren diferentes soluciones. Está bien mezclar y combinar elementos de múltiples marcos,
+    siempre y cuando apliques los principios y valores del Manifiesto de Agile.
+
+    No intentes escalar sin experiencia previa en Agile. Pasar directamente de Waterfall a Agile escalado puede ser
+    arriesgado sin una guía experta.
+
+    Finalmente, y lo más importante, no escales si no es necesario. Cuanto más grande sea tu equipo, más complejo y difícil
+    se vuelve tu proyecto.
+
+Conclusión clave
+
+Escalar Agile puede ser tan simple como juntar dos equipos Scrum en una configuración Scrum de Scrums o tan sofisticado
+como capacitar a una organización de miles en el marco SAFe. Cuando tengas un equipo grande o una gran entrega que requiera
+múltiples flujos de trabajo, piensa en cómo puedes escalar para adaptarte a tu situación. Recuerda que puedes modificar SAFe,
+LeSS y otros frameworks escalados para satisfacer las necesidades de cada proyecto. Asegúrate de que tu equipo comprenda
+los principios Agile antes de intentar escalar, ya que escalar inevitablemente genera más desperdicio y complejidad.
 
 #### Mis pensamientos sobre Agile
 
