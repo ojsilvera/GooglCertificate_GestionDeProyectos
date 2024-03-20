@@ -3359,7 +3359,121 @@ Cómo implementar Agile en tu organización:
 
 #### El framework de cambio del influenciador
 
+¿Qué significa ser un influenciador?
 
+En estos días, cuando escuchamos la palabra influenciador, algunos pueden pensar en el estrellato de las redes sociales,
+Pero ser un influenciador es mucho más que obtener "me gusta": se trata de la capacidad de alguien para liderar e influir
+en otros para cambiar sus comportamientos, corazones y mentes para producir resultados significativos y sostenibles. Como
+gerente de proyectos, se te pedirá que lideres esfuerzos que requieran este nivel de cambio, y la aplicación de este modelo
+puede generar un gran impacto.
+
+Influir es diferente a persuadir. La persuasión es a corto plazo, mientras que la influencia es duradera. Para tener una
+influencia real, necesitas que los demás confíen en ti, te consideren una autoridad y tengan confianza en tus decisiones.
+
+Como gerente de proyectos en proyectos Agile, puedes usar la influencia para facilitar el cambio organizacional o lograr
+que un equipo pruebe una nueva herramienta, proceso o tecnología. Al facilitar el cambio organizacional, la influencia es
+la diferencia entre cambios temporales en el comportamiento y un cambio profundo en la cultura y los valores.
+
+Tres claves para influir
+
+Las tres claves para influir, según lo investigado por los autores de este modelo, son aclarar resultados medibles, encontrar
+comportamientos vitales y utilizar las seis fuentes de influencia.
+
+    Aclarar resultados medibles
+
+        No puedes influenciar a otros para que cambien hasta que sepas lo que quieres, por qué lo quieres y cuándo lo quieres,
+        Recordarás que los resultados efectivos son específicos, medibles, alcanzables, relevantes y limitados en el tiempo
+        (SMART).
+        
+        Al establecer objetivos para un proyecto, recuerda preguntarte qué implica el "por qué".
+            
+            ¿Los resultados son específicos y medibles?
+            ¿Es lo que pretendías?
+            ¿Son limitados en el tiempo?
+        
+        Además, asegúrate de que las medidas sean visibles y transparentes para todo el equipo durante el cambio.
+
+    Detectar comportamientos vitales
+
+        Un comportamiento vital es la acción que un individuo realiza en un momento crucial en el contexto del cambio que
+        está buscando.
+        
+        Por ejemplo, si un miembro del equipo de desarrollo busca aumentar la participación del propietario del producto
+        a lo largo del proceso de desarrollo, puede mostrar un comportamiento vital cuando acaba de terminar de simular
+        una nueva función. En lugar de simplemente continuar con el siguiente elemento de su lista de tareas pendientes,
+        pueden enviar un correo electrónico al propietario del producto para revisar su trabajo y proporcionar comentarios.
+        Al elegir incluir o excluir a tu propietario de productos en un momento crucial, el desarrollador realiza una
+        pequeña acción para implementar el cambio que desea crear.
+
+        Como hemos discutido, el cambio real ocurre cuando puedes cambiar los comportamientos de los demás. Ya sea que
+        estés cambiando la opinión de tu equipo, los interesados o los clientes, es importante realizar un seguimiento
+        de sus patrones de comportamiento actuales y comprender los comportamientos que necesitas que adopten para realizar
+        el cambio que estás buscando.
+
+        Para determinar los comportamientos vitales, puedes consultar a expertos, escanear los mejores y más citados
+        artículos e investigaciones, o realizar una evaluación cultural mediante la identificación de normas y costumbres
+        dentro del equipo. Al identificar los comportamientos, evalúa qué comportamientos son constructivos para el cambio
+        que deseas promover y observa ejemplos de aquellos que tienen éxito donde la mayoría de los demás fracasan.
+
+    Usa las seis fuentes de influencia
+
+        Los autores de INFLUENCIADOR: La nueva ciencia de liderar el cambio, estudió empresas e individuos que tuvieron
+        éxito o no en la implementación del cambio, e identificaron seis fuentes o factores que se correlacionaron con
+        el cambio exitoso.
+        
+        Al determinar cómo influir en tu público objetivo para crear un cambio, debes considerar el uso de todas estas
+        fuentes para aumentar tus posibilidades de éxito. Incluso puedes considerar priorizar estos en función del
+        conocimiento de tu audiencia.
+        
+        Por ejemplo, algunas audiencias objetivo pueden verse más influenciadas por los incentivos financieros, mientras
+        que otras pueden verse más incentivadas por los impactos de la justicia social.
+
+        Estas son las seis fuentes descubiertas por los autores en su investigación, incluida una idea de ejemplo de cómo
+        puedes usar estos ejemplos en tu trabajo junto con nuestro escenario de participación del encargado del producto:
+
+            Motivación personal:
+            
+                ¿Están los individuos motivados internamente para incorporar el nuevo comportamiento? ¿Puedes ayudarlos
+                a “amar lo que odian”? Ejemplo: Asegúrate de que el propietario del producto sea oportuno, agradecido y
+                eficaz al dar su opinión.
+
+            Habilidad personal:
+            
+                ¿Son los individuos capaces de incorporar el comportamiento? ¿Tienen la capacidad, el conocimiento y las
+                habilidades para “hacer lo que no pueden”? Ejemplo: Asegúrate de que el desarrollador sepa cómo usar las
+                herramientas de demostración disponibles y pueda enviar fácilmente un video rápido de la nueva función en
+                su correo electrónico al propietario del producto.
+
+            Motivación social:
+
+                ¿Existen contactos o redes sociales que alienten o desaconsejen este nuevo comportamiento?  Ejemplo: Pide
+                a los miembros del equipo de desarrollo que se recuerden unos a otros en el Scrum diario enviar un correo
+                electrónico al propietario del producto antes de finalizar el trabajo.
+
+            Habilidad social:
+            
+                ¿El equipo tiene recursos dentro de su red social para ayudarlos a llevar a cabo los nuevos comportamientos?
+                Ejemplo: Proporciona al equipo de desarrollo una herramienta para realizar un seguimiento de todas sus
+                demostraciones al propietario del producto durante el Sprint.
+
+            Motivación estructural:
+            
+                ¿Hay recompensas o incentivos que recibirán si realizan los nuevos comportamientos?  Ejemplo: Proporciona
+                una tarjeta de regalo de café como premio de Sprint que el propietario del producto puede otorgar después
+                de cada Sprint.
+
+            Capacidad estructural:
+            
+                ¿Existen factores ambientales en juego que disuadan o apoyen el nuevo comportamiento? ¿Puedes hacer que
+                el comportamiento incorrecto sea más difícil que el comportamiento correcto? Ejemplo: Agrega una regla al
+                sistema de administración de contenido que complete previamente el nombre del propietario del producto en
+                la lista de revisores.
+
+Conclusión clave
+
+Estas tres claves para influir conforman el framework de cambio del influenciador y mejorarán sus posibilidades de éxito
+con un cambio. Aclara resultados medibles, detecta comportamientos vitales y aprovecha seis fuentes de influencia en conjunto
+para liderar una organización, un equipo o una persona para experimentar un cambio positivo.
 
 *En Resumen:*
 
@@ -3383,7 +3497,6 @@ Las tres claves para influir
         Motivación estructural
 
         Capacidad estructural
-
 
 Conclusión
 
