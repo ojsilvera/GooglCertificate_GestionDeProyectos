@@ -4298,7 +4298,66 @@ cosas se pongan difíciles y te ayudarán a cumplir con los valores y principios
 
 #### Vídeo: VídeoCrear un plan de búsqueda de empleo
 
-¡Felicidades! Estás llegando al final de este certificado, y es hora de empezar a prepararte para la búsqueda de empleo. Antes de comenzar, sugerimos crear un plan de búsqueda de empleo. Un plan de búsqueda de empleo puede ayudarte a establecer cronogramas, definir expectativas, monitorear el progreso, y adaptarte según sea necesario para cumplir con tu objetivo de conseguir un puesto de gerente de proyectos. ¡Buenas noticias! Puedes utilizar algunas de las habilidades de gestión de proyectos que has aprendido para diseñar este plan. Un plan de búsqueda de empleo es un recurso que tú creas para ayudarte a asumir el control de tu búsqueda de empleo. Te permite rastrear los datos importantes en cada etapa a medida que controlas las solicitudes, entrevistas y comentarios. En cada etapa, reunirás información para tomar decisiones, como la cantidad de currículums que debes enviar cada semana. La proporción entre solicitudes y entrevistas, y qué tipos de contactos y formatos de cartas de presentación funcionan para ti. Puedes obtener más información sobre cómo crear un plan como este en las lecturas del curso. Una vez que tengas tu plan de búsqueda de empleo en marcha, es hora de empezar a pensar en las empresas e industrias que te interesan y motivan. ¿Por qué? Tener una idea sobre el tipo de entorno empresarial en el que deseas trabajar te ayuda a obtener una perspectiva sobre el trabajo que deseas realizar y cómo quieres aportar valor a una organización. ¿Te ves a ti mismo como parte de una organización más grande o en una pequeña empresa? ¿Qué tan flexible eres con respecto a la ubicación? ¿Hay alguna industria específica en la que prefieras trabajar? Lleva esta lluvia de ideas un paso más allá y escríbela en papel. Crea una lista de empresas objetivo. Una lista de empresas objetivo puede ser tan simple como enumerar las empresas en las que piensas en una hoja de cálculo o un documento digital. Si no sabes por dónde empezar, hay muchos recursos en línea en los que puedes obtener más información sobre los diferentes tipos de empresas. Para empezar, puedes recurrir a comunidades profesionales en línea y a sitios de contactos profesionales, como LinkedIn, para buscar empresas y ponerte en contacto con otros profesionales. Los sitios de empleos, como Indeed y Glassdoor, presentan ofertas de trabajo y consejos de carrera para ayudarte en la búsqueda de empleo. También puedes leer las reseñas de los empleadores y buscar información sobre salarios. Además, al configurar alertas de bolsas de trabajo, puedes ver qué nuevas oportunidades están disponibles y ver las habilidades en demanda para industrias que te atraigan. Otra gran manera de obtener perspectivas sobre una empresa es simple: hablar con la gente que trabaja allí. Busca dentro de tu red para ver si conoces a alguien en empresas que te interesan y envíales un correo electrónico o un mensaje en LinkedIn. Esto también puede funcionar con personas que no necesariamente conoces, pero están interesados en su trayectoria profesional y organización. Solicita una entrevista informal e informativa. Esto te permitirá entender cómo funciona la empresa y cuáles son las cualidades comunes a las personas que ocupan los puestos que te interesan. Pregúntales: ¿cómo es trabajar como gerente de proyectos para una gran empresa? O, ¿cuál fue tu experiencia al gestionar proyectos en una empresa emergente? O incluso: ¿cuál fue la trayectoria profesional que te llevó a esta empresa, y cuál ha sido tu trayectoria en esa empresa? Es igualmente importante compartir tu historia y por qué estás interesado al definir el alcance. Por lo general, las personas que me contactan y a las que respondo son las que comparten una historia personal conmigo. Me parecen convincentes y sinceras porque muestran rasgos de iniciativa, motivación y autenticidad que son prevalentes en los gerentes de proyectos más exitosos que conozco. Por último, si aún no estás seguro de cuál industria o empresa puede ser la mejor opción para ti, es útil buscar consejos de personas cuya carrera admiras. Estas personas a menudo pueden actuar como tu mentor de carrera. Un mentor de carrera es alguien que comparte su propia experiencia y conocimiento contigo para ayudarte a alcanzar tus metas profesionales. De hecho, mi mentor de carrera me llevó a Google. Esta persona, a quien ya conozco de hace más de una década, fue quien me introdujo a mi puesto aquí. Si bien solo éramos colegas al principio, se convirtió en alguien en quien he llegado a confiar y a admirar y a quien le pido consejos. Conociendo mi experiencia y estilo de trabajo, me recomendó postularme a mi primer trabajo aquí en Google, y aquí estoy. La moraleja de esa historia es que debes conectarte con una red de gente con tus mismos intereses y recursos para mejorar tu búsqueda de empleo, y dar los siguientes pasos de manera deliberada. Lo más importante es ser fiel a la pasión de por qué quieres ser un gerente de proyectos. ¿Quieres ayudar a que otras personas hagan realidad sus sueños? ¿Tienes un sueño que quieres hacer realidad? ¿O tal vez tienes un oficio que quieres explorar y probar? Lo que me atrajo de la función de gestión de proyectos fue la idea de convertir en realidad algo que era solo una idea. Nada se compara con ver cómo una idea se convierte en realidad ante tus ojos, sabiendo que jugaste un papel clave en el lanzamiento y el éxito de un proyecto. Es estimulante. Una vez que hayas pensado en estas cosas, tanto en tu cabeza como en un plan de acción real, tu próximo paso es comenzar a postularte a puestos vacantes en estas empresas. Echa un vistazo a las lecturas y actividades y a cómo optimizar tu proceso de solicitud de empleo ajustando tu currículum, con correos electrónicos profesionales y con seguimiento de todo en tu plan de búsqueda de empleo. Disfruta, y te veré de nuevo en un curso posterior para darte consejos sobre cómo tener una gran entrevista.
+Es hora de empezar a prepararte para la búsqueda de empleo. Antes de comenzar, sugerimos crear un plan de búsqueda de empleo,
+Un plan de búsqueda de empleo puede ayudarte a establecer cronogramas, definir expectativas, monitorear el progreso, y
+adaptarte según sea necesario para cumplir con tu objetivo de conseguir un puesto de gerente de proyectos.
+
+¡Buenas noticias! Puedes utilizar algunas de las habilidades de gestión de proyectos que has aprendido para diseñar este
+plan. Un plan de búsqueda de empleo es un recurso que tú creas para ayudarte a asumir el control de tu búsqueda de empleo,
+Te permite rastrear los datos importantes en cada etapa a medida que controlas las solicitudes, entrevistas y comentarios.
+
+En cada etapa, reunirás información para tomar decisiones, como la cantidad de currículums que debes enviar cada semana.
+La proporción entre solicitudes y entrevistas, y qué tipos de contactos y formatos de cartas de presentación funcionan
+para ti. Una vez que tengas tu plan de búsqueda de empleo en marcha, es hora de empezar a pensar en las empresas e
+industrias que te interesan y motivan. ¿Por qué? Tener una idea sobre el tipo de entorno empresarial en el que deseas
+trabajar te ayuda a obtener una perspectiva sobre el trabajo que deseas realizar y cómo quieres aportar valor a una
+organización.
+¿Te ves a ti mismo como parte de una organización más grande o en una pequeña empresa?
+¿Qué tan flexible eres con respecto a la ubicación?
+¿Hay alguna industria específica en la que prefieras trabajar?
+
+Lleva esta lluvia de ideas un paso más allá y escríbela en papel. Crea una lista de empresas objetivo. Una lista de empresas
+objetivo puede ser tan simple como enumerar las empresas en las que piensas en una hoja de cálculo o un documento digital.
+Si no sabes por dónde empezar, hay muchos recursos en línea en los que puedes obtener más información sobre los diferentes
+tipos de empresas. Para empezar, puedes recurrir a comunidades profesionales en línea y a sitios de contactos profesionales,
+como LinkedIn, para buscar empresas y ponerte en contacto con otros profesionales
+
+Los sitios de empleos, como Indeed y Glassdoor, presentan ofertas de trabajo y consejos de carrera para ayudarte en la
+úsqueda de empleo. También puedes leer las reseñas de los empleadores y buscar información sobre salarios. Además, al
+configurar alertas de bolsas de trabajo, puedes ver qué nuevas oportunidades están disponibles y ver las habilidades en
+demanda para industrias que te atraigan.
+
+Otra gran manera de obtener perspectivas sobre una empresa es simple: hablar con la gente que trabaja allí. Busca dentro
+de tu red para ver si conoces a alguien en empresas que te interesan y envíales un correo electrónico o un mensaje en
+LinkedIn. Esto también puede funcionar con personas que no necesariamente conoces, pero están interesados en su trayectoria
+profesional y organización.
+
+Solicita una entrevista informal e informativa. Esto te permitirá entender cómo funciona la empresa y cuáles son las
+cualidades comunes a las personas que ocupan los puestos que te interesan. Pregúntales:
+
+¿cómo es trabajar como gerente de proyectos para una gran empresa?
+¿cuál fue tu experiencia al gestionar proyectos en una empresa emergente?
+¿cuál fue la trayectoria profesional que te llevó a esta empresa, y cuál ha sido tu trayectoria en esa empresa?
+
+Es igualmente importante compartir tu historia y por qué estás interesado al definir el alcance. Por lo general, las
+personas que me contactan y a las que respondo son las que comparten una historia personal conmigo. Me parecen convincentes
+y sinceras porque muestran rasgos de iniciativa, motivación y autenticidad que son prevalentes en los gerentes de proyectos
+más exitosos que conozco.
+
+Por último, si aún no estás seguro de cuál industria o empresa puede ser la mejor opción para ti, es útil buscar consejos
+de personas cuya carrera admiras. Estas personas a menudo pueden actuar como tu mentor de carrera. Un mentor de carrera
+es alguien que comparte su propia experiencia y conocimiento contigo para ayudarte a alcanzar tus metas profesionales. Debes
+conectarte con una red de gente con tus mismos intereses y recursos para mejorar tu búsqueda de empleo, y dar los siguientes
+pasos de manera deliberada. Lo más importante es ser fiel a la pasión de por qué quieres ser un gerente de proyectos.
+
+¿Quieres ayudar a que otras personas hagan realidad sus sueños?
+¿Tienes un sueño que quieres hacer realidad?
+¿O tal vez tienes un oficio que quieres explorar y probar?
+
+Lo que me atrajo de la función de gestión de proyectos fue la idea de convertir en realidad algo que era solo una idea. Nada
+se compara con ver cómo una idea se convierte en realidad ante tus ojos, sabiendo que jugaste un papel clave en el lanzamiento
+y el éxito de un proyecto. Es estimulante. Una vez que hayas pensado en estas cosas, tanto en tu cabeza como en un plan
+de acción real, tu próximo paso es comenzar a postularte a puestos vacantes en estas empresas.
 
 *En resumen:*
 
@@ -4319,3 +4378,114 @@ cosas se pongan difíciles y te ayudarán a cumplir con los valores y principios
     conectando con profesionales.
 
 #### Lectura: LecturaPlan de proyecto de búsqueda de empleo
+
+Este plan te ayudará a diseñar tu línea de tiempo, establecer tus expectativas, monitorear tu progreso y hacer los ajustes
+necesarios para mejorar tus resultados. Para aprovechar al máximo estas recomendaciones, piensa en ponerlas en práctica
+una vez que hayas completado tu currículum y estés listo para comenzar a solicitar oportunidades de manera activa.
+
+Comprender la línea de tiempo de búsqueda de empleo
+
+El primer paso para planificar tu línea de tiempo de búsqueda de empleo es comprender los principales factores que influyen
+en cómo se desarrolla. Estos factores son:
+
+      1) el tiempo que te tomará postularte para el trabajo correcto (la empresa que finalmente te contratará)
+
+      2) el tiempo entre la solicitud y la oferta
+
+Por ejemplo, si estimas que te tomará cuatro semanas solicitar el trabajo adecuado y otras tres semanas entre la solicitud
+y la oferta, debes planificar recibir una oferta de trabajo en siete semanas.
+
+Comenzaremos discutiendo cómo desarrollar estimaciones para tu búsqueda de empleo para que puedas planificar tu propio
+cronograma en consecuencia.
+
+El tiempo que tomará postularte al trabajo correcto
+
+El tiempo que te lleve postularse para la empresa en la que finalmente trabajarás depende de la cantidad total de roles
+para las que quieres postularte y la frecuencia de tus solicitudes. Por ejemplo, si determinas que necesitarás postularte
+para 50 roles, puedes hacerlo en diez semanas a una tasa de cinco solicitudes por semana, o en dos semanas a una tasa de
+25 solicitudes por semana.
+
+Es importante estimar a cuántos roles en total te postularás, ya que esto te ayudará a determinar cuántas solicitudes
+deberás enviar cada semana para alcanzar tus objetivos. Para hacer esta estimación, trata de determinar cuáles esperas
+que sean los siguientes números, luego reúne estos números para obtener el número total de solicitudes que planeas enviar:
+
+    Tasa de éxito de la solicitud a la primera entrevista
+
+    Tasa de éxito de la primera entrevista a la segunda entrevista
+
+    Tasa de éxito de cualquier ronda de entrevistas adicional (según corresponda)
+
+    Tasa de éxito de la última entrevista a la oferta
+
+Aquí hay un ejemplo:
+
+Si supones un 20% de posibilidades de obtener una primera entrevista, un 25% de posibilidades de pasar la primera y la
+segunda ronda de entrevistas y un 25% de posibilidades de obtener una oferta de trabajo después de la segunda entrevista,
+entonces debes planificar la presentación de 80 solicitudes. para conseguir una oferta de trabajo.
+
+Estas son métricas en las que puedes influir. La calidad de los materiales de tu solicitud afectará la frecuencia con la
+que te llamen a una primera entrevista, y tus habilidades de entrevista te ayudarán a pasar de una ronda a la siguiente.
+
+El tiempo entre la solicitud y la oferta.
+
+En casi todos los casos, deberás solicitar el trabajo y completar una serie de entrevistas antes de recibir una oferta. La cantidad de tiempo que transcurre entre la solicitud y la oferta de trabajo dependerá de cuántas rondas de entrevistas haya y cuánto tiempo transcurra entre cada paso. Es importante comprender que esta línea de tiempo está principalmente bajo el control del empleador. Una vez que envíes una solicitud, te invitarán a una entrevista en función de su programación. Para la mayoría de los roles, este proceso puede demorar entre dos y cuatro semanas. Esto puede variar según la industria, la empresa y el rol.
+
+Seguimiento de tu búsqueda de empleo
+En este punto del desarrollo de tu plan, debes tener una idea clara de cuánto tiempo esperas que tome tu búsqueda de empleo. A medida que avanzas en tu búsqueda, te recomendamos que registres y controles la precisión de tus suposiciones iniciales sobre la línea de tiempo. Esto te ayudará a determinar si estás en camino de recibir tu oferta de trabajo en el cronograma que estableció por primera vez y en qué parte del proceso podrías optimizar tu desempeño. Las suposiciones para el seguimiento deben incluir:
+
+Tasa de éxito de la solicitud a la entrevista
+
+Tasa de éxito de cada ronda de entrevistas (p. ej., cuántas primeras entrevistas llevaron a segundas entrevistas)
+
+Número de rondas de entrevistas para cada empresa.
+
+Consejo: Siempre es una buena idea realizar un seguimiento de los detalles de tus actividades de búsqueda de empleo. Obtendrás información sobre tus métricas de éxito y estarás al tanto de información importante de búsqueda de empleo que, de lo contrario, podría perderse a medida que avanzan tus actividades. Puedes usar un rastreador como este  para rastrear tus actividades de red, materiales de aplicación, elementos de acción y notas de conversaciones.
+
+A continuación, analizaremos cómo puedes mejorar la eficiencia de tus actividades de búsqueda de empleo en diferentes puntos del proceso.
+
+Obtener entrevistas
+Hay una serie de pasos que puedes tomar para aumentar la cantidad de oportunidades de entrevista que recibes.
+
+Postularte a más trabajos
+La mayoría de las personas serán invitadas a entrevistas entre el 5% y el 50% de las veces. Esto significa que deberás presentar entre cuatro y veinte solicitudes para ser invitado a una sola entrevista de primera ronda. Cuantas más solicitudes envíes, más invitaciones a entrevistas recibirás.
+
+Usa las siguientes recomendaciones para asegurarte de que estás consiguiendo tantas oportunidades como sea posible:
+
+Asegúrate de estar monitoreando los principales agregadores de trabajos (motores que extraen trabajos de múltiples sitios) como Indeed y ZipRecruiter. Puedes configurar alertas para recibir nuevas publicaciones por correo electrónico.
+
+Realiza un seguimiento por separado de las publicaciones de trabajo en LinkedIn, ya que es posible que los agregadores no las capturen.
+
+Identifica las empresas para las que te interesaría trabajar en función de tu ubicación geográfica u otros parámetros. Consulta sus páginas de carrera directamente una o dos veces por semana para conocer nuevas oportunidades que podrían no aparecer en los agregadores.
+
+Asegúrate de incluir trabajos remotos en tu búsqueda y considera agregar otras ubicaciones si tienes la opción de mudarte.
+
+Supervisa los grupos locales de redes profesionales y referencias laborales en Facebook y otras comunidades en línea, en los que los reclutadores y gerentes de contratación comparten oportunidades que no se publican en ningún otro lugar.
+
+Envía un correo electrónico a las personas de tu red, infórmales sobre tu búsqueda de empleo y pídeles que compartan oportunidades relevantes contigo. Facilita que te ayuden explicándoles qué tipo de puesto estás buscando e incluyendo tu currículum.
+
+Optimiza tus postulaciones
+Además de aumentar la cantidad de solicitudes que envías, puedes mejorar la eficacia de cada solicitud optimizando tu currículum y consiguiendo referencias.
+
+En primer lugar, asegúrate de que tu currículum siga todas las mejores prácticas descritas en este documento.
+
+A continuación, pide comentarios sobre tu currículum a otras personas. Las recomendaciones de profesionales en tu campo objetivo son las mejores, pero otras personas con experiencia en contratación también pueden ayudar. Ten en cuenta que las personas pueden tener diferentes preferencias, así que no sientas que necesitas incorporar cada palabra de los comentarios que recibes. En cambio, recopila información de varias personas y busca consejos que sean coherentes y útiles para ti. ¡Tu objetivo es crear un currículum que cautive a tantos empleadores como sea posible!
+
+Finalmente, pide referencias. Las referencias son generalmente la mejor manera de convertir más de tus solicitudes en entrevistas. La mayoría de las empresas revisan las solicitudes con referencias de empleados antes que otras solicitudes, por lo que, como mínimo, una referencia aumenta las posibilidades de que tu solicitud se considere adecuadamente. Además, los empleados que te recomienden pueden proporcionar información adicional sobre el puesto o el estado de tu solicitud.
+
+Antes de solicitar un puesto, consulta LinkedIn para ver si tú o alguien que conoces podría tener una conexión en la empresa. Pide una referencia o una presentación.
+
+Crea una lista de empresas en las que conoces gente. Revisa la página de carreras de cada empresa para ver si hay puestos vacantes relevantes para los que puedes solicitar una referencia.
+
+Asegúrate de que todas las personas que conoces estén al tanto de tu búsqueda de empleo, para que puedan enviarte oportunidades. Comunícate con las personas directamente, publica en las redes sociales y menciónalo en las conversaciones. Recuerda que las oportunidades pueden provenir de lugares inesperados, como tu peluquero, club de lectura, iglesia y más.
+
+Consejo: Algunas empresas ofrecen bonificaciones por recomendación a sus empleados, por lo que incluso un extraño podría estar dispuesto a recomendarte si eres un candidato calificado. Sé creativo cuando busques referencias y no dudes en preguntar.
+
+Pasar de una entrevista a la siguiente
+El siguiente hito es pasar de una ronda de entrevistas a la siguiente. Las empresas generalmente entrevistan a varios candidatos en cada etapa, por lo que es de esperar que no siempre avances a la siguiente ronda. La buena noticia es que puedes aumentar la tasa de éxito de tus entrevistas practicando y preparándote. En el próximo curso, tenemos una lección completa enfocada en consejos para entrevistas de gerentes de proyectos y programas de Google, práctica de entrevistas simuladas y más.
+
+Conclusión clave
+Si has seguido las estrategias establecidas en esta guía, debes saber cómo desarrollar un cronograma para tu búsqueda de empleo, monitorear tu progreso y solucionar problemas en tus solicitudes y entrevistas para mejorar tus resultados.
+
+Te alentamos a tomarte el tiempo para registrar tus actividades de búsqueda de empleo, comenzando con tu primera solicitud, incluso si no estás tratando activamente de establecer y mantener un cronograma en particular. Cada postulación y experiencia de entrevista es una oportunidad de aprendizaje. Además, tus objetivos pueden cambiar con el tiempo, y la información sobre tus solicitudes y entrevistas anteriores te ayudará a analizar tu desempeño anterior y a establecer expectativas realistas para búsquedas futuras.
+
+Saber qué esperar y tener visibilidad de lo que realmente está sucediendo en tu búsqueda de empleo es clave para tener el control de tu empleo y conseguir el trabajo.
