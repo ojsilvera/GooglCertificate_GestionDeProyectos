@@ -4491,28 +4491,54 @@ Usa las siguientes recomendaciones para asegurarte de que estás consiguiendo ta
 
 Optimiza tus postulaciones
 
-Además de aumentar la cantidad de solicitudes que envías, puedes mejorar la eficacia de cada solicitud optimizando tu currículum y consiguiendo referencias.
+Además de aumentar la cantidad de solicitudes que envías, puedes mejorar la eficacia de cada solicitud optimizando tu
+currículum y consiguiendo referencias.
 
 En primer lugar, asegúrate de que tu currículum siga todas las mejores prácticas descritas en este documento.
 
-A continuación, pide comentarios sobre tu currículum a otras personas. Las recomendaciones de profesionales en tu campo objetivo son las mejores, pero otras personas con experiencia en contratación también pueden ayudar. Ten en cuenta que las personas pueden tener diferentes preferencias, así que no sientas que necesitas incorporar cada palabra de los comentarios que recibes. En cambio, recopila información de varias personas y busca consejos que sean coherentes y útiles para ti. ¡Tu objetivo es crear un currículum que cautive a tantos empleadores como sea posible!
+    A continuación, pide comentarios sobre tu currículum a otras personas. Las recomendaciones de profesionales en tu
+    campo objetivo son las mejores, pero otras personas con experiencia en contratación también pueden ayudar. Ten en
+    cuenta que las personas pueden tener diferentes preferencias, así que no sientas que necesitas incorporar cada
+    palabra de los comentarios que recibes. En cambio, recopila información de varias personas y busca consejos que sean
+    coherentes y útiles para ti. ¡Tu objetivo es crear un currículum que cautive a tantos empleadores como sea posible!
 
-Finalmente, pide referencias. Las referencias son generalmente la mejor manera de convertir más de tus solicitudes en entrevistas. La mayoría de las empresas revisan las solicitudes con referencias de empleados antes que otras solicitudes, por lo que, como mínimo, una referencia aumenta las posibilidades de que tu solicitud se considere adecuadamente. Además, los empleados que te recomienden pueden proporcionar información adicional sobre el puesto o el estado de tu solicitud.
+    Finalmente, pide referencias. Las referencias son generalmente la mejor manera de convertir más de tus solicitudes
+    en entrevistas. La mayoría de las empresas revisan las solicitudes con referencias de empleados antes que otras
+    solicitudes, por lo que, como mínimo, una referencia aumenta las posibilidades de que tu solicitud se considere
+    adecuadamente. Además, los empleados que te recomienden pueden proporcionar información adicional sobre el puesto
+    o el estado de tu solicitud.
 
-Antes de solicitar un puesto, consulta LinkedIn para ver si tú o alguien que conoces podría tener una conexión en la empresa. Pide una referencia o una presentación.
+    Antes de solicitar un puesto, consulta LinkedIn para ver si tú o alguien que conoces podría tener una conexión en
+    la empresa. Pide una referencia o una presentación.
 
-Crea una lista de empresas en las que conoces gente. Revisa la página de carreras de cada empresa para ver si hay puestos vacantes relevantes para los que puedes solicitar una referencia.
+    Crea una lista de empresas en las que conoces gente. Revisa la página de carreras de cada empresa para ver si hay
+    puestos vacantes relevantes para los que puedes solicitar una referencia.
 
-Asegúrate de que todas las personas que conoces estén al tanto de tu búsqueda de empleo, para que puedan enviarte oportunidades. Comunícate con las personas directamente, publica en las redes sociales y menciónalo en las conversaciones. Recuerda que las oportunidades pueden provenir de lugares inesperados, como tu peluquero, club de lectura, iglesia y más.
+    Asegúrate de que todas las personas que conoces estén al tanto de tu búsqueda de empleo, para que puedan enviarte
+    oportunidades. Comunícate con las personas directamente, publica en las redes sociales y menciónalo en las
+    conversaciones. Recuerda que las oportunidades pueden provenir de lugares inesperados, como tu peluquero, club de
+    lectura, iglesia y más.
 
-Consejo: Algunas empresas ofrecen bonificaciones por recomendación a sus empleados, por lo que incluso un extraño podría estar dispuesto a recomendarte si eres un candidato calificado. Sé creativo cuando busques referencias y no dudes en preguntar.
+    Consejo: Algunas empresas ofrecen bonificaciones por recomendación a sus empleados, por lo que incluso un extraño
+    podría estar dispuesto a recomendarte si eres un candidato calificado. Sé creativo cuando busques referencias y no
+    dudes en preguntar.
 
 Pasar de una entrevista a la siguiente
-El siguiente hito es pasar de una ronda de entrevistas a la siguiente. Las empresas generalmente entrevistan a varios candidatos en cada etapa, por lo que es de esperar que no siempre avances a la siguiente ronda. La buena noticia es que puedes aumentar la tasa de éxito de tus entrevistas practicando y preparándote. En el próximo curso, tenemos una lección completa enfocada en consejos para entrevistas de gerentes de proyectos y programas de Google, práctica de entrevistas simuladas y más.
+
+El siguiente hito es pasar de una ronda de entrevistas a la siguiente. Las empresas generalmente entrevistan a varios
+candidatos en cada etapa, por lo que es de esperar que no siempre avances a la siguiente ronda. La buena noticia es que
+puedes aumentar la tasa de éxito de tus entrevistas practicando y preparándote.
 
 Conclusión clave
-Si has seguido las estrategias establecidas en esta guía, debes saber cómo desarrollar un cronograma para tu búsqueda de empleo, monitorear tu progreso y solucionar problemas en tus solicitudes y entrevistas para mejorar tus resultados.
 
-Te alentamos a tomarte el tiempo para registrar tus actividades de búsqueda de empleo, comenzando con tu primera solicitud, incluso si no estás tratando activamente de establecer y mantener un cronograma en particular. Cada postulación y experiencia de entrevista es una oportunidad de aprendizaje. Además, tus objetivos pueden cambiar con el tiempo, y la información sobre tus solicitudes y entrevistas anteriores te ayudará a analizar tu desempeño anterior y a establecer expectativas realistas para búsquedas futuras.
+Si has seguido las estrategias establecidas en esta guía, debes saber cómo desarrollar un cronograma para tu búsqueda de
+empleo, monitorear tu progreso y solucionar problemas en tus solicitudes y entrevistas para mejorar tus resultados.
 
-Saber qué esperar y tener visibilidad de lo que realmente está sucediendo en tu búsqueda de empleo es clave para tener el control de tu empleo y conseguir el trabajo.
+Te alentamos a tomarte el tiempo para registrar tus actividades de búsqueda de empleo, comenzando con tu primera solicitud,
+incluso si no estás tratando activamente de establecer y mantener un cronograma en particular. Cada postulación y experiencia
+de entrevista es una oportunidad de aprendizaje. Además, tus objetivos pueden cambiar con el tiempo, y la información sobre
+tus solicitudes y entrevistas anteriores te ayudará a analizar tu desempeño anterior y a establecer expectativas realistas
+para búsquedas futuras.
+
+Saber qué esperar y tener visibilidad de lo que realmente está sucediendo en tu búsqueda de empleo es clave para tener el
+control de tu empleo y conseguir el trabajo.
