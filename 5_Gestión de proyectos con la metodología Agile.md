@@ -4228,73 +4228,71 @@ Consejos para implementar Agile y DevOps:
 
 #### Oportunidades de gestión Agile de proyectos
 
-Acabamos de cubrir la evolución de la metodología Agile y compartí cómo otras organizaciones
-están adoptando prácticas Agile. También analizamos cuál es la mejor mentalidad para entregar valor a los usuarios lo más rápido posible. Las oportunidades de gestión de proyectos Agile
-están en todas partes. Ya sea que estés buscando un nuevo rol en Agile
-o quieras incorporar Agile en tu estilo de vida o lugar de trabajo actual,
-tengo algunos consejos para ayudarte a llegar allí. Comencemos analizando cómo conseguir
-un puesto de gestión de proyectos Agile. Estos tipos de trabajos pueden aparecer
+Ya sea que estés buscando un nuevo rol en Agile o quieras incorporar Agile en tu estilo de vida o lugar de trabajo actual,
+Comencemos analizando cómo conseguir un puesto de gestión de proyectos Agile. Estos tipos de trabajos pueden aparecer
 en bolsas de trabajo como Gerente de proyectos Agile, Scrum Master, Gerente de proyectos de TI Agile
-o Gerente de proyectos de DevOps. Después de tomar este curso, encajarás a la perfección
-en cualquiera de ellos. Busca un rol que se adapte a tu nivel de experiencia,
-complemente tu dominio de la industria y ofrezca oportunidades de crecimiento. Además, busca un rol que proporcione
-una cultura que sea adecuada para ti. Y no puedo enfatizar lo suficiente lo importante
-que es encontrar un empleador que apoye tus metas y crecimiento personal. Soy gerente de contratación en Google. He entrevistado y contratado a muchos gerentes
-de proyectos aquí, tanto de Agile como no de Agile, y me gustaría compartir cómo abordo
-las entrevistas y la búsqueda de un excelente gestor de proyectos Agile para mi equipo. Incluso si un candidato no tiene Agile en su currículum, una de las primeras cosas que le pregunto es:
-¿Cuál es la diferencia entre la gestión de proyectos de Agile y Waterfall? Su respuesta generalmente me indica al instante
-si saben de qué se trata Agile, y es un excelente punto de partida
-para más preguntas de seguimiento. En la respuesta del candidato a esa pregunta,
-busco algunas cosas específicas. Quiero saber si el candidato sabe que Agile
-es más que Scrum, Sprints y reuniones breves. ¿Saben que también se trata de fundar valores que incluyan la colaboración, la entrega de valor
-y los equipos organizados por cuenta propia del cliente? También me interesa saber si creen que Waterfall es la peor solución, o saben que todos los proyectos
-se benefician de ciertos tipos de enfoques, incluido Waterfall, como requisitos claros, gestión de riesgos, concienciación de los interesados y más. También pregunto: ¿Cómo sabes cuándo utilizar
-un enfoque o framework de metodología de Agile para tu proyecto? Tu respuesta me ayuda a saber si entienden
-cómo Agile o Scrum pueden ayudar a un gerente de proyectos con desafíos específicos
-y cuáles son esos desafíos. Finalmente pregunto, si están experimentando
-algún tipo de resistencia con su equipo luego de una práctica de Scrum o Agile,
-¿cómo los convences para que lo prueben? Su respuesta me ayuda a comprender cómo utilizan
-las habilidades de comunicación e influencia y si realmente creen que un equipo de Agile
-puede organizarse por cuenta propia. En Google, nuestros equipos a veces se resisten
-a que se les diga qué hacer, especialmente porque esto puede disminuir
-la innovación y la creatividad, así que siempre quiero contratar gerentes de proyecto
-que trabajen con el equipo sin tratar de obligarlos a hacer las cosas
-de una manera particular. Una parte importante de cada entrevista
-es cuando el candidato hace las preguntas de los entrevistadores. Estas pueden ser preguntas sobre el trabajo,
-sobre la experiencia del entrevistador en la gestión de proyectos, sobre la cultura
-y sobre las expectativas laborales. Esta es una gran oportunidad
-para ti como candidato. Como gerente de proyectos de Agile, ahora sabes cuán crucial es la cultura
-para el éxito de un proyecto de Agile. Este es un buen momento para hacer preguntas
+o Gerente de proyectos de DevOps.
+
+Posteriormente busca un rol que se adapte a tu nivel de experiencia, complemente tu dominio de la industria y ofrezca
+oportunidades de crecimiento. Además, busca un rol que proporcione una cultura que sea adecuada para ti. lo realmente
+importante que es encontrar un empleador que apoye tus metas y crecimiento personal.
+
+Incluso si un candidato no tiene Agile en su currículum, una de las primeras cosas que le pregunto es:
+
+¿Cuál es la diferencia entre la gestión de proyectos de Agile y Waterfall?
+
+la respuesta generalmente indica al instante si saben de qué se trata Agile, y es un excelente punto de partida para más
+preguntas de seguimiento. En la respuesta del candidato a esa pregunta, busco  saber si el candidato sabe que Agile es más
+que Scrum, Sprints y reuniones breves. ¿Saben que también se trata de fundar valores que incluyan la colaboración, la entrega
+de valor y los equipos organizados por cuenta propia del cliente? También interesa saber si creen que Waterfall es la peor
+solución, o saben que todos los proyectos se benefician de ciertos tipos de enfoques, incluido Waterfall, como requisitos
+claros, gestión de riesgos, concienciación de los interesados y más.
+
+¿Cómo sabes cuándo utilizar un enfoque o framework de metodología de Agile para tu proyecto? Tu respuesta me ayuda a saber
+si entienden cómo Agile o Scrum pueden ayudar a un gerente de proyectos con desafíos específicos y cuáles son esos desafíos.
+
+Finalmente pregunto, si están experimentando algún tipo de resistencia con su equipo luego de una práctica de Scrum o Agile,
+¿cómo los convences para que lo prueben? Su respuesta me ayuda a comprender cómo utilizan las habilidades de comunicación
+e influencia y si realmente creen que un equipo de Agile puede organizarse por cuenta propia. En Google, nuestros equipos
+a veces se resisten a que se les diga qué hacer, especialmente porque esto puede disminuir la innovación y la creatividad,
+así que siempre quiero contratar gerentes de proyecto que trabajen con el equipo sin tratar de obligarlos a hacer las cosas
+de una manera particular.
+
+Una parte importante de cada entrevista es cuando el candidato hace las preguntas de los entrevistadores. Estas pueden ser
+preguntas sobre el trabajo, sobre la experiencia del entrevistador en la gestión de proyectos, sobre la cultura y sobre
+las expectativas laborales. Esta es una gran oportunidad para ti como candidato. Como gerente de proyectos de Agile, ahora
+sabes cuán crucial es la cultura para el éxito de un proyecto de Agile. Este es un buen momento para hacer preguntas
 que te ayudarán a determinar si serás feliz con este trabajo o no. Algunas preguntas que debes hacerte son,
-¿cuánta ayuda brinda la administración aquí para combinar enfoques de gestión de proyectos? ¿Qué es lo primero que debo saber sobre la cultura aquí? ¿Y con qué frecuencia me enteraré de las necesidades
-de nuestros usuarios o clientes? ¿Y cómo sería un día típico para mí
-si tuviera que asumir este puesto? Tal vez no te estés entrevistando
-para un nuevo rol, pero quieres llevar lo que aprendiste
-en este curso de Agile a tu equipo. ¿Cómo harías eso? Como discutimos, incorporar Agile o Scrum a un nuevo equipo a menudo es un desafío
-si tu cultura no te respalda. Aquí hay cuatro cosas que me ayudaron
-a incorporar Agile en mis equipos. En primer lugar, empezar modestamente. Puede que estés emocionado
-por todo lo que has aprendido aquí, pero a tu equipo le pueden gustar las cosas como están. Así que introduce prácticas de metodología Agile de a poco. Tal vez comiences usando un tablero Kanban,
-solo para realizar un seguimiento de un flujo de trabajo, o bien, podrías configurar una retrospectiva
-después de un hito importante. En segundo lugar, escucha la retroalimentación. La herramienta más poderosa que tiene un gerente
-de proyectos es la capacidad de escuchar a su equipo y acercarse a su postura. Cuando introduzcas cambios,
-pregúntale al equipo cómo le está yendo. Obtén sus ideas sobre cómo mejorar
-e inclúyelas en tu enfoque. Esto amplificará tus pequeños cambios y los convertirá
-en grandes resultados para el equipo. Tercero, debes ser estratégico. Dirige tus mejoras a los desafíos que tu equipo tiene hoy:
-presenta nuevas formas de trabajar que aborden directamente los problemas
-más importantes que experimenta tu equipo. Por ejemplo, tal vez tu equipo tenga problemas
-para estimar el esfuerzo de manera predecible y siempre termina en modo de urgencia. Tal vez las técnicas de estimación relativa
-ayudarían con eso. O tal vez tienes demasiadas personas
-comentando cuál debería ser el producto. Presenta a una sola persona que actúe como encargado
-del producto para ayudar a garantizar la coherencia en la priorización de características. Por último, encuentra aliados. Puedes tener contratiempos o tal vez necesites apoyarte en los seguidores
-para sumar esas ideas a tu equipo. Encuentra aliados de metodología Agile
-en tu organización o red. Estos aliados te darán consejos cuando las cosas
-se pongan difíciles y te ayudarán a cumplir con los valores
-y principios de la metodología Agile. Construimos una red de alrededor
-de 60 entrenadores Agile voluntarios aquí en Google, y siempre nos apoyamos unos a otros
-para obtener ideas y soluciones. Excelente. Ahora tienes todos los consejos que necesitas
-para triunfar en tu entrevista y sumar con éxito la metodología Agile
-a tu equipo u organización. En el próximo video, resumiremos todo esto
-y te prepararemos para el último curso del programa.
+
+¿cuánta ayuda brinda la administración aquí para combinar enfoques de gestión de proyectos?
+¿Qué es lo primero que debo saber sobre la cultura aquí?
+¿Y con qué frecuencia me enteraré de las necesidades de nuestros usuarios o clientes?
+¿Y cómo sería un día típico para mí si tuviera que asumir este puesto?
+
+*Tal vez no te estés entrevistando para un nuevo rol*, pero quieres llevar lo que aprendiste en este curso de Agile a tu equipo,
+¿Cómo harías eso? Como discutimos, incorporar Agile o Scrum a un nuevo equipo a menudo es un desafío si tu cultura no te
+respalda. Aquí hay cuatro cosas que ayudaron a incorporar Agile en equipos.
+
+En primer lugar, empezar modestamente. Puede que estés emocionado por todo lo que has aprendido aquí, pero a tu equipo le
+pueden gustar las cosas como están. Así que introduce prácticas de metodología Agile de a poco. Tal vez comiences usando
+un tablero Kanban, solo para realizar un seguimiento de un flujo de trabajo, o bien, podrías configurar una retrospectiva
+después de un hito importante.
+
+En segundo lugar, escucha la retroalimentación. La herramienta más poderosa que tiene un gerente de proyectos es la capacidad
+de escuchar a su equipo y acercarse a su postura. Cuando introduzcas cambios, pregúntale al equipo cómo le está yendo. Obtén
+sus ideas sobre cómo mejorar e inclúyelas en tu enfoque. Esto amplificará tus pequeños cambios y los convertirá en grandes
+resultados para el equipo.
+
+Tercero, debes ser estratégico. Dirige tus mejoras a los desafíos que tu equipo tiene hoy: presenta nuevas formas de
+trabajar que aborden directamente los problemas más importantes que experimenta tu equipo. Por ejemplo, tal vez tu equipo
+tenga problemas para estimar el esfuerzo de manera predecible y siempre termina en modo de urgencia. Tal vez las técnicas
+de estimación relativa ayudarían con eso. O tal vez tienes demasiadas personas comentando cuál debería ser el producto,
+Presenta a una sola persona que actúe como encargado del producto para ayudar a garantizar la coherencia en la priorización
+de características.
+
+Cuarto encuentra aliados. Puedes tener contratiempos o tal vez necesites apoyarte en los seguidores para sumar esas ideas
+a tu equipo. Encuentra aliados de metodología Agile en tu organización o red. Estos aliados te darán consejos cuando las
+cosas se pongan difíciles y te ayudarán a cumplir con los valores y principios de la metodología Agile.
 
 ### Repaso del curso: Agile en la práctica
 
