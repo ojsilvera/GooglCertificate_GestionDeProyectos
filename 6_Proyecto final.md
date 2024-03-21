@@ -1,9 +1,9 @@
-# Proyecto final
+# Proyecto final: Aplicación de la gestión de proyectos en el mundo real
 
-## modulo_6_1
+## Iniciar un proyecto
 
-## modulo_6_2
+## Desarrollar un plan de proyecto
 
-## modulo_6_3
+## Mantener la calidad
 
-## modulo_6_4
+## Comunicacion efectiva con los interesados
