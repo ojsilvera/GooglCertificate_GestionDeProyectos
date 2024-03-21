@@ -4428,42 +4428,69 @@ que te llamen a una primera entrevista, y tus habilidades de entrevista te ayuda
 
 El tiempo entre la solicitud y la oferta.
 
-En casi todos los casos, deberás solicitar el trabajo y completar una serie de entrevistas antes de recibir una oferta. La cantidad de tiempo que transcurre entre la solicitud y la oferta de trabajo dependerá de cuántas rondas de entrevistas haya y cuánto tiempo transcurra entre cada paso. Es importante comprender que esta línea de tiempo está principalmente bajo el control del empleador. Una vez que envíes una solicitud, te invitarán a una entrevista en función de su programación. Para la mayoría de los roles, este proceso puede demorar entre dos y cuatro semanas. Esto puede variar según la industria, la empresa y el rol.
+En casi todos los casos, deberás solicitar el trabajo y completar una serie de entrevistas antes de recibir una oferta. La
+cantidad de tiempo que transcurre entre la solicitud y la oferta de trabajo dependerá de cuántas rondas de entrevistas haya
+y cuánto tiempo transcurra entre cada paso. Es importante comprender que esta línea de tiempo está principalmente bajo el
+control del empleador. Una vez que envíes una solicitud, te invitarán a una entrevista en función de su programación. Para
+la mayoría de los roles, este proceso puede demorar entre dos y cuatro semanas. Esto puede variar según la industria, la
+empresa y el rol.
 
 Seguimiento de tu búsqueda de empleo
-En este punto del desarrollo de tu plan, debes tener una idea clara de cuánto tiempo esperas que tome tu búsqueda de empleo. A medida que avanzas en tu búsqueda, te recomendamos que registres y controles la precisión de tus suposiciones iniciales sobre la línea de tiempo. Esto te ayudará a determinar si estás en camino de recibir tu oferta de trabajo en el cronograma que estableció por primera vez y en qué parte del proceso podrías optimizar tu desempeño. Las suposiciones para el seguimiento deben incluir:
 
-Tasa de éxito de la solicitud a la entrevista
+En este punto del desarrollo de tu plan, debes tener una idea clara de cuánto tiempo esperas que tome tu búsqueda de empleo,
+A medida que avanzas en tu búsqueda, te recomendamos que registres y controles la precisión de tus suposiciones iniciales
+sobre la línea de tiempo. Esto te ayudará a determinar si estás en camino de recibir tu oferta de trabajo en el cronograma
+que estableció por primera vez y en qué parte del proceso podrías optimizar tu desempeño. Las suposiciones para el seguimiento
+deben incluir:
 
-Tasa de éxito de cada ronda de entrevistas (p. ej., cuántas primeras entrevistas llevaron a segundas entrevistas)
+    Tasa de éxito de la solicitud a la entrevista
 
-Número de rondas de entrevistas para cada empresa.
+    Tasa de éxito de cada ronda de entrevistas (p. ej., cuántas primeras entrevistas llevaron a segundas entrevistas)
 
-Consejo: Siempre es una buena idea realizar un seguimiento de los detalles de tus actividades de búsqueda de empleo. Obtendrás información sobre tus métricas de éxito y estarás al tanto de información importante de búsqueda de empleo que, de lo contrario, podría perderse a medida que avanzan tus actividades. Puedes usar un rastreador como este  para rastrear tus actividades de red, materiales de aplicación, elementos de acción y notas de conversaciones.
+    Número de rondas de entrevistas para cada empresa.
 
-A continuación, analizaremos cómo puedes mejorar la eficiencia de tus actividades de búsqueda de empleo en diferentes puntos del proceso.
+Consejo: Siempre es una buena idea realizar un seguimiento de los detalles de tus actividades de búsqueda de empleo. Obtendrás
+información sobre tus métricas de éxito y estarás al tanto de información importante de búsqueda de empleo que, de lo contrario,
+podría perderse a medida que avanzan tus actividades. Puedes usar un rastreador como este  para rastrear tus actividades de red,
+materiales de aplicación, elementos de acción y notas de conversaciones.
+
+A continuación, analizaremos cómo puedes mejorar la eficiencia de tus actividades de búsqueda de empleo en diferentes puntos
+del proceso.
 
 Obtener entrevistas
+
 Hay una serie de pasos que puedes tomar para aumentar la cantidad de oportunidades de entrevista que recibes.
 
 Postularte a más trabajos
-La mayoría de las personas serán invitadas a entrevistas entre el 5% y el 50% de las veces. Esto significa que deberás presentar entre cuatro y veinte solicitudes para ser invitado a una sola entrevista de primera ronda. Cuantas más solicitudes envíes, más invitaciones a entrevistas recibirás.
+
+La mayoría de las personas serán invitadas a entrevistas entre el 5% y el 50% de las veces. Esto significa que deberás
+presentar entre cuatro y veinte solicitudes para ser invitado a una sola entrevista de primera ronda. Cuantas más solicitudes
+envíes, más invitaciones a entrevistas recibirás.
 
 Usa las siguientes recomendaciones para asegurarte de que estás consiguiendo tantas oportunidades como sea posible:
 
-Asegúrate de estar monitoreando los principales agregadores de trabajos (motores que extraen trabajos de múltiples sitios) como Indeed y ZipRecruiter. Puedes configurar alertas para recibir nuevas publicaciones por correo electrónico.
+    Asegúrate de estar monitoreando los principales agregadores de trabajos (motores que extraen trabajos de múltiples
+    sitios) como Indeed y ZipRecruiter. Puedes configurar alertas para recibir nuevas publicaciones por correo electrónico.
 
-Realiza un seguimiento por separado de las publicaciones de trabajo en LinkedIn, ya que es posible que los agregadores no las capturen.
+    Realiza un seguimiento por separado de las publicaciones de trabajo en LinkedIn, ya que es posible que los agregadores
+    no las capturen.
 
-Identifica las empresas para las que te interesaría trabajar en función de tu ubicación geográfica u otros parámetros. Consulta sus páginas de carrera directamente una o dos veces por semana para conocer nuevas oportunidades que podrían no aparecer en los agregadores.
+    Identifica las empresas para las que te interesaría trabajar en función de tu ubicación geográfica u otros parámetros.
+    
+    Consulta sus páginas de carrera directamente una o dos veces por semana para conocer nuevas oportunidades que podrían
+    no aparecer en los agregadores.
 
-Asegúrate de incluir trabajos remotos en tu búsqueda y considera agregar otras ubicaciones si tienes la opción de mudarte.
+    Asegúrate de incluir trabajos remotos en tu búsqueda y considera agregar otras ubicaciones si tienes la opción de mudarte.
 
-Supervisa los grupos locales de redes profesionales y referencias laborales en Facebook y otras comunidades en línea, en los que los reclutadores y gerentes de contratación comparten oportunidades que no se publican en ningún otro lugar.
+    Supervisa los grupos locales de redes profesionales y referencias laborales en Facebook y otras comunidades en línea,
+    en los que los reclutadores y gerentes de contratación comparten oportunidades que no se publican en ningún otro lugar.
 
-Envía un correo electrónico a las personas de tu red, infórmales sobre tu búsqueda de empleo y pídeles que compartan oportunidades relevantes contigo. Facilita que te ayuden explicándoles qué tipo de puesto estás buscando e incluyendo tu currículum.
+    Envía un correo electrónico a las personas de tu red, infórmales sobre tu búsqueda de empleo y pídeles que compartan
+    oportunidades relevantes contigo. Facilita que te ayuden explicándoles qué tipo de puesto estás buscando e incluyendo
+    tu currículum.
 
 Optimiza tus postulaciones
+
 Además de aumentar la cantidad de solicitudes que envías, puedes mejorar la eficacia de cada solicitud optimizando tu currículum y consiguiendo referencias.
 
 En primer lugar, asegúrate de que tu currículum siga todas las mejores prácticas descritas en este documento.
