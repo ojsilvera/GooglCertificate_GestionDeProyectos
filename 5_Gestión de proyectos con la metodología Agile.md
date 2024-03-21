@@ -4294,6 +4294,4 @@ Cuarto encuentra aliados. Puedes tener contratiempos o tal vez necesites apoyart
 a tu equipo. Encuentra aliados de metodología Agile en tu organización o red. Estos aliados te darán consejos cuando las
 cosas se pongan difíciles y te ayudarán a cumplir con los valores y principios de la metodología Agile.
 
-### Repaso del curso: Agile en la práctica
-
 ### Opcional: Cómo descubrir oportunidades laborales
