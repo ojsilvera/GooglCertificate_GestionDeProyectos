@@ -85,10 +85,22 @@ Cuando presentas un estatuto del proyecto a tus interesados, es importante recop
 dónde hay desalineaciones. Luego, puedes realizar cambios para abordar esas desalineaciones. Si tú y
 tus interesados se toman el tiempo necesario para definir con claridad el proyecto, es mucho más probable
 que obtengas los resultados que tus interesados esperan al final del proyecto. Como gerente de proyectos,
-es importante registrar el feedback que recibes y documentar cualquier desalineación y sus soluciones. Esto
-les permite a ti y a tu equipo del proyecto, más adelante, hacer referencia a esas decisiones.
+es importante registrar el feedback que recibes y documentar cualquier desalineación y sus soluciones,
+Esto les permite a ti y a tu equipo del proyecto, más adelante, hacer referencia a esas decisiones.
 
-Una forma de documentar las desalineaciones y las soluciones es crear un apéndice con un sello de tiempo para la información nueva o actualizada. Un apéndice es una sección de contenido adicional al final de un documento. Un sello de tiempo incluye la fecha, y en algunos casos la hora, de cuándo se creó o se agregó el nuevo contenido al documento. Excelente. Repasemos algunas de las ideas principales de lo que hemos hablado. Cada vez que comuniques los detalles de un proyecto, debes pensar en tu público y en qué información es importante para ellos. En el caso de un estatuto del proyecto, tu público está formado por tus interesados. Una causa común del fracaso de un proyecto es la desalineación entre las partes interesadas sobre los detalles del proyecto. Es importante tomarte el tiempo durante la fase de iniciación para crear un estatuto del proyecto que establezca con claridad los detalles clave de un proyecto y para alinearte con tus interesados antes de comenzar el trabajo. Y, por último, documenta cualquier desalineación y sus soluciones en tus notas y en el estatuto del proyecto para poder consultarlos más adelante. Buen trabajo. En la siguiente actividad, revisarás los materiales de apoyo que destacan cómo Peta trabaja con los interesados para alcanzar la alineación en cuanto a los detalles del estatuto del proyecto. Luego, editarás el resumen, los objetivos y los entregables del estatuto del proyecto en función de la información adicional que recibas. Esta actividad demostrará tu capacidad para seleccionar los detalles clave de las conversaciones que son relevantes para una buena redacción del estatuto del proyecto. También tendrás la oportunidad de observar y aprender mientras Peta guía la conversación hacia un acuerdo. Una vez que hayas completado la actividad, nos veremos en el siguiente video.
+Una forma de documentar las desalineaciones y las soluciones es crear un apéndice con un sello de tiemp
+para la información nueva o actualizada. Un apéndice es una sección de contenido adicional al final
+de un documento. Un sello de tiempo incluye la fecha, y en algunos casos la hora, de cuándo se creó
+o se agregó el nuevo contenido al documento.
+
+Excelente. Repasemos algunas de las ideas principales de lo que hemos hablado. Cada vez que comuniques
+los detalles de un proyecto, debes pensar en tu público y en qué información es importante para ellos,
+En el caso de un estatuto del proyecto, tu público está formado por tus interesados. Una causa común
+del fracaso de un proyecto es la desalineación entre las partes interesadas sobre los detalles del
+proyecto. Es importante tomarte el tiempo durante la fase de iniciación para crear un estatuto del
+proyecto que establezca con claridad los detalles clave de un proyecto y para alinearte con tus
+interesados antes de comenzar el trabajo. Y, por último, documenta cualquier desalineación y sus
+soluciones en tus notas y en el estatuto del proyecto para poder consultarlos más adelante.
 
 #### Estatutos del proyecto: Redacción de objetivos SMART
 
