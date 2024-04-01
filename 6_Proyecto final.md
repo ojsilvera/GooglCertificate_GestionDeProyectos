@@ -121,7 +121,77 @@ tareas específicas o resultados que contribuyen a la finalización de un objeti
 que te encuentres con interesados que solo describen vagamente los resultados que desean para un determinado proyecto.
 
 Por ejemplo, un interesado podría decirte que le gustaría que más clientes usaran un determinado servicio o que les gustaría
-vender más unidades de un producto en particular. Estos son buenos objetivos, pero no son muy específicos. No sabes cuántos clientes más, qué tipo de clientes o cuántas unidades necesitarás para cumplir los objetivos. Como gerente de proyectos, tu rol es asegurarte de que los objetivos del proyecto estén bien definidos para que tú y tu equipo tengan una hoja de ruta clara. Esto no solo te permite concentrarte, sino que también elimina la pérdida de tiempo y la falta de comunicación en el futuro. Puedes crear objetivos claramente definidos con la ayuda del método SMART que discutimos antes en este programa. El método SMART ayuda a convertir los objetivos de tu proyecto en objetivos SMART. Recuerda, esto significa que tus objetivos son specific (específicos), measurable (medibles), attainable (alcanzables), relevant (relevantes) y time-bound (de duración determinada). Estas cualidades pueden ayudarte a medir tu éxito con mayor precisión y permitirte hacer ajustes más precisos a lo largo del proceso. Repasemos algunas de las prácticas recomendadas para garantizar los objetivos de tu proyecto que también son objetivos SMART. Para hacer que un objetivo sea más específico, asegúrate de que proporciona respuestas a preguntas como "¿Qué quiero lograr?" y "¿Cuáles son los requisitos y las limitaciones de este objetivo?" Este es un consejo que me gusta usar para agregar especificidad a los objetivos. Busca palabras en tus objetivos que puedan ser subjetivas o que se basen en una opinión, por ejemplo, más grande, mejor o más rápido. Una vez que hayas identificado palabras subjetivas, comunícate con tus interesados para acordar una definición de lo que en realidad significa hacer algo más grande o mejor o más rápido. ¿Qué implica en la práctica ser más grande o mejor? ¿En qué medida debería ser más rápido? El método SMART te ayuda a hacer que tus objetivos sean más específicos al hacerlos medibles. Por ejemplo, si tu interesado quiere aumentar las ganancias de la empresa, pregunta: "¿En cuánto?" ¿Quiere aumentar las ganancias en un 5%? ¿En un 30%? Si agregas números y cifras a tu objetivo, te resultará mucho más fácil saber cuando lo hayas conseguido. Si tienes problemas en hacer que un objetivo sea medible, investiga cómo cuantifican el éxito otras personas de tu sector. Esto se llama benchmarking, que se refiere a la evaluación del éxito con respecto a la norma. Por ejemplo, hay muchas formas para medir el éxito en el sector de restaurantes. Puedes buscar en línea información mediante consultas del siguiente tipo: "¿Cómo hacen los restaurantes para medir el éxito?" o "¿Cómo se evalúan las sesiones de capacitación para empleados?" Es probable que encuentres algunos resultados. Algunas métricas comunes incluyen la tasa de rotación de las mesas o el tiempo promedio que un cliente pasa en su mesa; el costo de producción, que es el costo de la mano de obra más el costo total de bienes como alimentos y bebidas; y el importe promedio de la cuenta, que es la cantidad promedio de dinero que los clientes gastan en una comida determinada. La mayoría de los sectores, como la hostería, el sector de entretenimiento y el sector de la construcción, tendrán sus propias métricas para el éxito. Eso también incluye el sector tecnológico. Las métricas son una parte importante de cómo medimos el éxito aquí en Google. Los objetivos SMART también son alcanzables, lo que significa que el objetivo es desafiante, pero no es imposible de alcanzar. Pregúntate a ti mismo y al equipo: "¿Se puede hacer?" ¿Tienes el tiempo, los recursos y las personas disponibles para cumplir el objetivo a tiempo y dentro del presupuesto? Si no, tendrás que hacer algunos cambios en tus objetivos. Y todos los objetivos del proyecto deben ser relevantes. Pregúntate: "¿Tiene sentido para nosotros como empresa o como equipo de proyecto perseguir este objetivo?" Una práctica recomendada para determinar la relevancia de tus objetivos del proyecto es darte cuenta el grado de alineación de los objetivos de tu proyecto con los objetivos más amplios de tu empresa u organización. Aquí en Google, usamos una herramienta para el establecimiento de objetivos en toda la organización llamada objetivos y resultados clave, u OKR. Otras organizaciones podrían usar un término diferente para su propio establecimiento de objetivos. Para nosotros, los OKR combinan un objetivo y una métrica para determinar un resultado medible. Por ejemplo, uno de los objetivos más amplios de Sauce and Spoon es hacer alimentos frescos y rápidos para las familias trabajadoras de su comunidad. Así que un objetivo relevante para el lanzamiento de la tableta de Sauce and Spoon podría ser disminuir el tiempo de permanencia del cliente en un 10%, en promedio, en las primeras seis semanas después de la implementación. Este objetivo del proyecto ayuda a la cadena de restaurantes a alcanzar su objetivo más grande: proporcionar comidas rápidas para los clientes. La última parte del framework SMART es hacer que tu objetivo tenga un plazo determinado. Es conveniente que agregues una fecha límite a tu objetivo para que sepas cuándo debe estar terminado. Muy bien. Repasemos. SMART significa specific (específicos), measurable (medibles), attainable (alcanzables), relevant (relevantes) y time-bound (de duración determinada). Si tus objetivos son SMART, puedes sentirte seguro de incluirlos en tu estatuto del proyecto. En la próxima actividad, recopilarás la información de los materiales de apoyo que te ayudarán a convertir los objetivos que redactaste en objetivos SMART. También identificarás cualquier objetivo adicional y los agregarás al estatuto del proyecto. ¿Todo listo para empezar? Vamos a trabajar en la actividad. Luego, nos vemos en el siguiente video para discutir el alcance, los beneficios y los costos.
+vender más unidades de un producto en particular. Estos son buenos objetivos, pero no son muy específicos. No sabes cuántos
+clientes más, qué tipo de clientes o cuántas unidades necesitarás para cumplir los objetivos. Como gerente de proyectos, tu
+rol es asegurarte de que los objetivos del proyecto estén bien definidos para que tú y tu equipo tengan una hoja de ruta clara,
+Esto no solo te permite concentrarte, sino que también elimina la pérdida de tiempo y la falta de comunicación en el futuro.
+
+Es posible crear objetivos claramente definidos con la ayuda del método SMART. El método SMART ayuda a convertir los objetivos
+de tu proyecto en objetivos SMART. Recuerda, esto significa que tus objetivos son:
+
+    Specific (específicos).
+    Measurable (medibles).
+    Attainable (alcanzables).
+    Relevant (relevantes).
+    Time-bound (de duración determinada).
+
+Estas cualidades pueden ayudarte a medir tu éxito con mayor precisión y permitirte hacer ajustes más precisos a lo largo
+del proceso.
+
+Algunas de las prácticas recomendadas para garantizar los objetivos de tu proyecto que también son objetivos SMART:
+
+Para hacer que un objetivo sea más *específico*, asegúrate de que proporciona respuestas a preguntas como:
+
+    "¿Qué quiero lograr?"
+    "¿Cuáles son los requisitos y las limitaciones de este objetivo?"
+
+Para agregar especificidad a los objetivos, elije palabras en tus objetivos que puedan ser subjetivas o que se basen en
+una opinión, por ejemplo, más grande, mejor o más rápido. Una vez que hayas identificado palabras subjetivas, comunícate
+con tus interesados para acordar una definición de lo que en realidad significa hacer algo más grande o mejor o más rápido,
+
+    ¿Qué implica en la práctica ser más grande o mejor?
+    ¿En qué medida debería ser más rápido?
+
+El método SMART te ayuda a hacer que tus objetivos sean más específicos al hacerlos *medibles*. Por ejemplo, si tu interesado
+quiere aumentar las ganancias de la empresa, pregunta:
+
+"¿En cuánto?"
+"¿Quiere aumentar las ganancias en un 5%?"
+"¿En un 30%?"
+
+Si agregas números y cifras a tu objetivo, te resultará mucho más fácil saber cuando lo hayas conseguido. Si tienes problema
+en hacer que un objetivo sea medible, investiga cómo cuantifican el éxito otras personas de tu sector. Esto se llama *benchmarking*,
+que se refiere a la evaluación del éxito con respecto a la norma. Por ejemplo, hay muchas formas para medir el éxito en
+el sector de restaurantes. Puedes buscar en línea información mediante consultas del siguiente tipo:
+
+ "¿Cómo hacen los restaurantes para medir el éxito?"
+ "¿Cómo se evalúan las sesiones de capacitación para empleados?"
+
+Es probable que encuentres algunos resultados. Algunas métricas comunes incluyen:
+
+    la tasa de rotación de las mesas o el tiempo promedio que un cliente pasa en su mesa;
+    el costo de producción, que es el costo de la mano de obra más el costo total de bienes como alimentos y bebidas;
+    el importe promedio de la cuenta, que es la cantidad promedio de dinero que los clientes gastan en una comida determinada.
+
+La mayoría de los sectores, como la hostería, el sector de entretenimiento y el sector de la construcción, tendrán sus
+propias métricas para el éxito. Eso también incluye el sector tecnológico. Las métricas son una parte importante de cómo
+medimos el éxito.
+
+Los objetivos SMART también son *alcanzables*, lo que significa que el objetivo es desafiante, pero no es imposible de
+alcanzar. Pregúntate a ti mismo y al equipo:
+
+    "¿Se puede hacer?"
+    ¿Tienes el tiempo, los recursos y las personas disponibles para cumplir el objetivo a tiempo y dentro del presupuesto?
+
+Si no, tendrás que hacer algunos cambios en tus objetivos.
+
+los objetivos del proyecto deben ser *relevantes*. Pregúntate:
+
+    "¿Tiene sentido para nosotros como empresa o como equipo de proyecto perseguir este objetivo?"
+
+Una práctica recomendada para determinar la relevancia de tus objetivos del proyecto es darte cuenta
+el grado de alineación de los objetivos de tu proyecto con los objetivos más amplios de tu empresa u
+organización. Aquí en Google, usamos una herramienta para el establecimiento de objetivos en toda la organización llamada objetivos y resultados clave, u OKR. Otras organizaciones podrían usar un término diferente para su propio establecimiento de objetivos. Para nosotros, los OKR combinan un objetivo y una métrica para determinar un resultado medible. Por ejemplo, uno de los objetivos más amplios de Sauce and Spoon es hacer alimentos frescos y rápidos para las familias trabajadoras de su comunidad. Así que un objetivo relevante para el lanzamiento de la tableta de Sauce and Spoon podría ser disminuir el tiempo de permanencia del cliente en un 10%, en promedio, en las primeras seis semanas después de la implementación. Este objetivo del proyecto ayuda a la cadena de restaurantes a alcanzar su objetivo más grande: proporcionar comidas rápidas para los clientes. La última parte del framework SMART es hacer que tu objetivo tenga un plazo determinado. Es conveniente que agregues una fecha límite a tu objetivo para que sepas cuándo debe estar terminado. Muy bien. Repasemos. SMART significa specific (específicos), measurable (medibles), attainable (alcanzables), relevant (relevantes) y time-bound (de duración determinada). Si tus objetivos son SMART, puedes sentirte seguro de incluirlos en tu estatuto del proyecto. En la próxima actividad, recopilarás la información de los materiales de apoyo que te ayudarán a convertir los objetivos que redactaste en objetivos SMART. También identificarás cualquier objetivo adicional y los agregarás al estatuto del proyecto. ¿Todo listo para empezar? Vamos a trabajar en la actividad. Luego, nos vemos en el siguiente video para discutir el alcance, los beneficios y los costos.
 
 #### Estatutos del proyecto: Definición del alcance, los beneficios y los costos
 
