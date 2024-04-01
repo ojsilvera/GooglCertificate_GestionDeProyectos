@@ -218,7 +218,44 @@ los elementos críticos ahora, mientras se ultiman los detalles del proyecto.
 
 A continuación, debes establecer con tus interesados sobre el alcance, los beneficios y el costo:
 
-El alcance, pero, para repasar rápidamente, alcance se refiere a los límites del proyecto; por ejemplo, el número de restaurantes que participan en el proyecto piloto. Los detalles que no contribuyen a los objetivos del proyecto se consideran fuera del alcance. Para determinar lo que está dentro y fuera del alcance, piensa en lo que se necesita para lograr el objetivo del proyecto. Ten en cuenta las siguientes preguntas: ¿En qué detalles del proyecto coinciden los interesados que se considerarían dentro del alcance? ¿Los interesados están en desacuerdo con algún elemento? ¿Hay algún detalle que debas designar como fuera del alcance de este proyecto en particular? Al pensar en estas preguntas, toma notas de lo que concluyas y recurre a ellas cuando completes la sección de alcance de tu estatuto del proyecto en la próxima actividad. Una vez que hayas determinado el alcance de tu proyecto, tendrás que concentrarte en los beneficios y los costos del proyecto. Los beneficios son las ganancias esperadas de un proyecto. Estos pueden ser directos, como las ganancias monetarias, o indirectos, como una mejora en la participación o satisfacción del cliente. Los costos se refieren al dinero gastado en las tareas del proyecto y a los precios del tiempo, los recursos y la mano de obra, por ejemplo. Los costos pueden evaluarse y gestionarse con un presupuesto de proyecto. Un presupuesto es una estimación de la cantidad de dinero asignado para completar el proyecto. En la siguiente actividad, tendrás que revisar los materiales de apoyo y tomar notas sobre los detalles que pueden ayudarte a identificar los beneficios y los costos del lanzamiento de la tableta. Usarás esa información para agregar dos listas a tu estatuto del proyecto: una lista de beneficios y una lista de costos. Por lo general, puedes encontrar los beneficios que el proyecto aportará al caso de negocio o a la propuesta del negocio. Por ejemplo, tu lista de beneficios para el lanzamiento de la tableta puede incluir su potencial para acelerar el servicio y aumentar las ventas en un porcentaje estimado. Aquí hay otro beneficio. Las tabletas proporcionarán al restaurante puntos de datos claros sobre los pedidos de los clientes y un sistema de punto de venta integrado que ayude a guiar la toma de decisiones en el futuro. Una lista de beneficios puede ayudarte a identificar los objetivos potenciales del proyecto que te hayas perdido. Una lista de costos incluirá artículos que la organización tendrá que pagar para poder realizar el trabajo, como el precio de la mano de obra o los materiales. La enumeración de los costos ayuda a los interesados a sopesar los beneficios contra la cantidad de dinero necesaria para obtener esos beneficios. Puedes elaborar una lista de los costos junto con los interesados para obtener las estimaciones sobre la mano de obra, los materiales y cualquier otro factor que podría costarle dinero a la empresa durante el proyecto. Antes, te dije que los beneficios de un proyecto deben superar los costos. Esto es casi siempre el caso cuando se inicia o propone un proyecto. Cuando agregas estos detalles al estatuto, ayuda a visualizarlos en un solo lugar y hace que los costos y los beneficios sean muy claros para los interesados. Esta sección se usa mucho como una ayuda para asegurarse de que los interesados estén de acuerdo en que vale la pena el dinero para llevar a cabo el proyecto. Recapitulemos. El alcance se refiere a los límites del proyecto. Los beneficios se refieren a las ganancias esperadas del proyecto. Y los costos se refieren al dinero gastado en las tareas del proyecto, además de los precios de los aspectos como tiempo, recursos y trabajo. ¿Estás listo para volver a tu estatuto del proyecto? Dirígete a la actividad donde revisarás y analizarás los materiales de apoyo para identificar el alcance apropiado, los beneficios y los costos para el lanzamiento de tabletas de Sauce and Spoon. Entonces, nos veremos en el próximo video, donde discutiremos las técnicas para negociar con los interesados del proyecto. Nos vemos pronto.
+*El alcance*, rápidamente, alcance se refiere a los límites del proyecto; por ejemplo, el número de restaurantes que
+participan en el proyecto piloto. Los detalles que no contribuyen a los objetivos del proyecto se consideran fuera del
+alcance. Para determinar lo que está dentro y fuera del alcance, piensa en lo que se necesita para lograr el objetivo del
+proyecto. Ten en cuenta las siguientes preguntas:
+
+    ¿En qué detalles del proyecto coinciden los interesados que se considerarían dentro del alcance?
+    ¿Los interesados están en desacuerdo con algún elemento?
+    ¿Hay algún detalle que debas designar como fuera del alcance de este proyecto en particular?
+
+Al pensar en estas preguntas, toma notas de lo que concluyas y recurre a ellas cuando completes la sección de alcance de
+tu estatuto del proyecto.
+
+*Los beneficios y los costos* del proyecto. Los beneficios son las ganancias esperadas de un proyecto. Estos pueden ser
+directos, como las ganancias monetarias, o indirectos, como una mejora en la participación o satisfacción del cliente. Los
+costos se refieren al dinero gastado en las tareas del proyecto y a los precios del tiempo, los recursos y la mano de obra,
+por ejemplo. Los costos pueden evaluarse y gestionarse con un presupuesto de proyecto.
+
+Un presupuesto es una estimación de la cantidad de dinero asignado para completar el proyecto. Usarás esa información para
+agregar dos listas a tu estatuto del proyecto: una lista de beneficios y una lista de costos. Por lo general, puedes encontrar
+los beneficios que el proyecto aportará al caso de negocio o a la propuesta del negocio.
+
+Por ejemplo, tu lista de beneficios para el lanzamiento de la tableta puede incluir su potencial para acelerar el servicio
+y aumentar las ventas en un porcentaje estimado. Aquí hay otro beneficio. Las tabletas proporcionarán al restaurante puntos
+de datos claros sobre los pedidos de los clientes y un sistema de punto de venta integrado que ayude a guiar la toma de
+decisiones en el futuro.
+
+Una lista de beneficios puede ayudarte a identificar los objetivos potenciales del proyecto que te hayas perdido. Una lista
+de costos incluirá artículos que la organización tendrá que pagar para poder realizar el trabajo, como el precio de la mano
+de obra o los materiales.
+
+La enumeración de los costos ayuda a los interesados a sopesar los beneficios contra la cantidad de dinero necesaria para
+obtener esos beneficios. Puedes elaborar una lista de los costos junto con los interesados para obtener las estimaciones
+sobre la mano de obra, los materiales y cualquier otro factor que podría costarle dinero a la empresa durante el proyecto.
+
+Los beneficios de un proyecto deben superar los costos. Esto es casi siempre el caso cuando se inicia o propone un proyecto,
+Cuando agregas estos detalles al estatuto, ayuda a visualizarlos en un solo lugar y que los costos y los beneficios sean
+muy claros para los interesados. Esta sección se usa mucho como una ayuda para asegurarse de que los interesados estén de
+acuerdo en que vale la pena el dinero para llevar a cabo el proyecto.
 
 #### Afsheen: Iniciar un proyecto de manera efectiva
 
