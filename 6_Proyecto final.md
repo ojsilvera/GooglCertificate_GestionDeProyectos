@@ -259,6 +259,28 @@ acuerdo en que vale la pena el dinero para llevar a cabo el proyecto.
 
 #### Afsheen: Iniciar un proyecto de manera efectiva
 
+El problema más frecuente que veo cuando se está en la fase de iniciación del establecimiento de un proyecto es conseguir
+la alineación entre los principales interesados. Además, hay que asegurarse de que las personas adecuadas se hagan cargo
+del proyecto para incentivar a los gerentes de proyectos con verdadero talento a querer sumarse al proyecto.
+
+Me parece que la atracción es mucho más eficaz que la promoción. Quiero que el talento venga hacia el proyecto en lugar
+de solo asignar el trabajo del proyecto. Eso lleva mucho trabajo. Vale la pena porque estás sentando una buena base para
+un proyecto exitoso, y, en última instancia, la mejor velocidad que podrías esperar.
+
+Durante la fase de iniciación, cuando intento perfeccionar los criterios de éxito, hago muchas preguntas. Probablemente
+haya una lista de 20 de ellas. Un par de ejemplos podrían ser la comprensión del entorno: ¿Cuáles son algunos de los
+escollos o riesgos del ecosistema? También intento hacer encuestas de las entrevistas, de las personas en el entorno, y
+les pregunto, "¿Qué es lo que ves como un problema?" Además, planteo una serie de preguntas cuantitativas cuando corresponde,
+para entender ¿a qué me estoy enfrentando en términos de medidas? "Hay muchas razones por las que los proyectos pueden
+fracasar. En mi opinión, todo se reduce a lo siguiente: uno, definición del proyecto realmente pobre; dos, desorganización,
+el director del proyecto no está estableciendo un framework para gestionar el proyecto; y tres, hay demasiadas personas".
+
+A menudo, se produce el efecto de que todos quieren trabajar en el proyecto y entonces no hay responsabilidad. No todos
+los interesados van a abordar el problema con la misma perspectiva. Así que retrocedo y pienso: ¿Quiénes son mis principales
+interesados? Digamos que, por ejemplo, hay dos patrocinadores, los principales interesados, y que son como peras con manzanas.
+Eso es un problema. En ese caso, tendré que reunirme mucho con ellos, entender el compromiso del intermediario y trabajar
+realmente en ese problema de formación inicial del proyecto.
+
 ### Negociación eficaz con las partes interesadas
 
 ## Desarrollar un plan de proyecto
