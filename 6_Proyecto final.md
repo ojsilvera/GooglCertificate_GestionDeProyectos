@@ -191,7 +191,19 @@ los objetivos del proyecto deben ser *relevantes*. Pregúntate:
 
 Una práctica recomendada para determinar la relevancia de tus objetivos del proyecto es darte cuenta
 el grado de alineación de los objetivos de tu proyecto con los objetivos más amplios de tu empresa u
-organización. Aquí en Google, usamos una herramienta para el establecimiento de objetivos en toda la organización llamada objetivos y resultados clave, u OKR. Otras organizaciones podrían usar un término diferente para su propio establecimiento de objetivos. Para nosotros, los OKR combinan un objetivo y una métrica para determinar un resultado medible. Por ejemplo, uno de los objetivos más amplios de Sauce and Spoon es hacer alimentos frescos y rápidos para las familias trabajadoras de su comunidad. Así que un objetivo relevante para el lanzamiento de la tableta de Sauce and Spoon podría ser disminuir el tiempo de permanencia del cliente en un 10%, en promedio, en las primeras seis semanas después de la implementación. Este objetivo del proyecto ayuda a la cadena de restaurantes a alcanzar su objetivo más grande: proporcionar comidas rápidas para los clientes. La última parte del framework SMART es hacer que tu objetivo tenga un plazo determinado. Es conveniente que agregues una fecha límite a tu objetivo para que sepas cuándo debe estar terminado. Muy bien. Repasemos. SMART significa specific (específicos), measurable (medibles), attainable (alcanzables), relevant (relevantes) y time-bound (de duración determinada). Si tus objetivos son SMART, puedes sentirte seguro de incluirlos en tu estatuto del proyecto. En la próxima actividad, recopilarás la información de los materiales de apoyo que te ayudarán a convertir los objetivos que redactaste en objetivos SMART. También identificarás cualquier objetivo adicional y los agregarás al estatuto del proyecto. ¿Todo listo para empezar? Vamos a trabajar en la actividad. Luego, nos vemos en el siguiente video para discutir el alcance, los beneficios y los costos.
+organización. Es posible utilizar una herramienta para el establecimiento de objetivos en toda la
+organización llamada *objetivos y resultados clave, u OKR*. los OKR combinan un objetivo y una métrica
+para determinar un resultado medible.
+
+Por ejemplo, uno de los objetivos más amplios de Sauce and Spoon es hacer alimentos frescos y rápidos
+para las familias trabajadoras de su comunidad. Así que un objetivo relevante para el lanzamiento de
+la tableta de Sauce and Spoon podría ser disminuir el tiempo de permanencia del cliente en un 10%, en
+promedio, en las primeras seis semanas después de la implementación. Este objetivo del proyecto ayuda
+a la cadena de restaurantes a alcanzar su objetivo más grande: proporcionar comidas rápidas para los
+lientes.
+
+La última parte del framework SMART es hacer que tu objetivo *tenga un plazo determinado*. Es conveniente
+que agregues una fecha límite a tu objetivo para que sepas cuándo debe estar terminado.
 
 #### Estatutos del proyecto: Definición del alcance, los beneficios y los costos
 
