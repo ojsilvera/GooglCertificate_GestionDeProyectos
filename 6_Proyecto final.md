@@ -369,6 +369,32 @@ proyecto) o un informe de estado semanal con la información más reciente y enl
 artefactos del proyecto. También puede significar garantizar que todos tengan acceso a la documentación
 necesaria.
 
+*Gestión de las partes interesadas a lo largo del ciclo de vida del proyecto:*
+
+A medida que avances en el ciclo de vida del proyecto, deberás mantener buenas relaciones con todos
+los interesados para asegurarte de que estén satisfechos yy colaboren con el equipo. Las siguientes
+estrategias pueden ayudarte a conocer los intereses, las preocupaciones y las preferencias de comunicación
+de tus interesados y solicitar su ayuda a lo largo del ciclo de vida de tu proyecto:
+
+*Averigua qué les importa a los interesados y por qué.* Pregunta a tus interesados: ¿Cuáles son tus
+prioridades y objetivos más importantes? ¿Qué papel te gustaría desempeñar en este proyecto? ¿De qué
+manera te respaldará este proyecto y cómo respaldará tus prioridades más importantes?
+
+*Ajusta la frecuencia y el enfoque de tu comunicación según las funciones y preferencias de los*
+*interesados.* Diles a tus interesados: Así es como pienso mantenerte informado, ¿te parece bien?
+
+*Recurre a la ayuda de los principales interesados cuando sea necesario.* Pregunta a tus interesados:
+¿Con quién más recomiendas que me ponga en contacto acerca de este proyecto?
+
+*Una vez que los interesados tengan un interés personal, hay que plantearles los problemas del proyecto.*
+Pregunta a tus interesados: ¿Cómo manejarías esta situación? ¿Qué soluciones te vienen a la mente?
+
+*Conclusión clave:*
+
+Los interesados pueden ser tus mayores aliados como gerente de proyectos. Practicar tus habilidades
+de gestión de los interesados puede ayudarte a obtener el apoyo de ellos y a mantenerlos comprometidos
+a lo largo de tu proyecto.
+
 #### Encontrar soluciones de beneficio mutuo
 
 #### Negociación del alcance con las partes interesadas
