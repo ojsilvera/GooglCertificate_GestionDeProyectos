@@ -283,6 +283,8 @@ realmente en ese problema de formación inicial del proyecto.
 
 ### Negociación eficaz con las partes interesadas
 
+#### Realizar un análisis de los interesados
+
 Casi todas las partes de un proyecto requieren las aportaciones y el acuerdo de múltiples interesados,
 Por supuesto, no todos los interesados valorarán la misma información o estarán de acuerdo en las mismas
 cosas. Por eso, un gerente de proyectos exitoso también necesita ser un negociador experto.
@@ -336,8 +338,6 @@ información para apoyar las negociaciones de tu proyecto.
 En una de las negociaciones más importantes, tratarás de definir y mantener el alcance del proyecto,
 Los interesados pueden presionar para que se agregue algo más al alcance, y es tu trabajo como gerente
 de proyectos negociar lo que sea realista dentro de las expectativas del presupuesto y el plazo.
-
-#### Realizar un análisis de los interesados
 
 #### Gestionar a los interesados Consejos y conclusiones
 
