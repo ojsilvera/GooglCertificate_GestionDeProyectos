@@ -333,7 +333,9 @@ la mejor forma de abordar las negociaciones con cada interesado. Una vez que ten
 quiénes son tus interesados y de qué papel desempeñan en el éxito del proyecto, puedes usar esta
 información para apoyar las negociaciones de tu proyecto.
 
-En una de las negociaciones más importantes, tratarás de definir y mantener el alcance del proyecto. Los interesados pueden presionar para que se agregue algo más al alcance, y es tu trabajo como gerente de proyectos negociar lo que sea realista dentro de las expectativas del presupuesto y el plazo. Repasemos. Algunas negociaciones comunes del proyecto que probablemente tengas con los interesados incluyen aspectos del estatuto, como los costos y beneficios y los criterios de éxito, así como otros aspectos del proyecto, como las funciones y responsabilidades y los recursos del proyecto. Puedes prepararte para estas negociaciones mediante la realización de un análisis de los interesados al usar una tabla de poder e interés. A continuación, revisarás los materiales de apoyo y realizarás un análisis de los interesados para el lanzamiento de tabletas de Sauce and Spoon. Una vez finalizada la actividad, nos vemos en el siguiente video.
+En una de las negociaciones más importantes, tratarás de definir y mantener el alcance del proyecto,
+Los interesados pueden presionar para que se agregue algo más al alcance, y es tu trabajo como gerente
+de proyectos negociar lo que sea realista dentro de las expectativas del presupuesto y el plazo.
 
 #### Realizar un análisis de los interesados
 
