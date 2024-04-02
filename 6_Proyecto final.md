@@ -341,6 +341,34 @@ de proyectos negociar lo que sea realista dentro de las expectativas del presupu
 
 #### Gestionar a los interesados Consejos y conclusiones
 
+La gestión de los interesados es el proceso de mantener buenas relaciones con las personas que tienen
+la mayor influencia en tu trabajo. La gestión eficaz de los interesados es una parte integral de todo
+proyecto porque fomenta la buena comunicación, el trabajo en equipo, la confianza entre los miembros
+y mucho más. Sin una gestión eficaz de los interesados, es menos probable que un proyecto tenga éxito.
+
+*Gestión de los interesados durante el inicio del proyecto:*
+
+*Identificar a todos los interesados al comienzo de tu proyecto o iniciativa.* Involucra a todos lo
+antes posible para establecer expectativas, responsabilidades y límites claros. Identificar a tus
+interesados desde el principio les da tiempo suficiente para expresar cualquier inquietud que puedan
+tener sobre el proyecto o su papel dentro de él. Si tienen un sentido de propiedad desde el principio,
+es más probable que tus interesados acepten tus roles, brinden información adecuada y ayuden a eliminar
+los obstáculos para permitir que el proyecto avance.
+
+*Mantener clara la visión del proyecto.* La visión del proyecto describe la necesidad que satisface
+el proyecto. Es importante tener una visión clara y específica del proyecto porque, como hemos aprendido,
+los interesados pueden ejercer presión para aumentar los requisitos, acortar el plazo o recortar los
+recursos. Asegurarse de que los interesados hayan acordado la visión y, más específicamente, lo que
+parece "hecho" proporciona claridad para todos los involucrados en el proyecto. La inclusión de
+interesados altamente influyentes en los procesos de planificación estratégica garantizará que todos
+los miembros del equipo estén alineados con la visión del proyecto.
+
+*Equipa a tus interesados con recursos fáciles de usar en todo momento.* Esto podría significar crear
+un informe de una página (un documento de una página que proporciona una descripción general de tu
+proyecto) o un informe de estado semanal con la información más reciente y enlaces a los principales
+artefactos del proyecto. También puede significar garantizar que todos tengan acceso a la documentación
+necesaria.
+
 #### Encontrar soluciones de beneficio mutuo
 
 #### Negociación del alcance con las partes interesadas
