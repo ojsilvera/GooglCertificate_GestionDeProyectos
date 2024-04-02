@@ -283,6 +283,20 @@ realmente en ese problema de formación inicial del proyecto.
 
 ### Negociación eficaz con las partes interesadas
 
+#### Realizar un análisis de los interesados
+
+#### Gestionar a los interesados Consejos y conclusiones
+
+#### Encontrar soluciones de beneficio mutuo
+
+#### Negociación del alcance con las partes interesadas
+
+#### Lograr un resultado beneficioso para todos
+
+#### Stanton dice: Gestión de los cambios de alcance con los interesados
+
+#### Ejercer influencia en las negociaciones
+
 ## Desarrollar un plan de proyecto
 
 ## Mantener la calidad
