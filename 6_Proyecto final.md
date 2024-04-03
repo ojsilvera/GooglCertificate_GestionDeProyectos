@@ -654,13 +654,89 @@ el lugar de trabajo se realiza a través del correo electrónico, pide que te en
 contengan debates sobre los detalles del proyecto. Estos correos electrónicos pueden ayudarte a descubrir tareas y también
 a identificar miembros del equipo con quienes conectarte si tienes preguntas adicionales.
 
-También es útil revisar un plan de proyecto anterior para una iniciativa similar y averiguar qué tipo de tareas se incluyeron. Por ejemplo, si eres un gerente de proyectos encargado de lanzar un nuevo producto, podrías preguntarle a un colega con experiencia en el lanzamiento de otros productos para la misma empresa que comparta su plan de proyecto como ejemplo. O, si tu proyecto incluye algún trabajo de construcción, podrías preguntar a tus colegas sobre proyectos no relacionados que también tenían componentes de construcción.
+También es útil revisar un plan de proyecto anterior para una iniciativa similar y averiguar qué tipo de tareas se
+incluyeron. Por ejemplo, si eres un gerente de proyectos encargado de lanzar un nuevo producto, podrías preguntarle a un
+colega con experiencia en el lanzamiento de otros productos para la misma empresa que comparta su plan de proyecto como
+ejemplo. O, si tu proyecto incluye algún trabajo de construcción, podrías preguntar a tus colegas sobre proyectos no
+relacionados que también tenían componentes de construcción.
 
-Los planes de proyectos anteriores pueden brindarte una inspiración útil a medida que creas tu propia lista de tareas. También pueden ayudarte a identificar la posible duración de las tareas, los expertos en la materia e incluso los proveedores que pueden ser útiles para tu proyecto. Mientras revisas la documentación del proyecto, toma nota de la información que sugiera otras tareas que tu equipo debería completar para ejecutar los entregables del proyecto. Durante este proceso, hazte preguntas como estas: ¿Hay una gran tarea en la que están trabajando muchas personas que podría dividirse en tareas más pequeñas asignadas a los individuos? ¿Hay señales que implican que las tareas anteriores deben completarse primero? Por ejemplo, un entregable como «instalar tabletas» podría implicar seleccionar un proveedor de tabletas como una tarea previa. ¡Excelente! Hemos tratado mucho en este video, así que repasemos. El plan del proyecto ayuda a documentar el alcance, las tareas, los hitos, el presupuesto y las actividades generales para mantener el proyecto en marcha. Para agregar tareas a tu plan, busca información útil sobre documentación existente del proyecto, como el estatuto del proyecto, las cadenas de correos electrónicos y planes de proyecto antiguos de un proyecto similar. Al revisar la documentación del proyecto, toma nota de la información que sugiera tareas e hitos adicionales que tu equipo deberá completar para cumplir con los entregables del proyecto. ¡Excelente! En la próxima actividad, revisarás los materiales de apoyo para empezar a construir el plan del proyecto Sauce and Spoon. Una vez que hayas terminado, te veré en el próximo video.
+Los planes de proyectos anteriores pueden brindarte una inspiración útil a medida que creas tu propia lista de tareas,
+También pueden ayudarte a identificar la posible duración de las tareas, los expertos en la materia e incluso los proveedores
+que pueden ser útiles para tu proyecto.
+
+Mientras revisas la documentación del proyecto, toma nota de la información que sugiera otras tareas que tu equipo debería
+completar para ejecutar los entregables del proyecto. Durante este proceso, hazte preguntas como estas:
+
+    ¿Hay una gran tarea en la que están trabajando muchas personas que podría dividirse en tareas más pequeñas asignadas a
+    los individuos?
+    ¿Hay señales que implican que las tareas anteriores deben completarse primero?
+
+Por ejemplo, un entregable como «instalar tabletas» podría implicar seleccionar un proveedor de tabletas como una tarea
+previa.
 
 #### Consejos para definir las tareas del proyecto
 
+El proceso de identificar las tareas del proyecto y definirlas es algo que requiere práctica. Dividir las tareas en partes
+viables es un desafío porque tienes que decidir qué tareas pueden requerir subtareas adicionales y cuáles no. Por ejemplo,
+si estás gestionando una mudanza a través del país, no necesitas analizar la tarea de descargar las cajas del automóvil para
+ver qué caja debe moverse primero. Sin embargo, es posible que debas dividir las tareas de la mudanza en pasos más pequeños
+y detallados. A medida que progreses en tu carrera, mejorarás en el desglose de las tareas.
+
+- Definir las tareas del proyecto en una o dos oraciones
+
+Cuando escribas descripciones de las tareas del proyecto, redúcelas a una o dos oraciones. Si descubres que la descripción
+de una tarea determinada debe ser más larga que una o dos oraciones, esto indica que la tarea es compleja y podría dividirse
+en tareas más pequeñas o que podría necesitar una aclaración adicional.
+
+- Examinar las dependencias de las tareas del proyecto
+
+Cuando veas cómo puedes dividir ciertas partes del proyecto en tareas, ten en cuenta las dependencias de las tareas o lo
+que debe completarse o entregarse de una persona a otra antes de que se pueda comenzar el trabajo en cada tarea. Identificar
+las dependencias puede ayudarte a decidir cuánto se debe dividir una tarea. Por ejemplo, si estás gestionando un proyecto
+que incluye una ceremonia de premios y una de las tareas es preparar el escenario, las dependencias para esta tarea podrían
+incluir obtener estimaciones de un contratista audiovisual (AV), adquirir el equipo necesario y construir el telón de fondo
+del escenario.
+
+![alt text](image-33.png)
+
+- Obtener ayuda de los miembros del equipo
+
+A menudo, es útil que tu equipo participe en el proceso de desglose de las tareas. Es posible que tengas una reunión en la
+que debatas cada objetivo general o tarea importante con el equipo. De esta manera, los miembros del equipo pueden presentar
+diferentes perspectivas a medida que trabajan juntos para dividir las tareas. Por ejemplo, si alguien de tu equipo tuvo
+experiencia en un proyecto similar, es posible que sugiera que una determinada tarea se divida en tres tareas diferentes.
+
+- Definir las tareas del proyecto por la cantidad de tiempo que tardarán en completarse
+
+Definir las tareas del proyecto por la cantidad de tiempo que se espera que lleven revelará cualquier tarea especialmente
+larga. Si se espera que una tarea lleve mucho tiempo, podría indicar que hay subtareas adicionales que deben definirse. La
+identificación de tareas por tiempo es útil para programar otras tareas o eventos en torno a las tareas más largas. Esta
+estrategia también te ayuda a determinar los hitos adecuados, ya que estos suelen ser la culminación de una serie de tareas,
+Reconocer la finalización de una tarea grande y larga también es una excelente manera de celebrar el éxito, aprender del
+proceso y mantener el proyecto en marcha.
+
+- Identificar las tareas del proyecto por sus factores «terminados»
+
+Comienza con el final en mente: ¿Qué significa que la tarea se considere «terminada»? A partir de ahí, puedes trabajar
+hacia atrás para ver si omitiste algún paso e identificar puntos de control para completar durante el proceso.
+
 #### Identificar las tareas del proyecto: Realizar una investigación en línea
+
+El conocimiento del dominio se refiere al conocimiento de una industria, tema o actividad específica. Si no estás familiarizado
+con el dominio de un nuevo proyecto, analiza la documentación de apoyo del proyecto que te ayudará a ampliar tus
+conocimientos. Habrá momentos a lo largo de tu carrera en los que serás nuevo en una organización o industria. Es posible
+que te asignen a un proyecto que no se parezca a nada que hayas gestionado, y eso está bien. Los nuevos desafíos pueden
+ser una parte realmente emocionante del trabajo.
+
+Otra clave del éxito cuando se trabaja en un proyecto desconocido es saber dónde encontrar información útil que pueda ayudarte a aumentar tu conocimiento del dominio. Aquí hay un ejemplo. Supongamos que te contrataron para gestionar proyectos en la industria de la banca privada. Para gestionar con éxito estos proyectos, necesitarás una comprensión básica de cómo funciona la banca privada. Esto incluye cómo los clientes abren cuentas, las operaciones administrativas y cómo se verifican las confirmaciones comerciales, para citar algunos ejemplos. Y, en el caso de Sauce and Spoon, necesitarás una comprensión básica de la industria de los restaurantes, parte de la cual ya adquiriste durante este curso, como saber el promedio de comensales y el tiempo de rotación de mesas. De nuevo, no necesitas ser un experto en tu proyecto, pero familiarizarse con las diferentes industrias y los tipos de proyectos es una habilidad valiosa que demuestra tu versatilidad. Tener conocimiento de la industria también puede ahorrarte tiempo en proyectos futuros dentro de esa industria, ya que no tendrás que hacer tantas preguntas ni investigar tanto. Dicho esto, si eres nuevo en una industria u organización, nadie esperará que tengas todas las respuestas de inmediato. Una forma de ayudar a desarrollar tu conocimiento del dominio cuando recién comienzas con la planificación del proyecto es a través de la investigación en línea. La investigación en línea puede ayudarte a aumentar tu conocimiento de los términos, las técnicas, los procesos y mucho más, todo lo cual puede ser útil si te embarcas en un nuevo proyecto. Esto te permite investigar sobre cómo otras organizaciones han manejado proyectos similares. También es una oportunidad para inspirarse en sus éxitos y para aprender de sus errores. Entonces, ¿a qué debes apuntar cuando investigues para un proyecto determinado? Repasemos algunos consejos que pueden ayudarte a comenzar. Primero, intenta buscar en línea para encontrar cobertura de noticias sobre proyectos similares en otras empresas. Por ejemplo, puedes buscar artículos de noticias que se centren en grupos de restaurantes que hayan agregado capacidades de tabletas para tomar pedidos en sus restaurantes. Experimenta con términos de búsqueda como «noticias sobre tabletas de menú» o «noticias sobre tabletas en restaurantes» para encontrar artículos de noticias pertinentes. Mientras leas, toma nota de los datos interesantes. ¿La empresa experimentó algún resultado sorprendente después del lanzamiento de su producto? ¿Se encontraron con obstáculos inesperados? Si es así, toma nota de esto y decide si hay tareas que debas agregar a tu proyecto para lograr resultados similares o para evitar obstáculos parecidos. Identificar dónde podrían ocurrir éxitos o errores similares en tu propio proyecto puede ayudarte a descubrir tareas que podrías haber pasado por alto.
+
+También es útil buscar en línea investigaciones sobre temas relacionados con tu proyecto. Por ejemplo, puedes buscar frases como «investigación sobre tabletas para restaurante» o «pedidos de menú digitales». Agregar etiquetas de búsqueda como «mejores prácticas» o «conclusiones clave» pueden ayudarte a optimizar tus resultados de búsqueda.
+
+Luego, puedes revisar la investigación pertinente para buscar información que podría ayudar a completar la planificación de tu proyecto.
+
+También puedes intentar investigar proyectos similares en otras industrias. Esto puede ser especialmente útil cuando eres nuevo en un proyecto o una industria. Por ejemplo, aunque tu proyecto se centre en el uso de tabletas en un entorno de restaurante, también puedes aprender sobre el proceso de instalación a partir de la investigación sobre el uso de tabletas en entornos similares, como tiendas minoristas o cafeterías. Los detalles serán diferentes, pero los proyectos similares en otras industrias pueden ser una fuente útil de ideas.
+
+Una vez que hayas realizado una investigación inicial en línea, revisa la lista de tareas que identificaste hasta ahora e investiga los detalles de la ejecución de ese trabajo. Por ejemplo, tal vez una de las tareas de tu lista sea elegir el modelo de tableta que finalmente instalarás en los restaurantes. ¿Hay alguna subtarea más pequeña que tu equipo deba completar para decidir sobre un modelo de tableta? Buscar en línea puede ayudar a descubrir cualquier tarea adicional que necesites tener en cuenta. ¡Bien hecho! Vamos a recapitular lo que aprendimos en este video. La investigación en línea puede ayudarte a aumentar el conocimiento de dominio de los términos de la industria, las técnicas, los procesos y mucho más. Cuando realices tu investigación en línea, ten en cuenta los siguientes consejos. Busca artículos de noticias sobre proyectos similares en otras empresas. Investiga proyectos similares en otras industrias. Y, por último, revisa tu lista de tareas e investiga los detalles de la ejecución de ese trabajo. ¿Todo listo para empezar? Ve a la siguiente actividad, donde realizarás una investigación en línea para identificar más tareas e hitos para el lanzamiento de la tableta de Sauce and Spoon. Nos vemos en el siguiente video.
 
 #### Identificar las tareas del proyecto: Análisis de conversaciones clave
 
