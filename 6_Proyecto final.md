@@ -450,7 +450,89 @@ obtienen algún tipo de beneficio o ventaja. Muy bien, eso es todo por ahora.
 
 #### Negociación del alcance con las partes interesadas
 
+Incluso después de haber establecido el alcance del proyecto, es posible que algunos interesados deseen
+analizar cómo ajustarlo. Pueden pensar que el alcance actual del proyecto requerirá demasiado trabajo
+con muy pocos recursos, que el cronograma no es realista dado el alcance o que el proyecto requiere
+tareas y objetivos adicionales. Cuando tus interesados soliciten revisar el alcance de un proyecto,
+debes reunirte con ellos para que puedan plantear sus inquietudes. Saber cómo facilitar de manera
+efectiva las negociaciones del alcance te permitirá llegar a soluciones adecuadas para todos.
+
+- Consejos para examinar el alcance con los interesados
+
+*Entender las motivaciones.* Antes de tu discusión, considera las motivaciones de cada interesado para
+querer ajustar el alcance del proyecto. Algunas de esas motivaciones son presupuestarias (como el
+deseo de reducir los costos del proyecto), otras son interpersonales (como el deseo de disponer de
+más tiempo para completar las tareas) y otras están relacionadas con objetivos personales de la
+carrera (como mantener su puesto actual o la lucha por un ascenso). Comprender las motivaciones de los
+interesados puede ayudarte a trabajar juntos para llegar a un acuerdo.
+
+*Plantea la situación.* Comienza la discusión con una reflexión sobre por qué se están reuniendo,
+Recuerda a tus interesados por qué estás involucrado en este proyecto y asegúrales que todos comparten
+un objetivo común.
+
+*Escucha primero.* Escucha lo que tus interesados tienen que decir antes de presentar tus puntos de
+vista. Esto demostrará tu deseo de entender la perspectiva de la otra parte. Reconocer su punto de
+vista puede facilitar que acepten tus sugerencias o soluciones cuando sus ideas u opiniones difieren
+de las tuyas.
+
+*Haz preguntas para definir los objetivos.* Sé minucioso y haz todas las preguntas que consideres
+necesarias para entender lo que quiere el interesado. Esto podría incluir que definan sus objetivos
+comerciales o de clientes. Esfuérzate por obtener detalles específicos y medibles de tus interesados,
+de modo que más adelante puedas determinar si has alcanzado con éxito sus objetivos. Un lenguaje medible
+(en lugar de subjetivo o poco claro) te ayudará a definir los objetivos. Un ejemplo de un objetivo
+específico y medible podría ser: “Queremos reducir el tiempo que tardan los clientes en suscribirse
+a nuestro boletín informativo en al menos un 30%”.
+
+*Explica el "porqué" antes del "qué".* Cuando intentes persuadir a los interesados, o a cualquiera,
+en realidad, para que vean las cosas a tu manera, explica las razones de tu solicituda antes de describir
+lo que quieres. Por ejemplo, empieza por explicar el valor que se podría agregar a tu empresa o proyecto
+definiendo el alcance de una manera en particular. Si los interesados entienden primero de dónde vienes,
+es más probable que concedan tu solicitud cuando la hagas.
+
+*No los abrumes.* A veces es mejor exponer tu caso y dar tiempo a los demás para que respondan. Después
+de haber presentado tus razones, posición y solicitud, retírate un poco para darle tiempo a tu audiencia
+de procesar lo que has dicho. Piensa en tu silencio, en esta situación, como una señal de respeto hacia
+tus interesados; les demuestra que quieres escucharlos. Y, si se callan por un rato, significa que has
+estimulado el pensamiento.
+
+*Sé creativo.* Trabajar para encontrar soluciones alternativas puede convertir rápidamente una negociación
+pesada en un esfuerzo de equipo inspirador. Para encontrar soluciones reales a los estancamientos de
+la negociación, piensa de forma creativa en todos los aspectos del proyecto. Es posible que descubras
+que hay más de una solución para las diferentes opiniones.
+
+*No lo hagas personal.* Concéntrate siempre en lo que es bueno para el proyecto. Si las consideraciones
+personales entran en la discusión, replantea la conversación mencionando hechos objetivos.
+
+*Busca un resultado beneficioso para todos.* Por último, considera lo que se necesita para que la otra
+parte esté satisfecha. Luego, intenta identificar una manera de asegurarte de que tú también estés
+satisfecho. Habrá ocasiones en las que una de las partes tenga que ceder más que la otra, pero el
+objetivo debe ser siempre un acuerdo de beneficio mutuo (un acuerdo que beneficie a todas las partes
+involucradas).
+
 #### Lograr un resultado beneficioso para todos
+
+El objetivo al negociar con los interesados debe ser siempre lograr un resultado beneficioso para todos
+o un acuerdo de beneficio mutuo. Este es un acuerdo que beneficia a todas las partes involucradas. Sin
+embargo, los acuerdos de beneficio mutuo no son solo para los interesados internos. Son una parte
+importante del proceso de negociación con vendedores, contratistas, proveedores, entre otros.
+
+- Mejores prácticas para llegar a un acuerdo de beneficio mutuo
+
+*Compartir la información.* A veces, en las negociaciones, una o ambas partes pueden pensar que tienen
+que ocultar información para no revelar demasiado. Sin embargo, esto no es muy eficaz. Lo mejor es
+esforzarse por mantener las líneas de comunicación abiertas, en las que cada parte comparta sus
+preocupaciones y preferencias. Por ejemplo, si el último proveedor de tu equipo te proporcionó productos
+de baja calidad, puedes expresar esto como una preocupación para que tus expectativas sobre la calidad
+queden claras.
+
+*Hacer preguntas y escuchar activamente las respuestas.* Así como compartiste tus inquietudes y expectativas,
+puedes hacer preguntas a la otra parte para aclarar cuáles son sus inquietudes y expectativas. De esa forma,
+ambas partes habrán compartido toda la información necesaria para lograr un acuerdo de beneficio mutuo.
+
+*Proponer múltiples opciones siempre que sea posible.* En las negociaciones, presentar solo una opción
+o solución puede llevarte al fracaso porque la otra persona puede pensar que tu primera oferta es la
+única. Si la otra parte rechaza todas tus propuestas, pídele que te comunique cuál es la que más le
+gusta, ya que eso puede orientarte a encontrar una solución que funcione para todos.
 
 #### Stanton dice: Gestión de los cambios de alcance con los interesados
 
