@@ -426,7 +426,27 @@ que asumiera parte del trabajo. Otra solución podría ser ajustar el plazo o la
 que no se necesiten cinco personas para alcanzar el objetivo del proyecto. El interesado puede tener
 el tamaño deseado de equipo más pequeño, y puedes completar las tareas con menos personas.
 
-El objetivo es alcanzar una solución que maximice los beneficios, minimice las pérdidas y sea justa para todos. Haz una lluvia de ideas de todas las opciones posibles que cumplan con estos criterios. Luego, durante las negociaciones, podrás presentar múltiples alternativas y elegir una que beneficie a todos en cierta medida. Ahora bien, por mucho que quieras satisfacer a tus interesados, es igual de importante que pienses en las concesiones que estás dispuesto a hacer. Para hacerlo con éxito, necesitas comprender las prioridades del proyecto. Debes saber qué es lo más importante respecto del alcance, el plazo y el presupuesto. Por ejemplo, si hay un plazo específico que se debe cumplir, habrá que negociar cualquier cambio en el alcance que podría hacer que el proyecto se exceda de ese plazo. Si el producto necesita tener un aspecto o funcionar de una manera determinada, los requisitos son una prioridad absoluta, y se podrían negociar aspectos del presupuesto o del plazo para respetar el alcance. Una herramienta común que se usa para determinar las prioridades es el modelo de la restricción triple, o el triángulo de hierro, que ya cubrimos en un curso anterior. La restricción triple te ayudará a decidir si una solicitud de proyecto es aceptable y qué impacto tendrá. Bien, repasemos. Persuasión y la negociación son herramientas constructivas que se pueden usar para mejorar la comunicación, aclarar los deseos y las necesidades y lograr soluciones viables para todos los involucrados. El objetivo es alcanzar un beneficio mutuo, que es cuando todas las partes involucradas obtienen algún tipo de beneficio o ventaja. Muy bien, eso es todo por ahora. A continuación, te prepararás para las negociaciones sobre el alcance del proyecto. Para hacer esto, identificarás los beneficios mutuos y evaluarás el impacto de comprometer el alcance. Una vez que hayas terminado, nos encontraremos en el próximo video. Nos vemos pronto.
+El objetivo es alcanzar una solución que maximice los beneficios, minimice las pérdidas y sea justa
+para todos. Haz una lluvia de ideas de todas las opciones posibles que cumplan con estos criterios,
+Luego, durante las negociaciones, podrás presentar múltiples alternativas y elegir una que beneficie
+a todos en cierta medida. Ahora bien, por mucho que quieras satisfacer a tus interesados, es igual
+de importante que pienses en las concesiones que estás dispuesto a hacer.
+
+Para hacerlo con éxito, necesitas comprender las prioridades del proyecto. Debes saber qué es lo más
+importante respecto del alcance, el plazo y el presupuesto. Por ejemplo, si hay un plazo específico
+que se debe cumplir, habrá que negociar cualquier cambio en el alcance que podría hacer que el proyecto
+se exceda de ese plazo. Si el producto necesita tener un aspecto o funcionar de una manera determinada,
+los requisitos son una prioridad absoluta, y se podrían negociar aspectos del presupuesto o del plazo
+para respetar el alcance.
+
+Una herramienta común que se usa para determinar las prioridades es el modelo de la restricción triple,
+o el triángulo de hierro. La restricción triple te ayudará a decidir si una solicitud de proyecto es
+aceptable y qué impacto tendrá.
+
+Repasemos. Persuasión y la negociación son herramientas constructivas que se pueden usar para mejorar
+la comunicación, aclarar los deseos y las necesidades y lograr soluciones viables para todos los
+involucrados. El objetivo es alcanzar un beneficio mutuo, que es cuando todas las partes involucradas
+obtienen algún tipo de beneficio o ventaja. Muy bien, eso es todo por ahora.
 
 #### Negociación del alcance con las partes interesadas
 
