@@ -557,7 +557,11 @@ cambios que él quería a tiempo para el lanzamiento. Así que negociamos y diji
 lanzamiento, pero según las estimaciones que recibimos, podremos tenerlos listos en otras dos semanas, y después haremos
 otro lanzamiento. No debería ser un gran problema. Solo será un cambio después del lanzamiento inicial".
 
-Cuando se trata de los interesados, siempre habrá algunas cosas que quieran hacer más que otras. Cuando gestionas el alcance, especialmente si surge algo de última hora, puedes intentar clasificarlo dentro de ese nivel de prioridad. Lo único que también agregaría y sobre lo que advertiría es que no se puede conseguir nada gratis, así que, si tienes un cambio en el alcance, tienes que asegurarte de volver a mirar esa prioridad y ver qué es lo que realmente se elimina debido a lo nuevo que se incorpora. Acuden a ti porque eres un gerente de proyectos o un gerente del programa. Entiendes todo lo que sucede sobre el tema, y creo que ese es el poder que tienes en este rol.
+Cuando se trata de los interesados, siempre habrá algunas cosas que quieran hacer más que otras. Cuando gestionas el alcance,
+especialmente si surge algo de última hora, puedes intentar clasificarlo dentro de ese nivel de prioridad. Lo único que
+también agregaría y sobre lo que advertiría es que no se puede conseguir nada gratis, así que, si tienes un cambio en el
+alcance, tienes que asegurarte de volver a mirar esa prioridad y ver qué es lo que realmente se elimina debido a lo nuevo
+que se incorpora. Acuden a ti porque eres un gerente de proyectos o un gerente del programa.
 
 #### Ejercer influencia en las negociaciones
 
