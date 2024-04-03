@@ -605,6 +605,22 @@ que puede ser de ayuda específica para ti.
 
 ## Desarrollar un plan de proyecto
 
+### Identificar tareas e hitos
+
+#### Introducción: Desarrollar un plan de proyecto
+
+#### Identificar las tareas del proyecto: Análisis de la documentación
+
+#### Consejos para definir las tareas del proyecto
+
+#### Identificar las tareas del proyecto: Realizar una investigación en línea
+
+#### Identificar las tareas del proyecto: Análisis de conversaciones clave
+
+#### Ordenar tareas e identificar hitos
+
+### Estimaciones de tiempo precisas
+
 ## Mantener la calidad
 
 ## Comunicacion efectiva con los interesados
