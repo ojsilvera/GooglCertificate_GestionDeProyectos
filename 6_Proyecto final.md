@@ -744,7 +744,24 @@ esto, si eres nuevo en una industria u organización, nadie esperará que tengas
 de ayudar a desarrollar tu conocimiento del dominio cuando recién comienzas con la planificación del proyecto es a través
 de la investigación en línea.
 
-La investigación en línea puede ayudarte a aumentar tu conocimiento de los términos, las técnicas, los procesos y mucho más, todo lo cual puede ser útil si te embarcas en un nuevo proyecto. Esto te permite investigar sobre cómo otras organizaciones han manejado proyectos similares. También es una oportunidad para inspirarse en sus éxitos y para aprender de sus errores. Entonces, ¿a qué debes apuntar cuando investigues para un proyecto determinado? Repasemos algunos consejos que pueden ayudarte a comenzar. Primero, intenta buscar en línea para encontrar cobertura de noticias sobre proyectos similares en otras empresas. Por ejemplo, puedes buscar artículos de noticias que se centren en grupos de restaurantes que hayan agregado capacidades de tabletas para tomar pedidos en sus restaurantes. Experimenta con términos de búsqueda como «noticias sobre tabletas de menú» o «noticias sobre tabletas en restaurantes» para encontrar artículos de noticias pertinentes. Mientras leas, toma nota de los datos interesantes. ¿La empresa experimentó algún resultado sorprendente después del lanzamiento de su producto? ¿Se encontraron con obstáculos inesperados? Si es así, toma nota de esto y decide si hay tareas que debas agregar a tu proyecto para lograr resultados similares o para evitar obstáculos parecidos. Identificar dónde podrían ocurrir éxitos o errores similares en tu propio proyecto puede ayudarte a descubrir tareas que podrías haber pasado por alto.
+La investigación en línea puede ayudarte a aumentar tu conocimiento de los términos, las técnicas, los procesos y mucho
+más, todo lo cual puede ser útil si te embarcas en un nuevo proyecto. Esto te permite investigar sobre cómo otras
+organizaciones han manejado proyectos similares. También es una oportunidad para inspirarse en sus éxitos y para aprender
+de sus errores.
+
+Entonces, ¿a qué debes apuntar cuando investigues para un proyecto determinado? Repasemos algunos consejos que pueden
+ayudarte a comenzar:
+
+Primero, intenta buscar en línea para encontrar cobertura de noticias sobre proyectos similares en otras empresas. Por
+ejemplo, puedes buscar artículos de noticias que se centren en grupos de restaurantes que hayan agregado capacidades de
+tabletas para tomar pedidos en sus restaurantes. Experimenta con términos de búsqueda como «noticias sobre tabletas de
+menú» o «noticias sobre tabletas en restaurantes» para encontrar artículos de noticias pertinentes. Mientras leas, toma
+nota de los datos interesantes.
+
+¿La empresa experimentó algún resultado sorprendente después del lanzamiento de su producto? ¿Se encontraron con obstáculos
+inesperados? Si es así, toma nota de esto y decide si hay tareas que debas agregar a tu proyecto para lograr resultados
+similares o para evitar obstáculos parecidos. Identificar dónde podrían ocurrir éxitos o errores similares en tu propio
+proyecto puede ayudarte a descubrir tareas que podrías haber pasado por alto.
 
 También es útil buscar en línea investigaciones sobre temas relacionados con tu proyecto. Por ejemplo, puedes buscar frases como «investigación sobre tabletas para restaurante» o «pedidos de menú digitales». Agregar etiquetas de búsqueda como «mejores prácticas» o «conclusiones clave» pueden ayudarte a optimizar tus resultados de búsqueda.
 
