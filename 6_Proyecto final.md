@@ -625,11 +625,34 @@ cronograma que indican el progreso. Suelen corresponderse con un entregable o un
 del proyecto son actividades que se deben realizar en un período establecido de tiempo y se asignan a diferentes miembros
 del equipo de acuerdo con los roles y las habilidades de cada persona.
 
-Para alcanzar un hito, tu equipo y tú deben completar ciertas tareas. Por ejemplo, uno de los entregables del proyecto de Sauce and Spoon es promocionar los nuevos menús para tabletas con letreros en las mesas y correos electrónicos masivos. En este caso, un hito podría ser la finalización de este entregable, que incluiría todas las tareas que se requieren para conseguir la aprobación de las versiones finales de los materiales de marketing y confirmar las fechas de envío masivo del correo electrónico. Algunas de estas tareas podrían incluir la redacción de varios borradores de los diferentes materiales de marketing, generar una lista de correo electrónico y programar los correos electrónicos para que se envíen en las fechas correctas. Para cada entregable, pregúntate lo siguiente: ¿Qué pasos debemos dar para lograr esto? Los pasos se convertirán en las tareas individuales que deben completarse. Dirijamos nuestra atención a otro producto de Sauce and Spoon: la implementación de una encuesta posterior a la cena para evaluar la satisfacción del cliente.
+Para alcanzar un hito, tu equipo y tú deben completar ciertas tareas. Por ejemplo, uno de los entregables del proyecto de
+Sauce and Spoon es promocionar los nuevos menús para tabletas con letreros en las mesas y correos electrónicos masivos. En
+este caso, un hito podría ser la finalización de este entregable, que incluiría todas las tareas que se requieren para
+conseguir la aprobación de las versiones finales de los materiales de marketing y confirmar las fechas de envío masivo del
+correo electrónico. Algunas de estas tareas podrían incluir la redacción de varios borradores de los diferentes materiales
+de marketing, generar una lista de correo electrónico y programar los correos electrónicos para que se envíen en las fechas
+correctas. Para cada entregable, pregúntate lo siguiente:
 
-¿Qué pasos debe seguir para lograr este entregable? Es posible que deba asignar a un miembro del equipo para desarrollar una encuesta. También deberás determinar cómo entregar la encuesta y crear un proceso para llevarla a cabo.
+    ¿Qué pasos debemos dar para lograr esto?
 
-Estos son solo algunos ejemplos de las muchas tareas que deberás completar para para lograr el entregable. Es tu trabajo ayudar a descubrir el resto de las tareas. ¿Cómo descubres más tareas? Además del estatuto del proyecto, existen otras formas comunes de documentación que pueden ayudarte a identificar tareas. Por ejemplo, puedes pedir a los interesados o colegas que compartan correos electrónicos o un plan de proyecto anterior para un proyecto similar. Analicemos cómo estos pueden ser útiles a medida que creas tu lista de tareas. Los correos electrónicos relacionados con el proyecto pueden proporcionar mucha información útil de donde obtener tareas. Dado que gran parte de la comunicación en el lugar de trabajo se realiza a través del correo electrónico, pide que te envíen correos electrónicos relacionados que contengan debates sobre los detalles del proyecto. Estos correos electrónicos pueden ayudarte a descubrir tareas y también a identificar miembros del equipo con quienes conectarte si tienes preguntas adicionales.
+Los pasos se convertirán en las tareas individuales que deben completarse. Dirijamos nuestra atención a otro producto de
+Sauce and Spoon: la implementación de una encuesta posterior a la cena para evaluar la satisfacción del cliente.
+
+    ¿Qué pasos debe seguir para lograr este entregable?
+
+Es posible que deba asignar a un miembro del equipo para desarrollar una encuesta. También deberás determinar cómo entregar
+la encuesta y crear un proceso para llevarla a cabo.
+
+Estos son solo algunos ejemplos de las muchas tareas que deberás completar para para lograr el entregable. Es tu trabajo
+ayudar a descubrir el resto de las tareas. ¿Cómo descubres más tareas? Además del estatuto del proyecto, existen otras
+formas comunes de documentación que pueden ayudarte a identificar tareas. Por ejemplo, puedes pedir a los interesados o
+colegas que compartan correos electrónicos o un plan de proyecto anterior para un proyecto similar.
+
+Analicemos cómo estos pueden ser útiles a medida que creas tu lista de tareas. Los correos electrónicos relacionados con
+el proyecto pueden proporcionar mucha información útil de donde obtener tareas. Dado que gran parte de la comunicación en
+el lugar de trabajo se realiza a través del correo electrónico, pide que te envíen correos electrónicos relacionados que
+contengan debates sobre los detalles del proyecto. Estos correos electrónicos pueden ayudarte a descubrir tareas y también
+a identificar miembros del equipo con quienes conectarte si tienes preguntas adicionales.
 
 También es útil revisar un plan de proyecto anterior para una iniciativa similar y averiguar qué tipo de tareas se incluyeron. Por ejemplo, si eres un gerente de proyectos encargado de lanzar un nuevo producto, podrías preguntarle a un colega con experiencia en el lanzamiento de otros productos para la misma empresa que comparta su plan de proyecto como ejemplo. O, si tu proyecto incluye algún trabajo de construcción, podrías preguntar a tus colegas sobre proyectos no relacionados que también tenían componentes de construcción.
 
