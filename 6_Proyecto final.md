@@ -763,13 +763,24 @@ inesperados? Si es así, toma nota de esto y decide si hay tareas que debas agre
 similares o para evitar obstáculos parecidos. Identificar dónde podrían ocurrir éxitos o errores similares en tu propio
 proyecto puede ayudarte a descubrir tareas que podrías haber pasado por alto.
 
-También es útil buscar en línea investigaciones sobre temas relacionados con tu proyecto. Por ejemplo, puedes buscar frases como «investigación sobre tabletas para restaurante» o «pedidos de menú digitales». Agregar etiquetas de búsqueda como «mejores prácticas» o «conclusiones clave» pueden ayudarte a optimizar tus resultados de búsqueda.
+También es útil buscar en línea investigaciones sobre temas relacionados con tu proyecto. Por ejemplo, puedes buscar frases
+como «investigación sobre tabletas para restaurante» o «pedidos de menú digitales». Agregar etiquetas de búsqueda como
+«mejores prácticas» o «conclusiones clave» pueden ayudarte a optimizar tus resultados de búsqueda.
 
-Luego, puedes revisar la investigación pertinente para buscar información que podría ayudar a completar la planificación de tu proyecto.
+Luego, puedes revisar la investigación pertinente para buscar información que podría ayudar a completar la planificación
+de tu proyecto.
 
-También puedes intentar investigar proyectos similares en otras industrias. Esto puede ser especialmente útil cuando eres nuevo en un proyecto o una industria. Por ejemplo, aunque tu proyecto se centre en el uso de tabletas en un entorno de restaurante, también puedes aprender sobre el proceso de instalación a partir de la investigación sobre el uso de tabletas en entornos similares, como tiendas minoristas o cafeterías. Los detalles serán diferentes, pero los proyectos similares en otras industrias pueden ser una fuente útil de ideas.
+También puedes intentar investigar proyectos similares en otras industrias. Esto puede ser especialmente útil cuando eres
+nuevo en un proyecto o una industria. Por ejemplo, aunque tu proyecto se centre en el uso de tabletas en un entorno de
+restaurante, también puedes aprender sobre el proceso de instalación a partir de la investigación sobre el uso de tabletas
+en entornos similares, como tiendas minoristas o cafeterías. Los detalles serán diferentes, pero los proyectos similares
+en otras industrias pueden ser una fuente útil de ideas.
 
-Una vez que hayas realizado una investigación inicial en línea, revisa la lista de tareas que identificaste hasta ahora e investiga los detalles de la ejecución de ese trabajo. Por ejemplo, tal vez una de las tareas de tu lista sea elegir el modelo de tableta que finalmente instalarás en los restaurantes. ¿Hay alguna subtarea más pequeña que tu equipo deba completar para decidir sobre un modelo de tableta? Buscar en línea puede ayudar a descubrir cualquier tarea adicional que necesites tener en cuenta. ¡Bien hecho! Vamos a recapitular lo que aprendimos en este video. La investigación en línea puede ayudarte a aumentar el conocimiento de dominio de los términos de la industria, las técnicas, los procesos y mucho más. Cuando realices tu investigación en línea, ten en cuenta los siguientes consejos. Busca artículos de noticias sobre proyectos similares en otras empresas. Investiga proyectos similares en otras industrias. Y, por último, revisa tu lista de tareas e investiga los detalles de la ejecución de ese trabajo. ¿Todo listo para empezar? Ve a la siguiente actividad, donde realizarás una investigación en línea para identificar más tareas e hitos para el lanzamiento de la tableta de Sauce and Spoon. Nos vemos en el siguiente video.
+Una vez que hayas realizado una investigación inicial en línea, revisa la lista de tareas que identificaste hasta ahora
+e investiga los detalles de la ejecución de ese trabajo. Por ejemplo, tal vez una de las tareas de tu lista sea elegir el
+modelo de tableta que finalmente instalarás en los restaurantes. ¿Hay alguna subtarea más pequeña que tu equipo deba completar
+para decidir sobre un modelo de tableta? Buscar en línea puede ayudar a descubrir cualquier tarea adicional que necesites
+tener en cuenta.
 
 #### Identificar las tareas del proyecto: Análisis de conversaciones clave
 
