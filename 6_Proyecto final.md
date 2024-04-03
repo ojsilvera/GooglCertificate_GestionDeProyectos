@@ -590,7 +590,18 @@ identifica a las personas que pueden ayudarte a lograr tu objetivo a través de 
 en el tema de tu proyecto. También puedes ir equilibrando tu coalición con personas que tengan un alto nivel de poder en
 tu organización para ayudar a influir y conseguir que las cosas se hagan.
 
-Un análisis de los interesados es una herramienta útil para ayudar a guiar la formación de coaliciones. Una vez que hayas decidido quién es una buena opción para tu coalición, ponte en contacto con ellos y pide su apoyo. Una buena forma de hacerlo es a través de un correo electrónico bien redactado, pero también puedes preguntar en persona o con una llamada telefónica, el método que consideres más apropiado. Cuando hagas tu solicitud, expón con claridad el problema que estás intentando resolver, explica qué aspecto del proyecto se está negociando. Luego, pregúntales si podrían considerar el apoyo a tu posición o solución y explica en qué consiste. Y, por supuesto, consulta a las fuentes de poder o interés de esa persona que identificaste. Por ejemplo, si estás negociando el plazo del proyecto, podrías decir algo como: "El momento del lanzamiento afectará al horario comercial, y tu experiencia en la gestión de proyectos de restaurantes durante todo el año podría ser útil para explicar por qué hay que reconsiderar este factor". Esto le hará saber que lo valoras, por qué lo impacta y por qué crees que puede ser de ayuda específica para ti. Recapitulemos las ideas principales. La capacidad de influir es una parte importante de la gestión de proyectos. Hay cuatro pasos para influir de forma eficaz, según lo identificado por el Dr. Jay Conger: establecer credibilidad, un marco para intereses comunes, proporcionar evidencia y conectarse emocionalmente. Una forma de ganar influencia es formar una coalición. Una coalición es una alianza temporal o una asociación de grupos para lograr un propósito común o para realizar una actividad conjunta. Una coalición eficaz incluye a las personas con la combinación adecuada de poder e interés. Deberás aprovechar esas fortalezas al formar una coalición e influenciar a sus miembros. Excelente. Ahora, te has preparado para futuras negociaciones. A continuación, usarás lo que has aprendido sobre la formación de coaliciones y escribirás un correo electrónico persuasivo para influir en estos interesados para que se unan a la coalición. Una vez que hayas terminado, nos veremos en el siguiente video.
+Un análisis de los interesados es una herramienta útil para ayudar a guiar la formación de coaliciones. Una vez que hayas
+decidido quién es una buena opción para tu coalición, ponte en contacto con ellos y pide su apoyo. Una buena forma de
+hacerlo es a través de un correo electrónico bien redactado, pero también puedes preguntar en persona o con una llamada
+telefónica, el método que consideres más apropiado. Cuando hagas tu solicitud, expón con claridad el problema que estás
+intentando resolver, explica qué aspecto del proyecto se está negociando. Luego, pregúntales si podrían considerar el
+apoyo a tu posición o solución y explica en qué consiste. Y, por supuesto, consulta a las fuentes de poder o interés de
+esa persona que identificaste.
+
+Por ejemplo, si estás negociando el plazo del proyecto, podrías decir algo como: "El momento del lanzamiento afectará al
+horario comercial, y tu experiencia en la gestión de proyectos de restaurantes durante todo el año podría ser útil para
+explicar por qué hay que reconsiderar este factor". Esto le hará saber que lo valoras, por qué lo impacta y por qué crees
+que puede ser de ayuda específica para ti.
 
 ## Desarrollar un plan de proyecto
 
