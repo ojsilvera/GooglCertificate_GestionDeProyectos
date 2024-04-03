@@ -536,13 +536,28 @@ gusta, ya que eso puede orientarte a encontrar una solución que funcione para t
 
 #### Stanton dice: Gestión de los cambios de alcance con los interesados
 
-Hola. Soy Stanton, gerente del programa en YouTube. Un gerente del programa en YouTube básicamente
-trabaja en un montón de proyectos diferentes, pero los reúne en un programa que puede ayudar a las
-personas a entender lo que está sucediendo en cualquier momento, ya sea el desarrollo o los requisitos
-o las pruebas del producto, todo lo que tiene que confluir para que un proyecto funcione bien.
+Hola. Soy Stanton, gerente del programa en YouTube. Un gerente del programa en YouTube básicamente trabaja en un montón
+de proyectos diferentes, pero los reúne en un programa que puede ayudar a las personas a entender lo que está sucediendo
+en cualquier momento, ya sea el desarrollo o los requisitos o las pruebas del producto, todo lo que tiene que confluir
+para que un proyecto funcione bien.
 
 Un cambio de alcance puede suceder en cualquier momento, y descubrí que a menudo sucede cuando no quieres que suceda, por
-lo general justo antes de un lanzamiento. Este es un proyecto en el que estaba trabajando en una startup antes de llegar a YouTube. Se estaba implementando una nueva aplicación que tenía que ver con los porcentajes de peso corporal. La gestión de los interesados es realmente importante como gerente del programa porque es posible que los interesados no siempre sepan lo que está sucediendo. En este caso, con nuestro director ejecutivo, estaba realmente centrado en conseguir lanzáramos el producto, mientras pensábamos en todas las relaciones públicas y el marketing y todo lo que iba a anunciar una vez que todo entrara en funcionamiento. Vio eso específico con los gráficos y realmente quería que se cambiara. Esto es algo que sucede mucho. Puedes suceder un cambio de requisitos en el último minuto. Encuentras algunas formas de asegurarte de que tu cliente o los interesados sigan contentos con lo que puedes producir. En este caso, lo que se terminó haciendo fue volver a nuestros desarrolladores, obtuvimos una estimación de cuánto tiempo creían que llevaría hacer ese cambio, y eso nos llevó a superar los plazos que teníamos en mente. Así que se nos ocurrieron unas cuantas propuestas diferentes, y lo que terminó sucediendo fue que como se fijó la fecha del lanzamiento, no había forma de que pudiéramos hacer todos los cambios que él quería a tiempo para el lanzamiento. Así que negociamos y dijimos: "Oye, los tendremos así en el lanzamiento, pero según las estimaciones que recibimos, podremos tenerlos listos en otras dos semanas, y después haremos otro lanzamiento. No debería ser un gran problema. Solo será un cambio después del lanzamiento inicial". Cuando se trata de los interesados, siempre habrá algunas cosas que quieran hacer más que otras. Cuando gestionas el alcance, especialmente si surge algo de última hora, puedes intentar clasificarlo dentro de ese nivel de prioridad. Lo único que también agregaría y sobre lo que advertiría es que no se puede conseguir nada gratis, así que, si tienes un cambio en el alcance, tienes que asegurarte de volver a mirar esa prioridad y ver qué es lo que realmente se elimina debido a lo nuevo que se incorpora. Acuden a ti porque eres un gerente de proyectos o un gerente del programa. Entiendes todo lo que sucede sobre el tema, y creo que ese es el poder que tienes en este rol.
+lo general justo antes de un lanzamiento. Este es un proyecto en el que estaba trabajando en una startup antes de llegar
+a YouTube, Se estaba implementando una nueva aplicación que tenía que ver con los porcentajes de peso corporal. La gestión
+de los interesados es realmente importante como gerente del programa porque es posible que los interesados no siempre sepan
+lo que está sucediendo. En este caso, con nuestro director ejecutivo, estaba realmente centrado en conseguir lanzáramos
+el producto, mientras pensábamos en todas las relaciones públicas y el marketing y todo lo que iba a anunciar una vez que
+todo entrara en funcionamiento. Vio eso específico con los gráficos y realmente quería que se cambiara. Esto es algo que
+sucede mucho. Puedes suceder un cambio de requisitos en el último minuto. Encuentras algunas formas de asegurarte de que
+tu cliente o los interesados sigan contentos con lo que puedes producir. En este caso, lo que se terminó haciendo fue
+volver a nuestros desarrolladores, obtuvimos una estimación de cuánto tiempo creían que llevaría hacer ese cambio, y eso
+nos llevó a superar los plazos que teníamos en mente. Así que se nos ocurrieron unas cuantas propuestas diferentes, y lo
+que terminó sucediendo fue que como se fijó la fecha del lanzamiento, no había forma de que pudiéramos hacer todos los
+cambios que él quería a tiempo para el lanzamiento. Así que negociamos y dijimos: "Oye, los tendremos así en el
+lanzamiento, pero según las estimaciones que recibimos, podremos tenerlos listos en otras dos semanas, y después haremos
+otro lanzamiento. No debería ser un gran problema. Solo será un cambio después del lanzamiento inicial".
+
+Cuando se trata de los interesados, siempre habrá algunas cosas que quieran hacer más que otras. Cuando gestionas el alcance, especialmente si surge algo de última hora, puedes intentar clasificarlo dentro de ese nivel de prioridad. Lo único que también agregaría y sobre lo que advertiría es que no se puede conseguir nada gratis, así que, si tienes un cambio en el alcance, tienes que asegurarte de volver a mirar esa prioridad y ver qué es lo que realmente se elimina debido a lo nuevo que se incorpora. Acuden a ti porque eres un gerente de proyectos o un gerente del programa. Entiendes todo lo que sucede sobre el tema, y creo que ese es el poder que tienes en este rol.
 
 #### Ejercer influencia en las negociaciones
 
