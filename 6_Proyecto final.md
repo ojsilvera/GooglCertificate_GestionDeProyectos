@@ -813,7 +813,31 @@ Además de conectar con tus compañeros de equipo para descubrir tareas del proy
 otras personas en tu organización que sean expertas en tareas determinadas. Aunque es posible que estas personas no participen
 en tu proyecto, podrían proporcionar una valiosa experiencia que te ayude a identificar, procesar y completar la información.
 
-Una vez que te hayas conectado con miembros de tu equipo del proyecto y otros expertos de tu organización, examina tu lista de tareas. ¿Todavía hay áreas donde necesitas más información? Si es así, puede ser útil tener una conversación con los interesados clave para completar cualquier información faltante. Como hemos debatido, los interesados principales a menudo están ocupados con otros aspectos de sus puestos de trabajo, por lo que debes saber a quién pedirle tener una reunión. Los interesados que tienen interés o influencia de nivel medio o alto en el proyecto son quienes más probablemente te proporcionen la información que necesitas. Algunos ejemplos incluyen interesados que son expertos en la materia y otros que se ven directamente afectados por el resultado del proyecto, como el gerente de tu equipo. Puedes consultar de nuevo el análisis de los interesados para lograr decidir a quién sería mejor contactar. Una vez que hayas identificado qué interesados serán de ayuda para ti, asegúrate de estar preparado; reúne tanta información como sea posible antes de la conversación y resume claramente las preguntas pendientes que todavía necesitan respuestas. Durante la conversación, presenta tu investigación y la lista actual de tareas, y explica exactamente cómo puede ayudarte a seguir adelante. Esto le dará al interesado una imagen clara de lo que has logrado hasta ahora y le ayudará a identificar brechas o tareas faltantes que sean necesarias para lograr tu objetivo. Una buena preparación ayuda a garantizar que podrás obtener la información que necesitas respetando el tiempo limitado de los interesados. Ten en cuenta que las conversaciones que tengas sobre las tareas del proyecto a menudo contendrán más detalles e información de la que necesitas para crear una lista exhaustiva, pero deberías tener en cuenta esta información adicional, ya que podría ser útil más adelante en el proyecto. Cada tarea de tu lista debe estar lo suficientemente detallada para que puedas comprobar el progreso e identificar los problemas desde el principio, pero no detallada al punto que tengas que revisar sin cesar tu plan del proyecto y agobiar a tu equipo con pedidos constantes de actualizaciones sobre su trabajo. El nivel correcto de detalle que debas incluir en tu lista de tareas variará de un proyecto a otro proyecto y de un equipo otro. Lograr el equilibrio adecuado es una habilidad que desarrollarás a lo largo de tu carrera. Hagamos un resumen rápido. Los debates con otras personas sobre el trabajo en el proyecto puede ayudarte a descubrir tareas faltantes o a aclarar subtareas más pequeñas. Algunas formas de descubrir tareas incluyen realizar una lluvia de ideas con los miembros del equipo asignados a tareas similares o relacionadas, tener conversaciones individuales con los miembros del equipo sobre las tareas, consultar con otras personas de tu organización que sean expertas en tareas determinadas y hablar con los interesados. El nivel correcto de detalle que debas incluir en tu lista de tareas variará de un proyecto a otro proyecto y de un equipo otro. Como gerente de proyectos, una parte clave de tu rol es identificar el nivel correcto de detalle y luego resumir las tareas de una forma clara y concisa en el plan del proyecto. En la próxima actividad, revisarás los materiales de apoyo para descubrir más detalles de la tarea y los agregarás al plan del proyecto de Sauce and Spoon. Ve a la actividad para comenzar y nos veremos en el siguiente video.
+Una vez que te hayas conectado con miembros de tu equipo del proyecto y otros expertos de tu organización, examina tu lista
+de tareas. ¿Todavía hay áreas donde necesitas más información? Si es así, puede ser útil tener una conversación con los
+interesados clave para completar cualquier información faltante.
+
+Como hemos debatido, los interesados principales a menudo están ocupados con otros aspectos de sus puestos de trabajo, por
+lo que debes saber a quién pedirle tener una reunión. Los interesados que tienen interés o influencia de nivel medio o alto
+en el proyecto son quienes más probablemente te proporcionen la información que necesitas. Algunos ejemplos incluyen interesados
+que son expertos en la materia y otros que se ven directamente afectados por el resultado del proyecto, como el gerente de
+tu equipo. Puedes consultar de nuevo el análisis de los interesados para lograr decidir a quién sería mejor contactar.
+
+Una vez que hayas identificado qué interesados serán de ayuda para ti, asegúrate de estar preparado; reúne tanta información
+como sea posible antes de la conversación y resume claramente las preguntas pendientes que todavía necesitan respuestas,
+Durante la conversación, presenta tu investigación y la lista actual de tareas, y explica exactamente cómo puede ayudarte
+a seguir adelante. Esto le dará al interesado una imagen clara de lo que has logrado hasta ahora y le ayudará a identificar
+brechas o tareas faltantes que sean necesarias para lograr tu objetivo. Una buena preparación ayuda a garantizar que podrás
+obtener la información que necesitas respetando el tiempo limitado de los interesados.
+
+Ten en cuenta que las conversaciones que tengas sobre las tareas del proyecto a menudo contendrán más detalles e información
+de la que necesitas para crear una lista exhaustiva, pero deberías tener en cuenta esta información adicional, ya que podría
+ser útil más adelante en el proyecto. Cada tarea de tu lista debe estar lo suficientemente detallada para que puedas comprobar
+el progreso e identificar los problemas desde el principio, pero no detallada al punto que tengas que revisar sin cesar tu
+plan del proyecto y agobiar a tu equipo con pedidos constantes de actualizaciones sobre su trabajo.
+
+El nivel correcto de detalle que debas incluir en tu lista de tareas variará de un proyecto a otro proyecto y de un equipo
+otro. Lograr el equilibrio adecuado es una habilidad que desarrollarás a lo largo de tu carrera.
 
 #### Ordenar tareas e identificar hitos
 
