@@ -880,7 +880,10 @@ determinado en el proyecto, etiqueta esa tarea como un hito. Por ejemplo, uno de
 estar interesado en saber cuando el proveedor de una tableta haya sido seleccionado, dado que esa decisión tendrá un impacto
 en el presupuesto.
 
-Mientras revisas tu lista, también debes identificar tareas que conllevan un riesgo alto o que señalan la finalización de una fase o tarea importantes. Estas tareas suelen ser consideradas hitos porque tienen un impacto importante en el progreso general del proyecto. Por ejemplo, la primera ejecución de prueba exitosa de la capacidad de la tableta de menú para tomar pedidos podría considerarse un hito. Un trabajo increíble. Repasemos. Una vez que hayas hecho la lista de todas las tareas necesarias en tu plan del proyecto, necesitarás reorganizar las tareas en el orden en que tu equipo necesita completarlas. También es importante tener en cuenta la secuencia natural de tareas, así como las dependencias o los requisitos previos para cada tarea. Una vez que tus tareas estén en orden, necesitarás identificar hitos. Cuando determines los hitos, es muy importante identificar los puntos en el plan de proyecto donde puedas evaluar el trabajo completado hasta el momento, identificar las tareas en las que los interesados tengan un interés en particular e identifica las tareas que conllevan un alto riesgo o señalan la finalización de una fase o tarea importantes. Está bien, ¿listo para volver al plan de tu proyecto? Ve a la siguiente actividad para reordenar tu lista de tareas del proyecto e identificar los hitos de tu proyecto. Entonces, nos veremos en el próximo video donde te enseñaré a agregar estimaciones de tiempo a cada tarea.
+Mientras revisas tu lista, también debes identificar tareas que conllevan un riesgo alto o que señalan la finalización de
+una fase o tarea importantes. Estas tareas suelen ser consideradas hitos porque tienen un impacto importante en el progreso
+general del proyecto. Por ejemplo, la primera ejecución de prueba exitosa de la capacidad de la tableta de menú para tomar
+pedidos podría considerarse un hito.
 
 ### Estimaciones de tiempo precisas
 
