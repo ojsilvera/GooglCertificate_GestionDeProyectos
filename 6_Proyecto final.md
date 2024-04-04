@@ -841,6 +841,47 @@ otro. Lograr el equilibrio adecuado es una habilidad que desarrollarás a lo lar
 
 #### Ordenar tareas e identificar hitos
 
+A esta altura, deberías tener una larga lista de tareas del proyecto. Para finalizar la lista, revisa lo que tienes hasta
+ahora. Comprueba si hay alguna tarea más grande que podría dividirse en subtareas aun más pequeñas y agrega esas tareas a
+tu lista.
+
+Cuando creas que has puesto en la lista todas las tareas del proyecto necesarias en tu plan de proyecto, el siguiente paso
+es acomodar las tareas en el orden en que deben completarse. Determinar el orden correcto de tareas te ayudará a asignar
+las fechas de inicio y fin de cada tarea.
+
+Si determinas la importancia, primero considera el orden básico de operaciones. En otras palabras, ¿cuál es la secuencia
+natural de las tareas? ¿Hay alguna dependencia o requisitos previos? Por ejemplo, no puedes capacitar al personal sobre
+cómo usar las tabletas antes de que se hayan instalado y probado.
+
+Para ayudarte a ordenar las tareas, puedes tener una conversación con tu equipo para descubrir las dependencias o los
+requisitos previos de cada persona dueña de una tarea. Puedes preguntar a cada persona qué debe suceder antes de que puedan
+empezar a trabajar. De manera similar, puedes buscar información en Internet con términos como «requisitos previos para
+lanzar hardware nuevo».
+
+Después de haber pensado en el orden, ajusta las tareas en tu plan del proyecto para que refleje esto. Para hacerlo,
+simplemente reorganiza las filas de la hoja de cálculo para establecer el orden de tus tareas. Por ejemplo, la tarea de
+investigar diferentes modelos de tabletas de menú tiene que suceder antes de la tarea de firmar un contrato con el proveedor
+de tabletas de menú. Tiene sentido, ¿verdad? Probablemente no quieras firmar un contrato con el proveedor antes de investigar
+todas las opciones posibles.
+
+Una vez que tus tareas estén en orden, empezarás a identificar hitos. Recuerda que los hitos son puntos importantes dentro
+del cronograma del proyecto que indican el progreso. Los hitos por lo general significan la finalización de un entregable
+o de una fase del proyecto.
+
+Para determinar los hitos dentro de tu lista de tareas, identifica puntos en el plan de proyecto donde tú y tu equipo puedan
+evaluar el trabajo completado hasta el momento. Por ejemplo, si hay varias tareas relacionadas con la instalación de tabletas
+de menú, un hito podría ser la primera prueba interna de la capacidad de la tableta para tomar pedidos.
+
+Estos tipos de hitos pueden ser iguales que algunos de los entregables que enumeraste anteriormente. Otra forma de determinar
+hitos es identificar tareas importantes en las que tus interesados tengan un interés en particular. Para ello, revisa tus
+notas de conversaciones anteriores con los interesados e identifica las tareas sobre las que los interesados parecían querer
+saber más o que querían revisar cuando se hubieran completado. Si tu interesado tiene un gran interés en una tarea o un punto
+determinado en el proyecto, etiqueta esa tarea como un hito. Por ejemplo, uno de los interesados de Sauce and Spoon podría
+estar interesado en saber cuando el proveedor de una tableta haya sido seleccionado, dado que esa decisión tendrá un impacto
+en el presupuesto.
+
+Mientras revisas tu lista, también debes identificar tareas que conllevan un riesgo alto o que señalan la finalización de una fase o tarea importantes. Estas tareas suelen ser consideradas hitos porque tienen un impacto importante en el progreso general del proyecto. Por ejemplo, la primera ejecución de prueba exitosa de la capacidad de la tableta de menú para tomar pedidos podría considerarse un hito. Un trabajo increíble. Repasemos. Una vez que hayas hecho la lista de todas las tareas necesarias en tu plan del proyecto, necesitarás reorganizar las tareas en el orden en que tu equipo necesita completarlas. También es importante tener en cuenta la secuencia natural de tareas, así como las dependencias o los requisitos previos para cada tarea. Una vez que tus tareas estén en orden, necesitarás identificar hitos. Cuando determines los hitos, es muy importante identificar los puntos en el plan de proyecto donde puedas evaluar el trabajo completado hasta el momento, identificar las tareas en las que los interesados tengan un interés en particular e identifica las tareas que conllevan un alto riesgo o señalan la finalización de una fase o tarea importantes. Está bien, ¿listo para volver al plan de tu proyecto? Ve a la siguiente actividad para reordenar tu lista de tareas del proyecto e identificar los hitos de tu proyecto. Entonces, nos veremos en el próximo video donde te enseñaré a agregar estimaciones de tiempo a cada tarea.
+
 ### Estimaciones de tiempo precisas
 
 ## Mantener la calidad
