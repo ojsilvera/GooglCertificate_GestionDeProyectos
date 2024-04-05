@@ -1240,6 +1240,89 @@ a las negociaciones de estimación de tiempo para el proyecto de lanzamiento de 
 
 #### Estimación de tiempo: Negociar con empatía
 
+Pedir estimaciones de tiempo o preguntar por qué un aspecto del proyecto está retrasado puede ser una conversación difícil,
+Por eso, practicar la **empatía** es tan importante a la hora de negociar y al comunicarse en general. La empatía es la
+capacidad de entender y sentir lo que otros están sintiendo. Es cuando haces el esfuerzo para imaginarte en el lugar de la
+otra persona y experimentar cosas desde su perspectiva.
+
+Comenzar una conversación con empatía puede hacer que el debate sea mucho más fácil. Ya aprendiste cómo incorporar la
+empatía en la gestión de proyectos en general, incluidos estar presente, escuchar y hacer preguntas. En este video, vamos a
+ver cómo puedes usar la empatía en conversaciones sobre las estimaciones y los plazos de la tarea.
+
+Hacer preguntas sobre cuánto tiempo tardará una tarea podría hacer que algunas personas se sientan inseguras. Quizás sientan
+que no confías en ellas, que crees que no son competentes, que crees que sabes más que ellas sobre su propio trabajo, y así
+sucesivamente. ¿Alguna vez sentiste que alguien no confiaba en ti o que cuestionara tu habilidad para completar tu trabajo?
+
+Incluso cuando simplemente estás tratando de lograr una comprensión clara sobre una tarea que no entiendes, hacer preguntas
+sin empatía puede dejar a los miembros del equipo con la sensación de que estás haciendo microgestión. La **microgestión**
+es cuando un gerente observa demasiado de cerca, controla o recuerda continuamente a las personas bajo su gestión el trabajo
+que se les ha asignado. Esto tiene un impacto negativo porque demuestra la falta de confianza del gerente en las personas a
+las que supervisa.
+
+Hay muchas formas en que puedes incorporar la empatía a tus conversaciones. Una forma es **escuchar con curiosidad**. Haz
+preguntas para demostrar tu interés en lo que la gente tiene para decir. En lugar de suponer o sugerir, inicia la
+conversación con una pregunta. Por ejemplo, podrías preguntar a la persona cuánto tiempo le tomó realizar una tarea
+particular en un proyecto anterior, en lugar de sugerir un marco de tiempo para completar una tarea similar.
+
+Otra forma de mostrar empatía es **repetir periódicamente** lo que piensas que la otra persona dijo. Cuando noten que
+repites su mensaje en tus propias palabras, los animará a confirmar su intención y sabrán que entiendes lo que están
+comunicando. También podría ayudarlos a ver los problemas que están debatiendo desde una perspectiva diferente.
+
+También puedes demostrar empatía si tratas de **conectarte con su experiencia**. Hazle saber a la persona que entiendes que
+hacer las estimaciones puede ser difícil para cualquiera, incluso para ti mismo. Puedes contarle acerca de un proyecto en el
+que tuviste problemas para hacer una estimación de tiempo para una tarea, o sobre una estimación completamente errónea que
+hiciste. Deja claro que sabes que quiere hacer el mejor trabajo posible y que lo apoyas.
+
+Practicar la empatía también significa que eres capaz de **reconocer tus propios juicios**. Reconoce cuando estés haciendo
+juicios internos sobre la persona con la que te estás comunicando, como cuando tienes dudas sobre la calidad de su trabajo,
+por ejemplo. A continuación, encuentra formas de ver la situación con mayor consideración. Incluso si no mencionas tus
+juicios en voz alta, las personas son muy buenas en leer el lenguaje corporal y las expresiones faciales e interpretar el
+tono de los demás. Trata de ponerte en el lugar del otro y pregunta sobre cualquier obstáculo que podría estar enfrentando.
+
+Otra estrategia para practicar la empatía es **reconocer el margen**. Un miembro del equipo podría agregar un margen a su
+estimación de tiempo para una tarea sin comunicar por qué agregó dicho margen. Pregúntale en persona si incluyó un margen
+para tener en cuenta las vacaciones, los días por enfermedad, el cuidado de niños o las emergencias. Esto puede demostrar tu
+empatía por su situación y también te ayudará a obtener una estimación más precisa. Anímalo a compartir este margen
+adicional asegurándole que quieres una respuesta honesta, incluso si no es la ideal.
+
+Y por último, con el fin de emplear eficazmente todas estas estrategias para practicar la empatía en tus conversaciones,
+debes ser capaz de **enfocarte totalmente en lo que la otra persona te está comunicando**. Esto significa evitar
+distracciones. Poner tu teléfono en silencio, no mirar las notificaciones ni los mensajes de texto y cerrar tu computadora
+portátil son algunas maneras de mostrar a la persona que le estás dando toda tu atención y que lo que está compartiendo es
+importante para ti.
+
+Hagamos un repaso rápido. La empatía es la capacidad de entender y sentir lo que otros están sintiendo. Algunos consejos
+para aportar empatía a tus conversaciones son: **escuchar con curiosidad, repetir lo que crees haber escuchado, conectarte**
+**con su experiencia, reconocer juicios, reconocer los márgenes y evitar distracciones**. ¡Excelente! Considera estos consejos
+para practicar la empatía en la próxima actividad. Entonces, nos vemos en el siguiente video para recapitular todo lo que
+hemos tratado hasta ahora.
+
+**Procedimiento para Negociar con Empatía:**
+
+1. **Prepara el terreno:** Antes de comenzar la negociación, asegúrate de estar presente y enfocado en la conversación.
+   Elimina distracciones como el teléfono y la computadora portátil para demostrar que le estás dando toda tu atención a la
+   persona con la que estás hablando.
+
+2. **Inicia con empatía:** Comienza la conversación mostrando empatía. Haz preguntas para entender la perspectiva y las
+   preocupaciones de la otra persona. Escucha con curiosidad y repite periódicamente lo que crees haber entendido para
+   confirmar que estás interpretando correctamente sus puntos de vista.
+
+3. **Conecta con su experiencia:** Demuestra que comprendes las dificultades que pueden surgir al hacer estimaciones de
+   tiempo o al enfrentar retos en el proyecto. Comparte tus propias experiencias similares para establecer una conexión y
+   crear un ambiente de apoyo mutuo.
+
+4. **Reconoce juicios y márgenes:** Sé consciente de tus propios juicios y evita expresarlos de manera negativa durante la
+   negociación. Reconoce los márgenes que la otra persona pueda haber incluido en sus estimaciones y pregúntale sobre las
+   razones detrás de esos márgenes para comprender mejor su situación.
+
+5. **Propón soluciones colaborativas:** En lugar de imponer plazos o estimaciones, propón soluciones que surjan de la
+   colaboración y la comprensión mutua. Explora opciones que satisfagan las necesidades de ambas partes y que tomen en
+   cuenta los márgenes y las preocupaciones planteadas durante la negociación.
+
+6. **Agradece y comprométete:** Al finalizar la negociación, agradece a la otra persona por su tiempo y esfuerzo en la
+   conversación. Comprométete a apoyar mutuamente los acuerdos alcanzados y a mantener abiertas las líneas de comunicación
+   para resolver cualquier problema que pueda surgir en el futuro.
+
 #### Torie: Practicar la empatía como gerente del programa
 
 ## Mantener la calidad
