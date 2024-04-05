@@ -1029,6 +1029,87 @@ Un paso a paso recomendado seria:
 
 #### La técnica de estimación de tres puntos
 
+La estimación es un aspecto crucial de la gestión de proyectos. Se espera que los gerentes de proyecto estimen con precisión
+los elementos esenciales del proyecto, como los costos, el alcance y el tiempo. Hay muchas técnicas de estimación diferentes
+que se pueden utilizar, según qué aspecto del proyecto necesite una estimación. Las técnicas de estimación permiten a los
+gerentes de proyectos proporcionar mejores pronósticos a los interesados y clientes, y presupuestar con mayor precisión los
+fondos y recursos que necesitan para el éxito del proyecto.
+
+La técnica de estimación de tres puntos se puede utilizar para ayudar a determinar la estimación de tiempo más realista para
+una tarea. Esta técnica utiliza cálculos optimistas,pesimistas y más probables, lo que significa que los cálculos se basan
+en los escenarios de «mejor de los casos» (optimistas), «peor de los casos» (pesimistas) y más probables.
+
+**Estimación de tres puntos.**
+
+En esta técnica, cada tarea recibe tres estimaciones: optimista, más probable y pesimista. Cada una de estas tres
+estimaciones se asocia a la cantidad de tiempo correspondiente que se espera que lleve esa tarea.
+
+![alt text](image-34.png)
+
+Optimista: supone el mejor de los casos, en el que los problemas no ocurrirán. Más probable: supone que podrían ocurrir
+algunos problemas y se basa en el tiempo que suele tardar la tarea en circunstancias normales. Pesimista: supone el peor de
+los casos, en el que seguramente se producirán problemas
+
+**El proceso de estimación de tres puntos.**
+
+Para cada tarea, agrega una estimación de duración en cada categoría: optimista, más probable y pesimista. Puedes obtener
+estas estimaciones investigando la tarea o preguntando a un experto en tareas. Como práctica recomendada, agrega notas sobre
+las condiciones que determinan cada estimación.
+
+![alt text](image-35.png)
+
+Optimista = el proveedor está bien calificado, tiene todos los materiales y se presenta a tiempo; el personal se presenta a
+tiempo y completa con éxito la capacitación dentro del tiempo programado; todo el equipo funciona. 4 horas más probable = el
+proveedor puede estar calificado, pero es posible que no tenga todos los materiales; el proveedor es nuevo y necesita tiempo
+adicional para prepararse; se debe programar tiempo de capacitación adicional para el personal ausente; fallas menores con
+el equipo; la capacitación debe reprogramarse. 6 horas pesimista = el proveedor original abandona el proyecto; hay que
+contratar a un nuevo proveedor; el personal no se presenta o cambia el personal justo antes de la capacitación; el equipo no
+se entrega a tiempo o no funciona; la capacitación no puede realizarse hasta que llegue el nuevo equipo. 6 días
+
+**Determinación de una estimación final.**
+
+Para determinar tu estimación final (la estimación que vas a utilizar en el plan de tu proyecto), examina el plazo optimista
+y el pesimista y luego compáralo con el plazo más probable. Ten en cuenta las condiciones que probablemente existan mientras
+se completa la tarea. ¿Parece razonable que se pueda cumplir el plazo más probable? Si tu equipo nunca ha completado esta
+tarea antes, o si se desconocen las dependencias de la tarea, la estimación final debería estar más cerca de la estimación
+pesimista. Si tu equipo está familiarizado con la tarea y puedes confirmar las condiciones para una estimación optimista, la
+estimación final puede estar más cerca de la estimación optimista. Alternativamente, solo usa la estimación más probable, en
+especial si la diferencia entre las estimaciones optimista y pesimista es mínima (unas pocas horas o no más de uno o dos
+días). Una buena práctica es construir un «margen» que tenga en cuenta los riesgos que son probables, pero que aun así
+mantenga el progreso del proyecto a un ritmo eficiente.
+
+**Fórmulas de estimación de tres puntos.**
+
+Algunos proyectos requerirán que calcules valores numéricos específicos para las estimaciones de tiempo de las tareas. Hay
+muchos recursos en línea que brindan más instrucciones sobre cómo calcular estimaciones, pero hemos proporcionado dos
+fórmulas populares: la distribución triangular y la distribución beta (PERT).
+
+Para cada fórmula: E es Estimación (la estimación final que asignará a la tarea), o = estimación optimista, p = estimación
+pesimista y m = estimación más probable.
+
+![alt text](image-36.png)
+
+**La distribución triangular.**
+
+La ponderación de cada estimación en esta ecuación es idéntica, lo que significa que el caso más probable no afecta la
+estimación final más que las estimaciones optimistas o pesimistas.
+
+![alt text](image-37.png)
+
+**La distribución beta (PERT).**
+
+La distribución beta (PERT) es un promedio ponderado. La estimación más probable recibe un multiplicador de cuatro, mientras
+que el divisor general se incrementa a seis.
+
+Este método tiene en cuenta que es más probable que ocurra el caso más probable, por lo que se le da más peso. El peso
+agregado se refleja en el multiplicador de cuatro.
+
+Poner más peso en la estimación más probable aumenta la precisión de la estimación. En la mayoría de los casos, se ha
+demostrado que la distribución beta (PERT) es más precisa que la estimación de tres puntos y, a menudo, se usa para calcular
+estimaciones de costo y tiempo.
+
+![alt text](image-38.png)
+
 #### Estimación de tiempo: Aplicar calificaciones de nivel de confianza
 
 #### Estimación de tiempo: Negociación efectiva de la estimación de tiempo
