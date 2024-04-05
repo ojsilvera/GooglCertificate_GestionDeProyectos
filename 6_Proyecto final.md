@@ -929,7 +929,78 @@ cambia su estimación por completo.
 
 #### Estimación de tiempo: Estimación de tres puntos
 
-Se llama estimación de tres puntos. La estimación de tres puntos se utiliza para ayudar a determinar la estimación de tiempo más realista para una tarea. Utiliza cálculos optimistas y pesimistas, lo que significa que los cálculos están basados en el mejor y en el peor de los casos. Un beneficio secundario de esta estrategia es que tiene en cuenta los riesgos potenciales que podrían impactar no solo en la estimación de tareas, sino en otros aspectos del proyecto, como el presupuesto y los recursos. Tal como su nombre lo indica, la técnica de estimación consta de tres puntos, que son tres partes de la estimación que veremos. Así es como funciona. Cada tarea recibe tres estimaciones de tiempo: optimista, más probable y pesimista. Cada estimación indica la cantidad proyectada de tiempo que tomará una tarea según esa categoría y cuánta probabilidad hay de que surja un posible riesgo. Una estimación "optimista" supone el mejor de los casos: los problemas no ocurrirán y la tarea se completará dentro del tiempo estimado. En otras palabras, es cuánto tiempo esperas que la tarea tome, suponiendo que todo salga según lo planeado. Por ejemplo, si todos los suministros necesarios para una tarea llegan temprano y todo funciona como se supone que debe hacerlo. Una estimación "más probable" supone que pueden producirse algunos problemas. Otra forma de pensar la estimación más probable es que se basa en cuánto tarda la tarea por lo general en circunstancias normales, por ejemplo, si los suministros llegaran en el tiempo esperado y solo necesitaras hacer algunos ajustes menores antes de que todo finalmente funcione de la forma en que se supone que debe hacerlo. Y, finalmente, una estimación "pesimista" supone que los problemas definitivamente ocurrirán. Aquí es donde todo lo que podría salir mal, sale mal; por ejemplo, si los suministros llegan tarde o el pedido es incorrecto y nada funciona como se supone que debe hacerlo. Cuando determines las estimaciones utilizando esta técnica, tendrás que preguntar a tus expertos en tareas o realizar investigaciones que te ayuden a entender el mejor y el peor de los casos. Luego, agrega estas notas al plan para cada tarea. Vamos a probar una estimación de tres puntos con un ejemplo del proyecto Sauce and Spoon: la tarea de capacitar al personal para usar las tabletas. Le pides a la persona encargada de organizar la capacitación del personal que te diga una estimación de tiempo en cada categoría y que describa las condiciones para cada una. El experto en tareas te dice que las condiciones para una estimación optimista significaría que el proveedor contratado para hacer la capacitación esté bien calificado, tenga todos los materiales que necesita y llegue a tiempo para impartir la capacitación. Todo el personal se presenta a tiempo y con éxito completa la capacitación en la cantidad de tiempo programada. Todos los equipos funcionan para que el personal practique. En el mejor de los casos, tu experto en tareas estima de cuatro a dos horas para llevar a cabo la capacitación, y una hora para la configuración y otra para la revisión luego de la capacitación en la fecha originalmente programada. En un escenario muy probable, el experto en tareas supone que el proveedor está calificado, pero es posible que no cuente con todos los materiales necesarios. Tendrá que modificar algo, o alguien del personal del restaurante tendrá que buscar algunos suministros, o el proveedor podría ser nuevo y necesitar tiempo adicional para prepararse o tardar más en dar la capacitación. Por lo general, algunos miembros del personal no pueden asistir o llegar a tiempo, así que tendría que programarse tiempo de capacitación adicional. También podría haber pequeñas fallas con el equipo y la capacitación podría tener que reprogramarse para un día posterior de la semana. La estimación de tiempo en este caso es cercana a las seis horas, y la fecha es probable que se postergue a dos o tres días después de lo previsto originalmente. En condiciones pesimistas, podría pasar que el proveedor de la capacitación original renuncie y que tengas que reemplazarlo por uno nuevo. Podría haber varios empleados que no se presenten o rotación de personal justo antes de la capacitación. O posiblemente el equipo no llegue a tiempo o no funcione, por lo que la capacitación no podrá hacerse hasta que llegue el nuevo equipo. En este caso, el tiempo real de capacitación sigue siendo de alrededor de seis horas, pero la fecha tiene que ser reprogramada para una semana después de lo previsto originalmente. Cuando realices tu investigación o hables con expertos en tareas, ten en cuenta los tres puntos para que puedas determinar los resultados optimistas, más probables y pesimistas. Si alguien te da una estimación de tiempo, no te limites a tomar su palabra sin comprender el contexto en que está haciendo esa estimación. Piénsalo de esta manera: si alguien está siendo optimista, podría estimar que una tarea solo tomará dos días para completarse. Si te atienes a esa estimación y termina tomando una semana entera, tu cronograma se arruinará. Pero, si alguien es pesimista y piensa que tardará un mes y la tarea solo toma una semana, entonces tienes tiempo adicional en tu cronograma que podrías haber ocupado para otras tareas, o podrías haber lanzado antes del producto. Tener en cuenta siempre el peor de los casos quizás parezca algo bueno, pero en realidad es un desperdicio si calculaste la mayor parte de tu estimación de esta manera. Debes examinar el mejor y el peor de los casos, y compararlos con el escenario más probable. A partir de ahí, puedes incorporar un margen que tenga en cuenta los riesgos probables, pero que mantenga el proyecto en curso a un ritmo eficiente. Bien, repasemos. La estimación de tres puntos es una técnica para ayudar a determinar la estimación de tiempo más realista para una tarea. Esta estimación utiliza cálculos optimistas, más probables y pesimistas. La estimación de tres puntos requiere un poco más de trabajo, pero ofrece un aspecto más claro de lo que es posible realizar con cada tarea para que puedas hacer una estimación más realista y precisa. Incluso hay fórmulas para ayudarte a cuantificar estas estimaciones, que no veremos aquí, pero te alentamos a que las revises en las lecturas del curso. En la siguiente actividad, revisarás los materiales de apoyo, donde Peta tuvo conversaciones con expertos en tareas del proyecto de Sauce and Spoon. Allí, harás estimaciones de tiempo para las tareas que debatieron y las agregarás a tu plan de proyecto.
+Se llama estimación de tres puntos. La estimación de tres puntos se utiliza para ayudar a determinar la estimación de tiempo
+más realista para una tarea. Utiliza cálculos optimistas y pesimistas, lo que significa que los cálculos están basados en
+el mejor y en el peor de los casos. Un beneficio secundario de esta estrategia es que tiene en cuenta los riesgos potenciales
+que podrían impactar no solo en la estimación de tareas, sino en otros aspectos del proyecto, como el presupuesto y los recursos.
+
+Tal como su nombre lo indica, la técnica de estimación consta de tres puntos, que son tres partes de la estimación que veremos,
+Cada tarea recibe tres estimaciones de tiempo: optimista, más probable y pesimista. Cada estimación indica la cantidad proyectada
+de tiempo que tomará una tarea según esa categoría y cuánta probabilidad hay de que surja un posible riesgo.
+
+**Una estimación "optimista"** supone el mejor de los casos: los problemas no ocurrirán y la tarea se completará dentro
+del tiempo estimado. En otras palabras, es cuánto tiempo esperas que la tarea tome, suponiendo que todo salga según lo
+planeado.
+
+**Por ejemplo**, si todos los suministros necesarios para una tarea llegan temprano y todo funciona como se supone que debe
+hacerlo.
+
+**Una estimación "más probable"** supone que pueden producirse algunos problemas. Otra forma de pensar la estimación
+más probable es que se basa en cuánto tarda la tarea por lo general en circunstancias normales, por ejemplo, si los suministros
+llegaran en el tiempo esperado y solo necesitaras hacer algunos ajustes menores antes de que todo finalmente funcione de
+la forma en que se supone que debe hacerlo.
+
+Y, finalmente, **una estimación "pesimista"** supone que los problemas definitivamente ocurrirán. Aquí es donde todo lo
+que podría salir mal, sale mal; por ejemplo, si los suministros llegan tarde o el pedido es incorrecto y nada funciona como
+se supone que debe hacerlo.
+
+Cuando determines las estimaciones utilizando esta técnica, tendrás que preguntar a tus expertos en tareas o realizar
+investigaciones que te ayuden a entender el mejor y el peor de los casos. Luego, agrega estas notas al plan para cada tarea.
+
+**Vamos a probar una estimación de tres puntos** con un ejemplo del proyecto Sauce and Spoon: la tarea de capacitar al
+personal para usar las tabletas. Le pides a la persona encargada de organizar la capacitación del personal que te diga una
+estimación de tiempo en cada categoría y que describa las condiciones para cada una.
+
+El experto en tareas te dice que las condiciones para una *estimación optimista* significaría que el proveedor contratado
+para hacer la capacitación esté bien calificado, tenga todos los materiales que necesita y llegue a tiempo para impartir
+la capacitación. Todo el personal se presenta a tiempo y con éxito completa la capacitación en la cantidad de tiempo programada,
+Todos los equipos funcionan para que el personal practique; En el mejor de los casos, tu experto en tareas estima de cuatro
+a dos horas para llevar a cabo la capacitación, y una hora para la configuración y otra para la revisión luego de la
+capacitación en la fecha originalmente programada.
+
+*En una estimacion mas probale*, el experto en tareas supone que el proveedor está calificado, pero es posible que no cuente
+con todos los materiales necesarios. Tendrá que modificar algo, o alguien del personal del restaurante tendrá que buscar
+algunos suministros, o el proveedor podría ser nuevo y necesitar tiempo adicional para prepararse o tardar más en dar la
+capacitación. Por lo general, algunos miembros del personal no pueden asistir o llegar a tiempo, así que tendría que
+programarse tiempo de capacitación adicional. También podría haber pequeñas fallas con el equipo y la capacitación podría
+tener que reprogramarse para un día posterior de la semana. La estimación de tiempo en este caso es cercana a las seis
+horas, y la fecha es probable que se postergue a dos o tres días después de lo previsto originalmente.
+
+*En condiciones pesimistas*, podría pasar que el proveedor de la capacitación original renuncie y que tengas que reemplazarlo
+por uno nuevo. Podría haber varios empleados que no se presenten o rotación de personal justo antes de la capacitación. O
+posiblemente el equipo no llegue a tiempo o no funcione, por lo que la capacitación no podrá hacerse hasta que llegue el
+nuevo equipo. En este caso, el tiempo real de capacitación sigue siendo de alrededor de seis horas, pero la fecha tiene que
+ser reprogramada para una semana después de lo previsto originalmente.
+
+**Cuando realices tu investigación o hables con expertos en tareas**, ten en cuenta los tres puntos para que puedas
+determinar los resultados optimistas, más probables y pesimistas. Si alguien te da una estimación de tiempo, no te limites a
+tomar su palabra sin comprender el contexto en que está haciendo esa estimación.
+
+**Piénsalo de esta manera:** si alguien está siendo optimista, podría estimar que una tarea solo tomará dos días para
+completarse. Si te atienes a esa estimación y termina tomando una semana entera, tu cronograma se arruinará. Pero, si
+alguien es pesimista y piensa que tardará un mes y la tarea solo toma una semana, entonces tienes tiempo adicional en tu
+cronograma que podrías haber ocupado para otras tareas, o podrías haber lanzado antes del producto.
+
+Tener en cuenta siempre el peor de los casos quizás parezca algo bueno, pero en realidad es un desperdicio si calculaste la
+mayor parte de tu estimación de esta manera. **Debes examinar el mejor y el peor de los casos**, y compararlos con el
+escenario más probable. A partir de ahí, puedes incorporar un margen que tenga en cuenta los riesgos probables, pero que
+mantenga el proyecto en curso a un ritmo eficiente.
+
+**Bien, repasemos.** La estimación de tres puntos es una técnica para ayudar a determinar la estimación de tiempo más
+realista para una tarea. Esta estimación utiliza cálculos optimistas, más probables y pesimistas. La estimación de tres
+puntos requiere un poco más de trabajo, pero ofrece un aspecto más claro de lo que es posible realizar con cada tarea para
+que puedas hacer una estimación más realista y precisa. Incluso hay fórmulas para ayudarte a cuantificar estas estimaciones,
+que no veremos aquí, pero te alentamos a que las revises en las lecturas del curso.
 
 #### La técnica de estimación de tres puntos
 
