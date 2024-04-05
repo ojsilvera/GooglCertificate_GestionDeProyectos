@@ -920,7 +920,10 @@ La estimación de esfuerzo para diseñar la página podría ser de ocho horas, q
 e implementar el diseño, pero la duración total de la tarea incluye pruebas, feedback y aprobaciones necesarias para el
 lanzamiento. Eso significa que el tiempo total estimado para la página de pago es, en realidad, de más de ocho horas.
 
-Finalmente, otra estrategia para obtener estimaciones precisas es comparar las estimaciones del experto con el tiempo real dedicado a tareas similares en trabajos anteriores. Pide al experto que piense en un proyecto similar en el que haya trabajado y que describa qué fue diferente y qué fue igual. Pregunta cuánto tiempo tomó ese proyecto y si pensar en ese proyecto cambia su estimación por completo. Bien, repasemos lo que hemos tratado. La estimación del tiempo es una predicción de la cantidad total de tiempo necesaria para completar una tarea; proporcionar estimaciones para cada tarea te da una idea general del plazo del proyecto en relación con los plazos e hitos individuales, y hacer las preguntas correctas puede ayudar a tus expertos a calcular el tiempo con la mayor precisión posible. Intenta verificar su comprensión de la tarea o pídeles estimaciones de los subpasos. Debate suposiciones y compara las estimaciones del experto con el tiempo real que tomaron tareas similares en trabajos anteriores. En el siguiente video, compartiré otra estrategia para obtener estimaciones de tiempo precisas, que se llama el método de tres puntos. Luego, en una próxima actividad, agregarás estimaciones de tiempo al plan del proyecto de Sauce and Spoon. Nos vemos ahí.
+Finalmente, otra estrategia para obtener estimaciones precisas es comparar las estimaciones del experto con el tiempo real
+dedicado a tareas similares en trabajos anteriores. Pide al experto que piense en un proyecto similar en el que haya trabajado
+y que describa qué fue diferente y qué fue igual. Pregunta cuánto tiempo tomó ese proyecto y si pensar en ese proyecto
+cambia su estimación por completo.
 
 ## Mantener la calidad
 
