@@ -887,6 +887,32 @@ pedidos podría considerarse un hito.
 
 ### Estimaciones de tiempo precisas
 
+La estimación del tiempo es una predicción de la cantidad total de tiempo necesaria para completar una tarea. Proporcionar
+estimaciones de tiempo para cada tarea te da una mejor idea del total del plazo del proyecto en relación con los plazos e
+hitos individuales. Conocer la duración estimada de una tarea también te permite seguir fácilmente su progreso para que
+puedas reconocer si es probable que la tarea supere el tiempo estimado. De esa manera, podrás proyectar mejor la línea de
+tiempo y hacer rápidamente los ajustes necesarios. Como mencioné antes, no necesariamente serás un experto en los proyectos
+que gestiones al principio. Además de revisar la documentación del proyecto e investigar un poco, también necesitarás la
+ayuda de tu equipo y de otros expertos en la materia para completar algunos de los detalles y proporcionar información.
+
+Hacer las preguntas correctas puede ayudar a tus expertos a estimar el tiempo con la mayor precisión posible.
+
+Algunas estrategias para obtener estimaciones de tiempo precisas de tus expertos en tareas.
+
+Primero, comprobar su comprensión de la tarea. Pide al experto que explique todos los pasos detallados involucrados en la
+tarea. No incluirás todos los detalles en el plan del proyecto, pero si el experto hace esto, estarás logrando que piense
+detenidamente en todo el trabajo involucrado antes de proporcionarte una estimación. Luego, solicitar estimaciones de los
+subpasos y anotarlas. A continuación, súmalas a todas y compara ese total con la estimación de los expertos del tiempo total
+necesario para completar la tarea.
+
+Otra estrategia es debatir las suposiciones que el experto podría estar haciendo cuando te da una estimación. Por ejemplo,
+¿qué equipo suponen que tendrán? ¿Qué tipo de suministros? ¿Cuántas personas suponen que trabajarán en la tarea? ¿Cuáles
+son sus suposiciones acerca de la habilidad y el nivel de experiencia de las personas que trabajan con ellos en la tarea?
+
+Luego, pide al experto en la tarea que considere la probabilidad de que todos o algunos de estos supuestos podrían no ser correctos y cómo eso podría afectar su estimación. Un detalle importante que se debe aclarar aquí es la diferencia entre una estimación de esfuerzo y una estimación de la duración total. Una estimación de esfuerzo solo tiene en cuenta el tiempo real que se tarda en completar una tarea. Una estimación de la duración total representa el esfuerzo, la estimación y cualquier otro factor, como obtener aprobaciones, trabajo de preparación, pruebas, etc. Por ejemplo, imagina que una de tus tareas es diseñar y lanzar la página de pago de la tableta.
+
+La estimación de esfuerzo para diseñar la página podría ser de ocho horas, que es la cantidad de tiempo que lleva maquetar e implementar el diseño, pero la duración total de la tarea incluye pruebas, feedback y aprobaciones necesarias para el lanzamiento. Eso significa que el tiempo total estimado para la página de pago es, en realidad, de más de ocho horas. Finalmente, otra estrategia para obtener estimaciones precisas es comparar las estimaciones del experto con el tiempo real dedicado a tareas similares en trabajos anteriores. Pide al experto que piense en un proyecto similar en el que haya trabajado y que describa qué fue diferente y qué fue igual. Pregunta cuánto tiempo tomó ese proyecto y si pensar en ese proyecto cambia su estimación por completo. Bien, repasemos lo que hemos tratado. La estimación del tiempo es una predicción de la cantidad total de tiempo necesaria para completar una tarea; proporcionar estimaciones para cada tarea te da una idea general del plazo del proyecto en relación con los plazos e hitos individuales, y hacer las preguntas correctas puede ayudar a tus expertos a calcular el tiempo con la mayor precisión posible. Intenta verificar su comprensión de la tarea o pídeles estimaciones de los subpasos. Debate suposiciones y compara las estimaciones del experto con el tiempo real que tomaron tareas similares en trabajos anteriores. En el siguiente video, compartiré otra estrategia para obtener estimaciones de tiempo precisas, que se llama el método de tres puntos. Luego, en una próxima actividad, agregarás estimaciones de tiempo al plan del proyecto de Sauce and Spoon. Nos vemos ahí.
+
 ## Mantener la calidad
 
 ## Comunicacion efectiva con los interesados
