@@ -1112,6 +1112,50 @@ estimaciones de costo y tiempo.
 
 #### Estimación de tiempo: Aplicar calificaciones de nivel de confianza
 
+Una **calificación de nivel de confianza** indica qué tan seguro estás de la exactitud de una estimación. Poder compartir
+estas calificaciones con los interesados es útil porque pueden indicar la probabilidad de que una tarea se completará en la
+cantidad de tiempo estimada. La estimación no es una ciencia perfecta, así que, agregar una calificación de nivel de
+confianza para una tarea no te permite abordar cualquier incertidumbre.
+
+En una actividad posterior, terminarás de calcular tus estimaciones de tiempo y agregarás calificaciones de nivel de
+confianza a tus tareas en el plan del proyecto Sauce and Spoon. **¡Empecemos!**
+
+La calificación del nivel de confianza varía de **alta**, lo que significa que tienes mucha confianza en tu estimación, a
+**baja**, lo que significa que no confías mucho en tu estimación. Conocer el nivel de confianza de tu estimación y agregar
+notas sobre cualquier riesgo o problema que puede afectar a la estimación pueden ayudarte a identificar si debes pedir su
+opinión al equipo del proyecto. Tal vez puedan señalar las estimaciones o tareas que debes seguir más de cerca.
+
+Además, si observas que tu confianza es baja en un gran porcentaje de las estimaciones de tareas, es posible que debas
+comunicar tu incertidumbre sobre el plazo del proyecto a los interesados.
+
+Hay varias maneras de determinar una **calificación de nivel de confianza**. La técnica de tres puntos que acabamos de
+analizar es una forma de ganar confianza en tus estimaciones. Si puedes demostrar que has considerado las mejores y peores
+condiciones para una tarea, entonces tu calificación de nivel de confianza para la estimación del tiempo de esa tarea sería
+alta, dado que ya tienes una comprensión de la tarea.
+
+Otra forma de determinar una calificación de confianza es sondeando a tu equipo sobre las tareas que se les asignan y
+logrando un consenso sobre tu confianza colectiva. Para ello, puedes calcular su nivel de confianza como un porcentaje, lo
+que significa encuestar a todos sobre sus estimaciones y calcular el nivel de confianza promedio.
+
+Es posible que descubras que tienen un 90% de confianza, lo que significaría que tienes una calificación de confianza alta
+en general. O tal vez solo tienen un 60% de confianza, lo que significaría que tienes una calificación de confianza media. O
+puedes definir categorías para el equipo. Por ejemplo, nunca hemos hecho un proyecto como este antes, ya lo hemos hecho una
+vez, lo hemos hecho varias veces y ya lo hemos hecho un montón de veces. Cada categoría se correlaciona con tu nivel de
+confianza. Si nunca han hecho el proyecto antes o solo lo han hecho una vez, entonces, la calificación de confianza para la
+estimación de tiempo puede ser baja.
+
+La estimación está lejos de ser una ciencia exacta, particularmente en la gestión de proyectos donde hay tantas incógnitas.
+Implementar un sistema que tenga en cuenta esas incógnitas y garantice una imagen precisa del plazo del proyecto significa
+que todos estarán mejor a largo plazo.
+
+**Bien, repasemos lo que hemos tratado.** Una calificación de nivel de confianza indica qué tan seguro estás de la exactitud
+de una estimación. Puedes determinar las calificaciones de confianza de varias maneras, incluso realizando encuestas a tu
+equipo sobre las tareas a las que están asignados o definiendo categorías.
+
+Y recuerda: la estimación está lejos de ser una ciencia exacta, particularmente en la gestión de proyectos donde hay tantas
+incógnitas. Implementar un sistema que tenga en cuenta esas incógnitas y garantizar una imagen precisa de los costos del
+proyecto significa que todos estarán mejor a largo plazo.
+
 #### Estimación de tiempo: Negociación efectiva de la estimación de tiempo
 
 #### Estimación de tiempo: Negociar con empatía
