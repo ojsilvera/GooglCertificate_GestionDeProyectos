@@ -1002,6 +1002,31 @@ puntos requiere un poco más de trabajo, pero ofrece un aspecto más claro de lo
 que puedas hacer una estimación más realista y precisa. Incluso hay fórmulas para ayudarte a cuantificar estas estimaciones,
 que no veremos aquí, pero te alentamos a que las revises en las lecturas del curso.
 
+Un paso a paso recomendado seria:
+
+1. **Define los escenarios de estimación:**
+   - Optimista: Supone que todo saldrá según lo planeado sin problemas.
+   - Más probable: Considera la posibilidad de algunos problemas que se pueden resolver.
+   - Pesimista: Supone problemas graves que podrían afectar significativamente la tarea.
+
+2. **Recopila información de expertos o investigaciones:**
+   - Habla con expertos en tareas relevantes.
+   - Investiga casos anteriores similares.
+
+3. **Aplica la técnica de tres puntos:**
+   - **Optimista:** Estima el mejor tiempo posible si todo funciona perfectamente.
+   - **Más probable:** Considera los problemas comunes y ajusta el tiempo de acuerdo a ellos.
+   - **Pesimista:** Piensa en los peores problemas que podrían ocurrir y cuánto tiempo tomaría
+     resolverlos.
+
+4. **Documenta y agrega margen de seguridad:**
+   - Registra las estimaciones en el plan de proyecto.
+   - Agrega un margen de tiempo adicional para imprevistos o retrasos.
+
+5. **Revisa y ajusta según sea necesario:**
+   - Actualiza las estimaciones a medida que obtengas más información.
+   - Ajusta el plan de proyecto para mantener un ritmo eficiente.
+
 #### La técnica de estimación de tres puntos
 
 #### Estimación de tiempo: Aplicar calificaciones de nivel de confianza
