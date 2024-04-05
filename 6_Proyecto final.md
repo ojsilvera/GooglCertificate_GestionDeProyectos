@@ -1156,6 +1156,41 @@ Y recuerda: la estimación está lejos de ser una ciencia exacta, particularment
 incógnitas. Implementar un sistema que tenga en cuenta esas incógnitas y garantizar una imagen precisa de los costos del
 proyecto significa que todos estarán mejor a largo plazo.
 
+**paso a paso general para calcular las calificaciones del nivel de confianza en las estimaciones de tiempo de tarea:**
+
+1. **Entender la importancia:** Reconoce la relevancia de determinar una calificación de nivel de confianza en tus
+   estimaciones de tiempo. Comprende cómo estas calificaciones pueden influir en la gestión del proyecto y en la
+   comunicación con los interesados.
+
+2. **Definir niveles de confianza:** Establece una escala de niveles de confianza, como alta, media y baja, para evaluar
+   tu grado de certeza en cada estimación de tiempo.
+
+3. **Evaluar la comprensión de la tarea:** Asegúrate de entender completamente la tarea en cuestión. Considera los
+   diferentes escenarios y condiciones que podrían afectar la duración de la tarea.
+
+4. **Considerar riesgos y problemas:** Identifica y anota cualquier riesgo o problema que pueda impactar la estimación de
+   tiempo de la tarea. Estos elementos pueden influir en tu nivel de confianza en la estimación.
+
+5. **Consultar al equipo:** Si es posible, consulta con tu equipo sobre las tareas asignadas. Busca un consenso sobre el
+   grado de confianza colectiva en las estimaciones de tiempo.
+
+6. **Realizar encuestas:** Si tienes un equipo grande, considera realizar encuestas para recopilar las opiniones
+   individuales y calcular un nivel de confianza promedio.
+
+7. **Asignar calificaciones de nivel de confianza:** Basándote en la información recopilada y considerando todos los
+   factores relevantes, asigna a cada estimación de tiempo una calificación de nivel de confianza según tu escala
+   previamente definida.
+
+8. **Documentar y comunicar:** Registra las calificaciones de nivel de confianza junto con las estimaciones de tiempo en el
+   plan del proyecto. Comunica estas calificaciones y cualquier información relevante sobre riesgos o problemas a los
+   interesados en el proyecto.
+
+9. **Revisión continua:** Revisa periódicamente las calificaciones de nivel de confianza a medida que avanza el proyecto.
+   Actualiza estas calificaciones según la evolución de la comprensión de las tareas y la mitigación de riesgos.
+
+10. **Aprender y mejorar:** Utiliza la retroalimentación y la experiencia obtenida en cada proyecto para mejorar la
+    precisión de las estimaciones de tiempo y las calificaciones de nivel de confianza en futuros proyectos.
+
 #### Estimación de tiempo: Negociación efectiva de la estimación de tiempo
 
 #### Estimación de tiempo: Negociar con empatía
