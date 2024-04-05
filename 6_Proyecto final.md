@@ -1325,6 +1325,33 @@ hemos tratado hasta ahora.
 
 #### Torie: Practicar la empatía como gerente del programa
 
+**Hola. Soy Torie**, gerenta del Programa de educación en Google. En concreto, trabajo en nuestro currículo de
+alfabetización digital, llamado *Habilidades digitales aplicadas*, que ayudan a estudiantes de todas las edades a aprender
+las habilidades digitales prácticas necesarias para los trabajos de hoy y mañana.
+
+La empatía puede ser muy importante en la gestión de proyectos porque, muchas veces, estás lidiando con muchos diferentes
+estilos de trabajo posibles y estilos de comunicación con varios miembros del equipo y varios interesados, así que tienes
+que aprender a comunicarte con esos diferentes estilos y posiblemente adaptar tu mensaje a diferentes audiencias. Es muy
+importante poder entender cómo se pueden sentir las diferentes personas, cómo les gustaría recibir la información, para que
+puedas asegurarte de que estás comunicando las metas de tu proyecto y tu impacto de una manera muy eficaz.
+
+**Así que, un ejemplo de cuando tuve que practicar la empatía como gerenta de programa fue cuando estaba liderando un**
+**proyecto con unas cinco personas diferentes en el equipo del programa**. Estábamos teniendo algunos problemas con algunos
+plazos incumplidos, en realidad. Tuve que terminar comunicándome con uno de los miembros del equipo del proyecto solo para
+intentar entender lo que estaba pasando y averiguar por qué se habían incumplido algunos de los plazos. Finalmente,
+descubrimos que había algunas cuestiones personales que provocaron que finalmente tuviéramos que volver a cambiar algunos de
+nuestros recursos y obtener ayuda de otros compañeros de equipo. **Así que ese es un ejemplo de simplemente intentar conocer**
+**a la gente desde su lugar**. Entender que hay muchas cosas fuera del trabajo que también están pasando y que a veces puedes
+ajustar tus plazos y tus fechas de entrega como sea necesario u obtener ayuda de otros miembros del equipo durante el
+proyecto.
+
+**Cuando estés negociando estimaciones de tareas**, creo que algo muy bueno desde el comienzo es simplemente hacer muchas
+preguntas. Solo habla con diferentes personas del equipo. Tal vez incluso tú seas nuevo en el equipo y quieras tener una
+perspectiva diferente de las personas que hace más tiempo que están en el equipo, e intenta averiguar si hay algunos
+ejemplos de proyectos anteriores que sean similares al que estás liderando. Prueba a ver si hay otros proyectos que puedan
+ser algo diferentes, pero que tengan plazos distintos. Creo que eso realmente puede ayudar al principio. **Simplemente haz**
+**muchas preguntas y recopila tantos datos e información como puedas desde el principio**.
+
 ## Mantener la calidad
 
 ## Comunicacion efectiva con los interesados
