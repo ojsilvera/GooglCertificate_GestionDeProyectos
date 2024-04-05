@@ -1354,4 +1354,12 @@ ser algo diferentes, pero que tengan plazos distintos. Creo que eso realmente pu
 
 ## Mantener la calidad
 
+### Desarrollar un plan de gestión de calidad
+
+### Evaluación de los estándares de calidad
+
+### Presentación de datos
+
+### Facilitar las retrospectivas
+
 ## Comunicacion efectiva con los interesados
