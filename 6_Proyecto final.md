@@ -1193,6 +1193,51 @@ proyecto significa que todos estarán mejor a largo plazo.
 
 #### Estimación de tiempo: Negociación efectiva de la estimación de tiempo
 
+Es posible tener que negociar con los **miembros del equipo** sobre algunas de las tareas que tienen calificaciones de bajo
+nivel de confianza o que se estima que tardarán más de lo que ella esperaba.
+
+Anteriormente, aplicaste algunas habilidades de negociación a los debates sobre el alcance del proyecto. Las habilidades de
+negociación también pueden ayudarte a obtener estimaciones precisas de tiempo y esfuerzo, pero las habilidades que uses y el
+enfoque que adoptes serán un poco diferentes. En este caso, estás negociando con un experto en la tarea, no con un
+interesado. Tu objetivo es tratar de determinar una estimación precisa de tiempo y esfuerzo para una tarea, en lugar de
+persuadirlos para que estén de acuerdo con un determinado resultado. Están tratando de llegar a una estimación objetivamente
+precisa en conjunto.
+
+En cualquier proyecto, tendrás que trabajar con personas que tienen una tendencia a sobrestimar o subestimar el tiempo, los
+costos o los recursos. La gente no hace esto intencionalmente. Por lo general, solo está siendo optimista o tratando de
+complacerte ofreciendo lo que creen que quieres escuchar, en lugar de lo que es realista. O a veces pueden ser demasiado
+cautelosos y darte una estimación extrema en caso de que algo no salga según lo planeado.
+
+En algunas situaciones, usar habilidades de negociación para obtener estimaciones de tiempo más precisas puede ser
+fundamental para el éxito del proyecto. Hay muchos tipos de técnicas de negociación, pero centrémonos en algunas que sean
+específicas para negociar una estimación de tiempo. Estas son:
+
+- **Decir no sin decir no**: La idea detrás de esta técnica es conseguir que la otra persona empiece a pensar en una
+  solución alternativa contigo. Primero, piensa en las formas en que usualmente le dices a alguien que no. "Eso no
+  funcionará". "Eso no va a suceder". "No puedo hacer eso". O, "No hay manera de que eso suceda". Declaraciones como estas
+  pueden hacer que la persona con la que te estás comunicando se ponga a la defensiva y se cierre a la conversación. En su
+  lugar, haz preguntas abiertas como: ¿Cómo quieres que proceda? ¿Cómo podemos solucionar este problema? Y, ¿qué puedo hacer
+  para ayudar? Preguntas como estas invitan a la otra persona a colaborar contigo. Esto mantiene la conversación enfocada en
+  llegar a una solución que funcione para ambos.
+
+- **Centrarse en los intereses, no en las posiciones**: Aquí, el objetivo no es ganar. En su lugar, trata de identificar los
+  intereses de la otra persona, sus necesidades básicas, deseos y motivaciones para completar una determinada tarea. Es
+  posible que estés trabajando con un experto en tareas que se preocupa profundamente acerca de completar la tarea con un
+  alto grado de calidad, pero te preocupa que si no cumples con el plazo, la calidad del trabajo no importará. Puedes
+  preguntar si hay áreas de calidad en las que estaría dispuesto a ceder, ya que eso acortaría el tiempo estimado, pero aun
+  así le permitiría completar la tarea en un grado aceptable.
+
+- **Presentar opciones mutuamente beneficiosas**: Tal vez haya información que le falte al experto, o un recurso que podrías
+  comprometerte a encontrar y suministrar para hacer la estimación más corta.
+
+- **Insistir en criterios objetivos**: Es posible que tengas un experto que insista en seguir sus instintos cuando lleguen a
+  las estimaciones de tiempo. Si le pides por adelantado que proporcione datos claros objetivos que apoyen sus instintos,
+  puedes hacer que lleguen a una estimación más precisa.
+
+Estas son algunas técnicas que son específicas para negociar una estimación de tiempo. Excelente. Ahora cuentas con algunas
+nuevas técnicas de negociación como herramientas de gestión de proyectos. En la siguiente actividad, aplicarás lo aprendido
+a las negociaciones de estimación de tiempo para el proyecto de lanzamiento de tabletas.
+
 #### Estimación de tiempo: Negociar con empatía
 
 #### Torie: Practicar la empatía como gerente del programa
