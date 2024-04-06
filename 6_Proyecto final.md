@@ -1356,6 +1356,12 @@ ser algo diferentes, pero que tengan plazos distintos. Creo que eso realmente pu
 
 ### Desarrollar un plan de gestión de calidad
 
+#### Introducción: Mantener la calidad
+
+#### Conceptos clave de gestión de la calidad
+
+#### Definición de estándares de calidad
+
 ### Evaluación de los estándares de calidad
 
 ### Presentación de datos
