@@ -1533,22 +1533,186 @@ Hay muchos recursos que pueden ayudarte a determinar los estándares para tu pro
 como el caso de negocios y el estatuto, las conversaciones con expertos y los interesados y la investigación de la
 industria. Algunas categorías comunes
 
- de estándares de calidad establecidos para varias industrias incluyen funcionamiento, diseño, seguridad, facilidad de uso,
- productividad y eficacia.
+de estándares de calidad establecidos para varias industrias incluyen funcionamiento, diseño, seguridad, facilidad de uso,
+productividad y eficacia.
 
 Por último, es importante que tus estándares sean objetivos y medibles para que puedas identificar que se ha cumplido dicho
 estándar.
 
-### Evaluación de los estándares de calidad
+**En resumen:**
+
+La gestión de calidad se centra en definir estándares que aseguren la entrega eficiente de lo prometido, cumpliendo las
+necesidades de los interesados. Estos estándares son requisitos y especificaciones que un producto o servicio debe cumplir
+para considerarse exitoso. Para establecerlos, es crucial considerar distintos contextos como la capacitación del personal,
+la productividad y la satisfacción del cliente. Los estándares deben ser objetivos, medibles y ajustables para garantizar el
+éxito del proyecto y satisfacer las expectativas de calidad.
+
+Preguntas que se sugiere para establecer los estándares de calidad, relacionadas con los contextos en los que deben ser
+aplicadas:
+
+1. **Contexto de la capacitación del personal:**
+   - ¿Cómo sabrás si ese entregable se cumplió correctamente?
+   - ¿Cuáles son las expectativas o normas que los interesados tienen para cumplir con este requisito?
+   - ¿Cada grupo del personal debe estar capacitado en las mismas cosas?
+   - ¿Los encargados tendrán diferentes requisitos de capacitación que el personal de recepción y el personal de servicio?
+   - ¿La capacitación debe ajustarse a un marco temporal específico, un presupuesto o una sucursal geográfica para ser
+     considerada exitosa?
+
+2. **Contexto de la productividad y la eficacia:**
+   - ¿La existencia de las tabletas cambió algo acerca de cómo el personal de recepción trabaja?
+   - ¿Los hace más rápidos o permite que atiendan más mesas a la vez?
+
+3. **Contexto de la satisfacción del cliente:**
+   - ¿Cómo sería el impacto ideal de las tabletas en la experiencia del cliente?
+   - ¿Qué te gustaría que el cliente haga o diga como resultado de su uso de las tabletas?
+
+### Evaluacion de los estandares de calidad
 
 #### Crear preguntas de evaluación
 
+Hola de nuevo. En el último video, revisamos los principales conceptos de la gestión de calidad y definimos los estándares
+de calidad para un proyecto. Luego, después de analizar la documentación del proyecto y de ver la conversación entre Peta y
+los interesados, ayudaste a consolidar una lista de estándares de calidad para uno de los entregables del proyecto de Sauce
+& Spoon.
+
+Una vez que el plan de gestión de calidad esté en marcha con estándares de calidad bien definidos, estarás listo para
+medirlos comparados con tus estándares y por fin podrás empezar a implementar el proyecto. Desde la última actividad, Peta y
+su equipo ha comenzado a implementar el lanzamiento de las tabletas. Ambos restaurantes que fueron seleccionados para el
+piloto equiparon las mesas con tabletas. El personal recibió la capacitación y los clientes han hecho sus pedidos con las
+nuevas tabletas.
+
+En este video, analizaremos la importancia de la evaluación en lo que respecta al plan de gestión de calidad del proyecto,
+específicamente al aseguramiento de la calidad. Recuerda, el aseguramiento de la calidad consiste en revisar los procesos
+para evaluar si tu proyecto está cumpliendo con un nivel de calidad aceptable. Y la evaluación implica observar, medir y
+luego comparar tus resultados con un conjunto de criterios acordados. Estos podrían ser tus estándares de calidad o los
+objetivos generales de tu proyecto.
+
+A continuación, crearás preguntas de evaluación como parte del proceso de aseguramiento de la calidad para que puedas medir
+qué tan bien el proyecto cumple con los estándares de calidad establecidos. Entender cómo crear preguntas de evaluación
+sólidas te dará las herramientas y habilidades que necesitas para medir el éxito de todo el ciclo de vida del proyecto.
+¡Empecemos!
+
+De la misma manera que los planes de gestión de la calidad pueden tener un aspecto diferente para cada proyecto, el
+aseguramiento de la calidad podría ser implementado de diversas maneras. Algunos ejemplos de aseguramiento de la calidad son
+las pruebas beta, las listas de verificación interna y las encuestas con feedback. Cada uno de estos métodos te permiten
+evaluar y medir qué tan bien tu proyecto está cumpliendo sus metas.
+
+La evaluación es una forma de investigación diseñada para promover el aprendizaje y tomar decisiones fundadas. También
+proporciona responsabilidad y te ayuda a evaluar en qué medida el proyecto ha alcanzado sus objetivos. Cuando utilizas la
+evaluación, eres capaz de mejorar, juzgar y conocer los diferentes aspectos del proyecto y el proyecto en sí.
+
+Por ejemplo, con el proyecto de Sauce & Spoon, la evaluación puede ayudarte a mejorar cómo implementar el proceso de
+capacitación del personal de manera más eficiente. Podría ayudarte a juzgar o evaluar si algo funciona como se suponía o si
+debes o no continuar en la misma dirección.
+
+Puede ser que al personal le haya costado aprender a usar las tabletas porque las pantallas táctiles funcionaban mal; en
+este caso, necesitarías evaluar si seguir o no con la fecha de lanzamiento original. También debes asegurarte de que el
+proyecto no cree ningún problema imprevisto, ya sea para la organización, tu equipo o cualquier otra persona afectada por la
+existencia de los proyectos.
+
+Por ejemplo, tendrás que evaluar cuándo es el mejor momento para instalar las tabletas. Si programas la instalación de las
+tabletas cuando el restaurante esté abierto, eso podría crear una experiencia de cena negativa para los clientes. Si
+reflexionas sobre las áreas de mejora y juzgas cómo se desarrollan ciertos aspectos del proyecto, sabrás qué cosas ayudaron
+en la ejecución prevista del proyecto, cómo se puede replicar y cómo los desafíos se podrían superar en el futuro.
+
+Tu evaluación puede tener un enfoque único, como identificar lo que hay que mejorar o juzgar si un proyecto o proceso debe
+continuar en su formato actual. Independientemente de tus metas, tu evaluación en última instancia te permitirá calcular
+tres de estas áreas de mejora y te brindará una mejor comprensión del éxito general del proyecto, así como su impacto y el
+beneficio para la organización.
+
+Bien, ahora que sabemos por qué la evaluación se utiliza en la gestión de proyectos, veamos el proceso de evaluación para
+que sepas cómo llevar a cabo una evaluación y obtengas la información que necesitas. Para identificar lo que realmente
+quieres saber sobre tu proyecto, primero explica por qué estás haciendo una evaluación.
+
+Comprender tu “porqué” dará forma a los tipos de preguntas que hagas sobre tu proyecto. Esto nos lleva de vuelta a mejorar,
+juzgar y aprender. A pesar de que estos tres temas se abordarán en cierta medida, algunos aspectos tendrán un enfoque más
+específico para la evaluación. Puedes acotar en qué enfocarte si revisas tanto las metas del proyecto como las metas de tu
+organización y determinas cómo el aspecto que estás evaluando se conecta con una de estas metas.
+
+Vamos a analizar un ejemplo. El proyecto de Sauce & Spoon acaba de alcanzar uno de sus últimos hitos: finalizar los tres
+entregables clave que se requieren para el lanzamiento de prueba del proyecto. Esos entregables son instalar las tabletas,
+integrarlas con el sistema de POS y capacitar al personal para que utilice las tabletas. En una próxima reunión con los
+interesados, Peta tendrá que proporcionar información actualizada sobre el progreso del proyecto y compartir una evaluación
+de este hito.
+
+Es importante para Peta compartir esta evaluación, ya que informará a los interesados sobre las fases futuras y otros temas,
+incluido el lanzamiento de tabletas en dos sucursales del restaurante más. Así que el “porqué” de Peta es juzgar la calidad
+y el rendimiento de las tabletas e identificar formas de mejorar el proceso de capacitación.
+
+Una vez que hayas decidido cuáles son tus razones para evaluar, estarás listo para escribir tus preguntas de evaluación. Una
+pregunta de evaluación es una pregunta clave sobre los resultados, el impacto o la eficacia de tu proyecto o programa. Hay
+dos categorías principales de preguntas de evaluación: preguntas que indagan acerca de cómo puedes hacer mejoras y preguntas
+que te ayudan a medir y comparar.
+
+Las preguntas que te ayudan a mejorar son de este tipo: ¿Cómo podemos mejorar? ¿Qué funciona y qué no en este momento? ¿Qué
+objetivos se están cumpliendo? ¿Quién se está beneficiando? ¿Cuáles son las reacciones más comunes de los participantes? A
+continuación, tenemos preguntas que miden y comparan. Estas preguntas te ayudarán a emit
+
+ir juicios sobre cómo continuar con el proceso o proyecto mismo o si debes hacerlo.
+
+Las preguntas para medir y comparar son de este tipo: ¿Cuáles fueron los resultados? ¿Hubo resultados no deseados? ¿Cuáles
+fueron los costos y beneficios? ¿Hay lecciones que debemos aprender? ¿Deberíamos continuar? Así que, si pensamos en el
+proyecto de Sauce & Spoon, una de las preguntas de evaluación podría ser la siguiente: ¿En qué medida las tabletas mejoraron
+el rendimiento laboral del personal?
+
+Si tienes en cuenta las metas del proyecto, podrás escribir preguntas efectivas que generen el tipo de datos que deseas. Las
+preguntas de evaluación efectivas cumplen los siguientes criterios: abordan los valores, los intereses y las preocupaciones
+de los interesados o usuarios; se relacionan con el propósito del proyecto y de la evaluación; vale la pena responderlas y
+son importantes para el proyecto y otros aspectos; y son prácticas y fáciles de responder con los recursos disponibles.
+
+en resumen: La evaluación es una forma de investigación diseñada para promover el aprendizaje y tomar decisiones fundadas,
+También proporciona responsabilidad. Una pregunta de evaluación es una pregunta clave sobre los resultados, el impacto o
+la eficacia o sobre un aspecto clave de tu proyecto.
+
+Hay dos categorías principales de preguntas de evaluación: las que preguntan cómo hacer mejoras y las que te ayudan a medir
+y comparar.
+
 #### Determinación de los indicadores de evaluación
+
+Los indicadores muestran qué quieres medir o evaluar, como la cantidad de algo, el nivel de satisfacción, las preferencias
+o los datos demográficos, como la edad, el género, la experiencia, etc. Del mismo modo en que los estándares de calidad
+agregan especificidad a tus entregables y metas, los indicadores de evaluación toman tus preguntas de evaluación y determinan
+el tipo específico de respuesta que estás buscando. Necesitarás esta información para comprender si tu proyecto o proceso
+cumple con los estándares de calidad que se acordaron en el plan del proyecto.
+
+Volvamos al proyecto de Sauce & Spoon y a la pregunta de evaluación que dice: "¿hasta qué punto las tabletas mejoran el
+rendimiento laboral del personal?". Para evaluar esto, tienes que preguntarte: "¿cómo voy a medir el rendimiento laboral?".
+Tendrás que decidir entre los indicadores de rendimiento laboral, como tasas de rotación de mesas, promedios de propinas más
+altas o mayor calificación de calidad de los clientes.
+
+Otra forma de pensar en los indicadores es que proporcionan vías para responder tus preguntas de evaluación. Los indicadores
+demuestran que los resultados se logran y proporcionan evidencia medible sobre el cumplimiento de una meta, También incluyen
+señales visibles como puntajes de exámenes, tasas de asistencia o comportamiento observado. La palabra indicar significa
+señalar o mostrar.
+
+Los indicadores de evaluación señalan o muestran la forma de responder a la pregunta de evaluación. Esto podría incluir
+señales visibles de cómo trabaja el personal con las nuevas tabletas. El comportamiento observado, como menor cantidad
+de miembros del personal esperando en la estación de bebidas o menos llegadas tarde al trabajo, podrían ser un indicador
+de aumento de la productividad, o más del 90% de cumplimiento del personal con el proceso de pedidos a través de las
+tabletas podría ser un indicador de precisión en la realización de pedidos.
+
+Excelente. Repasemos. Los indicadores de evaluación determinan los datos que se deben recolectar que ayudarán a responder
+tus preguntas de evaluación. Esto incluye pistas, señales o marcadores que miden un aspecto de un proyecto y demuestran
+cuán cerca está ese aspecto de cumplir con los estándares de calidad establecidos.
 
 #### Desarrollo de una encuesta
 
 ### Presentación de datos
 
+#### Entrega de una presentación de evaluación
+
+#### Presentaciones de evaluación: Componentes y consejos
+
 ### Facilitar las retrospectivas
+
+#### El valor de las retrospectivas
+
+#### Retrospectivas: Fomentar la participación
+
+#### Retrospectivas: Fomentar la responsabilidad
+
+#### Retrospectivas: Abordar la negatividad
+
+#### Dana: Liderar con retrospectivas positivas
 
 ## Comunicacion efectiva con los interesados
