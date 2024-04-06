@@ -1358,6 +1358,36 @@ ser algo diferentes, pero que tengan plazos distintos. Creo que eso realmente pu
 
 #### Introducción: Mantener la calidad
 
+**Bienvenido de nuevo.**
+
+Hasta ahora, completaste un estatuto y un plan del proyecto para el proyecto de lanzamiento de las tabletas de Sauce &
+Spoon.
+
+**A continuación, pasaremos de la fase de planificación del ciclo de vida del proyecto a la fase de ejecución.**
+
+Pero antes de que puedas comenzar a ejecutar, tendrás que asegurarte de que se haya establecido el **plan de gestión de
+calidad** de tu proyecto para que sepas que estás entregando un proyecto que cumple con las expectativas de tus interesados.
+
+En los próximos videos y actividades, practicarás la definición de estándares de calidad para tu proyecto. Luego, evaluarás
+con qué éxito se están cumpliendo los estándares del proyecto y presentarás tus resultados a los interesados.
+
+**También crearás un documento retrospectivo**, que los gerentes de proyectos usan durante los debates sobre el progreso del
+proyecto, y cualquier mejora del proceso que sea necesaria realizar.
+
+Antes de comenzar, revisemos el escenario del proyecto para este curso. Sauce & Spoon es una cadena de restaurantes pequeña,
+pero en crecimiento, con cinco sucursales. Contrataron a Peta como su primera gerenta de proyectos interna para el
+lanzamiento del piloto de menús en tabletas en dos de sus sucursales.
+
+En los siguientes videos, compartiré información útil que puedes usar para completar cada actividad y evaluación, y te
+ofreceré consejos que puedes utilizar después de completar este curso. Cuando hayamos terminado, comprenderás cómo
+establecer una lista de estándares de calidad para un aspecto del proyecto Sauce & Spoon.
+
+**También practicarás redactar preguntas de evaluación y de encuesta** que te ayudarán a determinar si se cumplen los
+estándares de calidad. Y, finalmente, aprenderás cómo mejorar todo el proceso y a crear un documento retrospectivo, que
+podrás agregar a tu portfolio de documentos de gestión de proyectos.
+
+¿Todo listo para empezar? Nos vemos en el siguiente video, donde comenzaremos a desarrollar tu plan de gestión de calidad.
+
 #### Conceptos clave de gestión de la calidad
 
 #### Definición de estándares de calidad
