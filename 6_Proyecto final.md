@@ -1390,6 +1390,67 @@ podrás agregar a tu portfolio de documentos de gestión de proyectos.
 
 #### Conceptos clave de gestión de la calidad
 
+Una parte clave de la planificación y ejecución del proyecto incluye la implementación de un **plan de gestión de calidad**
+y mantenerlo durante todo el proyecto.
+
+La **planificación de la calidad** se refiere al proceso que el gerente de proyectos o el equipo establecen y siguen para
+identificar y determinar exactamente qué estándares de calidad son pertinentes para el proyecto en su conjunto y cómo
+satisfacerlos. No podemos simplemente lanzar un proyecto y suponer que todo estará bien. Es por eso que planificar para la
+calidad con estándares, procesos y métodos de evaluación es importante.
+
+Te ayuda a mantenerte enfocado en ver si el proyecto está progresando con éxito y te avisa de los ajustes que debes hacer
+para mantenerlo en marcha. Como gerente de proyectos, eres responsable de la planificación y ejecución del proyecto, así
+como también de que este tenga una finalización exitosa.
+
+La **planificación de la calidad** se complementa con la planificación general del proyecto y se alinea con el proceso
+general del proyecto. Las metas del proyecto y los criterios de éxito para el proyecto de las tabletas de **Sauce & Spoon**
+focalizarán los detalles de un plan de gestión de calidad en los estándares de calidad, las preguntas de evaluación y las
+encuestas con feedback para asegurar que el proyecto se entregue con calidad y produzca el resultado deseado.
+
+**Beneficios de la gestión de calidad.**
+
+Hay muchos beneficios en crear y mantener la gestión de calidad en un proyecto. Algunos de estos beneficios incluyen
+**entregar un producto de calidad**, **reducir los gastos generales(Gastos generales es otra palabra para costos)** y
+**aumentar la colaboración y las revisiones regulares**.
+
+La gestión de calidad ayuda a disminuir los gastos generales con la reducción de la cantidad de errores que le costaría
+dinero a la organización si tuviera que arreglarlos. Los procesos de gestión de calidad garantizan que el equipo siempre
+esté aprendiendo y proporcionando feedback, lo que a su vez asegura que el proyecto esté encaminado para lograr el resultado
+previsto.
+
+Los conceptos principales son:
+
+- **Planificación de la calidad**, se refiere al proceso que el gerente de proyectos o el equipo establecen y siguen para
+  identificar y determinar exactamente qué estándares de calidad son pertinentes para el proyecto en su conjunto y cómo
+  satisfacerlos.
+- **Estándares de calidad**, que son los requisitos, las especificaciones o las pautas que podrían usarse para asegurar que
+  los materiales, los productos, los procesos y servicios sean aptos para lograr el resultado deseado.
+- **Aseguramiento de calidad (QA)**, que es un proceso de revisión que evalúa si tu proyecto está encaminado a la entrega de
+  un servicio o producto de alta calidad.
+- **Control de calidad (QC)**, a menudo conocido como QC. El control de calidad se refiere a las técnicas que se utilizan
+  para garantizar que los estándares de calidad se mantengan cuando se identifica un problema.
+
+**Desarrollo de estándares de calidad.**
+
+Aquí nos centraremos en crear estándares de calidad para el proyecto de **Sauce & Spoon**, pero, en muchos proyectos, todos
+estos conceptos se combinan para conformar un plan global de gestión de calidad que documenta toda la información necesaria
+para gestionar eficazmente la calidad a lo largo del ciclo de vida del proyecto.
+
+El plan de gestión de calidad define las políticas, los procesos y los criterios para la calidad del proyecto, así como los
+roles y las responsabilidades de llevarlos a cabo. Una vez más, hay muchas formas diferentes de desarrollar y realizar un
+seguimiento de la gestión de calidad para tu proyecto, pero los beneficios y conceptos principales que componen la gestión
+de calidad siguen siendo los mismos. Repasemos.
+
+**Resumen de beneficios y conceptos clave.**
+
+Algunos de los beneficios de la gestión de calidad incluyen la entrega de un producto de calidad, la reducción de los gastos
+generales y el aumento de la colaboración y la revisión; y los principales conceptos de la gestión de calidad son la
+planificación de la calidad, los estándares de calidad, el aseguramiento de la calidad (QA) y el control de calidad (QC).
+
+Comprender estos beneficios y conceptos te ayudará a garantizar la entrega de un proyecto que cumpla con las expectativas de
+los interesados. Próximamente, aplicarás tu comprensión de la gestión de calidad para desarrollar estándares de calidad para
+el lanzamiento de tabletas de **Sauce & Spoon**. Nos vemos en el siguiente video para aprender sobre esto.
+
 #### Definición de estándares de calidad
 
 ### Evaluación de los estándares de calidad
