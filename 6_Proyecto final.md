@@ -1436,10 +1436,10 @@ Aquí nos centraremos en crear estándares de calidad para el proyecto de **Sauc
 estos conceptos se combinan para conformar un plan global de gestión de calidad que documenta toda la información necesaria
 para gestionar eficazmente la calidad a lo largo del ciclo de vida del proyecto.
 
-El plan de gestión de calidad define las políticas, los procesos y los criterios para la calidad del proyecto, así como los
+*El plan de gestión de calidad* define las políticas, los procesos y los criterios para la calidad del proyecto, así como los
 roles y las responsabilidades de llevarlos a cabo. Una vez más, hay muchas formas diferentes de desarrollar y realizar un
 seguimiento de la gestión de calidad para tu proyecto, pero los beneficios y conceptos principales que componen la gestión
-de calidad siguen siendo los mismos. Repasemos.
+de calidad siguen siendo los mismos.
 
 **Resumen de beneficios y conceptos clave.**
 
@@ -1448,8 +1448,7 @@ generales y el aumento de la colaboración y la revisión; y los principales con
 planificación de la calidad, los estándares de calidad, el aseguramiento de la calidad (QA) y el control de calidad (QC).
 
 Comprender estos beneficios y conceptos te ayudará a garantizar la entrega de un proyecto que cumpla con las expectativas de
-los interesados. Próximamente, aplicarás tu comprensión de la gestión de calidad para desarrollar estándares de calidad para
-el lanzamiento de tabletas de **Sauce & Spoon**. Nos vemos en el siguiente video para aprender sobre esto.
+los interesados. 
 
 #### Definición de estándares de calidad
 
