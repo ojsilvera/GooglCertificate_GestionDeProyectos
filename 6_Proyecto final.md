@@ -1448,11 +1448,104 @@ generales y el aumento de la colaboración y la revisión; y los principales con
 planificación de la calidad, los estándares de calidad, el aseguramiento de la calidad (QA) y el control de calidad (QC).
 
 Comprender estos beneficios y conceptos te ayudará a garantizar la entrega de un proyecto que cumpla con las expectativas de
-los interesados. 
+los interesados.
 
 #### Definición de estándares de calidad
 
+La calidad significa asegurarse de que entregas lo que dijiste que harías y que lo harás de la manera más eficiente posible.
+Lograr que un proyecto se complete a tiempo y dentro del presupuesto no necesariamente significa que hayas alcanzado tus
+objetivos; tienes que asegurarte de que entregues un proyecto que cumpla las necesidades de tus interesados.
+
+Es por eso que la calidad del proyecto recibe seguimiento durante el ciclo de vida del proyecto. Puedes medir la calidad del
+proyecto definiendo los estándares de calidad para los diversos aspectos del proyecto, como tareas, hitos y entregables
+importantes.
+
+Los estándares de calidad son los requisitos y las especificaciones que tu producto o servicio deben cumplir para ser
+considerados exitosos por tu organización y el cliente. Establecer estándares te ayuda a identificar formas de probar y
+evaluar la calidad del proyecto a lo largo de las fases de planificación y ejecución, y luego de que se lanza el proyecto.
+
+Si la calidad de diferentes aspectos de un proyecto no cumple con los estándares acordados, entonces tendrás la oportunidad
+de ajustar el plan de tu proyecto para cumplir con esos estándares. Vamos a usar un ejemplo del proyecto de Sauce & Spoon.
+Uno de los entregables es la capacitación de los encargados, del personal de recepción y del personal de servicio.
+
+¿Cómo sabrás si ese entregable se cumplió correctamente? Cuáles son las expectativas o normas que los interesados tienen
+para cumplir con este requisito? Para este entregable, piensa en lo que el personal necesita ser capaz de hacer o demostrar
+al final de la capacitación.
+
+¿Cada grupo del personal debe estar capacitado en las mismas cosas? ¿Los encargados tendrá diferentes requisitos de
+capacitación que el personal de recepción y el personal de servicio? ¿La capacitación debe ajustarse a un marco temporal
+específico, un presupuesto o una sucursal geográfica para ser considerada exitosa?
+
+Tus respuestas a preguntas como estas serán el inicio de tu lista de estándares de calidad para este entregable. Hay muchos
+recursos que pueden ayudarte a determinar los estándares para tu proyecto, y los estándares serán diferentes según el tipo
+de proyecto.
+
+Los primeros recursos para consultar son documentos de proyectos, como el caso de negocios y el estatuto del proyecto. En
+estos documentos se indican las metas, el alcance, el presupuesto y cualquier otro detalle que pueda aclarar los diferentes
+requisitos del proyecto, para que sea aceptable para tus interesados.
+
+De la misma forma que lo hiciste cuando identificaste tareas y estimaciones de tiempo, si necesitas más información para
+ayudarte a determinar los estándares de calidad, puedes tener conversaciones con los expertos y los interesados, y puedes
+investigar un poco sobre la industria.
+
+Por ejemplo, si necesitas saber cuánto tiempo tardan las tabletas en recargarse, pregunta al proveedor quién llevará a cabo
+la capacitación del personal o del representante de ventas de las tabletas. También es una buena idea hablar con los
+interesados que financiarán el proyecto para conocer su perspectiva sobre cuánto tiempo esperan que duren las tabletas antes
+de que sea necesario reemplazarlas.
+
+Haz investigaciones en Internet sobre la industria para saber si hay estándares de calidad establecidos para el tipo de
+proyecto en el que estás trabajando. Por ejemplo, las industrias de software y construcción tienen estándares de calidad
+establecidos relacionados con el funcionamiento, el diseño y la seguridad.
+
+Otras categorías de estándares de calidad establecidos que encontrarás en muchas industrias incluyen la facilidad de uso, la
+productividad, la eficacia y la satisfacción del cliente. Es importante que tus estándares sean objetivos y medibles para
+que puedas identificar que se ha cumplido dicho estándar.
+
+A medida que hables y lleves a cabo tu investigación, podrías notar que los interesados se refieren a una categoría general,
+como la facilidad de uso, sin proporcionar detalles específicos. Como gerente de proyectos, deberías apuntar a conseguir
+detalles específicos con preguntas como “¿cuál sería una señal de que las tabletas son fáciles o difíciles de usar?”.
+
+Quizás recibas una respuesta como: “no debería tardar más de 20 segundos en realizar un pedido” o “los clientes informan que
+es más rápido usar la tableta que hacer un pedido con un camarero”. Ahora tienes estándares objetivos y medibles.
+
+Veamos algunas preguntas para hacerte cuando consideres varios estándares. Si los estándares están relacionados con la
+productividad y la eficacia, podrías hacer preguntas como las siguientes: “¿La existencia de las tabletas cambió algo acerca
+de cómo el personal de recepción trabaja? ¿Los hace más rápidos o permite que atiendan más mesas a la vez?”.
+
+Si los estándares están relacionados a la satisfacción del cliente, puedes hacer las siguientes preguntas: “¿Cómo sería el
+impacto ideal de las tabletas en la experiencia del cliente? ¿Qué te gustaría que el cliente haga o diga como resultado de
+su uso de las tabletas?”.
+
+Si te haces estas preguntas o si realizas a tus expertos en tareas este tipo de preguntas, puedes reducir el estándar al que
+estás apuntando para que sea objetivo y medible. Todos estos recursos, tales como documentos de proyectos, conversaciones
+con expertos y la investigación de la industria, pueden ayudarte a determinar los estándares de calidad para los diferentes
+aspectos de tu proyecto.
+
+Pero recuerda, aún necesitas usar tus habilidades de pensamiento crítico para determinar los estándares correctos y
+ajustarlos, si fuera necesario, para cumplir con las necesidades de tu proyecto. Repasemos lo que hemos analizado hasta el
+momento.
+
+Calidad significa asegurarte de entregar lo que dijiste que entregarías y que lo harás de la manera más eficiente posible.
+Los estándares de calidad son los requisitos y las especificaciones que tu producto o servicio deben cumplir para ser
+considerados exitosos por tu organización y el cliente.
+
+Hay muchos recursos que pueden ayudarte a determinar los estándares para tu proyecto, incluidos documentos de proyectos,
+como el caso de negocios y el estatuto, las conversaciones con expertos y los interesados y la investigación de la
+industria. Algunas categorías comunes
+
+ de estándares de calidad establecidos para varias industrias incluyen funcionamiento, diseño, seguridad, facilidad de uso,
+ productividad y eficacia.
+
+Por último, es importante que tus estándares sean objetivos y medibles para que puedas identificar que se ha cumplido dicho
+estándar.
+
 ### Evaluación de los estándares de calidad
+
+#### Crear preguntas de evaluación
+
+#### Determinación de los indicadores de evaluación
+
+#### Desarrollo de una encuesta
 
 ### Presentación de datos
 
