@@ -1957,12 +1957,6 @@ facilitar una mejor colaboración y promover cambios positivos.
 Y recuerda, es tu rol como gerente de proyectos facilitar un debate de retrospectiva respetuoso y productivo donde se
 reconozcan los éxitos y las áreas de mejora.
 
-En la siguiente actividad, practicarás cómo prepararte para una retrospectiva creando una lista que incluya éxitos y áreas
-de mejora. Una vez que hayas terminado con este video, verás cómo interactúa Peta con los miembros de su equipo mientras
-realiza la retrospectiva y agregarás información a tu documento.
-
-Nos vemos pronto.
-
 #### Retrospectivas: Fomentar la participación
 
 Las retrospectivas pueden ser un poco intimidantes. Cuando organizas una retrospectiva con tu equipo, no solo llamas la
