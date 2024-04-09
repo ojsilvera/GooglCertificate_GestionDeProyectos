@@ -1697,6 +1697,64 @@ cuán cerca está ese aspecto de cumplir con los estándares de calidad establec
 
 #### Desarrollo de una encuesta
 
+Las encuestas son una de las herramientas que usan los gerentes de proyectos para obtener respuestas para sus preguntas de
+evaluación. Hay muchos métodos para recopilar datos, y las encuestas son un método popular en la gestión de proyectos.
+
+Las encuestas evalúan los criterios que deseas analizar y proporcionan datos que te indicarán si cumpliste con tus
+estándares de calidad. Diseñar una encuesta efectiva que entregue los datos que deseas es una habilidad y requiere un
+proceso de desarrollo estratégico.
+
+Comencemos con una breve revisión de las encuestas. Las encuestas son herramientas que puedes utilizar para evaluar y medir
+la calidad del proceso, de una meta o de un entregable del proyecto. Incorporar las encuestas a tu plan de gestión de
+calidad es una forma de ayudarte a comprender lo que funciona y lo que no lo hace.
+
+En una encuesta, cada encuestado responde un conjunto de preguntas claramente definidas y se recogen y analizan los datos.
+Estos datos podrían usarse para demostrar ejemplos específicos de los indicadores de evaluación que identificaste para tu
+proyecto. Para el lanzamiento de las tabletas, Peta ha decidido crear encuestas para los clientes como una forma de obtener
+respuestas a las preguntas de evaluación del proyecto.
+
+Ser capaz de desarrollar una encuesta y escribir preguntas de encuesta es importante porque demuestra tu capacidad para
+comprender las metas de tu proyecto y evaluar cómo tus interesados y usuarios valoran el proyecto. Esto te ayuda a
+determinar si estás alcanzando tus metas de calidad y dónde necesitas hacer ajustes.
+
+Las preguntas abiertas requieren respuestas de más de una palabra, como sí o no. Hacen que los encuestados respondan con sus
+propias palabras. Por ejemplo, ¿qué salió bien durante la presentación? ¿Qué te pareció más útil o interesante de la
+presentación? El punto es que el encuestado tiene que construir su propia respuesta a la pregunta, en lugar de seleccionar
+entre una lista de opciones de respuesta predeterminadas.
+
+Las preguntas cerradas se pueden responder con una sola respuesta, como sí o no, o verdadero o falso, o seleccionando una
+sola respuesta de una lista. Examinemos tres tipos de preguntas cerradas con más detalle. El primer tipo de pregunta cerrada
+tiene respuestas por sí/no o verdadero o falso. Estas son preguntas como "¿Pediste un aperitivo?" y "¿Has comido en este
+restaurante antes?".
+
+El segundo tipo de pregunta cerrada es de opción múltiple. Las preguntas de respuestas múltiples tienen, como adivinaste,
+múltiples opciones de respuesta. Por lo general, debes seleccionar una de las opciones de respuesta o todas las opciones que
+correspondan. La pregunta podría ser algo como "¿Con qué frecuencia cenas en este lugar por mes?" y, luego, un rango de
+opciones de respuesta como de cero a uno, dos a tres, cuatro a cinco y cinco o más.
+
+Un tercer tipo de pregunta cerrada es una pregunta escalada. Las preguntas de escalada ofrecen más de dos opciones, pero son
+diferentes de las de opción múltiple porque piden al encuestado que califique sus respuestas en una escala. Por ejemplo, con
+qué frecuencia ocurre algo, cuánto les gusta o disgusta algo, o cuán importante creen que es una cosa. Un ejemplo de
+pregunta de escalada podría ser "En una escala del uno al cinco, ¿cómo calificas tu experiencia gastronómica en general, si
+uno es mala y cinco, excelente?".
+
+Independientemente del tipo de pregunta, crear buenas preguntas de encuesta es una habilidad que requiere un poco de
+práctica. Aquí hay algunos consejos. En primer lugar, asegúrate de que tus preguntas sean lo que quieres preguntar. Cada
+pregunta debe ser específica y abordar solo un aspecto medible.
+
+Ten cuidado de no hacer suposiciones acerca de tus encuestados. Por ejemplo, no supongas que todos los que respondieron tu
+encuesta saben o disfrutan de las mismas cosas o tienen experiencias de vida similares. Haz preguntas y ofrece opciones de
+respuesta que permitan a las personas responder con precisión sobre su experiencia.
+
+Al mismo tiempo, debes asegurarte de que tus preguntas no proporcionen demasiados detalles o información. Si lo haces,
+podrías terminar influenciando al encuestado para que responda de cierta manera, lo que podría crear un sesgo sin querer.
+
+Esto es mucha información. Repasemos para refrescar nuestro conocimiento. Los datos de encuesta te ayudan a determinar si
+estás alcanzando tus metas de calidad y dónde necesitas hacer ajustes. Las encuestas también pueden ayudarte a comprender
+qué funciona y qué no, a evaluar los criterios que deseas analizar y proporcionar datos que te indicarán si cumpliste con
+tus estándares de calidad. El proceso de desarrollo de la encuesta incluye el desarrollo de preguntas de evaluación, la
+definición de tus indicadores de evaluación y la determinación de qué tipo de encuesta diseñar y qué preguntas hacer.
+
 ### Presentación de datos
 
 #### Entrega de una presentación de evaluación
