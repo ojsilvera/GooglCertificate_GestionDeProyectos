@@ -2016,6 +2016,78 @@ revisar el plazo del proyecto.
 
 #### Retrospectivas: Fomentar la responsabilidad
 
+La responsabilidad se refiere a garantizar las decisiones asociadas con un proyecto o una tarea, La responsabilidad es una
+parte realmente importante en una retrospectiva productiva.
+
+Si con una retrospectiva se pretende contar con una herramienta útil para mejorar un proceso, entonces los participantes en
+la retrospectiva deben ser honestos sobre cómo el equipo podría haber tenido un mejor desempeño. ¿Solo en ese momento el
+equipo puede descubrir cómo mejorar en el futuro?
+
+Saber cómo lograr que un equipo asuma la responsabilidad de un proyecto determinado será un gran beneficio para ti en tu
+carrera.
+
+La responsabilidad y la culpabilización son dos cosas muy diferentes, y solo la responsabilidad pertenece a una
+retrospectiva. La culpabilización agobia a las personas en lugar de empoderarlas para compartir honestamente. La
+responsabilidad no implica culpabilizar a miembros específicos del equipo por sus errores.
+
+En su lugar, anima al equipo a que piense holísticamente sobre los errores y desafíos para identificar soluciones en el
+futuro. Otro beneficio de la responsabilidad es que fomenta la propiedad. Cuando un miembro del equipo siente propiedad
+sobre un aspecto del proyecto, puede motivarlo más a lo largo del proyecto para garantizar que el aspecto cumpla con los
+estándares de calidad y ayuda al progreso del proyecto hacia la meta.
+
+Entonces, analicemos algunas técnicas excelentes que puedes usar para fomentar la responsabilidad durante una retrospectiva.
+
+Una técnica es preparar desafíos específicos para debatir en un grupo. Esto podría ser especialmente útil si descubres que
+tu equipo quiere concentrar el debate solo en los éxitos del royecto. Para fomentar la responsabilidad, llama la atención en
+un desafío específico. Tal vez, los encargados de cocina de Sauce & Spoon comentaron que se sintieron excluidos de la toma
+de decisiones por los gerentes generales. Durante una retrospectiva, puedes compartir este feedback con el grupo y pedir que
+ayuden a resolver los problemas que llevaron a este feedback.
+
+Otra técnica útil es convertir las quejas del equipo en elementos de acción inteligentes. Los objetivos del proyecto deben
+ser SMART, lo que significa que sus objetivos deben ser specific (específico), measurable (medible), attainable
+(alcanzable), relevant (relevante) y time-bound (de duración determinada). Pero aquí hay otro consejo, los elementos de
+acción también podrían ser SMART. Si descubres que el equipo se queja más de lo que resuelve, elige una queja y conviértela
+en un elemento de acción SMART. En este caso, volvamos a nuestro ejemplo donde los encargados de cocina se sintieron
+excluidos del sistema de toma de decisiones generales. Como gerente de proyectos, podría ser una buena idea agregar un
+elemento de acción para invitar a los encargados de cocina a la reunión de personal semanal de actualización. Si deseas ir
+un paso más allá, incluso puedes agregar un elemento de la agenda de cinco minutos para que los encargados de cocina
+analicen los problemas y obtengan feedback. Luego, podrías hacer un plan para verificar en dos meses si todavía se sienten
+de la misma forma o si se sienten más incluidos. Si muestras a tu equipo cómo convertir las quejas en acciones, puedes
+ayudarlos a orientarse más hacia las soluciones.
+
+Cuando se trata de fomentar la responsabilidad, también es una buena idea impulsar al equipo para que identifique su papel
+en la creación de un desafío en particular. Es posible que el equipo se sienta más enfocado solo en los desafíos que sienten
+que no pueden controlar o en los que no tienen ningún tipo de influencia, como la entrega tardía de tu proveedor de
+tabletas, por ejemplo. Cuando analices los desafíos hacia los que el equipo parece reacio a asumir la responsabilidad,
+puedes ayudarlos a pensar en la serie de eventos que condujeron a un determinado desafío. Luego, puedes impulsar a tu equipo
+para que identifique un momento en esa serie de eventos donde no pudieron reconocer y abordar el problema.
+
+Volvamos al tema de la entrega del proveedor de tabletas.
+
+Tal vez si a alguien del equipo se le hubiera asignado la responsabilidad de tratar con el proveedor de tabletas desde el
+principio del proyecto, esta persona asignada hubiera realizado llamadas de actualización semanales con el proveedor. Esto
+podría haber ayudado a los encargados de los restaurantes a planificar y resolver el problema de la entrega.
+
+Cuando ayudas a tu equipo a identificar su propio papel en la creación de desafíos, fomentas la reflexión que podría
+conducir a ideas y conclusiones útiles para mejorar el proceso. A medida que tu equipo hable sobre los diversos desafíos que
+enfrentaron, asegúrate de que las críticas sean constructivas.
+
+La crítica constructiva es una forma respetuosa de feedback que tiene la intención de ayudar a que el destinatario mejore en
+su trabajo. Si la crítica de una parte del proyecto comienza a pasar de constructiva a inútil o severa, será tu rol como
+gerente de proyectos redirigir la conversación. Para cambiar de tema, trata de separar el desafío que se está debatiendo de
+cualquier persona específica en la sala. Puedes hacer esto dirigiendo la conversación hacia las mejoras del proceso de las
+que todo el equipo puede aprender.
+
+Repasemos las ideas principales.
+
+La responsabilidad y la culpabilización son dos cosas muy diferentes, y solo la responsabilidad pertenece a una
+retrospectiva. La responsabilidad se refiere a garantizar las decisiones asociadas con un proyecto o una tarea. La
+responsabilidad se trata de fomentar que el equipo piense de manera holística sobre los errores y los desafíos, y de
+fomentar la propiedad. Algunas técnicas que puedes utilizar para fomentar la responsabilidad durante una retrospectiva
+incluyen: preparar desafíos específicos para debatir como grupo. Transformar las quejas del equipo en elementos de acción
+SMART. Animar al equipo para que identifique su rol en la creación de un desafío en particular y separar el desafío que se
+está debatiendo de cualquier persona específica en la sala.
+
 #### Retrospectivas: Abordar la negatividad
 
 #### Dana: Liderar con retrospectivas positivas
