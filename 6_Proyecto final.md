@@ -1759,6 +1759,100 @@ definición de tus indicadores de evaluación y la determinación de qué tipo d
 
 #### Entrega de una presentación de evaluación
 
+Hay diferentes maneras de presentar una evaluación y tendrás que decidir qué estilo es el mejor para tu proyecto y tu
+audiencia.
+
+Comienza por considerar a tu audiencia. Piensa en lo que es más significativo para ellos, así como en cuánto tiempo tienen.
+Si tu audiencia es una mezcla de roles o grupos, como miembros del equipo, gerentes, interesados y ejecutivos, considera la
+mejor manera de compartir información con cada grupo.
+
+En algunos casos, deberás presentar los mismos datos de diferentes maneras. Cada audiencia tiene diferentes razones para
+querer información. Tu equipo, por ejemplo, podría beneficiarse de un informe detallado para poder abordar aspectos del
+proyecto del que son responsables.
+
+Sin embargo, los grupos de interesados y los ejecutivos séniores generalmente no necesitan, quieren o tienen tiempo para
+escuchar un análisis detallado. Prefieren tener un resumen de la información más importante y del impacto que su inversión
+tendrá en el proyecto.
+
+Después de considerar a tu audiencia, debes crear un informe de evaluación detallado que aborde tus preguntas de evaluación.
+A continuación, puedes tomar el informe detallado y resumir la información en el formato más adecuado para un público
+determinado.
+
+Además de un informe completo, dos estilos comunes de informes incluyen una hoja de resumen y una presentación basada en
+diapositivas. Una hoja de resumen es una o dos páginas con un resumen de la información más pertinente. Piensa en esto como
+si fuera un folleto o una instantánea de tus resultados.
+
+Y una presentación basada en diapositivas utiliza diapositivas digitales para presentar de forma visual la información. La
+presentación de los resultados de evaluación no solo debe ser un informe de datos sin procesar; tu presentación debe
+reflejar lo que significan los datos y explicar cómo ofrecen una respuesta a las preguntas de evaluación.
+
+Para ello, necesitas filtrar y analizar los datos. Esta es probablemente la parte más importante. Porque aquí es donde le
+das sentido a los datos para ti mismo.
+
+Cuando realizas el trabajo de filtrar y analizar, te familiarizas con los resultados, los encuestados, y qué significan esos
+resultados en lo que respecta a la calidad del proyecto.
+
+Reproduce el video desde :3:4 y sigue la transcripción3:04
+
+Ahí está la diferencia entre los informes de datos y la presentación de los resultados de evaluación. Supongamos que los
+datos de la encuesta revelan que el 36% de los encuestados informó una experiencia gastronómica negativa con las tabletas,
+pero ¿qué significan esos datos?
+
+Podría significar varias cosas. Podría significar que las tabletas no se instalaron correctamente, lo que provocó fallas de
+rendimiento. Podría significar que las tabletas eran de mala calidad, por lo que incluso si se instalaron correctamente, no
+funcionaron muy bien. Podría significar que el personal no estaba capacitado lo suficientemente bien, lo que provocó
+retrasos o pedidos incorrectos. O podría significar que a los encuestados simplemente no les gustó usar las tabletas y
+prefieren una experiencia gastronómica estándar.
+
+Como verás, los datos por sí solos no son suficientes. Necesitas realizar análisis que explique los datos. Tu trabajo es
+averiguar qué significan esos datos y explicar cómo responden a tus preguntas de evaluación. Cuando puedas explicar qué
+significan los datos en tus propias palabras, tendrás la base para tu presentación.
+
+Una buena manera de empezar a analizar los datos que debes presentar es buscar tendencias, patrones y anomalías. Otro
+consejo es compartir este proceso con algunos de los miembros de tu equipo. Turnarse para compartir lo que crees que
+significan los datos te permite comprobar tu comprensión y descubrir información adicional a través de las distintas
+perspectivas.
+
+Después de haber analizado tus datos y saber cómo te gustaría presentarlos, da forma a la historia de tus resultados uniendo
+todo en una narrativa coherente. Tómate un tiempo para pensar en lo que esperas lograr, los puntos que deseas destacar y las
+preguntas e inquietudes que deseas responder.
+
+Una gran manera de presentar una evaluación es a través de una historia. La narración de historias es el proceso de
+convertir hechos en narrativa para comunicar algo a tu audiencia. Esto es esencialmente lo que haces cuando presentas los
+resultados de tu evaluación: contar la historia de tus datos.
+
+Brindamos algunos consejos excelentes y más detalles sobre el proceso de narración en los cursos anteriores, así que échales
+un vistazo si necesitas más ayuda.
+
+Para el proyecto de las tabletas, el objetivo de la presentación es demostrar a los interesados si el proyecto está
+cumpliendo con éxito los estándares de calidad, así que quizás podrías comenzar recordándoles el objetivo general y el
+propósito del proyecto. A partir de ahí, identifica el hito que se está evaluando y cómo se espera que cumpla con las metas
+del proyecto.
+
+Explica lo que revelaron los datos, pero no trates cada punto de datos o pregunta de encuesta. De nuevo, estás contando una
+historia sobre los datos, no presentando los datos sin procesar en sí mismos. Identifica cualquier problema importante que
+hayan revelado los datos y resume el resto. Si los datos revelan que las cosas estaban saliendo bien, elige algunos aspectos
+destacados
+
+ y sigue adelante. Si hay algunas fallas importantes, sugiere posibles soluciones o presenta preguntas específicas para las
+ que necesitas respuestas.
+
+Repasemos. Hay diferentes formas de presentar una evaluación. Tienes que decidir qué estilo es el mejor para tu audiencia.
+Para hacer esto, considera qué es más importante para ellos y cuánto tiempo tienen. En algunos casos, deberás presentar los
+mismos datos de diferentes maneras.
+
+Los estilos de informes comunes, además de un informe detallado y completo, son una hoja de resumen y una presentación
+basada en diapositivas. Una evaluación no es simplemente un informe de datos sin procesar. Necesita reflejar qué significan
+los datos y explicar cómo ofrecen una respuesta a las preguntas de evaluación. Para ello, tendrás que filtrar y analizar los
+datos.
+
+Una gran manera de presentar una evaluación es a través de una historia. La narración de historias es el proceso de
+convertir hechos en narrativa para comunicar algo a tu audiencia. En la siguiente actividad, revisarás los resultados de los
+datos de las encuestas con feedback y las diapositivas de presentación de Sauce & Spoon que cuentan la historia de tu
+evaluación.
+
+Luego, irás a la sección de cierre con una retrospectiva. Nos vemos pronto.
+
 #### Presentaciones de evaluación: Componentes y consejos
 
 ### Facilitar las retrospectivas
