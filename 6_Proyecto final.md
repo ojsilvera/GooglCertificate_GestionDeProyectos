@@ -1855,6 +1855,73 @@ Luego, irás a la sección de cierre con una retrospectiva. Nos vemos pronto.
 
 #### Presentaciones de evaluación: Componentes y consejos
 
+**Qué incluir en la presentación de la evaluación.**
+
+*Introducción.*
+
+La introducción sirve como un resumen de tu presentación e incluye una visión general de los objetivos del proyecto y los
+resultados deseados. Esta debe incluir un resumen de tus hallazgos, lecciones aprendidas y recomendaciones para el futuro.
+Esta es una sección muy importante de tu presentación, pero debe ser breve. Tu introducción no debe tener más de un párrafo
+y solo debe incluir la información más necesaria.
+
+*Qué se está evaluando y por qué?*
+
+Aquí es donde indicarás el propósito de la evaluación. Recuerda, en el contexto de la gestión de calidad del proyecto, el
+propósito de la evaluación es medir qué tan bien tu proyecto cumple con los estándares de calidad establecidos. Presentar
+los resultados de la evaluación a tus interesados les demuestra cómo el proyecto está cumpliendo con los estándares de
+calidad y les informa sobre el éxito del proyecto. Para ello:
+
+Indica la meta, el hito o el entregable que se está evaluando y los estándares de calidad que se definieron para ese aspecto
+del proyecto.
+
+Incluye las preguntas de evaluación y los indicadores que se utilizaron para evaluar cada estándar de calidad.
+
+*Consejo:* Recuerda, tus interesados tienen un tiempo limitado. Cuando prepares tu presentación, solo selecciona los
+estándares y las preguntas más importantes.
+
+*Resultados de la evaluación.*
+
+Ahora es el momento de exponer tus resultados. Otorga a cada estándar su propia sección dentro de esta parte de la
+presentación y resume lo que los resultados significan para cada estándar. Haz un juicio claro sobre los resultados: ¿Qué
+aprendiste? ¿Qué puedes obtener de los datos? Cuenta la historia de lo que significan los datos para el futuro del proyecto
+y para los interesados.
+
+Ejemplo:"Los datos revelan que el 36% de los usuarios sintieron que su experiencia gastronómica se vio afectada
+negativamente por las tabletas". Depende de ti resumir esos datos y determinar cuál podría ser la razón. Tal vez sea porque
+el software de la tableta no se instaló correctamente, lo que derivó en una tecnología defectuosa. O quizás sea porque el
+personal no fue capacitado de manera eficaz y, por lo tanto, el proceso de pedidos se retrasó demasiado. Tal vez algunos
+clientes simplemente no quieran que las tabletas tomen su pedido y prefieran tratar con los camareros. Explica lo que
+significan los datos de una manera que permita a los interesados tomar decisiones o declarar este aspecto del proyecto como
+exitoso o no.
+
+*Consejo:* Visualiza los datos con gráficos o diagramas para transmitir rápidamente el mensaje de los resultados.
+
+![alt text](image-39.png)
+
+*Conclusión con recomendaciones.*
+
+En tu conclusión, expón tus hallazgos nuevamente y propón algunas recomendaciones sobre cómo aplicar los hallazgos a la
+siguiente fase del proyecto. También puedes describir cómo se pueden utilizar estos hallazgos en proyectos futuros.
+
+*Cómo dar formato a la presentación.*
+
+Las presentaciones basadas en diapositivas se pueden crear utilizando aplicaciones digitales como Google Slides o Microsoft
+PowerPoint. Este tipo de presentación utiliza imágenes y viñetas concisas para proporcionar la información necesaria a los
+interesados. Las presentaciones basadas en diapositivas suelen incluir información resumida en lugar de párrafos largos y
+detallados. Son excelentes herramientas para presentaciones resumidas cuando los interesados no necesitan conocer cada
+detalle del proyecto.
+
+*Consejos adicionales.*
+
+Adapta las comunicaciones a los interesados: Cuando se trata de comunicar hitos importantes a los interesados, considera a
+quién se los estás presentando. Adapta tu presentación a la audiencia de una manera que la entiendan y puedan disfrutarla.
+
+Comienza con un tema interesante: Comienza tu presentación con un tema para romper el hielo, una broma o una ayuda visual
+interesante para llamar la atención de tus interesados de inmediato.
+
+Usa elementos visuales a lo largo de la presentación: El uso de imágenes crea interés y mantiene a la audiencia involucrada
+en tu presentación.
+
 ### Facilitar las retrospectivas
 
 #### El valor de las retrospectivas
