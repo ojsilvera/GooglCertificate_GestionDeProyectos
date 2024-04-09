@@ -1926,7 +1926,99 @@ en tu presentación.
 
 #### El valor de las retrospectivas
 
+Una retrospectiva, a veces denominada una retro, es un taller o una reunión que ofrece tiempo a los equipos para reflexionar
+sobre un proyecto.
+
+Una retrospectiva te proporciona la oportunidad de debatir los éxitos y contratiempos del proyecto, y de aprender de los
+errores. Aunque las retrospectivas a menudo ocurren al final de un proyecto, también son una herramienta útil para mejorar
+los procesos que pueden y deben usarse en todo el ciclo de vida del proyecto, especialmente después de alcanzar un hito del
+proyecto.
+
+Por ejemplo, justo después de implementar las tabletas y probarlas con usuarios beta es un buen momento para hacer una
+retrospectiva de Sauce & Spoon. Podrías celebrar partes del proyecto que salieron bien hasta ahora e identificar
+oportunidades de mejora a medida que el proyecto avanza hacia los próximos hitos.
+
+Las retrospectivas tienen muchos beneficios. Fomentan la formación de equipos, ya que proporcionan a los miembros del equipo
+la oportunidad de comprender las diferentes perspectivas dentro del equipo. También facilitan una mejor colaboración en
+proyectos futuros y promueven cambios positivos en procesos y procedimientos futuros.
+
+Debido a que una retrospectiva es un tipo específico de reunión, es clave tener una agenda que ayude a guiar el debate,
+organizar la reunión y documentar el aprendizaje. Como gerente de proyectos, debes moderar el tono de la conversación,
+asegurarte de que cada miembro del equipo se sienta incluido e identificar los detalles que se registrarán en el documento
+retrospectivo para referencia futura.
+
+En otras palabras, es tu rol facilitar una relación respetuosa y un debate de retrospectiva productiva que reconozca los
+éxitos y las áreas de mejora.
+
+Recapitulemos las ideas principales. Una retrospectiva es un taller o una reunión que ofrece tiempo a los equipos para
+reflexionar sobre un proyecto. Los tres propósitos principales de las retrospectivas son fomentar la formación de equipos,
+facilitar una mejor colaboración y promover cambios positivos.
+
+Y recuerda, es tu rol como gerente de proyectos facilitar un debate de retrospectiva respetuoso y productivo donde se
+reconozcan los éxitos y las áreas de mejora.
+
+En la siguiente actividad, practicarás cómo prepararte para una retrospectiva creando una lista que incluya éxitos y áreas
+de mejora. Una vez que hayas terminado con este video, verás cómo interactúa Peta con los miembros de su equipo mientras
+realiza la retrospectiva y agregarás información a tu documento.
+
+Nos vemos pronto.
+
 #### Retrospectivas: Fomentar la participación
+
+Las retrospectivas pueden ser un poco intimidantes. Cuando organizas una retrospectiva con tu equipo, no solo llamas la
+atención sobre los éxitos del proyecto, sino también sobre los desafíos.
+
+Si un equipo se siente incómodo expresando los desafíos, entonces es posible que no deseen participar durante un debate
+retrospectivo. Así que antes de realizar cualquier retrospectiva, debes preguntarte, ¿parece probable que tu equipo
+contribuya al debate?
+
+Si te parece que la respuesta puede ser no, síguenos mientras analizamos algunas técnicas útiles que usar en Google para
+fomentar la participación en una retrospectiva.
+
+Una técnica para alentar la participación es crear un entorno seguro para el equipo. Para crear un entorno seguro, puedes
+empezar la reunión diciendo que hay una política de que lo que se dice allí, se queda allí; y lo que se aprende allí,
+se va con cada uno.
+
+Recuerda al equipo que la retrospectiva es una reunión sin interesados o clientes, y que es un espacio seguro donde el
+equipo puede hablar claramente sobre los problemas.
+
+Para ayudar a aumentar la participación, también puede ser útil modelar el tipo de participación que te gustaría obtener de
+tu equipo.
+
+Así que si estás intentando ayudar a que tu equipo se sienta cómodo para que hable con franqueza sobre los éxitos y desafíos
+del proyecto, puedes empezar el debate mencionando tus propios éxitos y desafíos.
+
+Antes de la reunión, trata de preparar algunos ejemplos de tareas o procesos que sabes que podrías haber manejado mejor. Si
+sabes que cometiste un error en una tarea del proyecto, dilo en voz alta.
+
+Por ejemplo, quizás cometiste un error de papeleo que retrasó la entrega de tabletas dos días hábiles. Sé honesto acerca de
+tu equivocación y habla sobre cómo evitarás errores similares en el futuro.
+
+Cuando admites tus propios errores, haces que el resto de tu equipo pueda compartir sus errores también.
+
+Otra técnica útil para fomentar la participación es hacer una pregunta al grupo y solicitar respuestas individuales. Por
+ejemplo, podrías pedir a los miembros de tu equipo que cada uno piense piense en un éxito y un desafío del proyecto hasta el
+momento, y luego invitarlos a que compartan su respuesta.
+
+Si notas que una pregunta que hiciste no consigue el tipo de respuesta que esperabas, intenta expresarla de una manera
+diferente. Por ejemplo, si las preguntas como “¿qué salió bien?” y “¿qué salió mal?”, no te dan las respuestas que te
+gustarían, prueba con otras.
+
+Quizás puedes preguntar algo como: “¿qué pasa con este proyecto? ¿debemos empezar, parar y continuar?”.
+
+Por último, si tu equipo participa, pero contribuye solo con éxitos y desafíos muy recientes, podría ser útil revisar el
+plazo del proyecto.
+
+Esta es una técnica por alentar a los compañeros del equipo para se retrotraigan en el ciclo de vida del proyecto e
+identifiquen los éxitos y desafíos. Si le recuerdas a tu equipo el plazo del proyecto, puedes refrescar sus recuerdos y
+desatarás un debate sobre todo el proyecto.
+
+Hagamos un resumen rápido. Una escasa participación durante una retrospectiva puede evitar que un equipo del proyecto haga
+mejoras importantes en los procesos.
+
+Algunas técnicas efectivas para fomentar la participación incluyen establecer un entorno seguro para el equipo, modelar el
+tipo de participación que te gustaría obtener de tu equipo, plantear una pregunta grupal y pedir respuestas individuales, y
+revisar el plazo del proyecto.
 
 #### Retrospectivas: Fomentar la responsabilidad
 
