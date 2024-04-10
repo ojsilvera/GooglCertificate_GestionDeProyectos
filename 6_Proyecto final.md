@@ -2250,6 +2250,63 @@ La resolucion de problemas es un arte, aquí unas recomendaciones utiles:
 
 #### Conectar los problemas del proyecto con las metas
 
+La capacidad de identificar el impacto de los problemas de un proyecto en los objetivos y resultados clave de tu
+organización te ayudará a determinar y comunicar el nivel adecuado de riesgo y la urgencia del problema.
+
+Los objetivos y resultados clave son una herramienta para las metas que establece toda la organización, combinan un objetivo
+y una métrica para determinar un resultado medible.
+
+Desglosemos los objetivos y resultados clave.
+
+La parte de objetivos de los objetivos y resultados clave define qué debe lograrse, lo que es similar a una meta.
+
+Los resultados clave son parte de los objetivos y resultados clave que definen cómo una organización, un equipo o un
+individuo medirán de manera tangible su éxito en el cumplimiento del objetivo.
+
+Por ejemplo, uno de los objetivos de Sauce & Spoon podría ser priorizar las necesidades y deseos del cliente.
+
+El resultado clave que indica que se alcanzó este objetivo podría ser revisar el feedback de de los clientes en el
+transcurso de 24 horas.
+
+Al principio de este curso, aprendiste que los objetivos y resultados clave pueden ser un punto de referencia útil para
+determinar si el objetivo de un proyecto es pertinente a las necesidades de una organización.
+
+Si un proyecto y sus metas ayudan a contribuir a los objetivos y resultados clave más amplios de una organización, esa es
+una buena señal de que tu proyecto es pertinente y que vale la pena el tiempo y el dinero necesarios para completarlo.
+
+Los objetivos y resultados clave pueden ser una especie de idioma compartido en una organización.
+
+Aquí en Google, por ejemplo, cada proyecto, grande o pequeño, tiene como objetivo contribuir en alguna forma tangible a
+nuestros objetivos y resultados clave de toda la organización.
+
+Luchar para determinar cómo un proyecto podría ayudarnos a alcanzar nuestros objetivos y resultados clave puede ser una
+fuerte indicación de que deberíamos reevaluar el proyecto en su conjunto.
+
+Los objetivos y resultados clave pueden ser realmente útiles como referencia cuando nos comunicamos con los interesados
+sobre los problemas del proyecto.
+
+Puedes dejarle claro a un interesado por qué un problema dado necesita ser abordado identificando las formas específicas en
+que ese problema podría afectar a los objetivos y resultados clave más amplios de la organización.
+
+También puedes señalarlos para explicar a los interesados por qué un problema vale la pena su atención.
+
+Los interesados, especialmente los que ocupan puestos sénior dentro de una organización, a menudo tienen mucho trabajo en el
+que concentrarse, incluso más allá de tu proyecto.
+
+La conexión de una solución a los objetivos y resultados clave de una empresa puede captar la atención limitada de un
+interesado.
+
+Tomemos el objetivo de Sauce & Spoon “Buscamos ejecutar un modelo de negocio rentable y eficiente”, o “Buscamos priorizar
+las necesidades de nuestros clientes”.
+
+A medida que refinas el resumen del problema que comenzaste en la actividad anterior, puedes agregar una oración para
+explicar cómo el problema pone en peligro la misión de Sauce & Spoon de ejecutar un modelo de negocio eficiente y satisfacer
+las necesidades de los clientes.
+
+Repasemos. En este video, has revisado los objetivos y resultados clave, los definiste como una herramienta para toda la
+organización que establece las metas y aprendiste cómo son útiles cuando nos comunicamos con los interesados sobre los
+problemas del proyecto.
+
 #### Escribir correos electrónicos para elevar un problema
 
 #### Laura: Mejores prácticas de comunicación con los interesados
