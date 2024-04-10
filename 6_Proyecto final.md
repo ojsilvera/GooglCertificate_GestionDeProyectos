@@ -2090,6 +2090,56 @@ está debatiendo de cualquier persona específica en la sala.
 
 #### Retrospectivas: Abordar la negatividad
 
+El manejo cuidadoso de la negatividad es una habilidad importante que necesitarás para liderar eficazmente debates productivos en el futuro. La capacidad de guiar debates que desglosen el rendimiento del proyecto y que mantengan un tono constructivo y positivo te ayudará a identificar y mejorar las áreas problemáticas de un proyecto específico.
+
+Antes de hacer tu propia retrospectiva, es importante que te preguntes, ¿es probable que esta conversación sea estresante para el equipo? A veces, la respuesta será sí. Hablemos de por qué la negatividad a veces aparece durante los debates retrospectivos.
+
+Las retrospectivas son una gran forma de crear confianza, honestidad y comunicación directa con un equipo. Pero ten en cuenta que si el entorno no se siente psicológicamente seguro para el equipo, es muy fácil que una retrospectiva se vuelva negativa. La negatividad podría hacer más difícil mantener un debate productivo donde se identifiquen soluciones para los desafíos del proyecto.
+
+Si sientes una negatividad sutil, o incluso obvia, durante un debate retrospectivo, aquí encontrarás algunas técnicas que puedes utilizar para cambiar el tono de la reunión y guiar al equipo hacia una perspectiva más positiva.
+
+Para abordar la negatividad del equipo, trata de establecer un tono positivo al comienzo de la reunión, comienza resaltando los éxitos del proyecto. Tal vez el equipo recibió un feedback positivo de un interesado, o quizás puedas agradecer al equipo por su trabajo arduo para alcanzar un hito importante.
+
+Determina cómo establecerás el tono de la reunión. Los accesorios para la reunión pueden ayudar con esto. Por ejemplo, puedes repartir una cantidad pareja de fichas verdes y rojas a cada participante y pedirles que escriban los éxitos en las fichas verdes y los desafíos en las rojas. Repartir fichas verdes podría animar sutilmente al equipo a pensar en los éxitos, además de los desafíos. Incluso en equipos con una dinámica general positiva, siempre es posible que surja la negatividad. Por lo tanto, podría ser una buena idea tratar de anticipar cualquier negatividad potencial mediante reuniones individuales con los miembros del equipo antes de que ocurra la retrospectiva.
+
+Si tienes la sensación de que un miembro del equipo podría tener una actitud negativa a la retrospectiva, intenta hacerte algunas preguntas. ¿Esta persona se siente insegura acerca del valor que aporta a este equipo? ¿Esta persona recibe feedback negativo sobre la calidad de su trabajo? Comprender el origen de la negatividad puede guiarte a descubrir cómo ayudar a que la persona se involucre con el grupo de una manera más positiva.
+
+Por ejemplo, si te parece que la persona se siente insegura, podrías intentar infundir confianza en su valor.
+
+Una sola voz negativa puede arruinar lo que podrían ser debates productivos.
+
+Como líder de la retrospectiva, es tu rol intervenir cuando la negatividad de una persona domina la conversación.
+
+Para tratar con la participación negativa de un miembro del equipo en especial, considera hablar con cada miembro de forma individual para que comparta sus pensamientos.
+
+Hablar con los miembros del equipo individualmente ofrece algunas ventajas.
+
+Le brinda a cada persona un espacio donde compartir los desafíos.
+
+Los ayuda a modelar soluciones orientadas al miembro negativo del equipo.
+
+Y desanima al miembro negativo del equipo a dominar la conversación respondiendo a cada pregunta.
+
+Finalmente, puedes hacer un descanso de la reunión.
+
+Un tiempo de espera es una excelente manera de ayudar a calmar la situación.
+
+Es bueno recordar que no hay una técnica que se adapte a cada escenario.
+
+Cómo elijas abordar la negatividad dependerá de la situación.
+
+Repasemos.
+
+Para abordar la negatividad durante una retrospectiva, puedes apuntar a establecer un tono positivo al comienzo de la reunión, lo que determinará cómo será el tono de la reunión.
+
+Considera pedir a cada miembro del equipo que comparta sus pensamientos en lugar de plantear preguntas al grupo o haz un descanso de la reunión.
+
+En la próxima actividad, observarás a Peta, con la ayuda de los materiales de apoyo, mientras enfrenta situaciones negativas en la retrospectiva del equipo de Sauce & Spoon.
+
+Luego, terminarás tu versión de la retrospectiva.
+
+Después de haber completado la próxima actividad, nos veremos en el siguiente video para la actividad de cierre.
+
 #### Dana: Liderar con retrospectivas positivas
 
 ## Comunicacion efectiva con los interesados
