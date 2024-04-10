@@ -2309,6 +2309,56 @@ problemas del proyecto.
 
 #### Escribir correos electrónicos para elevar un problema
 
+Como gerente de proyectos, identificar y gestionar los problemas es parte del trabajo, y, si un problema es lo
+suficientemente grande para elevarlo a un interesado sénior, entonces es muy probable que sea un problema que estás
+esperando resolver lo antes posible.
+
+El correo electrónico puede ser una herramienta eficaz para elevar rápidamente un problema y pedir a un interesado su
+opinión sobre cómo proceder. Por eso, es muy importante asegurarte de que tu correo electrónico esté escrito de una manera
+que capte de manera efectiva la atención de los interesados y te brinde la respuesta que necesitas.
+
+Hay algunas mejores prácticas para lograr que el correo electrónico no sea ignorado. Primero, piensa en lo que es más
+importante para tu interesado. Por lo general, los interesados sénior están más pendientes de un problema que podría tener
+un impacto potencial en una organización que de su impacto en un proyecto único. Aquí es donde conectar los problemas del
+proyecto con los objetivos y resultados clave de una organización puede ser útil.
+
+Identifica cómo un problema impactará a la organización en su conjunto y asegúrate de comunicar claramente ese impacto en
+las primeras dos frases de tu correo electrónico. Cuando hayas determinado qué es más importante para tu interesado, estarás
+mejor preparado para redactar un correo electrónico efectivo.
+
+Recuerda escribir una línea de asunto clara que establezca brevemente de qué se trata tu correo electrónico. También es útil
+incluir un lenguaje en tu línea de asunto que indique lo que quieres que tu interesado haga cuando lea tu correo
+electrónico.
+
+¿Necesitas que revise un documento que adjuntaste al correo electrónico? Intenta agregar las palabras “por favor, revisar”
+en la línea de asunto. ¿Es este un correo electrónico urgente para el que necesitas una respuesta rápida? Entonces, puedes
+intentar agregar la palabra “urgente” a la línea de asunto.
+
+Los interesados, especialmente los que ocupan puestos sénior dentro de una organización, suelen recibir muchos correos
+electrónicos por día. Incluir términos como urgente, oportuno, se necesita una decisión o por favor, revisar puede ayudar a
+llamar la atención sobre tu mensaje y dejar en claro la acción que te gustaría que tome tu interesado.
+
+Recuerda también mantener el cuerpo del correo electrónico resumido y específico. Cuando le comuniques un problema del
+proyecto a un interesado sénior ocupado, tu correo electrónico debe esbozar brevemente el problema, explicar cómo podría
+afectar los objetivos de la organización e indicar de manera clara la decisión que necesitas que tu interesado tome para
+poder proceder.
+
+Eso es todo. Escribe una o dos oraciones para resumir tu problema junto con otra oración que identifique cómo el problema
+puede afectar los objetivos y resultados clave de tu organización. Si hay documentos o información adicional que es posible
+que tu interesado necesite revisar para tomar una decisión fundada, considera la posibilidad de incluir hipervínculos o
+archivos adjuntos con la información en tu correo electrónico.
+
+Una vez que hayas terminado de escribir tu correo electrónico, asegúrate de revisar que no tenga faltas de ortografía,
+errores gramaticales o hipervínculos incorrectos. Usa el corrector ortográfico y otras funciones gramaticales de
+verificación en tu aplicación de correo electrónico o en línea para asegurarte de que todo esté bien.
+
+Repasemos. Cuando escribas un correo electrónico a los interesados, asegúrate de hacer lo siguiente: piensa en lo que es más
+importante para tus interesados, escribe una línea de asunto clara, mantén el cuerpo del correo electrónico breve y corrige
+faltas de ortografía, errores gramaticales o hipervínculos incorrectos.
+
+Algún día, cuando tengas que comunicar problemas a los interesados en situaciones de la vida real, verás cómo la gestión, el
+seguimiento y la comunicación de problemas del proyecto es una gran parte de ejecutar el proyecto.
+
 #### Laura: Mejores prácticas de comunicación con los interesados
 
 ### Demostrar el impacto
