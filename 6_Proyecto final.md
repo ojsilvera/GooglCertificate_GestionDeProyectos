@@ -2361,6 +2361,28 @@ seguimiento y la comunicación de problemas del proyecto es una gran parte de ej
 
 #### Laura: Mejores prácticas de comunicación con los interesados
 
+Soy Laura, la asesora ejecutiva de productividad de Google. Mi rol es trabajar de forma individual con ejecutivos en un formato de asesoramiento para ayudarlos con la gestión del tiempo, la gestión de reuniones, la comunicación por correo electrónico eficaz, la comunicación y la organización.
+
+Cuando te estás comunicando con un interesado, tienes que pensar en la información absolutamente importante que necesitan ver. Por lo tanto, posiblemente des más detalles cuando hables con un compañero de trabajo o de equipo. Pero cuando estás haciendo un resumen para un ejecutivo, debes asegurarte de ser conciso.
+
+Debes hacer un trabajo de antemano para averiguar cuál es la mejor manera de obtener información o de lograr una decisión de parte de él. Algunas cosas que pueden ser útiles es preguntarle a alguien, como su asistente ejecutivo o alguien que haya trabajado con él antes, lo siguiente:
+
+¿Cuál es el estilo de comunicación que prefiere? ¿Qué tipos de presentaciones le gusta ver? ¿Qué información suele necesitar para tomar decisiones?
+
+Y si haces eso, si trabajas con anticipación y haces preguntas, te estás preparando para el éxito, especialmente si solo tienes una cantidad limitada de tiempo o poca cantidad de comunicación que puedas hacerle llegar al interesado.
+
+Es importante recordar que, si bien tienes múltiples interesados o diferentes proyectos, va a ser diferente cómo le guste a cada uno de ellos comunicarse o recibir información. Un ejemplo: trabajé con un par de gerentes en un proyecto y ambos eran interesados. Uno era muy hablador y le encantaba intercambiar ideas sobre las cosas. Quería reunirse conmigo con bastante frecuencia y analizar todos los detalles. El otro interesado era completamente opuesto, pensar en cómo adaptar la misma información, el mismo proceso de toma de decisiones a cada persona que necesita información o al interesado con el que estás trabajando es algo muy útil e importante que debes recordar.
+
+Me gusta ver una presentación que estoy mostrando a un interesado y pensar, ¿cuáles son probablemente las cinco preguntas que me va a hacer? Y después, tengo preparado ese detalle adicional listo, que es el apéndice, así que puedo aprovechar al máximo su tiempo.
+
+Otro buen consejo es que cuando acudas a un interesado con un problema o inconveniente, también tengas una posible solución o algo pensando y no solo preguntes, ¿qué hago? Es mejor decir, creo que podríamos hacer A, pero también podría ser B y C. ¿Qué opinas? Eso les da un punto de partida y sentirán que has investigado y que conoces muy bien el problema.
+
+Si vas a enviar una actualización por correo electrónico, debes asegurarte de que, como en una reunión, estás utilizando este medio de la mejor manera posible. Algo que me gusta hacer, y que hacemos a menudo en Google, es poner DLNLL en el encabezado, lo que significa demasiado largo, no lo leí. Es una forma divertida de decir que puede haber mucha información, pero aquí está la oración que necesitas saber del correo electrónico.
+
+Entonces, es bueno tener algún tipo de resumen en la parte superior similar a eso que diga: aquí hay una actualización sobre el proyecto A, o necesita una decisión o acción solicitada o fecha límite. Es el tipo de comunicación desde el principio que ofrecerá al interesado un resumen de lo que se trata en el correo electrónico.
+
+Entonces, debes pensar en cómo ser lo más conciso posible cuando estés escribiendo el correo electrónico, por lo que puedes usar cosas como viñetas, resaltado o negrita, algo destacado o reiterar una pregunta en el final del correo electrónico, incluido cualquier tipo de fecha límite que haya. Eso es realmente útil para las personas que están leyendo por encima o si deben releer tu correo electrónico, para que tengan toda la información que necesitan, incluidos enlaces y archivos adjuntos, que sea lo más fácil posible para ellos revisar tu correo electrónico y que te respondan con la información que necesitas.
+
 ### Demostrar el impacto
 
 ### Preparación para una entrevista
