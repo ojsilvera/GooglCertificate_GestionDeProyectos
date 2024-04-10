@@ -2182,29 +2182,71 @@ los problemas del proyecto!
 
 #### Comunicación de problemas del proyecto
 
-Combinar información de múltiples fuentes, como conversaciones, correos electrónicos y documentos, es una habilidad que los gerentes de proyectos usan con frecuencia.
+Combinar información de múltiples fuentes, como conversaciones, correos electrónicos y documentos, es una habilidad que los
+gerentes de proyectos usan con frecuencia.
 
-Es útil referirse a ellos cuando diriges conversaciones y reuniones, escribes documentación y envías correos electrónicos a los miembros del equipo sobre el proyecto. Una comunicación sólida implica combinar información, y los empleadores potenciales pueden querer que demuestres que eres capaz de hacerlo de manera efectiva.
+Es útil referirse a ellos cuando diriges conversaciones y reuniones, escribes documentación y envías correos electrónicos a
+los miembros del equipo sobre el proyecto. Una comunicación sólida implica combinar información, y los empleadores
+potenciales pueden querer que demuestres que eres capaz de hacerlo de manera efectiva.
 
-El resumen del problema que escribirás en la próxima actividad estará incluido en el correo electrónico de práctica que crearás más adelante. Bien, hablemos de los problemas del proyecto.
+El resumen del problema que escribirás en la próxima actividad estará incluido en el correo electrónico de práctica que
+crearás más adelante. Bien, hablemos de los problemas del proyecto.
 
-Cada proyecto tiene sus problemas, y comunicarlos es parte de tu trabajo como gerente de proyectos. Por lo general, los problemas del proyecto son lo suficientemente pequeños para que los abordes dentro del equipo de proyecto inmediato, pero algunas veces necesitarás elevarlos y proponer soluciones a un interesado sénior para obtener sus aportes y orientación sobre los próximos pasos.
+Cada proyecto tiene sus problemas, y comunicarlos es parte de tu trabajo como gerente de proyectos. Por lo general, los
+problemas del proyecto son lo suficientemente pequeños para que los abordes dentro del equipo de proyecto inmediato, pero
+algunas veces necesitarás elevarlos y proponer soluciones a un interesado sénior para obtener sus aportes y orientación
+sobre los próximos pasos.
 
-Los interesados no deberían tener que leer diferentes documentos del proyecto o consultar varios hilos de correo electrónico para comprender el problema del proyecto. En su lugar, es tu responsabilidad como gerente de proyectos sintetizar la información pertinente de múltiples fuentes en un resumen coherente que comunique claramente el problema.
+Los interesados no deberían tener que leer diferentes documentos del proyecto o consultar varios hilos de correo electrónico
+para comprender el problema del proyecto. En su lugar, es tu responsabilidad como gerente de proyectos sintetizar la
+información pertinente de múltiples fuentes en un resumen coherente que comunique claramente el problema.
 
-Para escribir un resumen efectivo en una oración de un problema, necesitarás resumir información de varias fuentes, como correos electrónicos, presentaciones, notas de reuniones y más. Sintetizar requiere recopilar información de múltiples fuentes y usar esos puntos para ayudar a formar tu propio análisis.
+Para escribir un resumen efectivo en una oración de un problema, necesitarás resumir información de varias fuentes, como
+correos electrónicos, presentaciones, notas de reuniones y más. Sintetizar requiere recopilar información de múltiples
+fuentes y usar esos puntos para ayudar a formar tu propio análisis.
 
-Por ejemplo, no sería muy útil enviar a un interesado un enlace a tu plan del proyecto, porque no le daría una comprensión completa de lo que el problema implica. Para determinar qué información es relevante y requiere una descripción general de una o dos oraciones para tus interesados, pregúntate: "¿cómo puedo comunicar una decisión de manera que sea fácil para ellos tomar una decisión?".
+Por ejemplo, no sería muy útil enviar a un interesado un enlace a tu plan del proyecto, porque no le daría una comprensión
+completa de lo que el problema implica. Para determinar qué información es relevante y requiere una descripción general de
+una o dos oraciones para tus interesados, pregúntate: "¿cómo puedo comunicar una decisión de manera que sea fácil para ellos
+tomar una decisión?".
 
-Por ejemplo, supongamos que el plan del proyecto tiene cinco tareas atrasadas debido a una demora del proveedor, y esto, en última instancia, puede afectar el entregable final de tu proyecto. Has estado trabajando en la creación de algunas soluciones para mitigar este problema.
+Por ejemplo, supongamos que el plan del proyecto tiene cinco tareas atrasadas debido a una demora del proveedor, y esto, en
+última instancia, puede afectar el entregable final de tu proyecto. Has estado trabajando en la creación de algunas
+soluciones para mitigar este problema.
 
-Antes que enviar a tus interesados un enlace al plan y señalar todas las tareas atrasadas, puedes resumir el problema diciéndoles que tienen varias tareas que no cumplieron su plazo debido a problemas con el proveedor. Por esto recomiendas contratar a un segundo proveedor para cumplir con la fecha del entregable. De lo contrario, se tendrá que retrasar la fecha de lanzamiento.
+Antes que enviar a tus interesados un enlace al plan y señalar todas las tareas atrasadas, puedes resumir el problema
+diciéndoles que tienen varias tareas que no cumplieron su plazo debido a problemas con el proveedor. Por esto recomiendas
+contratar a un segundo proveedor para cumplir con la fecha del entregable. De lo contrario, se tendrá que retrasar la fecha
+de lanzamiento.
 
-De esta manera, presentas el problema de manera concisa a tus interesados y ofreces una solución. Esto permite que los interesados acepten o rechacen tu solución o que ofrezcan una diferente. De cualquier manera, has comunicado el problema y propuesto una solución, que es tu rol como gerente de proyectos.
+De esta manera, presentas el problema de manera concisa a tus interesados y ofreces una solución. Esto permite que los
+interesados acepten o rechacen tu solución o que ofrezcan una diferente. De cualquier manera, has comunicado el problema y
+propuesto una solución, que es tu rol como gerente de proyectos.
 
-Repasemos. Comunicar los problemas del proyecto es parte de tu trabajo como gerente de proyectos. También es tu responsabilidad sintetizar información pertinente de múltiples fuentes en un resumen coherente que comunique claramente el problema. Sintetizar requiere recopilar información de múltiples fuentes y usar esos puntos para ayudar a formar tu propio análisis.
+Repasemos. Comunicar los problemas del proyecto es parte de tu trabajo como gerente de proyectos. También es tu
+responsabilidad sintetizar información pertinente de múltiples fuentes en un resumen coherente que comunique claramente el
+problema. Sintetizar requiere recopilar información de múltiples fuentes y usar esos puntos para ayudar a formar tu propio
+análisis.
 
 #### Chris: El arte de resolver problemas
+
+La resolucion de problemas es un arte, aquí unas recomendaciones utiles:
+
+1. Identifica el problema: Es crucial comprender la causa raíz del problema antes de abordarlo. Examina las pistas falsas y
+   busca el problema subyacente real.
+
+2. Utiliza herramientas y metodologías: Crea un marco de trabajo estructurado utilizando herramientas, procesos y
+   metodologías para desarrollar una propuesta de solución efectiva.
+
+3. Documenta el proceso: Utiliza documentos principales organizados para comprender el problema, desarrollar un plan basado
+   en información objetiva y llegar a una decisión informada.
+
+4. Ejecuta el plan: Una vez que hayas identificado la causa del problema y elaborado un plan, ejecuta de manera efectiva el
+   alcance y los programas necesarios para resolverlo.
+
+5. Desarrolla habilidades de resolución de problemas: Practica la resolución de problemas en diferentes contextos, ya sea a
+   través de pasatiempos o proyectos personales, para desarrollar habilidades efectivas en la resolución de problemas
+   complejos y estratégicos.
 
 #### Conectar los problemas del proyecto con las metas
 
