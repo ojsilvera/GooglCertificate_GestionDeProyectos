@@ -2171,7 +2171,38 @@ los procesos.
 
 #### Introducción: Comunicación efectiva con los interesados
 
+En esta etapa, nos adentraremos en la fase de ejecución del proyecto y posteriormente en la transición hacia el cierre del
+ciclo de vida del proyecto. Durante estas actividades, pondrás a prueba tu capacidad para comunicarte efectivamente con los
+interesados, ya sea al redactar un correo electrónico sobre un problema para un interesado sénior o al elaborar un informe
+de cierre para presentar el impacto del proyecto a los ejecutivos. La comunicación es un pilar fundamental en la gestión de
+proyectos, por lo que también practicarás técnicas de observación y redacción que te ayudarán a mejorar tus habilidades
+comunicativas. Al finalizar el curso, tendrás la oportunidad de crear tu propio informe de impacto personal, reflexionando
+sobre tu experiencia y aprendizajes. ¿Listo para empezar? ¡Nos vemos en el siguiente video para analizar la comunicación en
+los problemas del proyecto!
+
 #### Comunicación de problemas del proyecto
+
+Combinar información de múltiples fuentes, como conversaciones, correos electrónicos y documentos, es una habilidad que los gerentes de proyectos usan con frecuencia.
+
+Es útil referirse a ellos cuando diriges conversaciones y reuniones, escribes documentación y envías correos electrónicos a los miembros del equipo sobre el proyecto. Una comunicación sólida implica combinar información, y los empleadores potenciales pueden querer que demuestres que eres capaz de hacerlo de manera efectiva.
+
+El resumen del problema que escribirás en la próxima actividad estará incluido en el correo electrónico de práctica que crearás más adelante. Bien, hablemos de los problemas del proyecto.
+
+Cada proyecto tiene sus problemas, y comunicarlos es parte de tu trabajo como gerente de proyectos. Por lo general, los problemas del proyecto son lo suficientemente pequeños para que los abordes dentro del equipo de proyecto inmediato, pero algunas veces necesitarás elevarlos y proponer soluciones a un interesado sénior para obtener sus aportes y orientación sobre los próximos pasos.
+
+Los interesados no deberían tener que leer diferentes documentos del proyecto o consultar varios hilos de correo electrónico para comprender el problema del proyecto. En su lugar, es tu responsabilidad como gerente de proyectos sintetizar la información pertinente de múltiples fuentes en un resumen coherente que comunique claramente el problema.
+
+Para escribir un resumen efectivo en una oración de un problema, necesitarás resumir información de varias fuentes, como correos electrónicos, presentaciones, notas de reuniones y más. Sintetizar requiere recopilar información de múltiples fuentes y usar esos puntos para ayudar a formar tu propio análisis.
+
+Por ejemplo, no sería muy útil enviar a un interesado un enlace a tu plan del proyecto, porque no le daría una comprensión completa de lo que el problema implica. Para determinar qué información es relevante y requiere una descripción general de una o dos oraciones para tus interesados, pregúntate: "¿cómo puedo comunicar una decisión de manera que sea fácil para ellos tomar una decisión?".
+
+Por ejemplo, supongamos que el plan del proyecto tiene cinco tareas atrasadas debido a una demora del proveedor, y esto, en última instancia, puede afectar el entregable final de tu proyecto. Has estado trabajando en la creación de algunas soluciones para mitigar este problema.
+
+Antes que enviar a tus interesados un enlace al plan y señalar todas las tareas atrasadas, puedes resumir el problema diciéndoles que tienen varias tareas que no cumplieron su plazo debido a problemas con el proveedor. Por esto recomiendas contratar a un segundo proveedor para cumplir con la fecha del entregable. De lo contrario, se tendrá que retrasar la fecha de lanzamiento.
+
+De esta manera, presentas el problema de manera concisa a tus interesados y ofreces una solución. Esto permite que los interesados acepten o rechacen tu solución o que ofrezcan una diferente. De cualquier manera, has comunicado el problema y propuesto una solución, que es tu rol como gerente de proyectos.
+
+Repasemos. Comunicar los problemas del proyecto es parte de tu trabajo como gerente de proyectos. También es tu responsabilidad sintetizar información pertinente de múltiples fuentes en un resumen coherente que comunique claramente el problema. Sintetizar requiere recopilar información de múltiples fuentes y usar esos puntos para ayudar a formar tu propio análisis.
 
 #### Chris: El arte de resolver problemas
 
