@@ -2361,27 +2361,89 @@ seguimiento y la comunicación de problemas del proyecto es una gran parte de ej
 
 #### Laura: Mejores prácticas de comunicación con los interesados
 
-Soy Laura, la asesora ejecutiva de productividad de Google. Mi rol es trabajar de forma individual con ejecutivos en un formato de asesoramiento para ayudarlos con la gestión del tiempo, la gestión de reuniones, la comunicación por correo electrónico eficaz, la comunicación y la organización.
+Soy Laura, la asesora ejecutiva de productividad de Google. Mi rol es trabajar de forma individual con ejecutivos en un
+formato de asesoramiento para ayudarlos con la gestión del tiempo, la gestión de reuniones, la comunicación por correo
+electrónico eficaz, la comunicación y la organización.
 
-Cuando te estás comunicando con un interesado, tienes que pensar en la información absolutamente importante que necesitan ver. Por lo tanto, posiblemente des más detalles cuando hables con un compañero de trabajo o de equipo. Pero cuando estás haciendo un resumen para un ejecutivo, debes asegurarte de ser conciso.
+Cuando te estás comunicando con un interesado, tienes que pensar en la información absolutamente importante que necesitan
+ver. Por lo tanto, posiblemente des más detalles cuando hables con un compañero de trabajo o de equipo. Pero cuando estás
+haciendo un resumen para un ejecutivo, debes asegurarte de ser conciso.
 
-Debes hacer un trabajo de antemano para averiguar cuál es la mejor manera de obtener información o de lograr una decisión de parte de él. Algunas cosas que pueden ser útiles es preguntarle a alguien, como su asistente ejecutivo o alguien que haya trabajado con él antes, lo siguiente:
+Debes hacer un trabajo de antemano para averiguar cuál es la mejor manera de obtener información o de lograr una decisión de
+parte de él. Algunas cosas que pueden ser útiles es preguntarle a alguien, como su asistente ejecutivo o alguien que haya
+trabajado con él antes, lo siguiente:
 
-¿Cuál es el estilo de comunicación que prefiere? ¿Qué tipos de presentaciones le gusta ver? ¿Qué información suele necesitar para tomar decisiones?
+¿Cuál es el estilo de comunicación que prefiere? ¿Qué tipos de presentaciones le gusta ver? ¿Qué información suele necesitar
+para tomar decisiones?
 
-Y si haces eso, si trabajas con anticipación y haces preguntas, te estás preparando para el éxito, especialmente si solo tienes una cantidad limitada de tiempo o poca cantidad de comunicación que puedas hacerle llegar al interesado.
+Y si haces eso, si trabajas con anticipación y haces preguntas, te estás preparando para el éxito, especialmente si solo
+tienes una cantidad limitada de tiempo o poca cantidad de comunicación que puedas hacerle llegar al interesado.
 
-Es importante recordar que, si bien tienes múltiples interesados o diferentes proyectos, va a ser diferente cómo le guste a cada uno de ellos comunicarse o recibir información. Un ejemplo: trabajé con un par de gerentes en un proyecto y ambos eran interesados. Uno era muy hablador y le encantaba intercambiar ideas sobre las cosas. Quería reunirse conmigo con bastante frecuencia y analizar todos los detalles. El otro interesado era completamente opuesto, pensar en cómo adaptar la misma información, el mismo proceso de toma de decisiones a cada persona que necesita información o al interesado con el que estás trabajando es algo muy útil e importante que debes recordar.
+Es importante recordar que, si bien tienes múltiples interesados o diferentes proyectos, va a ser diferente cómo le guste a
+cada uno de ellos comunicarse o recibir información. Un ejemplo: trabajé con un par de gerentes en un proyecto y ambos eran
+interesados. Uno era muy hablador y le encantaba intercambiar ideas sobre las cosas. Quería reunirse conmigo con bastante
+frecuencia y analizar todos los detalles. El otro interesado era completamente opuesto, pensar en cómo adaptar la misma
+información, el mismo proceso de toma de decisiones a cada persona que necesita información o al interesado con el que estás
+trabajando es algo muy útil e importante que debes recordar.
 
-Me gusta ver una presentación que estoy mostrando a un interesado y pensar, ¿cuáles son probablemente las cinco preguntas que me va a hacer? Y después, tengo preparado ese detalle adicional listo, que es el apéndice, así que puedo aprovechar al máximo su tiempo.
+Me gusta ver una presentación que estoy mostrando a un interesado y pensar, ¿cuáles son probablemente las cinco preguntas
+que me va a hacer? Y después, tengo preparado ese detalle adicional listo, que es el apéndice, así que puedo aprovechar al
+máximo su tiempo.
 
-Otro buen consejo es que cuando acudas a un interesado con un problema o inconveniente, también tengas una posible solución o algo pensando y no solo preguntes, ¿qué hago? Es mejor decir, creo que podríamos hacer A, pero también podría ser B y C. ¿Qué opinas? Eso les da un punto de partida y sentirán que has investigado y que conoces muy bien el problema.
+Otro buen consejo es que cuando acudas a un interesado con un problema o inconveniente, también tengas una posible solución
+o algo pensando y no solo preguntes, ¿qué hago? Es mejor decir, creo que podríamos hacer A, pero también podría ser B y C.
+¿Qué opinas? Eso les da un punto de partida y sentirán que has investigado y que conoces muy bien el problema.
 
-Si vas a enviar una actualización por correo electrónico, debes asegurarte de que, como en una reunión, estás utilizando este medio de la mejor manera posible. Algo que me gusta hacer, y que hacemos a menudo en Google, es poner DLNLL en el encabezado, lo que significa demasiado largo, no lo leí. Es una forma divertida de decir que puede haber mucha información, pero aquí está la oración que necesitas saber del correo electrónico.
+Si vas a enviar una actualización por correo electrónico, debes asegurarte de que, como en una reunión, estás utilizando
+este medio de la mejor manera posible. Algo que me gusta hacer, y que hacemos a menudo en Google, es poner DLNLL en el
+encabezado, lo que significa demasiado largo, no lo leí. Es una forma divertida de decir que puede haber mucha información,
+pero aquí está la oración que necesitas saber del correo electrónico.
 
-Entonces, es bueno tener algún tipo de resumen en la parte superior similar a eso que diga: aquí hay una actualización sobre el proyecto A, o necesita una decisión o acción solicitada o fecha límite. Es el tipo de comunicación desde el principio que ofrecerá al interesado un resumen de lo que se trata en el correo electrónico.
+Entonces, es bueno tener algún tipo de resumen en la parte superior similar a eso que diga: aquí hay una actualización sobre
+el proyecto A, o necesita una decisión o acción solicitada o fecha límite. Es el tipo de comunicación desde el principio que
+ofrecerá al interesado un resumen de lo que se trata en el correo electrónico.
 
-Entonces, debes pensar en cómo ser lo más conciso posible cuando estés escribiendo el correo electrónico, por lo que puedes usar cosas como viñetas, resaltado o negrita, algo destacado o reiterar una pregunta en el final del correo electrónico, incluido cualquier tipo de fecha límite que haya. Eso es realmente útil para las personas que están leyendo por encima o si deben releer tu correo electrónico, para que tengan toda la información que necesitan, incluidos enlaces y archivos adjuntos, que sea lo más fácil posible para ellos revisar tu correo electrónico y que te respondan con la información que necesitas.
+Entonces, debes pensar en cómo ser lo más conciso posible cuando estés escribiendo el correo electrónico, por lo que puedes
+usar cosas como viñetas, resaltado o negrita, algo destacado o reiterar una pregunta en el final del correo electrónico,
+incluido cualquier tipo de fecha límite que haya. Eso es realmente útil para las personas que están leyendo por encima o si
+deben releer tu correo electrónico, para que tengan toda la información que necesitan, incluidos enlaces y archivos
+adjuntos, que sea lo más fácil posible para ellos revisar tu correo electrónico y que te respondan con la información que
+necesitas.
+
+En resumen:
+
+1. **Sé conciso**: Al comunicarte con ejecutivos, asegúrate de ser breve y directo en tus mensajes.
+
+2. **Investiga de antemano**: Averigua el estilo de comunicación preferido del interesado, qué tipo de información necesita
+   para tomar decisiones y qué presentaciones le gustan.
+
+3. **Adapta tu comunicación**: Ajusta la forma de comunicarte según las preferencias de cada interesado. Por ejemplo, sé más
+   detallado con compañeros de equipo pero conciso con ejecutivos.
+
+4. **Anticipa preguntas**: Al presentar información, piensa en las posibles preguntas que el interesado podría hacer y
+   prepárate para responderlas.
+
+5. **Ofrece soluciones**: Si presentas un problema, también proporciona posibles soluciones para mostrar que has investigado
+   y comprendes la situación.
+
+6. **Utiliza el correo electrónico de manera efectiva**: En correos electrónicos, utiliza resúmenes claros al inicio,
+   formatos visuales como viñetas o negritas, y asegúrate de incluir toda la información necesaria, como fechas límite y
+   enlaces relevantes.
+
+7. **Prioriza la información**: Usa etiquetas como "DLNLL" para indicar la información crucial en correos largos, destacando
+   lo más relevante para el interesado.
+
+8. **Sé organizado**: Al enviar actualizaciones por correo electrónico, asegúrate de estructurar la información de manera
+   clara y ordenada para facilitar su revisión y comprensión.
+
+9. **Prepara material adicional**: Ten apéndices o detalles adicionales listos para proporcionar información adicional si el
+   interesado lo solicita.
+
+10. **Considera el tiempo y la atención del interesado**: Sé consciente de que los ejecutivos tienen limitaciones de tiempo
+    y atención, por lo que tu comunicación debe ser efectiva y enfocada en lo esencial.
+
+Estas prácticas pueden ayudarte a mejorar la comunicación con los interesados y garantizar que tus mensajes sean claros,
+relevantes y bien recibidos.
 
 ### Demostrar el impacto
 
