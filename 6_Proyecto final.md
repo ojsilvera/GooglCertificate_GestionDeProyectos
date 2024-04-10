@@ -2169,6 +2169,18 @@ los procesos.
 
 ### Comunicación con los interesados sénior
 
+#### Introducción: Comunicación efectiva con los interesados
+
+#### Comunicación de problemas del proyecto
+
+#### Chris: El arte de resolver problemas
+
+#### Conectar los problemas del proyecto con las metas
+
+#### Escribir correos electrónicos para elevar un problema
+
+#### Laura: Mejores prácticas de comunicación con los interesados
+
 ### Demostrar el impacto
 
 ### Preparación para una entrevista
