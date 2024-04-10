@@ -2149,4 +2149,26 @@ pensamientos en lugar de plantear preguntas al grupo o haz un descanso de la reu
 
 #### Dana: Liderar con retrospectivas positivas
 
+Recomendaciones para una retrospectiva efectiva:
+
+1. Realizar retrospectivas al final de cada proyecto para repasar lo que salió bien, lo que salió mal y las lecciones
+   aprendidas.
+2. Considerar realizar retrospectivas también en la mitad del proyecto si se necesitan tomar decisiones importantes.
+3. Fomentar un ambiente positivo en las retrospectivas, evitando culpar a personas y enfocándose en la mejora continua.
+4. Promover la participación abierta y honesta de todos los miembros del equipo, asegurándose de que se sientan seguros para
+   expresar sus opiniones.
+5. Asegurar que los miembros del equipo sepan que sus contribuciones son valoradas y que tienen la capacidad de influir en
+   cambios futuros.
+6. Utilizar los resultados de las retrospectivas para mejorar la gestión de proyectos, la comunicación y la planificación
+   futura.
+
+Estas recomendaciones ayudarán a garantizar que las retrospectivas sean efectivas en el aprendizaje y la mejora del equipo y
+los procesos.
+
 ## Comunicacion efectiva con los interesados
+
+### Comunicación con los interesados sénior
+
+### Demostrar el impacto
+
+### Preparación para una entrevista
