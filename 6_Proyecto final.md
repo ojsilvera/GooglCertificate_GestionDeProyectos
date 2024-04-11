@@ -2654,4 +2654,316 @@ Nos vemos pronto.
 
 #### Informe de cierre personal
 
+Has recorrido un camino muy extenso en este curso. Tomemos un momento para celebrar tus éxitos y el crecimiento en la
+gestión de proyectos.
+
+Llamamos a este proceso informe de cierre personal. Del mismo modo que lo hiciste en los documentos retrospectivos y los
+informes de cierre que creaste a lo largo de este programa, tomemos un momento para reflexionar en lo que acabas de
+completar, el Certificado en gestión de proyectos de Google.
+
+Comencemos por enumerar tus logros clave. Piensa en todo el recorrido desde que comenzaste el programa hasta ahora; ¿qué
+desafíos has superado a lo largo de este proceso? Tal vez hubo lecciones o conceptos en particular que nunca pensaste que
+entenderías, pero te sorprendiste a ti mismo cuando finalmente lo hiciste. Tal vez superaste desafíos en tu vida personal
+mientras tomabas este curso.
+
+Si tienes un trabajo a tiempo completo, pero aún así encontraste el tiempo para completar este curso, eso es una gran
+victoria. Tómate un momento para escribir algunos de estos logros, luego reflexiona sobre cualquier lección que hayas
+aprendido.
+
+Quizás tuviste una semana ocupada y sentiste que no pasaste el tiempo suficiente en una lección en particular. Es posible
+que hayas querido leer algo más a fondo porque sentías que era importante. Tal vez aprendiste que te encanta gestionar a los
+interesados, pero que no disfrutas tanto de hacer presupuestos y adquisiciones. Toma nota de esos aprendizajes.
+
+A continuación, piensa en qué pasos puedes seguir a partir de aquí para avanzar en tu carrera de gestión de proyectos.
+Podrías contactar a empresas de reclutamiento o pedirle a tu jefe actual que te dé más responsabilidades. Tal vez quieras
+establecer una meta para arreglar tu currículo y postularte a cinco proyectos de gestión a la semana. Escribe los próximos
+pasos, luego llévalo más allá y agrega un plazo a tus objetivos, como si fueran parte de un proyecto que estás gestionando.
+
+Como hemos dicho una y otra vez, la gestión de proyectos es parte de tu vida cotidiana. Finalmente, agrega tu propio resumen
+ejecutivo. En lugar del resumen ejecutivo sobre el que aprendiste antes, este es un resumen ejecutivo de tus experiencias en
+el programa.
+
+Cuando escribas tu resumen ejecutivo, describe tu experiencia con este programa como un todo. Toma nota de tus éxitos y de
+cómo planeas avanzar en tu carrera en la gestión de proyectos en el futuro. Esto debería sentirse inspirador y ser
+divertido, así que siéntete libre de incluir todo tipo de aspectos destacados.
+
+Tal vez obtuviste una puntuación alta en un determinado cuestionario y quieres felicitarte por eso. Tal vez pudiste aplicar
+algunos de los conceptos que aprendiste a la planificación de una reunión familiar. Tal vez aprendiste mucho sobre un tema
+que nunca antes habías investigado y lo disfrutaste mucho. Sea lo que sea, asegúrate de destacarlo aquí.
+
+Y con eso, estás listo para completar tu informe de cierre personal. Lleva este informe contigo como un artefacto del
+proyecto para revisar tu experiencia a lo largo de este programa. Tal como lo harías con tu equipo al final de un proyecto,
+celebra tus éxitos y esfuérzate para seguir siempre creciendo y mejorando.
+
+Eso nos lleva al final del programa, pero es solo el comienzo de tu recorrido en la gestión de proyectos. Tómate un momento
+para celebrarte por todo lo que has logrado. No solo te mantuviste diligente en tu búsqueda de nueva información y
+conocimiento, sino que también tienes un portafolio de trabajo para mostrar a los posibles empleadores.
+
+Sin importar lo que venga después, debes sentirte seguro de que tienes las habilidades necesarias para ser un gerente de
+proyectos increíble. Estoy ansioso de ver lo que harás. Felicidades y buena suerte.
+
 ### Preparación para una entrevista
+
+#### Lograr una presentación concisa
+
+Si has participado de todo el programa, espero que estés emocionado de actualizar tu currículo, explorar tu rol objetivo y
+construir tu red profesional.
+
+El siguiente paso es prepararte para la entrevista de trabajo. Primero, analizaremos cómo crear una presentación concisa que
+puedas usar para diferentes situaciones durante la búsqueda de trabajo.
+
+Lo más probable es que hayas oído la frase “háblame sobre ti”. Por situaciones como esta, es útil contar con una
+presentación concisa que te pueda llevar a una conversación sobre tu experiencia y que revele oportunidades para tu
+siguiente paso.
+
+Una presentación concisa es un resumen profesional rápido sobre ti mismo, que, por lo general, está diseñado para que se
+presente en 60 segundos o menos. Convenientemente, es el tiempo que te puede llevar subir desde el primer piso de un
+edificio hasta el piso 50.
+
+A lo largo de los años, mi presentación concisa ha cambiado drásticamente; solía pensar que necesitaba ser concisa y pulida.
+Pero, con el tiempo, lo que descubrí es que mi presentación concisa debe ser más auténtica.
+
+Por ejemplo, solía decir cosas como que me encanta la gestión de proyectos porque me gusta poner orden en el caos, lo cual
+es cierto, pero genérico. Hoy digo que no solo me encanta la gestión de proyectos, sino que estoy enamorado de ella, lo que
+también es cierto, porque ayudo a hacer realidad los sueños.
+
+Mientras te preparas para tu presentación concisa, es útil idear una historia auténtica sobre tu pasión y por qué la gestión
+de proyectos te entusiasma. Tómate un tiempo para pensar por qué quieres un tipo específico de rol o qué es lo que te atrae
+de una industria específica; ¿qué es lo que realmente te entusiasma del trabajo? Estos son los detalles que hacen que una
+presentación concisa sea muy buena.
+
+Para crear una presentación concisa fuerte, divídela en tres partes: quién eres, qué habilidades y experiencias tienes y qué
+quieres. Empieza por quién eres, preséntate y habla en un tono informal.
+
+Por ejemplo, podrías decir algo como: «comencé mi carrera en la gestión de proyectos hace algunos años, y, recientemente, me
+ha atraído el mundo de los juegos. Siempre he sido bueno para unir a la gente y trabajar en pos de objetivos comunes. Mi
+experiencia liderando con éxito equipos y la gestión de desarrollo de nuevas aplicaciones me llevó a buscar oportunidades en
+la industria».
+
+Resume lo que haces usando las experiencias y los antecedentes que tengan relación con las personas con las que hablas. Por
+ejemplo, intenta escribir de uno a tres puntos centrados en lo que hiciste en tu último trabajo, o en otra experiencia, y lo
+que disfrutaste.
+
+Si se te ocurren más de tres puntos, está bien, los adaptarás para que todas las piezas se unan. Esto puede sonar algo así
+como: «tengo antecedentes militares que me enseñaron el valor de la organización». O, «hablo tres idiomas, lo que me ayudó a
+relacionarme con muchas culturas diferentes». «Probé suerte en un rol de apoyo, pero me di cuenta que me gusta más conducir
+la ejecución de un proyecto».
+
+Por último, explica lo que quieres. Esta parte de la presentación es exclusiva de este entorno y de la persona con la que
+estás hablando. Si estás intentando conectarte en línea con alguien que trabaja en una empresa en la que estás interesado,
+puedes solicitar una conversación telefónica o una reunión breve.
+
+Si eres el entrevistador, puedes solicitar la oportunidad laboral asegurándote de resaltar el valor que aportas y lo que
+tienes para ofrecer. Y recuerda, le estás pidiendo a alguien que se tome un tiempo libre en su ajetreado día para pasar
+tiempo contigo.
+
+Aunque a la mayoría de la gente le encanta ayudar, tiene limitaciones con su tiempo. Así que querrás darle una razón por la
+que debería ayudarte a ti en vez de a alguien más. ¿Comparten experiencias comunes? ¿Tienes una historia que podría
+resultarle interesante? Los puntos en común o los hechos interesantes ayudarán a que te recuerde.
+
+Tu presentación concisa cambiará con el tiempo, pero, una vez que hayas creado una, podrás hacer ajustes. Puedes usarla
+mientras escribes una carta de presentación, cuando estableces contactos en un evento y cuando vas a una entrevista para un
+trabajo.
+
+A continuación, analizaremos formas de prepararnos para una entrevista.
+
+#### El método STAR
+
+Ahora que ya tienes tu presentación concisa, es momento de empezar a prepararte para algunas de las preguntas que pueden
+surgir en tus entrevistas. Deberás pensar sobre el tipo de experiencias y proyectos que te gustaría contarle a tu
+entrevistador. Si bien es posible que no sepas exactamente qué preguntas te harán, es importante sentirte preparado para
+analizar algunos escenarios donde se pueden aplicar preguntas básicas de entrevista.
+
+Los entrevistadores hacen ciertas preguntas de comportamiento, hipotéticas y basadas en hechos. Las preguntas de
+comportamiento son aquellas que permiten que el entrevistado comparta un ejemplo de cuando tuvo que practicar una habilidad
+en particular. Te podrán decir algo como “Cuéntame acerca del momento en que tuviste que hacer tal cosa”. Los
+entrevistadores que hacen preguntas hipotéticas normalmente presentan un escenario y luego te preguntan cómo te
+desenvolverías en esa situación. Estas preguntas son más difíciles de preparar porque hay escenarios infinitos que un
+entrevistador puede presentar. Pero veremos formas para que puedas responder estas preguntas con confianza.
+
+Por último, te pueden presentar preguntas basadas en hechos en una entrevista. Las preguntas basadas en hechos apuntan a
+evaluar tus conocimientos sobre habilidades de gestión de proyectos básicas. Por ejemplo, ¿cuáles son los pasos para iniciar
+un proyecto? ¿Cómo sabes cuándo puedes pasar al siguiente paso? De hecho, estas preguntas podrían resultarte conocidas de
+algunas de las evaluaciones que completaste durante en el programa de certificación. Las preguntas conductuales, hipotéticas
+y basadas en hechos apuntan a evaluar tus conocimientos relacionados con el rol.
+
+Básicamente, el entrevistador quiere saber si tienes las habilidades para desempeñarte bien en el rol. Tus respuestas a
+estas preguntas servirán para evaluar cómo priorizas plazos enfrentados, si puedes gestionar el presupuesto y la carga de
+trabajo de manera eficaz y cómo trabajas con otras personas, por ejemplo. Cuando te prepares para una futura entrevista,
+piensa en las habilidades comunes del gerente de proyectos que busca una empresa revisando las descripciones de los puestos.
+Luego, piensa en las experiencias que has tenido que de verdad demuestran esas habilidades. Puede ser una experiencia
+laboral pasada, un proyecto escolar o una actividad que hayas completado en este programa.
+
+Es importante que ofrezcas respuestas claras a tu entrevistador. Por lo tanto, recomendamos el método STAR. STAR significa
+situación, tarea, acción y resultado. Es una excelente manera de organizar tu respuesta con una estructura similar a una
+historia. Analicemos esto en más detalle. Primero, empiezas con una situación. Por ejemplo, si el entrevistador te dijo:
+“Háblame de algún momento en que hayas tenido un entregable del proyecto que no iba a cumplir con las expectativas de alta
+calidad. ¿Qué hiciste?”. Con el método STAR, deberás explicar la situación en la experiencia que utilizarás para responder a
+su pregunta. Es importante compartir la cantidad correcta de contexto. Si bien quieres que entiendan las complejidades con
+las que te enfrentaste, compartir los roles individuales puede ser innecesario para el propósito de la pregunta.
+
+Ahora que ya has preparado el escenario, tendrás que hablar acerca de los detalles. ¿Cuál fue la tarea, tu participación o
+responsabilidad en ese escenario? ¿Qué entregable tenías asignado para completar? ¿Cuál era la calidad a la que aspirabas? A
+continuación, proporciona más detalles. ¿Qué acción o acciones tomaste? Aquí es donde realmente quieres resaltar tus
+contribuciones. ¿Cuándo te diste cuenta de que tu entregable no iba a cumplir con los estándares de calidad que buscabas?
+¿Cuál fue tu reacción a esto? ¿Qué decisiones tomaste para corregir el rumbo de la situación? ¿Con quién te asociaste y cómo
+le comunicaste esto a tu gerente o equipo? Esta parte de tu respuesta puede tomar la mayor cantidad de tiempo para destacar
+aquí tus múltiples habilidades, pero asegúrate de mantener una respuesta clara y estructurada.
+
+La parte final de tu respuesta, debe centrarse en el resultado. Aquí, debes analizar el resultado de las decisiones que
+tomaste y el impacto que tuvieron. En algunos casos, especialmente si compartes una experiencia que superó los desafíos,
+puede tener algún sentido que compartas las lecciones que aprendiste. Por último, siempre que sea posible, utiliza los datos
+para reforzar tu respuesta. Practicar el método STAR en tus respuestas y preparar algunos escenarios por adelantado te
+ayudará a sentirte más confiado en una entrevista.
+
+Vamos a verlo con un ejemplo sencillo. Supongamos que la pregunta en la entrevista es esta: háblame de algún momento en que
+hayas enfrentado un desafío durante la implementación. Yo empezaría por la situación. Estábamos trabajando en el lanzamiento
+de una nueva herramienta de soporte interno en mi región cerca de fin de año. Era fundamental lograr el lanzamiento antes de
+que todos salieran de vacaciones. Pero nos enfrentábamos a retrasos debido a una aprobación de un interesado que estaba
+tomando mucho tiempo. Luego, pasaría a la parte de la tarea. Yo era responsable de gestionar este proyecto de forma integral
+y de asegurarme de implementar la herramienta de soporte para todos los empleados en mi región. A continuación, mencionaría
+la acción que tomé. Para asegurarme de cumplir con nuestro plazo, revisé el proceso de aprobación y noté que había cientos
+de términos, documentos, folletos y revisiones de videos que tenían que ser firmados por cada persona del equipo. Este no
+era el nivel de detalle necesario y adecuado de estos interesados ni un buen uso de su valioso tiempo. Resumí las áreas de
+interés y oportunidad que los interesados necesitaban aprobar y creé un proceso de revisión resumido. Como resultado,
+pudimos mitigar los retrasos en la aprobación y lanzar la herramienta a tiempo en diciembre.
+
+Si bien estar preparado para las respuestas es importante, presentarse a una entrevista no es solo saber cómo responder a
+las preguntas. Es una conversación entre tú y el entrevistador para que aprendas más sobre el rol y ver si puedes imaginarte
+a ti mismo en ese trabajo. Antes de tu entrevista, también deberías investigar un poco sobre la empresa. ¿Cuáles son algunas
+preguntas que te vienen a la mente? ¿Quieres saber más sobre la cultura de la empresa? ¿Estás buscando averiguar qué tipos
+de proyectos gestion
+
+#### Entrevistas remotas
+
+Es posible que hayas estado practicando escenarios, análisis y preguntas para hacerle a tu entrevistador, pero también es
+bueno tener un plan para entrevistas remotas.
+
+Si bien las entrevistas en persona, por lo general, brindan una oportunidad para explorar la oficina y conocer a diferentes
+empleados, las entrevistas remotas son muy populares, ya que la tecnología de videoconferencia y el trabajo remoto se ha
+expandido a lo largo de los años. Es importante recordar que las entrevistas remotas necesitan la misma cantidad de
+preparación que una entrevista en persona.
+
+En lugar de saber por adelantado cuánto tránsito habrá para asegurarte de llegar a tiempo, tendrás que encontrar el espacio
+más tranquilo para tener la entrevista y asegurarte de que el entorno sea cómodo. Las entrevistas remotas pueden ser por
+teléfono o videoconferencia. Para muchos roles, es común que un proceso de entrevista se realice en dos o más rondas de
+entrevistas.
+
+Algunas empresas prefieren comenzar con una entrevista telefónica rápida para ponerse en contacto con los candidatos y
+conocer mejor sus antecedentes y hacer una evaluación inicial para asegurarse de que sus habilidades y experiencia estén
+alineadas con los requisitos del puesto. Para las entrevistas telefónicas, asegúrate de estar listo para la llamada con 15 a
+30 minutos de anticipación.
+
+Si bien es poco probable que recibas una llamada telefónica 30 minutos antes, programar el tiempo para reducir las
+distracciones es importante. Decide dónde te sientes más cómodo para recibir la llamada telefónica y asegúrate de acotar las
+distracciones desactivando las notificaciones telefónicas y otros dispositivos. Mientras hablas con el entrevistador o
+reclutador por teléfono, puedes tener notas frente a ti, tal vez tu currículo o escenarios escritos, que te pueden ayudar a
+recordar las cosas que te gustaría resaltar en la llamada.
+
+Otro consejo es que no te olvides de sonreír. Puede sonar tonto, ya que tu entrevistador no puede verte al otro lado del
+teléfono, pero se te escuchará más comprometido y confiado cuando hables. Si bien algunas empresas optarán por realizar
+todas las entrevistas por teléfono, por lo general, tendrás la oportunidad de conectarte con alguien por videoconferencia
+durante el proceso de entrevistas.
+
+Los problemas técnicos durante este tipo de entrevistas pueden dar miedo y pueden hacer que tanto tú como el entrevistador
+se sientan nerviosos. Así que es una buena idea probar tu cámara, el audio y la conexión a Internet con mucha anticipación.
+Intenta programar una entrevista de práctica con un amigo o mentor, utilizando la misma tecnología de videoconferencia que
+se usará en tu entrevista.
+
+De esta manera, podrás tener una idea de cómo tú y la otra persona se verán en tu pantalla, y podrás confirmar que tu
+conexión es adecuada. Sin embargo, ten en cuenta que los problemas técnicos ocurren y que no deberías ser penalizado si
+surgiera alguno durante la entrevista. Si tuvieras un problema de conexión, puedes enviar al reclutador o entrevistador un
+correo electrónico para informar que hubo una falla técnica y solicitar tiempo adicional, si fuera necesario.
+
+Si no puedes escuchar al entrevistador por la razón que sea, la mayoría de las herramientas de videoconferencia tienen una
+opción de chat. Puedes decirle cortésmente que estás experimentando algunas dificultades técnicas. Otra tarea que debes
+hacer de antemano para una entrevista por video es probar tu entorno y encontrar un ambiente cómodo. No quieres que tu
+entrevistador se distraiga con algo que sucede detrás de ti, así que busca un espacio que permita que el entrevistador solo
+se concentre en ti.
+
+Además, busca un espacio con iluminación adecuada y un fondo sencillo. Cuando hables con tu entrevistador, debes estar
+mirando directamente a la cámara y establecer una línea de visión directa con él. Al igual que una entrevista telefónica,
+las entrevistas remotas por video te permiten tener notas preparadas.
+
+Pero, en este caso, es importante no mirar hacia abajo con demasiada frecuencia. No será una entrevista buena si solo lees
+de un escenario que escribiste previamente. Es importante que la entrevista siga siendo una conversación y que se produzca
+un intercambio con la persona del otro lado. El mejor consejo aquí es que te preparares, ya sea que vayas a hablar con
+alguien por teléfono o a través de una videollamada, que pases algún tiempo poniéndote cómodo y practicando de antemano,
+para que te sientas más seguro cuando empiece la entrevista.
+
+La entrevista es un momento emocionante. Finalmente puedes resaltar todos los conocimientos y las habilidades que has
+obtenido a lo largo de este programa. Hemos cubierto tanto juntos, y este es solo el comienzo. A medida que avances en tu
+carrera, continuarás tu recorrido de aprendizaje. Estamos contentos de haber sido parte de él.
+
+#### Consejos de los empleados de Google para entrevistas
+
+¿Cómo solicita una persona su primer trabajo en la gestión de proyectos?
+
+Presenta tu currículo, pero asegúrate de que no tenga errores tipográficos ni gramaticales. Si un compañero, familiar o
+amigo lo revisa, puede ser de mucha ayuda. Luego, solo tienes que leerlo, quizás en voz alta, para encontrar esos errores
+gramaticales y ortográficos.
+
+Un currículo es tu presentación. Es tu entrada y tu forma de explicarle a alguien por qué eres la persona correcta para el
+trabajo. Así que las cosas que destaques en tu currículo y la experiencia que resaltes allí no deberían ser solo cosas
+genéricas que copiaste y pegaste de un sitio web que describan lo que deberías hacer en ese rol. Debería ser la experiencia
+que compartirías con alguien en persona si estuvieras tratando de decirles por qué estás capacitado para hacer el trabajo al
+que te estás presentando.
+
+Tu currículo debe resaltar la experiencia que muestre por qué eres valioso para la empresa donde estás pidiendo que te
+contraten.
+
+Para mí, cuando hago una entrevista, es superintrigante escuchar las cosas que salieron mal y qué has aprendido de ellas y
+cómo aplicarías esos aprendizajes en el futuro.
+
+No cuentas con mucha experiencia laboral en gestión de proyectos cuando recién empiezas, pero tienes experiencia de vida. La
+experiencia de vida es en realidad lo que más importa para los gerentes del programa, porque se trata de personas, y
+trabajar con otras personas es lo que hace a un gerente de proyectos exitoso en su rol.
+
+Queremos saber que tú puedes venir y pensar en cómo resolver los problemas y lograr resultados, independientemente de
+cuántas veces lo hayas hecho en el pasado.
+
+Otro consejo es que, cuando te prepares para una entrevista, tengas los artefactos listos que describan la diferencia que
+has logrado en tus experiencias pasadas, tus aprendizajes gracias a esas experiencias y cómo los has aplicado para avanzar y
+prevenir todos los problemas.
+
+Escribí una gran cantidad de preguntas que podrían surgir en una entrevista. Háblame de un momento en el que hayas resuelto
+un conflicto. Háblame de algún momento en que hayas demostrado habilidades de liderazgo a pesar de no estar en esa posición.
+Háblame de un momento en el que te atrasaste en un proyecto y tuviste que comunicar un desafío a un interesado.
+
+Enumeré todas esas consignas y luego traté de escribir una o dos oraciones sobre cada una para estar preparado cuando
+surgieran otras parecidas, lo que casi siempre pasa.
+
+Puede sonar como un cliché, pero mi consejo es que simplemente seas tú mismo. Trata de resaltar muchas de tus habilidades
+organizativas, tus habilidades de liderazgo y algunos ejemplos donde hayas sido capaz de comunicarte bien con diferentes
+audiencias.
+
+Otro ejemplo de lo que sirve en las entrevistas es realmente pensar sobre ejemplos de proyectos específicos. Lee muchos
+casos prácticos que estén disponibles en Internet sobre proyectos que tuvieron problemas y proyectos que salieron bien. Y lo
+que se hizo desde el ángulo de la gestión del programa para que las cosas marcharan en la dirección correcta y para resolver
+algunos de los problemas que las personas encontraron en el camino.
+
+Aprende todo el tiempo. Lee tantos artículos como puedas sobre la gestión de proyectos. Escucha las charlas TED, asiste a
+reuniones presenciales y en línea, por supuesto, siempre que puedas. Asegúrate de sumergirte en el lenguaje del campo al que
+quieres unirte. No es necesario que conozcas todos los términos técnicos para ser un gerente de proyectos de software, pero
+necesitas entender de qué se trata.
+
+Descansa un poco. Y si eres una persona ansiosa... Yo mismo me pongo muy ansioso a veces en las entrevistas. Estaba muy
+ansioso cuando tuve mi entrevista aquí en Google. Sal a caminar o a correr o simplemente sal al aire libre, haz cualquier
+cosa que sepas que te ayudará a calmarte y que sabes que funciona para ti.
+
+Yo diría que debes tratar de estar lo más tranquilo posible. Sé genuino, sé tú mismo.
+
+En general, no te expongas mucho, no te vistas muy elegante ni montes una actuación ni pretendas ser lo que no eres. Porque,
+en definitiva, solo quiero saber cómo piensa la persona y cómo trabajará, y si trabajará bien en equipo.
+
+Buscamos personas genuinas que quieran hacer un buen trabajo; que el trabajo con esas personas sea positivo; que trabajen
+bien en equipo, y, fundamentalmente, que puedan hacer las cosas.
+
+El entusiasmo importa mucho. Importa más que el conocimiento, especialmente en posiciones júnior. Cuando contratamos
+empleados júnior, estamos buscando personas con potencial. Buscamos a personas que estén motivadas a aprender y crecer. Si
+tienes esa chispa en tus ojos para lo que sea que te estén entrevistando, será visible para la persona con la que estés
+hablando.
+
+#### Inscríbete en el programa Big Interview
+
+#### Los mejores consejos para tener éxito en entrevistas
