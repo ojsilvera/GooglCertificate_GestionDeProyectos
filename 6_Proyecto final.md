@@ -2447,4 +2447,74 @@ relevantes y bien recibidos.
 
 ### Demostrar el impacto
 
+#### Completar un informe de cierre
+
+El informe de cierre es una gran oportunidad de compilar todos los enlaces y la documentación en un solo lugar, una práctica
+que nos gusta llamar buena presentación del proyecto.
+
+El informe de cierre también es un momento para reflexionar sobre el rendimiento de tu equipo y ayuda a que este garantice
+que se completó cada tarea.
+
+Un informe de cierre confirma que el proyecto está hecho, resume los entregables, las métricas de éxito, el feedback, las
+lecciones aprendidas y los próximos pasos, y sirve como documento de referencia para la organización.
+
+Si se requiere un proyecto de seguimiento o se inicia un proyecto similar, tener estos artefactos en un solo lugar ayudará a
+que esos proyectos futuros se ejecuten sin problemas y, en caso de que hubiera otro proyecto similar, los futuros gerentes
+de proyectos contarán con una ventaja si tienen información meticulosa sobre proyectos anteriores.
+
+Un informe de cierre efectivo ayuda a garantizar que todos estén satisfechos con el trabajo realizado, finaliza los
+esfuerzos del equipo, permite que las personas puedan trabajar en nuevos proyectos y tareas y aumenta el impacto del trabajo
+del equipo a través de la comunicación con otras personas que podrían no haber estado tan involucradas en el proyecto.
+
+Además de servir como documento de referencia para la organización, un informe de cierre de proyecto es un documento creado
+por los gerentes de proyectos para los gerentes de proyectos, futuros gerentes de proyectos y cualquier persona interesada
+en los elementos y artefactos del proyecto.
+
+Idealmente, querrías que cualquier persona que no estuviera familiarizada con el proyecto pudiera leerlo y lograr una
+comprensión completa de lo que el proyecto fue, por qué se hizo y qué tan bien salió.
+
+De hecho, el informe de cierre del proyecto que completarás en este curso debería servir para presentarlo a tus posibles
+empleadores. Deberías darles este documento como muestra de tu trabajo.
+
+Deberían comprender el contexto del proyecto de lanzamiento de las tabletas de Sauce & Spoon y tener una demostración de tu
+capacidad para sintetizar y comunicar la información con claridad.
+
+En un informe de cierre de proyecto, debes comenzar por agregar el resumen del proyecto. En esta sección, tendrás que
+incluir los objetivos.
+
+Otra forma de pensar sobre esto es la siguiente: ¿Cuál fue el resultado deseado este proyecto? Lo siguiente es la
+metodología o el enfoque.
+
+Asegúrate de indicar qué metodología o enfoque utilizó tu equipo. ¿Tu equipo usó metodologías Waterfall, Agile o Lean? ¿Tal
+vez una combinación de todas estas o algo más?
+
+Uno de los aspectos más importantes del informe de cierre es la referencia del rendimiento. Aquí, describirás los resultados
+reales y los comparás con los objetivos establecidos en las fases de planificación y ejecución.
+
+Compararás las especificaciones, como el cronograma real del proyecto versus el planificado, el costo real del proyecto
+versus el planificado y el alcance planificado versus el entregado. Incluso hay una columna de notas útil para que puedas
+explicar cualquier discrepancia o problemas que hayan surgido.
+
+Las secciones restantes son Logros y resultados clave, Lecciones aprendidas, Próximos pasos y Archivo de documentación del
+proyecto. Para completar estas secciones, ser minucioso es clave.
+
+Hemos incluido preguntas que que sirvan de guía para que te asegures de que estás siendo lo suficientemente detallado. Pero
+siéntete libre de ir un paso más allá en tus propios cierres y sé más específico.
+
+Y cuando estés completando estas secciones, ten en cuenta que el propósito del cierre es compilar y archivar los aspectos
+más importantes del proyecto. Repasemos.
+
+Cuando escribas un cierre de proyecto, asegúrate de incluir lo siguiente: resumen del proyecto, metodología, referencia de
+rendimiento, resultados, lecciones aprendidas, próximos pasos y un archivo de documentación del proyecto.
+
+Con suerte, he explicado lo importante que es el informe de cierre para un proyecto. Si se repite un proyecto, o se inicia
+un proyecto similar, esta importante documentación, que incluye tus aprendizajes y resultados del proyecto, establecerán el
+éxito para futuros gerentes de proyectos.
+
+#### Informe de impacto del proyecto
+
+#### Cierre
+
+#### Informe de cierre personal
+
 ### Preparación para una entrevista
