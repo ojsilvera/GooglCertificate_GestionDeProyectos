@@ -2513,6 +2513,79 @@ un proyecto similar, esta importante documentación, que incluye tus aprendizaje
 
 #### Informe de impacto del proyecto
 
+El propósito de crear un informe de impacto es mostrarles a otros el valor que se ha agregado a tu proyecto. Por lo general,
+es una forma de presentación guiada por una tabla o presentación de diapositivas que hayas creado. A diferencia de un
+informe de cierre detallado, que está diseñado para futuros directores de proyecto u otros lectores interesados en los
+detalles del proyecto, un informe de impacto se crea, por lo general, para los interesados sénior o los patrocinadores del
+proyecto que no estuvieron involucrados en los detalles diarios del proyecto.
+
+Informar sobre el impacto de tu proyecto es clave por varias razones. Te puede ayudar a analizar los resultados para adecuar
+y mejorar los servicios. Motiva al personal y a los interesados, ya que celebra los logros. Genera confianza y credibilidad
+con los partidarios, patrocinadores, financiadores y cualquiera que se beneficie del proyecto. Comparte lecciones con
+organizaciones parecidas.
+
+Veamos los elementos que deberían reflejarse en un informe de impacto. Una de las partes más importantes de un informe de
+impacto es el resumen ejecutivo. Es donde puedes resaltar los puntos clave del proyecto para tus interesados. Un resumen
+ejecutivo consta de algunas oraciones en un párrafo que describen el propósito y el resultado del proyecto. Proporciona una
+descripción general de los puntos principales de un informe más amplio. Está escrito para compartir con los interesados que
+posiblemente no tengan tiempo para revisar todo el informe.
+
+Piensa en el resumen ejecutivo como las partes destacadas de tu proyecto. El propósito es ofrecer a los interesados sénior
+una descripción concisa y sólida de los resultados positivos dentro del proyecto sin llenarlos de información y sin que sea
+demasiado vago. Cuando crees un resumen ejecutivo, hazte esta pregunta. Si un ejecutivo no tuviera tiempo de leer toda la
+documentación del proyecto y solo pudiera leer este resumen ejecutivo, ¿sería capaz de entender los puntos destacados del
+proyecto?
+
+Tu resumen ejecutivo debe apuntar a responder preguntas como: ¿Qué nivel de eficacia ofreció el proyecto y qué aprendimos de
+esto? Además de hacerte algunas preguntas fundamentales, es una buena idea revisar tus metas SMART, tu caso de negocio y el
+estatuto del proyecto para ayudarte a escribir el resumen ejecutivo. Esto te ayudará a reflexionar e identificar los
+aspectos más importantes de tu proyecto, que probablemente estén ligados a logros clave y resultados positivos.
+
+Un consejo que puede resultarte útil cuando crees un resumen ejecutivo es redactar primero el resto del informe de impacto.
+Esto te ayudará a determinar cuál es la información más importante para incluir en tu resumen. En esta plantilla de informe
+de impacto, verás diapositivas con los resultados, lo que funcionó y los próximos pasos. En estas diapositivas, debes
+intentar describir tu proyecto en detalle usando ayudas como gráficos e imágenes adecuadas para contar la historia de éxito
+del proyecto.
+
+Cuanto más detalladas sean estas diapositivas, más fácil será resaltar e identificar los aspectos más destacados y
+agregarlos a tu resumen ejecutivo. Cuando hayas redactado esas secciones del informe de impacto, estarás listo para redactar
+el resumen ejecutivo. Deberás incluir elementos de la siguiente información: la visión del proyecto. Aquí especificarás cuál
+fue el propósito de tu informe. ¿Qué necesidad está satisfaciendo el proyecto?
+
+Los logros clave. Esta es tu oportunidad para analizar qué actividades, tareas e hitos te ayudaron a lograr el éxito.
+¿Cuáles son los aspectos más destacados del informe de impacto? ¿Tu proyecto aumentó la rentabilidad? ¿Qué valor agregó el
+proyecto? Habla sobre estos temas aquí.
+
+Las lecciones aprendidas. Aquí es donde hablarás sobre posibles mejoras. ¿Cómo cambiarás los procesos futuros para mejor?
+Exploremos un ejemplo de un resumen ejecutivo. Supongamos que acabas de completar un proyecto para lanzar una nueva
+aplicación para ahorrar dinero que envía automáticamente fondos de las cuentas corrientes de sus usuarios a cuentas de
+ahorro designadas cada dos meses. El monto enviado de la cuenta corriente a la cuenta ahorro está determinado por la
+cantidad de dinero que tienen en su cuenta corriente en el momento de hacer el retiro, más algunas otras variables, como la
+frecuencia de los depósitos.
+
+A los usuarios de la versión beta les encantó la aplicación porque los ayudó a crear una cuenta de ahorros sin siquiera
+pensar en ello. Comencemos con la visión de nuestro proyecto. Podrías decir algo como, «nuestra meta es ayudar a los
+usuarios a salir adelante financieramente creando un sistema de depósito automático basado en algoritmos que envía dinero a
+una cuenta de ahorros». Ahora hablemos de lo que se logró con el proyecto. Estos son tus logros clave, así que podrías
+decir, «mientras nos preparábamos para el lanzamiento, ayudamos a 1,000 usuarios beta a ahorrar más de USD 300,000 en solo
+seis meses. Esto demostró el caso de uso y la necesidad de nuestra aplicación.
+
+En los logros clave, también podrías incluir aspectos financieros destacados. Así que podríamos decir que, si les cobramos a
+los usuarios tres dólares al mes, con 1,000 usuarios en seis meses, ganaríamos USD 18,000. Por último, es bueno hablar de
+qué cosas se podrían haber hecho de otra manera. Incluye las lecciones aprendidas diciendo algo como: «El principal feedback
+que recibimos de nuestra prueba beta fue que los usuarios querían actualizaciones más frecuentes acerca de cuándo se estaba
+transfiriendo su dinero. Agregaremos eso en nuestra actualización».
+
+Repasemos las ideas principales que hemos tratado en este video. Informar sobre tu impacto puede ayudarte a analizar
+resultados para adecuar y mejorar los servicios, motivar al personal y a los interesados sénior, ya que celebra los logros,
+genera confianza y credibilidad con los partidarios, patrocinadores, financiadores y beneficiarios del proyecto y comparte
+lecciones con organizaciones parecidas. También cubrimos los resúmenes ejecutivos y lo esenciales que son para resaltar
+los elementos clave de tu proyecto a los interesados.
+
+Ahora que tienes una mejor idea de lo que podría implicar un informe de impacto, es hora de que escribas tu propio resumen
+ejecutivo. Hemos creado un informe de impacto para que tengas una idea de cómo sería un informe típico. Todo lo que tienes
+que hacer es completar el resumen ejecutivo basado en tus nuevos conocimientos.
+
 #### Cierre
 
 #### Informe de cierre personal
