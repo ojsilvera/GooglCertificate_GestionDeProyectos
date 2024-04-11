@@ -2586,7 +2586,71 @@ Ahora que tienes una mejor idea de lo que podría implicar un informe de impacto
 ejecutivo. Hemos creado un informe de impacto para que tengas una idea de cómo sería un informe típico. Todo lo que tienes
 que hacer es completar el resumen ejecutivo basado en tus nuevos conocimientos.
 
+Aqui un ejemplo de las secciones de un informe de impacto:
+
+1. **Resumen ejecutivo:**
+   - Descripción concisa del propósito y los resultados del proyecto.
+   - Destaca los puntos clave del proyecto para los interesados sénior.
+   - Proporciona una visión general de los puntos principales del informe de impacto.
+
+2. **Visión del proyecto:**
+   - Especifica el propósito del informe y la necesidad que satisface el proyecto.
+
+3. **Logros clave:**
+   - Analiza las actividades, tareas e hitos que contribuyeron al éxito del proyecto.
+   - Destaca aspectos financieros destacados, como rentabilidad y valor agregado.
+
+4. **Lecciones aprendidas:**
+   - Identifica posibles mejoras y cambios en los procesos futuros basados en la experiencia del proyecto.
+   - Incluye el feedback recibido y cómo se aplicará en futuras actualizaciones o proyectos similares.
+
+5. **Descripción detallada del proyecto:**
+   - Utiliza diapositivas con resultados, lo que funcionó y los próximos pasos.
+   - Utiliza gráficos e imágenes para ilustrar la historia de éxito del proyecto.
+
+6. **Conclusiones y recomendaciones:**
+   - Resume los principales hallazgos y aprendizajes del proyecto.
+   - Proporciona recomendaciones para futuras acciones basadas en los resultados y lecciones aprendidas.
+
+7. **Anexos:**
+   - Incluye cualquier información adicional relevante, como datos detallados, encuestas, estudios de caso, etc.
+
+Estas secciones ayudan a proporcionar una descripción completa del impacto del proyecto, desde su visión y objetivos
+hasta los logros alcanzados, lecciones aprendidas y recomendaciones para el futuro.
+
 #### Cierre
+
+Hola de nuevo y felicitaciones por llegar al final de este curso.
+
+Hasta ahora has utilizado las habilidades que aprendiste en videos anteriores para ejecutar todo el ciclo de vida de nuestro
+proyecto de ejemplo de Sauce & Spoon.
+
+En primer lugar, en la fase de iniciación, aprendiste a crear un estatuto del proyecto y, a continuación, identificaste los
+objetivos y entregables del proyecto.
+
+Demostraste cómo realizar un análisis para los interesados y preparar las negociaciones con ellos.
+
+Luego, llegaste a la fase de planificación, donde determinaste las tareas necesarias para cumplir con las metas
+establecidas.
+
+Aprendiste el valor de mantener lluvias de ideas con el equipo para garantizar que todas las tareas se incluyeran y
+exploraste algunas técnicas para crear estimaciones de tiempo precisas para cada una de esas tareas.
+
+A medida que pasaste de la planificación a la fase de ejecución, comenzaste a ejecutar tareas como parte de la gestión de
+calidad, donde estableciste los estándares y las medidas de calidad con encuestas a los usuarios.
+
+Lo siguiente fue la fase de cierre donde aprendiste a conectar problemas de las metas del proyecto con la creación de
+objetivos y resultados clave.
+
+Aprendiste la importancia de un informe de cierre.
+
+Por último, aprendiste sobre informes de impacto y cómo redactar un gran resumen ejecutivo para que tus interesados sénior
+puedan rápidamente comprender el impacto de tu proyecto.
+
+En el siguiente video, terminaremos todo el programa y aplicaremos los conocimientos que obtuviste para dar el siguiente
+paso en tu carrera de gestión de proyectos.
+
+Nos vemos pronto.
 
 #### Informe de cierre personal
 
