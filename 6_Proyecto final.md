@@ -2964,6 +2964,55 @@ empleados júnior, estamos buscando personas con potencial. Buscamos a personas 
 tienes esa chispa en tus ojos para lo que sea que te estén entrevistando, será visible para la persona con la que estés
 hablando.
 
-#### Inscríbete en el programa Big Interview
+En resumen
+
+1. Revisa tu currículo para asegurarte de que no haya errores tipográficos ni gramaticales.
+2. Solicita a un compañero, familiar o amigo que revise tu currículo también.
+3. Destaca en tu currículo experiencias relevantes y específicas, no solo genéricas.
+4. Prepara ejemplos concretos de situaciones pasadas que demuestren tu capacidad para resolver problemas y aprender de ellos.
+5. Sé genuino y sé tú mismo durante la entrevista, evitando exageraciones o actuaciones.
+6. Resalta tus habilidades organizativas y de liderazgo.
+7. Prepara ejemplos de proyectos específicos que hayas manejado y cómo resolviste desafíos en ellos.
+8. Investiga y aprende constantemente sobre gestión de proyectos.
+9. Mantén la calma antes de la entrevista realizando actividades que te relajen, como salir a caminar o correr.
+10. Muestra entusiasmo y motivación por aprender y crecer en el campo de la gestión de proyectos.
+
+Estos consejos te ayudarán a destacarte durante una entrevista para un puesto en gestión de proyectos.
 
 #### Los mejores consejos para tener éxito en entrevistas
+
+Acabas de escuchar a los empleados de Google hablar sobre sus principales consejos, que te ayudarán a prepararte para una
+entrevista. Sigue leyendo para obtener cuatro consejos de preparación final que te ayudarán a prepararte para tener éxito en
+las entrevistas:
+
+**Buscar conexiones entre la oferta de trabajo y tu currículo.** Primero, vuelve a leer tu currículo y la descripción del
+trabajo para ayudarte a trazar paralelismos entre los dos. ¿Dónde se conectan? Luego, la entrevista, incluye palabras clave
+o frases específicas sobre la descripción del trabajo que coincidan con las habilidades que posees o los logros que
+conseguiste anteriormente en tu carrera.
+
+**Enfócate en los datos.** Cuando empieces a pensar en las cosas que quieres destacar en tu entrevista, recuerda
+incluirdatos. Esto ayuda a tu entrevistador a comprender no solo tus logros generales, sino también el gran impacto que
+causaste. ¿Qué datos puedes proporcionar que cuenten la historia de tu experiencia en relación con el puesto? La “ecuación”
+que sugerimos que uses para transmitir esta información es más o menos así: Logré X según la medición que realizó Y mediante
+Z. Aquí hay un ejemplo: “Aumenté la satisfacción del cliente en un 22% en tres meses con el diseño de un nuevo proceso de
+incorporación digital”.
+
+Si no tienes acceso a este tipo de datos de un puesto anterior, aún puedes indicar el alcance de tus responsabilidades y
+fortalecer el lenguaje que uses cuando describas tus responsabilidades con palabras de acción, como proporcionado, creado,
+desarrollado, apoyado, implementado y generado.Por ejemplo: “Implementé un nuevo sistema de programación que hizo que el
+equipo cumpliera con el 95% de sus plazos”.
+
+**Analiza las experiencias laborales pasadas.** Revisa tu historial laboral. Es posible que no suene como algo para lo que
+debas prepararte, pero la mayoría de nosotros hemos hecho más de lo que pensamos. Es fácil olvidar algunas de nuestras
+propias victorias y las lecciones que aprendimos de los errores.
+
+Piensa en ejemplos de las veces que lograste algo para estar preparado para responder preguntas como “Cuéntame sobre un
+momento en que...” o “¿Cómo abordarías esta situación...?”.
+
+**Prepárate para hacer preguntas.** Ve a la entrevista con tus propias preguntas, como “¿Cuáles son algunos proyectos futuros
+en los que trabajaría?, ¿En qué objetivos actuales se centra la empresa? ¿Puedes hablarme del equipo con el que trabajaré?”.
+Esto no solo demuestra que te importa entender la empresa y el puesto al que te postulas, sino que también es un testimonio
+de la investigación que has realizado sobre la compañía. Además, esta es tu oportunidad de entrevistarlos también.
+
+Este tipo de preparación te ayudará a sentirte seguro y preparado para hablar sobre ti, tu experiencia, tus aspiraciones
+profesionales y la posición en tu entrevista.
